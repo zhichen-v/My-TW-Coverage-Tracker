@@ -63,7 +63,7 @@ For the next step, use Python `FastAPI` for the read-only API:
 
 - native fit with the current repo
 - easy SQLite integration
-- simple deployment behind a domain
+- simple deployment behind an `Nginx` reverse proxy
 
 ## Frontend Recommendation
 
@@ -73,3 +73,9 @@ For the next step, use `Next.js` or `Vite + React`.
 - `Vite + React` if you want the smallest and fastest local build loop
 
 For a public research site with company detail pages, `Next.js` is the better default.
+
+## Deployment
+
+- Recommended public edge: `Nginx`
+- Recommended upstreams: `Next.js` on `127.0.0.1:3000`, `FastAPI` on `127.0.0.1:8000`
+- Deployment reference: [deployment-nginx.md](deployment-nginx.md)

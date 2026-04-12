@@ -45,3 +45,4 @@ Then open:
 - `Pilot_Reports/` remains the source of truth.
 - `ticker` is not assumed to be globally unique forever, so the API also exposes `report_id`.
 - The API is read-only by design.
+- For public deployment behind `Nginx`, see [deployment-nginx.md](deployment-nginx.md).
