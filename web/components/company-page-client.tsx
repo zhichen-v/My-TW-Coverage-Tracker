@@ -6,7 +6,6 @@ import remarkGfm from "remark-gfm";
 import type { CompanyDetail } from "@/lib/api";
 import { translateFinancialMarkdown } from "@/lib/financial-markdown";
 import { LanguageProvider, useLanguage } from "@/components/language-provider";
-import type { SupportedLanguage } from "@/lib/i18n";
 
 type CompanyPageClientProps = {
   primary: CompanyDetail;
@@ -15,9 +14,11 @@ type CompanyPageClientProps = {
 };
 
 function DetailBlock({
+  index,
   title,
   body,
 }: {
+  index: number;
   title: string;
   body: string;
 }) {
@@ -25,7 +26,10 @@ function DetailBlock({
 
   return (
     <section className="panel detail-block">
-      <h2>{title}</h2>
+      <div className="section-header">
+        <span className="section-index">{String(index).padStart(2, "0")}</span>
+        <h2>{title}</h2>
+      </div>
       <div className="rich-text markdown-body">
         {body ? (
           <ReactMarkdown remarkPlugins={[remarkGfm]}>{body}</ReactMarkdown>
@@ -39,6 +43,42 @@ function DetailBlock({
 
 function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) {
   const { t, language, switchLanguage } = useLanguage();
+  const snapshotItems = [
+    {
+      label: t("sector"),
+      value: primary.metadata_sector || t("notAvailable"),
+    },
+    {
+      label: t("industry"),
+      value: primary.metadata_industry || t("notAvailable"),
+    },
+    {
+      label: t("marketCap"),
+      value: primary.market_cap_text || t("notAvailable"),
+    },
+    {
+      label: t("enterpriseValue"),
+      value: primary.enterprise_value_text || t("notAvailable"),
+    },
+  ];
+  const sections = [
+    {
+      title: t("businessOverview"),
+      body: primary.overview_text,
+    },
+    {
+      title: t("supplyChain"),
+      body: primary.supply_chain_text,
+    },
+    {
+      title: t("customersAndSuppliers"),
+      body: primary.customer_supplier_text,
+    },
+    {
+      title: t("financialTables"),
+      body: translateFinancialMarkdown(primary.financials_text, language),
+    },
+  ];
 
   return (
     <>
@@ -72,49 +112,33 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
       ) : null}
 
       <div className="detail-layout">
-        <aside className="panel hero-stats sticky-panel">
-          <p className="eyebrow">{t("companySnapshot")}</p>
+        <aside className="panel detail-sidebar sticky-panel">
+          <div className="panel-header">
+            <p className="eyebrow">{t("companySnapshot")}</p>
+          </div>
           <div className="detail-header">
             <span className="ticker-chip">{primary.ticker}</span>
             <h1 className="detail-title">{primary.company_name}</h1>
           </div>
           <div className="detail-meta">
-            {/* <span>
-              {t("sectorFolder")}: {primary.sector_folder}
-            </span> */}
-            <span>
-              {t("sector")}: {primary.metadata_sector || t("notAvailable")}
-            </span>
-            <span>
-              {t("industry")}: {primary.metadata_industry || t("notAvailable")}
-            </span>
-            <span>
-              {t("marketCap")}: {primary.market_cap_text || t("notAvailable")}
-            </span>
-            <span>
-              {t("enterpriseValue")}:{" "}
-              {primary.enterprise_value_text || t("notAvailable")}
-            </span>
-            <span>
-              {t("wikilinks")}: {primary.wikilink_count}
-            </span>
-            {/* <span>
-              {t("sourcePath")}: {primary.report_path}
-            </span> */}
+            {snapshotItems.map((item) => (
+              <div className="meta-row" key={item.label}>
+                <span className="meta-label">{item.label}</span>
+                <span className="meta-value">{item.value}</span>
+              </div>
+            ))}
           </div>
         </aside>
 
-        <main>
-          <DetailBlock title={t("businessOverview")} body={primary.overview_text} />
-          <DetailBlock title={t("supplyChain")} body={primary.supply_chain_text} />
-          <DetailBlock
-            title={t("customersAndSuppliers")}
-            body={primary.customer_supplier_text}
-          />
-          <DetailBlock
-            title={t("financialTables")}
-            body={translateFinancialMarkdown(primary.financials_text, language)}
-          />
+        <main className="detail-main">
+          {sections.map((section, index) => (
+            <DetailBlock
+              key={section.title}
+              index={index + 1}
+              title={section.title}
+              body={section.body}
+            />
+          ))}
         </main>
       </div>
     </>
