@@ -1,0 +1,1065 @@
+{
+  "report_id": "Pilot_Reports/Airlines/2618_長榮航.md",
+  "source_path": "Pilot_Reports/Airlines/2618_長榮航.md",
+  "json_path": "Pilot_Reports_JSON/Airlines/2618_長榮航.json",
+  "ticker": "2618",
+  "company_name": "長榮航",
+  "title": "# 2618 - 長榮航",
+  "sector_folder": "Airlines",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Airlines"
+      },
+      {
+        "label": "市值:",
+        "value": "192,526 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "230,403 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "長榮航空"
+            },
+            {
+              "type": "text",
+              "text": " (2618，EVA Air) 成立於 1989 年，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮集團"
+            },
+            {
+              "type": "text",
+              "text": "，為台灣第二大航空公司，「"
+            },
+            {
+              "type": "wikilink",
+              "text": "星空聯盟"
+            },
+            {
+              "type": "text",
+              "text": "」(Star Alliance) 成員，連續多年獲評 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SKYTRAX"
+            },
+            {
+              "type": "text",
+              "text": " 五星級航空。機隊以"
+            },
+            {
+              "type": "wikilink",
+              "text": "Boeing"
+            },
+            {
+              "type": "text",
+              "text": " 777-300ER (33 架)、787-9/787-10 (21 架) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": " A330-300/A321 為主力。已訂購 24 架"
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": " A350-1000 (搭載"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rolls-Royce"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Trent XWB"
+            },
+            {
+              "type": "text",
+              "text": "引擎) 及 18 架 A321neo 推動機隊更新。貨運業務受惠於北美"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "運輸需求爆發，全貨機機隊 (9 架 777F) 表現亮眼。集團航太版圖涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮航太"
+            },
+            {
+              "type": "text",
+              "text": " (2645，MRO)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮空廚"
+            },
+            {
+              "type": "text",
+              "text": " (9978)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮航勤"
+            },
+            {
+              "type": "text",
+              "text": " (地勤)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (飛機與燃油)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飛機製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 777-300ER/787-9/787-10/777F；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — A350-1000 (訂購)/A330-300/A321"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE90"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GEnx"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CF6"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Trent XWB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (A350)；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IAE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — V2500 (A321)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空燃油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國內航油供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MRO:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2645) — 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合資，兼營 GEnx 引擎 MRO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (航空營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[長榮航空]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國際客運、航空貨運服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "客運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商務與觀光旅客、國內外旅行社"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貨運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子業 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、電商物流"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "聯盟夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "星空聯盟"
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全日空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新加坡航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "加拿大航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "漢莎航空"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貨運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "出口商 — 北美線高價值科技貨物"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "客運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商務客與觀光客 — 歐美長程線佔比高"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "聯盟夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全日空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新加坡航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "加拿大航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "漢莎航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "韓亞航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "土耳其航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "星空聯盟"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯營"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飛機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 777/787 系列；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — A350-1000/A330/A321"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE90"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GEnx"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CF6"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Trent XWB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IAE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — V2500"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 航空燃油"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MRO:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2645) — 機體與引擎維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "空廚:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮空廚"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (9978)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "地勤:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航勤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 地面作業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $35.65 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "7.35",
+                  "7.88",
+                  "0.87",
+                  "1.39",
+                  "4.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "220333.38",
+                  "221009.03",
+                  "200356.52"
+                ],
+                [
+                  "Gross Profit",
+                  "51630.96",
+                  "54021.85",
+                  "43276.87"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.43",
+                  "24.44",
+                  "21.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "36232.25",
+                  "38681.58",
+                  "29566.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.44",
+                  "17.50",
+                  "14.76"
+                ],
+                [
+                  "Net Income",
+                  "26146.44",
+                  "29007.42",
+                  "21594.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.87",
+                  "13.12",
+                  "10.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "55224.61",
+                  "58051.18",
+                  "68204.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-24882.68",
+                  "-23722.12",
+                  "-21834.30"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-21150.51",
+                  "-26678.04",
+                  "-46978.94"
+                ],
+                [
+                  "CAPEX",
+                  "-27547.42",
+                  "-27141.98",
+                  "-23198.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "57646.69",
+                  "52435.29",
+                  "55307.23",
+                  "54944.16"
+                ],
+                [
+                  "Gross Profit",
+                  "13199.63",
+                  "11872.57",
+                  "13979.80",
+                  "12578.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.90",
+                  "22.64",
+                  "25.28",
+                  "22.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "9527.54",
+                  "7936.96",
+                  "10416.70",
+                  "8351.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.53",
+                  "15.14",
+                  "18.83",
+                  "15.20"
+                ],
+                [
+                  "Net Income",
+                  "7648.52",
+                  "5875.92",
+                  "6692.00",
+                  "5929.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.27",
+                  "11.21",
+                  "12.10",
+                  "10.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "17944.40",
+                  "13985.32",
+                  "6842.83",
+                  "16452.07"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2927.43",
+                  "-5758.41",
+                  "-9706.56",
+                  "-6490.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-522.93",
+                  "-12425.57",
+                  "-1018.81",
+                  "-7183.20"
+                ],
+                [
+                  "CAPEX",
+                  "-5855.34",
+                  "-5797.59",
+                  "-8689.54",
+                  "-7204.95"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "長榮航空",
+    "長榮集團",
+    "星空聯盟",
+    "SKYTRAX",
+    "Boeing",
+    "Airbus",
+    "Airbus",
+    "Rolls-Royce",
+    "Trent XWB",
+    "AI 伺服器",
+    "半導體",
+    "長榮航太",
+    "長榮空廚",
+    "長榮航勤",
+    "Boeing",
+    "Airbus",
+    "GE Aerospace",
+    "GE90",
+    "GEnx",
+    "CF6",
+    "Rolls-Royce",
+    "Trent XWB",
+    "IAE",
+    "台灣中油",
+    "長榮航太",
+    "GE Aerospace",
+    "長榮航空",
+    "AI 伺服器",
+    "半導體",
+    "星空聯盟",
+    "聯合航空",
+    "全日空",
+    "新加坡航空",
+    "加拿大航空",
+    "漢莎航空",
+    "AI 伺服器",
+    "半導體",
+    "聯合航空",
+    "全日空",
+    "新加坡航空",
+    "加拿大航空",
+    "漢莎航空",
+    "韓亞航空",
+    "土耳其航空",
+    "星空聯盟",
+    "Boeing",
+    "Airbus",
+    "GE Aerospace",
+    "GE90",
+    "GEnx",
+    "CF6",
+    "Rolls-Royce",
+    "Trent XWB",
+    "IAE",
+    "台灣中油",
+    "長榮航太",
+    "長榮空廚",
+    "長榮航勤"
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "report_id": "Pilot_Reports/Leisure/1515_力山.md",
+  "source_path": "Pilot_Reports/Leisure/1515_力山.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/1515_力山.json",
+  "ticker": "1515",
+  "company_name": "力山",
+  "title": "# 1515 - 力山",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "4,401 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,715 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "力山工業股份有限公司 (1515，Rexon Industrial) 成立於 1972 年，主要業務分為三大類：健身器材、電動工具及園藝工具。力山初期以電動工具起家，後轉型為國際健身器材大廠之主要"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": "代工夥伴。健身器材為最大營收來源，主要客戶包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "Peloton"
+            },
+            {
+              "type": "text",
+              "text": " (跑步機/飛輪車)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Life Fitness"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Precor"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Technogym"
+            },
+            {
+              "type": "text",
+              "text": "等全球知名品牌。電動工具代工客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Makita"
+            },
+            {
+              "type": "text",
+              "text": "等國際大廠。園藝工具則服務"
+            },
+            {
+              "type": "wikilink",
+              "text": "EGO"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Toro"
+            },
+            {
+              "type": "text",
+              "text": "等品牌。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原物料與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼材、鋁材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關鍵零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬達、控制器、皮帶、塑膠件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板模組、電子控制元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 ([[ODM]]/[[OEM]]製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "力山"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 健身器材、電動工具及園藝工具設計、模具開發、加工、組裝與測試"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際品牌商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "健身器材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Peloton"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Life Fitness"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Precor"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Technogym"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Makita"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "園藝工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EGO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toro"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "健身器材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Peloton"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶，跑步機/飛輪車)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Life Fitness"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Precor"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Technogym"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Makita"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "園藝工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EGO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toro"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外馬達供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼材與鋁材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 控制器與面板模組供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "25.00",
+                  "7.82",
+                  "0.81",
+                  "1.11",
+                  "15.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5419.29",
+                  "6099.29",
+                  "6708.46"
+                ],
+                [
+                  "Gross Profit",
+                  "689.95",
+                  "939.38",
+                  "1116.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.73",
+                  "15.40",
+                  "16.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "252.86",
+                  "303.17",
+                  "262.26"
+                ],
+                [
+                  "R&D Exp",
+                  "186.44",
+                  "179.47",
+                  "173.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "271.13",
+                  "234.87",
+                  "200.42"
+                ],
+                [
+                  "Operating Income",
+                  "-20.48",
+                  "221.87",
+                  "479.85"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.38",
+                  "3.64",
+                  "7.15"
+                ],
+                [
+                  "Net Income",
+                  "176.31",
+                  "318.83",
+                  "308.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.25",
+                  "5.23",
+                  "4.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "119.78",
+                  "-212.02",
+                  "2069.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-718.27",
+                  "-66.25",
+                  "-167.17"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "239.22",
+                  "-651.51",
+                  "-588.93"
+                ],
+                [
+                  "CAPEX",
+                  "-705.42",
+                  "-68.06",
+                  "-189.69"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1801.13",
+                  "1192.67",
+                  "1014.49",
+                  "995.77"
+                ],
+                [
+                  "Gross Profit",
+                  "238.17",
+                  "157.70",
+                  "138.52",
+                  "115.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.22",
+                  "13.22",
+                  "13.65",
+                  "11.59"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "77.91",
+                  "71.72",
+                  "62.25",
+                  "67.56"
+                ],
+                [
+                  "R&D Exp",
+                  "63.79",
+                  "39.44",
+                  "38.60",
+                  "40.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "81.88",
+                  "54.94",
+                  "53.98",
+                  "70.26"
+                ],
+                [
+                  "Operating Income",
+                  "14.60",
+                  "-8.40",
+                  "-16.32",
+                  "-62.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.81",
+                  "-0.70",
+                  "-1.61",
+                  "-6.27"
+                ],
+                [
+                  "Net Income",
+                  "191.68",
+                  "-85.47",
+                  "12.13",
+                  "-28.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.64",
+                  "-7.17",
+                  "1.20",
+                  "-2.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "334.24",
+                  "40.77",
+                  "17.68",
+                  "-36.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-126.84",
+                  "-291.24",
+                  "-147.48",
+                  "-9.25"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-36.88",
+                  "271.68",
+                  "-95.49",
+                  "132.09"
+                ],
+                [
+                  "CAPEX",
+                  "-190.50",
+                  "-32.29",
+                  "-27.54",
+                  "-9.32"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ODM",
+    "Peloton",
+    "Life Fitness",
+    "Precor",
+    "Technogym",
+    "Bosch",
+    "Makita",
+    "EGO",
+    "Toro",
+    "ODM",
+    "OEM",
+    "Peloton",
+    "Life Fitness",
+    "Precor",
+    "Technogym",
+    "Bosch",
+    "Makita",
+    "EGO",
+    "Toro",
+    "Peloton",
+    "Life Fitness",
+    "Precor",
+    "Technogym",
+    "Bosch",
+    "Makita",
+    "EGO",
+    "Toro"
+  ]
+}

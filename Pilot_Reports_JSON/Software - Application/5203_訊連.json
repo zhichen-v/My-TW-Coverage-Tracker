@@ -1,0 +1,541 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/5203_訊連.md",
+  "source_path": "Pilot_Reports/Software - Application/5203_訊連.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/5203_訊連.json",
+  "ticker": "5203",
+  "company_name": "訊連",
+  "title": "# 5203 - 訊連",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "5,022 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,578 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "訊連科技（5203）是全球知名的多媒體影音軟體公司，亦是台灣軟體產業的領導者。主要產品包括「威力導演」（PowerDirector）、「相片大師」（PhotoDirector）等創意編輯軟體，以及FaceMe® "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "臉部辨識技術。公司近年成功從傳統買斷制轉型為訂閱制（SaaS），並積極投入生成式"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "（GenAI）技術研發，應用於數位行銷及內容創作。業務範圍涵蓋B2C（消費者軟體）及B2B（企業解決方案、FaceMe授權）。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "作為軟體開發商，訊連在供應鏈中屬於終端應用提供者。"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "合作夥伴:"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "硬體OEM:"
+                },
+                {
+                  "type": "text",
+                  "text": " 與"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "HP"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dell"
+                },
+                {
+                  "type": "text",
+                  "text": ", Acer, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Lenovo"
+                },
+                {
+                  "type": "text",
+                  "text": ", Asus等PC大廠長期合作，預載軟體於電腦中。"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "技術夥伴:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Microsoft"
+                },
+                {
+                  "type": "text",
+                  "text": "（"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": "技術與硬體優化合作）。"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "雲端服務:"
+                },
+                {
+                  "type": "text",
+                  "text": " 使用AWS等雲端基礎設施。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "主要客戶:"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "B2C:"
+                },
+                {
+                  "type": "text",
+                  "text": " 全球個人創作者、Youtuber、家庭用戶（透過訂閱制）。"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "B2B (OEM):"
+                },
+                {
+                  "type": "text",
+                  "text": " 全球主要PC品牌商（"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "HP"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dell"
+                },
+                {
+                  "type": "text",
+                  "text": ", Acer等）。"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "B2B (FaceMe):"
+                },
+                {
+                  "type": "text",
+                  "text": " 智慧零售、安控、金融機構（如元大銀行）、智慧辦公室解決方案採用者。"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "strong",
+                  "text": "主要供應商:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "雲端服務"
+                },
+                {
+                  "type": "text",
+                  "text": "供應商（AWS）、應用程式商店平台（App Store, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Google"
+                },
+                {
+                  "type": "text",
+                  "text": " Play）。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $63.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.53",
+                  "13.50",
+                  "2.04",
+                  "1.08",
+                  "6.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2459.51",
+                  "2068.36",
+                  "1865.02"
+                ],
+                [
+                  "Gross Profit",
+                  "2077.55",
+                  "1747.07",
+                  "1595.61"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "84.47",
+                  "84.47",
+                  "85.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "865.78",
+                  "737.50",
+                  "712.44"
+                ],
+                [
+                  "R&D Exp",
+                  "723.56",
+                  "661.15",
+                  "583.41"
+                ],
+                [
+                  "General & Admin Exp",
+                  "129.11",
+                  "126.61",
+                  "118.49"
+                ],
+                [
+                  "Operating Income",
+                  "359.10",
+                  "221.81",
+                  "181.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.60",
+                  "10.72",
+                  "9.72"
+                ],
+                [
+                  "Net Income",
+                  "286.98",
+                  "314.60",
+                  "222.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.67",
+                  "15.21",
+                  "11.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-425.20",
+                  "356.49",
+                  "76.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "415.03",
+                  "-207.27",
+                  "-1367.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "24.57",
+                  "-4.63",
+                  "-5.26"
+                ],
+                [
+                  "CAPEX",
+                  "-9.48",
+                  "-11.29",
+                  "-15.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "653.14",
+                  "598.96",
+                  "571.52",
+                  "522.20"
+                ],
+                [
+                  "Gross Profit",
+                  "544.99",
+                  "513.89",
+                  "487.77",
+                  "446.58"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "83.44",
+                  "85.80",
+                  "85.35",
+                  "85.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "221.03",
+                  "214.45",
+                  "211.71",
+                  "195.50"
+                ],
+                [
+                  "R&D Exp",
+                  "181.30",
+                  "177.48",
+                  "177.59",
+                  "175.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "34.12",
+                  "30.49",
+                  "31.16",
+                  "31.82"
+                ],
+                [
+                  "Operating Income",
+                  "108.53",
+                  "91.48",
+                  "67.32",
+                  "43.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.62",
+                  "15.27",
+                  "11.78",
+                  "8.42"
+                ],
+                [
+                  "Net Income",
+                  "82.88",
+                  "-30.25",
+                  "102.30",
+                  "86.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.69",
+                  "-5.05",
+                  "17.90",
+                  "16.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "39.05",
+                  "-661.96",
+                  "187.56",
+                  "126.68"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-29.13",
+                  "640.71",
+                  "-221.32",
+                  "-71.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "10.93",
+                  "0.11",
+                  "10.09",
+                  "-1.65"
+                ],
+                [
+                  "CAPEX",
+                  "-0.27",
+                  "-2.97",
+                  "-5.25",
+                  "-2.40"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AI",
+    "AI",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "Intel",
+    "NVIDIA",
+    "Microsoft",
+    "AI",
+    "HP",
+    "Dell",
+    "雲端服務",
+    "Google"
+  ]
+}

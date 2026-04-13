@@ -1,0 +1,574 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/4979_華星光.md",
+  "source_path": "Pilot_Reports/Semiconductors/4979_華星光.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/4979_華星光.json",
+  "ticker": "4979",
+  "company_name": "華星光",
+  "title": "# 4979 - 華星光",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "63,307 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "60,888 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華星光通 (LuxNet) 成立於 1999 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園"
+            },
+            {
+              "type": "text",
+              "text": "。公司主要業務為"
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "主動元件 (Active Components)"
+            },
+            {
+              "type": "text",
+              "text": " 之封裝與模組製造，產品包含 "
+            },
+            {
+              "type": "strong",
+              "text": "光收發模組 (Transceiver)"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "strong",
+              "text": "TOSA/ROSA"
+            },
+            {
+              "type": "text",
+              "text": " (光傳送/接收次模組) 及 "
+            },
+            {
+              "type": "strong",
+              "text": "雷射二極體 (LD)"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "strong",
+              "text": "檢光二極體 (PD)"
+            },
+            {
+              "type": "text",
+              "text": "。近年成功轉型，切入 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Marvell]]"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈，成為其 "
+            },
+            {
+              "type": "strong",
+              "text": "光收發模組代工夥伴"
+            },
+            {
+              "type": "text",
+              "text": "，主要應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 基礎建設。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": "元件與模組製造/代工。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "片 (聯亞、IQE)、IC ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Marvell"
+            },
+            {
+              "type": "text",
+              "text": " 驅動晶片)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備商、"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": ")、電信營運商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Marvell]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 關鍵策略客戶 (代工光收發模組，終端供貨給美系 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CSP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資料中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國與台灣"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "網通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光模組/元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 眾達 (PCL)、光聖 (Eks)、聯鈞 (Elite)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $449.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "84.81",
+                  "45.22",
+                  "14.44",
+                  "15.91",
+                  "75.49"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4384.85",
+                  "3451.04",
+                  "2956.49"
+                ],
+                [
+                  "Gross Profit",
+                  "920.64",
+                  "631.79",
+                  "573.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.00",
+                  "18.31",
+                  "19.41"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "9.58",
+                  "7.51",
+                  "8.60"
+                ],
+                [
+                  "R&D Exp",
+                  "64.02",
+                  "48.19",
+                  "53.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "109.91",
+                  "91.19",
+                  "68.24"
+                ],
+                [
+                  "Operating Income",
+                  "737.13",
+                  "484.89",
+                  "442.98"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.81",
+                  "14.05",
+                  "14.98"
+                ],
+                [
+                  "Net Income",
+                  "764.25",
+                  "533.25",
+                  "442.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.43",
+                  "15.45",
+                  "14.96"
+                ],
+                [
+                  "Op Cash Flow",
+                  "681.29",
+                  "766.50",
+                  "502.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1047.77",
+                  "-93.80",
+                  "-55.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-217.53",
+                  "622.77",
+                  "901.07"
+                ],
+                [
+                  "CAPEX",
+                  "-446.73",
+                  "-91.20",
+                  "-51.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1154.36",
+                  "1076.09",
+                  "1087.49",
+                  "1066.91"
+                ],
+                [
+                  "Gross Profit",
+                  "265.77",
+                  "226.87",
+                  "188.39",
+                  "239.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.02",
+                  "21.08",
+                  "17.32",
+                  "22.46"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.47",
+                  "2.34",
+                  "2.62",
+                  "2.15"
+                ],
+                [
+                  "R&D Exp",
+                  "14.86",
+                  "17.67",
+                  "14.99",
+                  "16.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "33.55",
+                  "31.97",
+                  "20.54",
+                  "23.86"
+                ],
+                [
+                  "Operating Income",
+                  "214.90",
+                  "174.89",
+                  "150.23",
+                  "197.10"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.62",
+                  "16.25",
+                  "13.81",
+                  "18.47"
+                ],
+                [
+                  "Net Income",
+                  "238.47",
+                  "217.71",
+                  "94.61",
+                  "213.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.66",
+                  "20.23",
+                  "8.70",
+                  "20.01"
+                ],
+                [
+                  "Op Cash Flow",
+                  "55.88",
+                  "356.00",
+                  "127.49",
+                  "141.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-613.76",
+                  "-146.77",
+                  "-104.21",
+                  "-183.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.01",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "CAPEX",
+                  "-112.86",
+                  "-46.77",
+                  "-104.21",
+                  "-182.88"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "桃園",
+    "光通訊",
+    "Marvell",
+    "AI",
+    "資料中心",
+    "5G",
+    "光通訊",
+    "磊晶",
+    "Marvell",
+    "網通",
+    "資料中心",
+    "CSP",
+    "Marvell",
+    "CSP",
+    "資料中心",
+    "網通"
+  ]
+}

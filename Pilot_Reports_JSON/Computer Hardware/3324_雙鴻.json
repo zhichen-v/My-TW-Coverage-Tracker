@@ -1,0 +1,865 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3324_雙鴻.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3324_雙鴻.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3324_雙鴻.json",
+  "ticker": "3324",
+  "company_name": "雙鴻",
+  "title": "# 3324 - 雙鴻",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "94,326 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "99,152 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "雙鴻科技 (3324，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Auras Technology"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球頂尖熱管理 (Thermal Management) 解決方案供應商，位列全球前三大散熱模組廠。公司在高階電腦、電競、通訊與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "領域具備深厚散熱技術累積。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心競爭力與成長引擎：(1) 液冷方案領航 — 領先業界布局水冷板 (Cold Plate)、CDU 多聯式冷卻單元及液冷系統，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈關鍵液冷模組合作夥伴；(2) AI 伺服器關鍵動能 — 產品打入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " GB200 等頂級算力架構，為全球主要 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": " 提供客製化散熱排與冷導管；(3) 均熱板 (VC) 技術 — 鞏固電競筆電與顯示卡散熱優勢，維持高毛利水平。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (散熱材料與元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅管/銅板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅材供應商 — 熱導管與均熱板核心材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁鰭片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁擠型散熱鰭片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱風扇:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型散熱風扇模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "製冷液:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特種製冷液與冷卻介質"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (散熱模組與液冷系統設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "雙鴻"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (熱導管/均熱板散熱模組)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "液冷系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "雙鴻"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (水冷板 Cold Plate、CDU 液冷系統)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "客製化散熱:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "雙鴻"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AI 伺服器高功耗客製散熱方案)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (AI 算力與消費電子)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GPU 散熱方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 伺服器散熱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CSP 雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 資料中心液冷"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MSI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電競筆電/顯卡散熱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GPU 散熱模組與液冷方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 伺服器散熱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CSP 雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 資料中心液冷系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MSI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電競筆電/顯卡散熱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅管與銅板供應商 — 熱導管/均熱板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁擠型鰭片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "風扇:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型散熱風扇模組廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,035.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "36.37",
+                  "14.43",
+                  "4.05",
+                  "8.61",
+                  "25.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "23276.34",
+                  "15778.91",
+                  "12712.63"
+                ],
+                [
+                  "Gross Profit",
+                  "6371.90",
+                  "4026.10",
+                  "3004.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.38",
+                  "25.52",
+                  "23.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "827.04",
+                  "600.09",
+                  "448.62"
+                ],
+                [
+                  "R&D Exp",
+                  "1409.60",
+                  "914.37",
+                  "678.02"
+                ],
+                [
+                  "General & Admin Exp",
+                  "874.69",
+                  "600.89",
+                  "502.03"
+                ],
+                [
+                  "Operating Income",
+                  "3260.57",
+                  "1910.75",
+                  "1376.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.01",
+                  "12.11",
+                  "10.83"
+                ],
+                [
+                  "Net Income",
+                  "2572.13",
+                  "1892.71",
+                  "1231.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.05",
+                  "12.00",
+                  "9.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-570.91",
+                  "1643.43",
+                  "1970.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2694.54",
+                  "-1566.91",
+                  "-1053.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1950.34",
+                  "1363.99",
+                  "-1006.75"
+                ],
+                [
+                  "CAPEX",
+                  "-2303.79",
+                  "-1492.49",
+                  "-874.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7597.39",
+                  "5306.30",
+                  "4415.08",
+                  "4125.15"
+                ],
+                [
+                  "Gross Profit",
+                  "2003.69",
+                  "1386.74",
+                  "1208.16",
+                  "927.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.37",
+                  "26.13",
+                  "27.36",
+                  "22.49"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "307.41",
+                  "183.46",
+                  "151.99",
+                  "183.99"
+                ],
+                [
+                  "R&D Exp",
+                  "383.48",
+                  "363.12",
+                  "307.17",
+                  "241.42"
+                ],
+                [
+                  "General & Admin Exp",
+                  "243.40",
+                  "206.83",
+                  "184.88",
+                  "151.35"
+                ],
+                [
+                  "Operating Income",
+                  "1069.40",
+                  "633.34",
+                  "564.11",
+                  "351.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.08",
+                  "11.94",
+                  "12.78",
+                  "8.51"
+                ],
+                [
+                  "Net Income",
+                  "929.09",
+                  "158.10",
+                  "511.13",
+                  "466.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.23",
+                  "2.98",
+                  "11.58",
+                  "11.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-500.99",
+                  "-625.43",
+                  "302.44",
+                  "675.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-646.98",
+                  "-848.07",
+                  "-541.49",
+                  "-491.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "813.31",
+                  "355.98",
+                  "72.92",
+                  "258.71"
+                ],
+                [
+                  "CAPEX",
+                  "-583.30",
+                  "-746.77",
+                  "-406.80",
+                  "-457.73"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Auras Technology",
+    "AI",
+    "資料中心",
+    "NVIDIA",
+    "NVIDIA",
+    "CSP",
+    "NVIDIA",
+    "AMD",
+    "廣達",
+    "鴻海",
+    "Supermicro",
+    "Meta",
+    "Google",
+    "Amazon",
+    "華碩",
+    "MSI",
+    "Dell",
+    "NVIDIA",
+    "AMD",
+    "廣達",
+    "鴻海",
+    "Supermicro",
+    "Meta",
+    "Google",
+    "Amazon",
+    "華碩",
+    "MSI",
+    "Dell",
+    "HP"
+  ]
+}

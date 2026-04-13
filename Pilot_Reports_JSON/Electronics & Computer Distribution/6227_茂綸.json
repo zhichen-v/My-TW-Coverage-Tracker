@@ -1,0 +1,608 @@
+{
+  "report_id": "Pilot_Reports/Electronics & Computer Distribution/6227_茂綸.md",
+  "source_path": "Pilot_Reports/Electronics & Computer Distribution/6227_茂綸.md",
+  "json_path": "Pilot_Reports_JSON/Electronics & Computer Distribution/6227_茂綸.json",
+  "ticker": "6227",
+  "company_name": "茂綸",
+  "title": "# 6227_茂綸",
+  "sector_folder": "Electronics & Computer Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronics & Computer Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "6,607 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,581 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "茂綸股份有限公司 (6227，Macnica) 是一家專業的半導體電子零組件通路商。作為日本第一大半導體通路商"
+            },
+            {
+              "type": "wikilink",
+              "text": "Macnica"
+            },
+            {
+              "type": "text",
+              "text": "集團的成員，茂綸主要代理國際大廠(如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Renesas"
+            },
+            {
+              "type": "text",
+              "text": ")的高階通訊及運算晶片。公司深耕於高附加價值的技術支援與解決方案，協助客戶快速將產品推向市場，其業務涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "領域的零組件供應。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 國內外知名"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶片原廠(如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mellanox"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Renesas"
+            },
+            {
+              "type": "text",
+              "text": "等)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "茂綸"
+            },
+            {
+              "type": "text",
+              "text": " (高階"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "電子零組件代理經銷及專業技術加值服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "代工廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "網路通訊"
+            },
+            {
+              "type": "text",
+              "text": "設備大廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": ")製造商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外各大"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "EMS"
+                },
+                {
+                  "type": "text",
+                  "text": "/"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "ODM"
+                },
+                {
+                  "type": "text",
+                  "text": "廠、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "雲端服務"
+                },
+                {
+                  "type": "text",
+                  "text": "設備廠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": "(英特爾)、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": "(輝達)、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Renesas"
+                },
+                {
+                  "type": "text",
+                  "text": "(瑞薩)等全球網通及運算晶片巨擘。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $86.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.70",
+                  "N/A",
+                  "0.38",
+                  "2.21",
+                  "9.43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "17489.45",
+                  "12326.51",
+                  "13500.01"
+                ],
+                [
+                  "Gross Profit",
+                  "1492.75",
+                  "1293.05",
+                  "1302.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.54",
+                  "10.49",
+                  "9.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "464.93",
+                  "454.17",
+                  "438.10"
+                ],
+                [
+                  "R&D Exp",
+                  "135.35",
+                  "122.12",
+                  "121.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "138.17",
+                  "124.40",
+                  "111.90"
+                ],
+                [
+                  "Operating Income",
+                  "754.30",
+                  "592.36",
+                  "630.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.31",
+                  "4.81",
+                  "4.67"
+                ],
+                [
+                  "Net Income",
+                  "573.71",
+                  "490.00",
+                  "318.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.28",
+                  "3.98",
+                  "2.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "185.95",
+                  "1378.25",
+                  "2252.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-21.06",
+                  "-43.19",
+                  "-11.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-191.26",
+                  "-1222.63",
+                  "-2170.42"
+                ],
+                [
+                  "CAPEX",
+                  "-23.43",
+                  "-18.01",
+                  "-9.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3948.28",
+                  "4793.19",
+                  "5307.07",
+                  "3494.83"
+                ],
+                [
+                  "Gross Profit",
+                  "450.99",
+                  "456.22",
+                  "210.01",
+                  "375.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.42",
+                  "9.52",
+                  "3.96",
+                  "10.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "123.61",
+                  "126.58",
+                  "101.17",
+                  "113.56"
+                ],
+                [
+                  "R&D Exp",
+                  "37.67",
+                  "38.03",
+                  "27.79",
+                  "31.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "39.47",
+                  "41.60",
+                  "25.01",
+                  "32.09"
+                ],
+                [
+                  "Operating Income",
+                  "250.22",
+                  "250.01",
+                  "56.04",
+                  "198.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.34",
+                  "5.22",
+                  "1.06",
+                  "5.67"
+                ],
+                [
+                  "Net Income",
+                  "216.99",
+                  "241.38",
+                  "-22.87",
+                  "138.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.50",
+                  "5.04",
+                  "-0.43",
+                  "3.95"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1335.98",
+                  "-331.11",
+                  "1719.80",
+                  "-2538.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.57",
+                  "-2.39",
+                  "-2.19",
+                  "-3.92"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1371.21",
+                  "261.34",
+                  "-1672.56",
+                  "2591.18"
+                ],
+                [
+                  "CAPEX",
+                  "-13.59",
+                  "-2.33",
+                  "-2.40",
+                  "-5.11"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Macnica",
+    "Intel",
+    "NVIDIA",
+    "Renesas",
+    "網通",
+    "工業電腦",
+    "IPC",
+    "伺服器",
+    "消費性電子",
+    "半導體",
+    "Intel",
+    "NVIDIA",
+    "Mellanox",
+    "Renesas",
+    "半導體",
+    "伺服器",
+    "資料中心",
+    "網路通訊",
+    "工業電腦",
+    "IPC",
+    "EMS",
+    "ODM",
+    "雲端服務",
+    "Intel",
+    "NVIDIA",
+    "Renesas"
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2330_台積電.md",
+  "source_path": "Pilot_Reports/Semiconductors/2330_台積電.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2330_台積電.json",
+  "ticker": "2330",
+  "company_name": "台積電",
+  "title": "# 2330 - [[台積電]]",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "51,865,048 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "49,906,169 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": " 成立於 1987 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司是"
+            },
+            {
+              "type": "strong",
+              "text": "全球最大"
+            },
+            {
+              "type": "text",
+              "text": "且最先進的專用積體電路製造服務公司 (Pure-play Foundry)，市佔率超過 60%。"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "引領全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "製程技術，目前已量產 3 奈米 (N3) 製程，並積極研發 2 奈米 (N2) 及 A16 技術。公司客戶涵蓋全球主要無晶圓廠 IC 設計公司及 IDM 大廠。"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "是驅動 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "、高效能運算 (HPC)、智慧型手機及車用電子發展的核心引擎。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備/原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備 ([[微影]]/[[蝕刻]]/沈積):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (獨家 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EUV"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應商), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lam Research"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tokyo Electron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "材料 ([[矽晶圓]]/光阻/氣體):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shin-Etsu"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SUMCO"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", 默克, 關東鑫林."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IP/EDA:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Arm"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Synopsys"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cadence"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主要平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高效能運算 (HPC, ~44%), 智慧型手機 (Smartphone, ~33%), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "物聯網"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", 車用電子 (Auto), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "消費性電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (DCE)."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " iPhone (A 系列晶片), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GPU (H100/Blackwell), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CPU, "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Snapdragon."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超級大客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (蘋果) - 用於 iPhone, Mac, iPad 之處理器，營收佔比最高 (>20%)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI/HPC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (輝達) - "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶片的主要生產夥伴。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他主要客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (外包訂單), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[EUV]] 機台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (艾司摩爾)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $2,000.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "30.21",
+                  "17.73",
+                  "13.62",
+                  "9.57",
+                  "19.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3809054.27",
+                  "2894307.70",
+                  "2161735.80"
+                ],
+                [
+                  "Gross Profit",
+                  "2281293.98",
+                  "1624353.56",
+                  "1175110.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "59.89",
+                  "56.12",
+                  "54.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16918.08",
+                  "13143.52",
+                  "10590.70"
+                ],
+                [
+                  "R&D Exp",
+                  "246427.26",
+                  "204181.82",
+                  "182370.20"
+                ],
+                [
+                  "General & Admin Exp",
+                  "82304.29",
+                  "83744.97",
+                  "60872.80"
+                ],
+                [
+                  "Operating Income",
+                  "1936078.49",
+                  "1322015.40",
+                  "921429.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "50.83",
+                  "45.68",
+                  "42.62"
+                ],
+                [
+                  "Net Income",
+                  "1717882.63",
+                  "1173267.70",
+                  "851740.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "45.10",
+                  "40.54",
+                  "39.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2274975.62",
+                  "1826177.07",
+                  "1241967.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1144393.41",
+                  "-864842.77",
+                  "-906120.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-440344.69",
+                  "-346300.91",
+                  "-204894.20"
+                ],
+                [
+                  "CAPEX",
+                  "-1282597.31",
+                  "-964981.62",
+                  "-955398.40"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1046090.42",
+                  "989918.32",
+                  "933791.87",
+                  "839253.66"
+                ],
+                [
+                  "Gross Profit",
+                  "651986.84",
+                  "588542.83",
+                  "547369.24",
+                  "493395.08"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "62.33",
+                  "59.45",
+                  "58.62",
+                  "58.79"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4916.05",
+                  "3973.97",
+                  "4273.25",
+                  "3754.82"
+                ],
+                [
+                  "R&D Exp",
+                  "64857.81",
+                  "63742.25",
+                  "-",
+                  "56547.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "18416.94",
+                  "20048.23",
+                  "18955.37",
+                  "24883.75"
+                ],
+                [
+                  "Operating Income",
+                  "564889.22",
+                  "500684.82",
+                  "463423.00",
+                  "407089.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "54.00",
+                  "50.58",
+                  "49.63",
+                  "48.51"
+                ],
+                [
+                  "Net Income",
+                  "505743.99",
+                  "452301.41",
+                  "398273.10",
+                  "360732.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "48.35",
+                  "45.69",
+                  "42.65",
+                  "42.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "725508.79",
+                  "426829.08",
+                  "497064.09",
+                  "625573.67"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-365960.06",
+                  "-259752.62",
+                  "-228488.31",
+                  "-290192.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-107685.37",
+                  "-128293.13",
+                  "-119700.60",
+                  "-84665.59"
+                ],
+                [
+                  "CAPEX",
+                  "-361467.81",
+                  "-288443.34",
+                  "-299562.61",
+                  "-333123.56"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台積電",
+    "台積電",
+    "新竹",
+    "台積電",
+    "半導體",
+    "台積電",
+    "AI",
+    "微影",
+    "蝕刻",
+    "ASML",
+    "EUV",
+    "Applied Materials",
+    "Lam Research",
+    "Tokyo Electron",
+    "矽晶圓",
+    "環球晶",
+    "Shin-Etsu",
+    "SUMCO",
+    "Arm",
+    "Synopsys",
+    "Cadence",
+    "物聯網",
+    "消費性電子",
+    "NVIDIA",
+    "AI",
+    "AMD",
+    "Qualcomm",
+    "Apple",
+    "NVIDIA",
+    "AI",
+    "AMD",
+    "Qualcomm",
+    "聯發科",
+    "Broadcom",
+    "Intel",
+    "Sony",
+    "EUV",
+    "ASML"
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2337_旺宏.md",
+  "source_path": "Pilot_Reports/Semiconductors/2337_旺宏.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2337_旺宏.json",
+  "ticker": "2337",
+  "company_name": "旺宏",
+  "title": "# 2337 - 旺宏",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "270,887 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "280,939 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "旺宏電子 (Macronix International, MXIC) 成立於 1989 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司為全球非揮發性"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": " (Non-Volatile Memory) 整合元件製造商 (IDM) 領導廠商。主要產品包括 "
+            },
+            {
+              "type": "strong",
+              "text": "NOR Flash"
+            },
+            {
+              "type": "text",
+              "text": " (編碼型快閃"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "strong",
+              "text": "ROM"
+            },
+            {
+              "type": "text",
+              "text": " (唯讀"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": ") 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NAND"
+            },
+            {
+              "type": "text",
+              "text": " Flash。旺宏在 ROM 市場為全球最大供應商 (主要受惠於 Nintendo 遊戲機)，在車用及工業用 NOR Flash 市場也居全球領先地位。公司擁有自有的 12 吋及 8 吋晶圓廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過長期合約取得。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲機 (ROM):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 任天堂 (Nintendo) 是最重要單一客戶，供應 Switch 卡帶"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "記憶體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工控 (NOR Flash):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廣泛應用於車載資通訊、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、工業控制等高品質要求領域。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基地台、TWS 耳機、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "物聯網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "裝置。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Nintendo (任天堂)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自駕平台), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", Cypress ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Infineon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "), 車用 Tier 1 廠商。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "消費性電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備/材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備及材料廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $146.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "5.21",
+                  "9.38",
+                  "5.91",
+                  "230.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "28879.99",
+                  "25883.47",
+                  "27623.61"
+                ],
+                [
+                  "Gross Profit",
+                  "5131.01",
+                  "6099.20",
+                  "6760.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.77",
+                  "23.56",
+                  "24.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1520.50",
+                  "1598.30",
+                  "1644.64"
+                ],
+                [
+                  "R&D Exp",
+                  "5713.85",
+                  "6730.41",
+                  "5785.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1594.25",
+                  "1694.37",
+                  "1731.79"
+                ],
+                [
+                  "Operating Income",
+                  "-3697.59",
+                  "-3923.88",
+                  "-2401.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-12.80",
+                  "-15.16",
+                  "-8.69"
+                ],
+                [
+                  "Net Income",
+                  "-3307.68",
+                  "-3213.56",
+                  "-1699.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-11.45",
+                  "-12.42",
+                  "-6.15"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4837.54",
+                  "-175.30",
+                  "-525.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1724.48",
+                  "-5173.11",
+                  "-7591.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "395.97",
+                  "5008.19",
+                  "426.91"
+                ],
+                [
+                  "CAPEX",
+                  "-1861.48",
+                  "-5420.27",
+                  "-7682.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7729.11",
+                  "6799.34",
+                  "6137.38",
+                  "5912.90"
+                ],
+                [
+                  "Gross Profit",
+                  "1868.37",
+                  "1064.09",
+                  "1086.56",
+                  "777.32"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.17",
+                  "15.65",
+                  "17.70",
+                  "13.15"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "378.81",
+                  "374.45",
+                  "391.21",
+                  "386.47"
+                ],
+                [
+                  "R&D Exp",
+                  "1512.03",
+                  "1386.05",
+                  "1400.65",
+                  "1746.27"
+                ],
+                [
+                  "General & Admin Exp",
+                  "369.83",
+                  "382.64",
+                  "376.88",
+                  "397.18"
+                ],
+                [
+                  "Operating Income",
+                  "-392.30",
+                  "-1079.06",
+                  "-1082.19",
+                  "-1752.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.08",
+                  "-15.87",
+                  "-17.63",
+                  "-29.64"
+                ],
+                [
+                  "Net Income",
+                  "-295.24",
+                  "-1276.12",
+                  "-873.05",
+                  "-1551.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.82",
+                  "-18.77",
+                  "-14.23",
+                  "-26.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2557.93",
+                  "768.67",
+                  "-402.15",
+                  "1094.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-152.53",
+                  "-714.00",
+                  "-593.16",
+                  "-825.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-294.14",
+                  "204.23",
+                  "1816.64",
+                  "1171.51"
+                ],
+                [
+                  "CAPEX",
+                  "-192.46",
+                  "-766.04",
+                  "-592.09",
+                  "-824.69"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹",
+    "記憶體",
+    "記憶體",
+    "記憶體",
+    "NAND",
+    "矽晶圓",
+    "記憶體",
+    "ADAS",
+    "5G",
+    "物聯網",
+    "NVIDIA",
+    "Qualcomm",
+    "Infineon",
+    "消費性電子",
+    "半導體"
+  ]
+}

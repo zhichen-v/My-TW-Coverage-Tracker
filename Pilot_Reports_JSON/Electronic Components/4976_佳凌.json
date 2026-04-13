@@ -1,0 +1,560 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4976_佳凌.md",
+  "source_path": "Pilot_Reports/Electronic Components/4976_佳凌.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4976_佳凌.json",
+  "ticker": "4976",
+  "company_name": "佳凌",
+  "title": "# 4976 - 佳凌",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,077 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,185 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "佳凌科技 (Calin Technology) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "光學鏡頭"
+            },
+            {
+              "type": "text",
+              "text": " 製造商，早期主要承接 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Canon]]"
+            },
+            {
+              "type": "text",
+              "text": " 單眼相機鏡頭代工。\n近年轉型成功，主力產品移轉至 "
+            },
+            {
+              "type": "strong",
+              "text": "車用鏡頭"
+            },
+            {
+              "type": "text",
+              "text": " (佔營收 >40%) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "。\n核心技術優勢在於 "
+            },
+            {
+              "type": "strong",
+              "text": "模造玻璃 (Molded Glass)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "非球面鏡片"
+            },
+            {
+              "type": "text",
+              "text": " 之量產能力，這對耐高溫、高可靠度的車載鏡頭至關重要。\n產品應用：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "車用"
+            },
+            {
+              "type": "text",
+              "text": ": 倒車影像、環景系統 (AVM)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 鏡頭、光達 (LiDAR) 鏡頭。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "消費/安控"
+            },
+            {
+              "type": "text",
+              "text": ": 視訊會議、安控攝影機、無人機、"
+            },
+            {
+              "type": "wikilink",
+              "text": "VR"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AR"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "佳凌 (4976)"
+            },
+            {
+              "type": "text",
+              "text": " - 光學鏡頭設計與製造 (玻璃/塑膠/混合鏡頭).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 光學玻璃毛胚, 塑膠粒.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用"
+            },
+            {
+              "type": "text",
+              "text": ": 車用鏡頭模組廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "同致"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "怡利電"
+            },
+            {
+              "type": "text",
+              "text": "), Tier 1 供應商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Delphi"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "), 車廠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "消費"
+            },
+            {
+              "type": "text",
+              "text": ": 相機品牌 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Canon"
+            },
+            {
+              "type": "text",
+              "text": "),視訊設備廠."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用"
+                },
+                {
+                  "type": "text",
+                  "text": ": 歐美 Tier 1 車用零組件大廠, 國內車用電子廠.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "相機"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Canon]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (歷史合作夥伴)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "玻璃毛胚"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際與國內光學玻璃材料廠."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.05 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "19.24",
+                  "4.00",
+                  "1.78",
+                  "-23.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1020.25",
+                  "1128.85",
+                  "923.30"
+                ],
+                [
+                  "Gross Profit",
+                  "-83.05",
+                  "17.70",
+                  "-128.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-8.14",
+                  "1.57",
+                  "-13.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.25",
+                  "15.73",
+                  "20.07"
+                ],
+                [
+                  "R&D Exp",
+                  "89.41",
+                  "68.89",
+                  "64.41"
+                ],
+                [
+                  "General & Admin Exp",
+                  "80.12",
+                  "76.53",
+                  "77.06"
+                ],
+                [
+                  "Operating Income",
+                  "-270.83",
+                  "-143.45",
+                  "-290.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-26.55",
+                  "-12.71",
+                  "-31.41"
+                ],
+                [
+                  "Net Income",
+                  "-260.68",
+                  "-78.66",
+                  "-261.74"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-25.55",
+                  "-6.97",
+                  "-28.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-67.06",
+                  "121.60",
+                  "-52.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-49.25",
+                  "-50.24",
+                  "-133.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-172.93",
+                  "-102.10",
+                  "27.06"
+                ],
+                [
+                  "CAPEX",
+                  "-50.13",
+                  "-50.06",
+                  "-133.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "233.38",
+                  "258.05",
+                  "276.11",
+                  "252.72"
+                ],
+                [
+                  "Gross Profit",
+                  "-42.99",
+                  "-48.69",
+                  "-3.18",
+                  "11.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-18.42",
+                  "-18.87",
+                  "-1.15",
+                  "4.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.18",
+                  "5.01",
+                  "3.77",
+                  "3.29"
+                ],
+                [
+                  "R&D Exp",
+                  "21.56",
+                  "17.69",
+                  "28.91",
+                  "21.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "19.54",
+                  "22.29",
+                  "19.62",
+                  "18.66"
+                ],
+                [
+                  "Operating Income",
+                  "-90.27",
+                  "-93.67",
+                  "-55.48",
+                  "-31.40"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-38.68",
+                  "-36.30",
+                  "-20.09",
+                  "-12.43"
+                ],
+                [
+                  "Net Income",
+                  "-67.71",
+                  "-71.63",
+                  "-99.61",
+                  "-21.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-29.01",
+                  "-27.76",
+                  "-36.07",
+                  "-8.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-26.38",
+                  "13.59",
+                  "-60.86",
+                  "6.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "3.67",
+                  "-27.31",
+                  "-14.18",
+                  "-11.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-35.82",
+                  "-46.26",
+                  "-55.03",
+                  "-35.82"
+                ],
+                [
+                  "CAPEX",
+                  "3.73",
+                  "-27.09",
+                  "-14.61",
+                  "-12.16"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Canon",
+    "ADAS",
+    "VR",
+    "AR",
+    "同致",
+    "怡利電",
+    "Delphi",
+    "Bosch",
+    "Canon",
+    "Canon"
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6755_連鋐科技.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6755_連鋐科技.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6755_連鋐科技.json",
+  "ticker": "6755",
+  "company_name": "連鋐科技",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "757 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,417 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "連鋐科技股份有限公司 (6755) 成立於 2005 年，總部位於桃園龜山，是一家專精於精密金屬樞紐 (Hinge) 零組件與金屬沖壓機構件的製造商。連鋐科技掌握了高門檻的多軸體同步轉動及精密切削技術，其開發的凹凸輪輕薄樞紐及 360 度翻轉樞紐，被廣泛應用於高階筆記型電腦、變形平板電腦及數位相機的翻轉螢幕。產品行銷台灣、中國大陸及國際市場。隨著終端電子產品朝向極致輕薄與多型態折疊發展，連鋐不斷升級其精密製造工藝。公司也積極將金屬結構設計實力延伸至車載電子 (汽車中控螢幕支架) 及其他 3C 及智慧家電領域的支撐零組件。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料與精密零件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼板材/碳鋼等特殊金屬捲料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密彈簧、塑膠墊片及潤滑防鏽化學塗料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "粉末冶金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 粉末冶金成型材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密樞紐製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 樞紐:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "連鋐科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高階筆電 360 度翻轉樞紐 Hinge)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "平板/相機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "連鋐科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (平板/相機多軸樞紐)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "連鋐科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (汽車中控螢幕支架機構件)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (筆電 ODM 與品牌客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英業達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等筆電 ODM 廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等筆電品牌間接供貨"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "相機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日系相機大廠翻轉螢幕樞紐"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車內裝中控台 Tier-1 供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英業達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等全球筆電代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌間接:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等筆電品牌透過代工廠間接供貨"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系相機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本數位相機品牌大廠 — 翻轉螢幕樞紐"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車中控台電子零組件 Tier-1 廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 兩岸大型特殊合金鋼材冶煉貿易商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 專業金屬表面處理/電鍍廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密 CNC 加工自動化設備商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $19.00 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.50",
+                  "N/A",
+                  "0.28",
+                  "0.96",
+                  "8.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2517.59",
+                  "2166.82",
+                  "2404.65"
+                ],
+                [
+                  "Gross Profit",
+                  "478.29",
+                  "343.00",
+                  "407.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.00",
+                  "15.83",
+                  "16.93"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "85.46",
+                  "64.41",
+                  "61.11"
+                ],
+                [
+                  "R&D Exp",
+                  "211.63",
+                  "196.09",
+                  "191.76"
+                ],
+                [
+                  "General & Admin Exp",
+                  "154.20",
+                  "148.54",
+                  "143.83"
+                ],
+                [
+                  "Operating Income",
+                  "30.90",
+                  "-66.04",
+                  "10.40"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.23",
+                  "-3.05",
+                  "0.43"
+                ],
+                [
+                  "Net Income",
+                  "29.35",
+                  "-61.52",
+                  "63.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.17",
+                  "-2.84",
+                  "2.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "12.72",
+                  "23.36",
+                  "338.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-137.53",
+                  "-209.17",
+                  "-359.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "146.56",
+                  "50.98",
+                  "5.25"
+                ],
+                [
+                  "CAPEX",
+                  "-123.39",
+                  "-266.79",
+                  "-240.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "廣達",
+    "仁寶",
+    "英業達",
+    "Lenovo",
+    "Dell",
+    "HP",
+    "廣達",
+    "仁寶",
+    "英業達",
+    "Lenovo",
+    "Dell",
+    "HP"
+  ]
+}

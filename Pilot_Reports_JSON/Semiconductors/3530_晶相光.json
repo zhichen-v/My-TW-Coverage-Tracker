@@ -1,0 +1,519 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3530_晶相光.md",
+  "source_path": "Pilot_Reports/Semiconductors/3530_晶相光.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3530_晶相光.json",
+  "ticker": "3530",
+  "company_name": "晶相光",
+  "title": "# 3530 - 晶相光",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "4,633 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,461 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晶相光電 (Silicon Optronics) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "CMOS 影像感測器 (CIS)"
+            },
+            {
+              "type": "text",
+              "text": " 設計商。\n主力市場為 "
+            },
+            {
+              "type": "strong",
+              "text": "安防監控"
+            },
+            {
+              "type": "text",
+              "text": " (Security) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "車用"
+            },
+            {
+              "type": "text",
+              "text": " (Automotive)，避開手機主鏡頭的紅海競爭。\n大股東為 "
+            },
+            {
+              "type": "strong",
+              "text": "豪威 (OmniVision)"
+            },
+            {
+              "type": "text",
+              "text": "，安防龍頭 "
+            },
+            {
+              "type": "strong",
+              "text": "海康威視 (Hikvision)"
+            },
+            {
+              "type": "text",
+              "text": " 為重要客戶。\n產品涵蓋 HD Analog、IP Cam、行車紀錄器、倒車顯影等應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "力積電"
+            },
+            {
+              "type": "text",
+              "text": " (晶圓代工), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Smasung Foundry"
+            },
+            {
+              "type": "text",
+              "text": ", 封測廠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "晶相光 (3530)"
+            },
+            {
+              "type": "text",
+              "text": " - "
+            },
+            {
+              "type": "wikilink",
+              "text": "CIS"
+            },
+            {
+              "type": "text",
+              "text": " 設計.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "安防"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "海康威視"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "大華"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用"
+            },
+            {
+              "type": "text",
+              "text": ": 後裝市場品牌, 車電廠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "生醫"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Illumina"
+            },
+            {
+              "type": "text",
+              "text": " (基因定序晶片)."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "海康威視"
+                },
+                {
+                  "type": "text",
+                  "text": " (Hikvision).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "大華股份"
+                },
+                {
+                  "type": "text",
+                  "text": " (Dahua)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "力積電"
+                },
+                {
+                  "type": "text",
+                  "text": " (PSMC)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $59.80 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "34.37",
+                  "16.43",
+                  "2.51",
+                  "1.89",
+                  "18.33"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1845.34",
+                  "1731.03",
+                  "1663.50"
+                ],
+                [
+                  "Gross Profit",
+                  "495.62",
+                  "124.54",
+                  "-43.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.86",
+                  "7.19",
+                  "-2.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.14",
+                  "18.48",
+                  "18.63"
+                ],
+                [
+                  "R&D Exp",
+                  "297.85",
+                  "260.42",
+                  "265.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.99",
+                  "38.67",
+                  "44.01"
+                ],
+                [
+                  "Operating Income",
+                  "136.64",
+                  "-193.04",
+                  "-371.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.40",
+                  "-11.15",
+                  "-22.33"
+                ],
+                [
+                  "Net Income",
+                  "135.01",
+                  "-102.78",
+                  "-286.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.32",
+                  "-5.94",
+                  "-17.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "464.28",
+                  "246.93",
+                  "361.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-33.98",
+                  "-29.43",
+                  "-9.23"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-58.06",
+                  "-461.99",
+                  "-67.94"
+                ],
+                [
+                  "CAPEX",
+                  "-55.20",
+                  "-76.52",
+                  "-38.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "574.63",
+                  "458.68",
+                  "346.51",
+                  "387.70"
+                ],
+                [
+                  "Gross Profit",
+                  "183.55",
+                  "97.10",
+                  "89.40",
+                  "-139.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.94",
+                  "21.17",
+                  "25.80",
+                  "-35.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5.17",
+                  "3.60",
+                  "4.16",
+                  "4.79"
+                ],
+                [
+                  "R&D Exp",
+                  "82.85",
+                  "65.80",
+                  "75.85",
+                  "61.95"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.54",
+                  "10.13",
+                  "9.75",
+                  "8.20"
+                ],
+                [
+                  "Operating Income",
+                  "80.99",
+                  "17.56",
+                  "-0.36",
+                  "-214.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.09",
+                  "3.83",
+                  "-0.10",
+                  "-55.28"
+                ],
+                [
+                  "Net Income",
+                  "98.83",
+                  "-33.77",
+                  "12.05",
+                  "-176.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.20",
+                  "-7.36",
+                  "3.48",
+                  "-45.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "172.85",
+                  "127.45",
+                  "59.91",
+                  "21.10"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.60",
+                  "-11.46",
+                  "-9.77",
+                  "-6.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.04",
+                  "-2.07",
+                  "-2.08",
+                  "-202.67"
+                ],
+                [
+                  "CAPEX",
+                  "-7.17",
+                  "-18.04",
+                  "-15.12",
+                  "-15.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "力積電",
+    "Smasung Foundry",
+    "CIS",
+    "海康威視",
+    "大華",
+    "Illumina",
+    "海康威視",
+    "大華股份",
+    "力積電"
+  ]
+}

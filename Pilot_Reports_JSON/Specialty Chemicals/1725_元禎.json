@@ -1,0 +1,618 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/1725_元禎.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/1725_元禎.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/1725_元禎.json",
+  "ticker": "1725",
+  "company_name": "元禎",
+  "title": "# 1725 - 元禎",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "5,691 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "641 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "元禎企業 (1725，Yuen Jen) 為化學品貿易與配銷商，經營工程塑膠 (含"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚甲醛"
+            },
+            {
+              "type": "text",
+              "text": " POM、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚苯醚"
+            },
+            {
+              "type": "text",
+              "text": " PPO 等)、塗料原料、接著劑原料及特用化學品之進口代理與銷售。上游供應商涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣中油"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "南亞塑膠"
+            },
+            {
+              "type": "text",
+              "text": "等國內石化廠及國際特化品原廠。下游客戶分散於塗料、膠帶、接著劑、塑膠加工及電子等產業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (供應商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內石化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 塑膠粒/化學品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特用化學品進口代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (貿易配銷)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "元禎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (工程塑膠/塗料原料/接著劑原料/特化品貿易)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料/接著劑:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 塗料廠/膠帶廠/接著劑廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚甲醛"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚苯醚"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等工程塑膠加工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子化學品客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 塗料/膠帶/接著劑廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚甲醛"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚苯醚"
+                    },
+                    {
+                      "type": "text",
+                      "text": "工程塑膠加工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子化學品客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內石化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞塑膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特用化學品原廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "20.46",
+                  "N/A",
+                  "0.71",
+                  "0.86",
+                  "3.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7996.65",
+                  "8389.16",
+                  "7497.72"
+                ],
+                [
+                  "Gross Profit",
+                  "367.38",
+                  "410.28",
+                  "379.07"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "4.59",
+                  "4.89",
+                  "5.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "116.42",
+                  "123.58",
+                  "122.47"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "105.96",
+                  "103.98",
+                  "97.95"
+                ],
+                [
+                  "Operating Income",
+                  "144.99",
+                  "182.72",
+                  "158.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.81",
+                  "2.18",
+                  "2.12"
+                ],
+                [
+                  "Net Income",
+                  "278.35",
+                  "347.36",
+                  "200.47"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.48",
+                  "4.14",
+                  "2.67"
+                ],
+                [
+                  "Op Cash Flow",
+                  "361.48",
+                  "188.89",
+                  "274.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "84.30",
+                  "-59.61",
+                  "-69.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-567.51",
+                  "-237.40",
+                  "-300.99"
+                ],
+                [
+                  "CAPEX",
+                  "-16.58",
+                  "-7.02",
+                  "-4.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1759.14",
+                  "1955.35",
+                  "2149.37",
+                  "2132.78"
+                ],
+                [
+                  "Gross Profit",
+                  "72.76",
+                  "124.34",
+                  "76.66",
+                  "93.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "4.14",
+                  "6.36",
+                  "3.57",
+                  "4.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.36",
+                  "26.72",
+                  "28.89",
+                  "31.46"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "26.33",
+                  "27.87",
+                  "26.78",
+                  "24.99"
+                ],
+                [
+                  "Operating Income",
+                  "17.07",
+                  "69.75",
+                  "21.00",
+                  "37.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.97",
+                  "3.57",
+                  "0.98",
+                  "1.74"
+                ],
+                [
+                  "Net Income",
+                  "29.86",
+                  "233.57",
+                  "-11.06",
+                  "25.98"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.70",
+                  "11.95",
+                  "-0.51",
+                  "1.22"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3.87",
+                  "440.27",
+                  "18.97",
+                  "-101.63"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "56.64",
+                  "3.23",
+                  "24.46",
+                  "-0.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-89.54",
+                  "-299.11",
+                  "-307.38",
+                  "128.52"
+                ],
+                [
+                  "CAPEX",
+                  "-5.75",
+                  "-7.63",
+                  "-2.91",
+                  "-0.28"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聚甲醛",
+    "聚苯醚",
+    "台塑",
+    "台灣中油",
+    "南亞塑膠",
+    "台塑",
+    "台灣中油",
+    "南亞塑膠",
+    "聚甲醛",
+    "聚苯醚",
+    "聚甲醛",
+    "聚苯醚",
+    "台塑",
+    "台灣中油",
+    "南亞塑膠"
+  ]
+}

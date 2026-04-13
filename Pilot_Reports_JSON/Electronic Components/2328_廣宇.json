@@ -1,0 +1,586 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2328_廣宇.md",
+  "source_path": "Pilot_Reports/Electronic Components/2328_廣宇.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2328_廣宇.json",
+  "ticker": "2328",
+  "company_name": "廣宇",
+  "title": "# 2328 - 廣宇",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "23,611 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,620 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "廣宇科技 (2328) 是"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 製造及"
+            },
+            {
+              "type": "wikilink",
+              "text": "電子組裝"
+            },
+            {
+              "type": "text",
+              "text": " (EMS) 服務商，採 B2B 銷售模式。主要業務涵蓋 PCB 設計與製造及電子組裝代工 (EMS)，產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "通訊設備"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業自動化"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CCL 供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " SMT 組裝用零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (PCB 與 EMS)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB/EMS:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "廣宇"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團，PCB 製造及電子組裝代工)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球通訊設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用電子供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控設備客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球通訊設備品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用電子 Tier 1 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團內協同)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團資源)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "28.47",
+                  "22.00",
+                  "1.08",
+                  "1.58",
+                  "10.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "21770.84",
+                  "21820.83",
+                  "25634.26"
+                ],
+                [
+                  "Gross Profit",
+                  "2660.36",
+                  "2946.58",
+                  "3175.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.22",
+                  "13.50",
+                  "12.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "281.13",
+                  "297.19",
+                  "290.76"
+                ],
+                [
+                  "R&D Exp",
+                  "424.10",
+                  "453.13",
+                  "477.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "813.74",
+                  "912.14",
+                  "806.59"
+                ],
+                [
+                  "Operating Income",
+                  "1141.39",
+                  "1284.12",
+                  "1600.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.24",
+                  "5.88",
+                  "6.24"
+                ],
+                [
+                  "Net Income",
+                  "808.19",
+                  "1036.67",
+                  "1256.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.71",
+                  "4.75",
+                  "4.90"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1065.56",
+                  "973.26",
+                  "4435.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-512.97",
+                  "-502.09",
+                  "-2025.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-922.09",
+                  "-380.04",
+                  "-2518.65"
+                ],
+                [
+                  "CAPEX",
+                  "-656.82",
+                  "-972.08",
+                  "-828.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4952.36",
+                  "5371.01",
+                  "5732.72",
+                  "5714.75"
+                ],
+                [
+                  "Gross Profit",
+                  "618.03",
+                  "689.39",
+                  "711.57",
+                  "641.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.48",
+                  "12.84",
+                  "12.41",
+                  "11.22"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "78.67",
+                  "70.69",
+                  "69.20",
+                  "62.56"
+                ],
+                [
+                  "R&D Exp",
+                  "108.18",
+                  "122.56",
+                  "94.49",
+                  "98.88"
+                ],
+                [
+                  "General & Admin Exp",
+                  "230.24",
+                  "206.58",
+                  "195.47",
+                  "181.44"
+                ],
+                [
+                  "Operating Income",
+                  "200.94",
+                  "289.56",
+                  "352.40",
+                  "298.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.06",
+                  "5.39",
+                  "6.15",
+                  "5.22"
+                ],
+                [
+                  "Net Income",
+                  "176.98",
+                  "172.76",
+                  "242.90",
+                  "215.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.57",
+                  "3.22",
+                  "4.24",
+                  "3.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "209.19",
+                  "714.41",
+                  "589.36",
+                  "-447.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-796.18",
+                  "166.28",
+                  "-425.70",
+                  "542.62"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "35.92",
+                  "-835.10",
+                  "52.92",
+                  "-175.83"
+                ],
+                [
+                  "CAPEX",
+                  "-204.72",
+                  "-220.53",
+                  "-95.02",
+                  "-136.55"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鴻海",
+    "PCB",
+    "電子組裝",
+    "通訊設備",
+    "車用電子",
+    "工業自動化",
+    "銅箔",
+    "鴻海",
+    "鴻海",
+    "銅箔",
+    "鴻海"
+  ]
+}

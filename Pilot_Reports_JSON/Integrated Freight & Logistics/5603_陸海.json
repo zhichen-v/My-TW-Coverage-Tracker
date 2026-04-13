@@ -1,0 +1,720 @@
+{
+  "report_id": "Pilot_Reports/Integrated Freight & Logistics/5603_陸海.md",
+  "source_path": "Pilot_Reports/Integrated Freight & Logistics/5603_陸海.md",
+  "json_path": "Pilot_Reports_JSON/Integrated Freight & Logistics/5603_陸海.json",
+  "ticker": "5603",
+  "company_name": "陸海",
+  "title": "# 5603_陸海",
+  "sector_folder": "Integrated Freight & Logistics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Integrated Freight & Logistics"
+      },
+      {
+        "label": "市值:",
+        "value": "1,799 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,996 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "陸海股份有限公司為多元化運輸物流企業，核心業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "貨櫃內陸運輸："
+            },
+            {
+              "type": "text",
+              "text": " 提供進出口貨櫃之拖車服務；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "重機件運輸與吊裝："
+            },
+            {
+              "type": "text",
+              "text": " 專精於超長、超寬、超重貨物之陸上運輸及吊裝工程，為國內少數具備此能力之業者；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "沿海航運；"
+            },
+            {
+              "type": "text",
+              "text": " （4）"
+            },
+            {
+              "type": "strong",
+              "text": "新能源："
+            },
+            {
+              "type": "text",
+              "text": " 投資"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "發電及經營加油站。此外涉足倉儲、不動產租賃及酒類進出口代理等。重機件運輸客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣高鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "離岸風電"
+            },
+            {
+              "type": "text",
+              "text": "設備商等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (車輛與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重型拖車車頭供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "起重設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重型起重機具供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "燃料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（油品供應）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (運輸服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陸海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 貨櫃內陸運輸、重機件吊裝工程、沿海航運、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "太陽能"
+                    },
+                    {
+                      "type": "text",
+                      "text": "發電"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等航運公司（貨櫃拖運）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（大型機件運輸）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "離岸風電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備商，如與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "進出口商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進出口貿易商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等航運公司（貨櫃內陸拖運）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（大型機件運輸）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（電力設備運輸與吊裝）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "離岸風電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "離岸風電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備商（超重機件運輸），與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "進出口商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進出口貿易商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重型拖車車頭品牌商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "起重設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重型起重機具租賃與供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "油品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（柴油燃料供應）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "42.88",
+                  "N/A",
+                  "1.33",
+                  "0.92",
+                  "17.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1356.64",
+                  "1817.80",
+                  "1803.06"
+                ],
+                [
+                  "Gross Profit",
+                  "165.64",
+                  "270.66",
+                  "273.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.21",
+                  "14.89",
+                  "15.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "70.74",
+                  "67.21",
+                  "66.17"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "96.02",
+                  "109.48",
+                  "119.29"
+                ],
+                [
+                  "Operating Income",
+                  "-1.12",
+                  "93.96",
+                  "88.19"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.08",
+                  "5.17",
+                  "4.89"
+                ],
+                [
+                  "Net Income",
+                  "41.62",
+                  "129.57",
+                  "202.91"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.07",
+                  "7.13",
+                  "11.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "250.56",
+                  "278.85",
+                  "116.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-49.48",
+                  "-89.42",
+                  "-222.09"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-144.48",
+                  "-208.06",
+                  "44.36"
+                ],
+                [
+                  "CAPEX",
+                  "-164.78",
+                  "-63.85",
+                  "-180.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "326.12",
+                  "329.13",
+                  "354.68",
+                  "346.72"
+                ],
+                [
+                  "Gross Profit",
+                  "43.62",
+                  "34.55",
+                  "36.11",
+                  "51.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.37",
+                  "10.50",
+                  "10.18",
+                  "14.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.33",
+                  "17.44",
+                  "17.44",
+                  "21.53"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "26.45",
+                  "23.91",
+                  "21.10",
+                  "24.57"
+                ],
+                [
+                  "Operating Income",
+                  "2.84",
+                  "-6.79",
+                  "-2.43",
+                  "5.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.87",
+                  "-2.06",
+                  "-0.69",
+                  "1.52"
+                ],
+                [
+                  "Net Income",
+                  "25.54",
+                  "9.53",
+                  "-8.24",
+                  "14.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.83",
+                  "2.89",
+                  "-2.32",
+                  "4.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "45.66",
+                  "98.09",
+                  "59.37",
+                  "47.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-56.91",
+                  "-11.24",
+                  "24.76",
+                  "-6.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "21.89",
+                  "-85.41",
+                  "-38.78",
+                  "-42.17"
+                ],
+                [
+                  "CAPEX",
+                  "-68.53",
+                  "-26.83",
+                  "-65.19",
+                  "-4.23"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "太陽能",
+    "台灣高鐵",
+    "台電",
+    "離岸風電",
+    "台灣中油",
+    "太陽能",
+    "陽明海運",
+    "台灣高鐵",
+    "台電",
+    "離岸風電",
+    "世紀鋼",
+    "陽明海運",
+    "台灣高鐵",
+    "台電",
+    "離岸風電",
+    "世紀鋼",
+    "台灣中油"
+  ]
+}

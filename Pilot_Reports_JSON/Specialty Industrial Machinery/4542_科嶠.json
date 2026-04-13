@@ -1,0 +1,490 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4542_科嶠.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4542_科嶠.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4542_科嶠.json",
+  "ticker": "4542",
+  "company_name": "科嶠",
+  "title": "# 4542 - 科嶠",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "5,624 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,761 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "科嶠工業 (4542) 為PCB烘烤設備廠，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "家登"
+            },
+            {
+              "type": "text",
+              "text": "策略結盟加入「半導體供應鏈國家隊」，開發FOUP Cleaner (晶圓傳輸盒清洗機)。已出貨13台半自動FOUP清洗機、2台全自動及1台Frame清洗機。PCB烤箱客戶涵蓋主要PCB/載板廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 加熱元件/溫控/不鏽鋼\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "科嶠"
+            },
+            {
+              "type": "text",
+              "text": " (PCB烤箱; FOUP Cleaner)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家登"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯盟 — FOUP清洗機; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞電路板"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PCB烤箱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "家登"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯盟 — FOUP清洗"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞電路板"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PCB烤箱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "加熱元件/溫控"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $174.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "137.01",
+                  "N/A",
+                  "7.65",
+                  "8.37",
+                  "51.42"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "735.67",
+                  "534.43",
+                  "821.61"
+                ],
+                [
+                  "Gross Profit",
+                  "258.66",
+                  "212.15",
+                  "302.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.16",
+                  "39.70",
+                  "36.85"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "74.72",
+                  "61.78",
+                  "76.85"
+                ],
+                [
+                  "R&D Exp",
+                  "55.46",
+                  "32.19",
+                  "34.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "86.13",
+                  "96.18",
+                  "101.16"
+                ],
+                [
+                  "Operating Income",
+                  "42.34",
+                  "22.00",
+                  "90.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.76",
+                  "4.12",
+                  "10.96"
+                ],
+                [
+                  "Net Income",
+                  "41.42",
+                  "2.53",
+                  "54.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.63",
+                  "0.47",
+                  "6.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "32.40",
+                  "10.11",
+                  "96.67"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "40.15",
+                  "-174.75",
+                  "-55.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-10.16",
+                  "152.65",
+                  "4.21"
+                ],
+                [
+                  "CAPEX",
+                  "-42.06",
+                  "-25.98",
+                  "-40.63"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "141.45",
+                  "176.34",
+                  "223.15",
+                  "194.73"
+                ],
+                [
+                  "Gross Profit",
+                  "49.86",
+                  "66.17",
+                  "77.37",
+                  "65.25"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.25",
+                  "37.52",
+                  "34.67",
+                  "33.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.00",
+                  "20.31",
+                  "15.89",
+                  "19.52"
+                ],
+                [
+                  "R&D Exp",
+                  "13.83",
+                  "22.00",
+                  "10.42",
+                  "8.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22.73",
+                  "14.47",
+                  "23.34",
+                  "25.58"
+                ],
+                [
+                  "Operating Income",
+                  "-5.70",
+                  "9.39",
+                  "27.72",
+                  "11.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.03",
+                  "5.32",
+                  "12.42",
+                  "6.05"
+                ],
+                [
+                  "Net Income",
+                  "10.73",
+                  "15.33",
+                  "1.58",
+                  "13.78"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.59",
+                  "8.69",
+                  "0.71",
+                  "7.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1.90",
+                  "33.64",
+                  "-20.94",
+                  "21.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.23",
+                  "-3.23",
+                  "77.74",
+                  "-32.14"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-20.61",
+                  "25.35",
+                  "-31.56",
+                  "16.67"
+                ],
+                [
+                  "CAPEX",
+                  "-2.21",
+                  "-3.58",
+                  "-24.17",
+                  "-12.10"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "家登",
+    "家登",
+    "台積電",
+    "欣興",
+    "南亞電路板",
+    "家登",
+    "欣興",
+    "南亞電路板",
+    "台積電"
+  ]
+}

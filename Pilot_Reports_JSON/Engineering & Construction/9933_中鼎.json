@@ -1,0 +1,695 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/9933_中鼎.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/9933_中鼎.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/9933_中鼎.json",
+  "ticker": "9933",
+  "company_name": "中鼎",
+  "title": "# 9933 - [[中鼎]]",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Engineering & Construction"
+      },
+      {
+        "label": "市值:",
+        "value": "35,188 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "36,160 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中鼎工程股份有限公司成立於1979年，由財團法人中技社籌設，為台灣最大統包工程公司（以總資產及年營收計）。公司提供工程、採購、施工（EPC）全方位服務，業務涵蓋煉油"
+            },
+            {
+              "type": "wikilink",
+              "text": "石化"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LNG"
+            },
+            {
+              "type": "text",
+              "text": "接收站、電力、環境、交通、科技廠房及一般工業市場。近年積極拓展海外業務，於美國亞利桑那州承攬台灣領先半導體廠（"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "）及其供應鏈之 EPC 專案，亦承攬大型"
+            },
+            {
+              "type": "wikilink",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": "廠及資料中心 EPC 專案。此外，子公司提供石化廠用化學添加劑（防結垢劑、緩蝕劑等）及智慧能源管理系統軟體。集團年營收逾千億元，業務遍及全球。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壓力容器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼製壓力容器、管線預製件、熱交換器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各類工業用機電與控制系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 石化廠用防結垢劑、緩蝕劑、消泡劑等化學添加劑"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (EPC 統包)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中鼎集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 煉油"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LNG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "接收站、電力、環境、交通、科技廠房之工程設計/採購/施工（EPC）統包，含智慧能源管理系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端業主)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化/煉油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等石化煉油業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（美國亞利桑那廠及台灣廠房 EPC）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力/LNG:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電廠興建業主、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LNG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "接收站營運商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環境:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 焚化爐、污水處理廠等環保設施業主"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化/煉油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（煉油廠與石化廠 EPC 專案）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（美國亞利桑那州廠房及供應鏈 EPC）、大型"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DRAM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力/LNG:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電廠興建業主、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LNG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "接收站業主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環境工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 焚化爐、污水處理廠之公共工程業主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型資料中心 EPC 專案業主"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重工設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壓力容器、熱交換器、管線預製件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自動化控制與儀表設備供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 石化添加劑原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程分包:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外專業施工分包商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $39.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.91",
+                  "11.07",
+                  "0.38",
+                  "1.74",
+                  "7.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "91848.23",
+                  "119924.62",
+                  "103527.20"
+                ],
+                [
+                  "Gross Profit",
+                  "9375.67",
+                  "6597.96",
+                  "5357.32"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.21",
+                  "5.50",
+                  "5.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "143.64",
+                  "113.49",
+                  "132.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2042.30",
+                  "1904.02",
+                  "1665.74"
+                ],
+                [
+                  "Operating Income",
+                  "7189.73",
+                  "4580.46",
+                  "3559.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.83",
+                  "3.82",
+                  "3.44"
+                ],
+                [
+                  "Net Income",
+                  "1691.36",
+                  "1942.38",
+                  "1891.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.84",
+                  "1.62",
+                  "1.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "9712.11",
+                  "-6558.48",
+                  "2900.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "5724.54",
+                  "-8210.34",
+                  "-2161.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-365.91",
+                  "8480.50",
+                  "5457.01"
+                ],
+                [
+                  "CAPEX",
+                  "-531.20",
+                  "-636.92",
+                  "-710.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "24188.71",
+                  "24181.71",
+                  "22266.72",
+                  "31497.95"
+                ],
+                [
+                  "Gross Profit",
+                  "3059.67",
+                  "1852.64",
+                  "2495.70",
+                  "1879.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.65",
+                  "7.66",
+                  "11.21",
+                  "5.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "44.31",
+                  "31.32",
+                  "19.61",
+                  "22.38"
+                ],
+                [
+                  "General & Admin Exp",
+                  "683.73",
+                  "495.32",
+                  "449.32",
+                  "512.68"
+                ],
+                [
+                  "Operating Income",
+                  "2331.63",
+                  "1326.00",
+                  "2026.77",
+                  "1344.35"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.64",
+                  "5.48",
+                  "9.10",
+                  "4.27"
+                ],
+                [
+                  "Net Income",
+                  "1895.95",
+                  "254.30",
+                  "-1217.48",
+                  "493.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.84",
+                  "1.05",
+                  "-5.47",
+                  "1.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "10273.53",
+                  "-5115.65",
+                  "3132.49",
+                  "515.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1757.96",
+                  "2618.18",
+                  "2862.98",
+                  "217.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "16.11",
+                  "298.81",
+                  "791.57",
+                  "-2096.23"
+                ],
+                [
+                  "CAPEX",
+                  "-162.18",
+                  "-210.33",
+                  "-64.75",
+                  "-141.52"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中鼎",
+    "石化",
+    "LNG",
+    "台積電",
+    "DRAM",
+    "石化",
+    "LNG",
+    "台塑集團",
+    "中油",
+    "台積電",
+    "LNG",
+    "台塑集團",
+    "中油",
+    "台積電",
+    "DRAM",
+    "LNG"
+  ]
+}

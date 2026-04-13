@@ -1,0 +1,831 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3310_佳穎.md",
+  "source_path": "Pilot_Reports/Electronic Components/3310_佳穎.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3310_佳穎.json",
+  "ticker": "3310",
+  "company_name": "佳穎",
+  "title": "# 3310 - 佳穎",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,792 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,541 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "佳穎精密 (3310，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Chialin"
+            },
+            {
+              "type": "text",
+              "text": ") 專注於精密金屬沖壓零組件製造。業務由三大區塊組成：車用電子、光電/半導體與消費電子。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "車用產品佔比最高，主要供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TE Connectivity"
+            },
+            {
+              "type": "text",
+              "text": " 等國際 Tier 1 大廠，應用於含氧感知器、噴油嘴、車用"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "端子等關鍵零組件。光電事業供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "億光"
+            },
+            {
+              "type": "text",
+              "text": " 等 LED 封裝廠之"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "產品。消費電子領域則提供 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Type-C"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "端子與鐵殼。近年透過併購晉碁強化"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "與線束佈局，並具備模具自主開發能力。生產基地涵蓋台灣桃園、中國 (昆山/東莞/淮安) 與泰國。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅帶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅合金帶材供應商 — 端子與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    },
+                    {
+                      "type": "text",
+                      "text": "核心材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電鍍液:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍化學品供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密沖壓模具用特殊鋼材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密沖壓製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用端子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳穎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (含氧感知器/噴油嘴精密端子)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "導線架:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳穎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (LED 封裝用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳穎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Type-C"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "端子與鐵殼)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用、光電與消費電子)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TE Connectivity"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 引擎感測器/車用端子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LED "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Type-C"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "組裝廠 — 端子與鐵殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封裝用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    },
+                    {
+                      "type": "text",
+                      "text": "客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 含氧感知器/噴油嘴精密端子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TE Connectivity"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "端子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LED "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    },
+                    {
+                      "type": "text",
+                      "text": "產品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Type-C"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "組裝廠 — 端子與鐵殼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅帶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅合金帶材供應商 — 端子核心材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電鍍液:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍化學品供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密沖壓模具用鋼材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $76.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "23.33",
+                  "N/A",
+                  "1.79",
+                  "2.95",
+                  "21.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2670.41",
+                  "1444.04",
+                  "2071.47"
+                ],
+                [
+                  "Gross Profit",
+                  "630.89",
+                  "345.04",
+                  "444.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.63",
+                  "23.89",
+                  "21.45"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "104.81",
+                  "47.06",
+                  "73.22"
+                ],
+                [
+                  "R&D Exp",
+                  "79.43",
+                  "57.26",
+                  "48.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "131.90",
+                  "129.27",
+                  "131.86"
+                ],
+                [
+                  "Operating Income",
+                  "314.75",
+                  "111.46",
+                  "191.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.79",
+                  "7.72",
+                  "9.23"
+                ],
+                [
+                  "Net Income",
+                  "241.56",
+                  "150.69",
+                  "224.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.05",
+                  "10.44",
+                  "10.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "720.83",
+                  "29.42",
+                  "291.31"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-16.25",
+                  "-121.98",
+                  "-54.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-861.90",
+                  "60.79",
+                  "-47.99"
+                ],
+                [
+                  "CAPEX",
+                  "-50.25",
+                  "-35.08",
+                  "-31.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "460.13",
+                  "409.37",
+                  "396.71",
+                  "1404.21"
+                ],
+                [
+                  "Gross Profit",
+                  "99.18",
+                  "86.94",
+                  "106.95",
+                  "337.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.56",
+                  "21.24",
+                  "26.96",
+                  "24.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10.72",
+                  "11.27",
+                  "16.70",
+                  "66.12"
+                ],
+                [
+                  "R&D Exp",
+                  "25.06",
+                  "17.72",
+                  "16.87",
+                  "19.77"
+                ],
+                [
+                  "General & Admin Exp",
+                  "37.80",
+                  "29.81",
+                  "31.27",
+                  "33.02"
+                ],
+                [
+                  "Operating Income",
+                  "25.60",
+                  "28.14",
+                  "42.12",
+                  "218.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.56",
+                  "6.87",
+                  "10.62",
+                  "15.59"
+                ],
+                [
+                  "Net Income",
+                  "36.11",
+                  "39.77",
+                  "14.02",
+                  "151.65"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.85",
+                  "9.72",
+                  "3.53",
+                  "10.80"
+                ],
+                [
+                  "Op Cash Flow",
+                  "51.88",
+                  "-51.17",
+                  "62.34",
+                  "657.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-26.16",
+                  "38.39",
+                  "2.88",
+                  "-31.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-50.20",
+                  "-96.39",
+                  "-65.26",
+                  "-650.05"
+                ],
+                [
+                  "CAPEX",
+                  "-9.86",
+                  "-24.85",
+                  "-11.62",
+                  "-3.92"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Chialin",
+    "Bosch",
+    "TE Connectivity",
+    "連接器",
+    "億光",
+    "導線架",
+    "Type-C",
+    "連接器",
+    "連接器",
+    "導線架",
+    "導線架",
+    "Type-C",
+    "連接器",
+    "Bosch",
+    "TE Connectivity",
+    "億光",
+    "導線架",
+    "Type-C",
+    "連接器",
+    "導線架",
+    "Bosch",
+    "TE Connectivity",
+    "連接器",
+    "億光",
+    "導線架",
+    "Type-C",
+    "連接器"
+  ]
+}

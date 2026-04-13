@@ -1,0 +1,834 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3605_宏致.md",
+  "source_path": "Pilot_Reports/Electronic Components/3605_宏致.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3605_宏致.json",
+  "ticker": "3605",
+  "company_name": "宏致",
+  "title": "# 3605 - 宏致",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "9,634 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "10,048 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宏致電子 (3605，"
+            },
+            {
+              "type": "wikilink",
+              "text": "ACES"
+            },
+            {
+              "type": "text",
+              "text": ") 為專業 "
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": " 製造商，近年透過併購與技術升級，成功轉型為高速傳輸連接器解決方案供應商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要發展策略：\n1. "
+            },
+            {
+              "type": "strong",
+              "text": "併購 [[Genesis]]"
+            },
+            {
+              "type": "text",
+              "text": ": 取得美國 Genesis Connected Solutions 100% 股權，強化北美市場佈局與高頻高速傳輸專利技術。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "產品結構優化"
+            },
+            {
+              "type": "text",
+              "text": ": 雲端/伺服器佔營收比重最高 (由 Genesis 帶動)，供應高速 "
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": " 與線束；工業/車用電子持續成長；消費性電子佔比下降以擺脫紅海市場。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "高速傳輸"
+            },
+            {
+              "type": "text",
+              "text": ": 開發 800G/1.6T 高速 "
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "，搭上 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " 商機，已通過北美 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": " 客戶認證，供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "GB200"
+            },
+            {
+              "type": "text",
+              "text": " 網卡與加速卡用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MCIO"
+            },
+            {
+              "type": "text",
+              "text": " 高速連接器。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬與塑膠材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "端子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬沖壓件供應商 — 銅合金端子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工程塑膠射出料 — 連接器本體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速傳輸線材供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (連接器/線束製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高速連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "宏致"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (800G/1.6T "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MCIO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 連接器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線束組裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "宏致"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (伺服器用高速線束)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Genesis:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美高頻連接器設計與銷售"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端/AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 透過 Genesis 供貨高速連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 伺服器組裝用連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB/PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 代工廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 筆電連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用電子與工控設備客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CSP 雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 透過 Genesis 供貨高速連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GB200"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應鏈 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MCIO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 伺服器用連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 筆電連接器/線束"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅合金端子沖壓件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 連接器本體塑膠射出材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速傳輸線材供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $59.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.49",
+                  "10.80",
+                  "0.89",
+                  "1.17",
+                  "7.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10859.56",
+                  "9770.90",
+                  "8486.23"
+                ],
+                [
+                  "Gross Profit",
+                  "2823.68",
+                  "2321.80",
+                  "1751.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.00",
+                  "23.76",
+                  "20.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "620.63",
+                  "592.67",
+                  "585.05"
+                ],
+                [
+                  "R&D Exp",
+                  "615.27",
+                  "592.52",
+                  "621.27"
+                ],
+                [
+                  "General & Admin Exp",
+                  "973.16",
+                  "860.98",
+                  "876.70"
+                ],
+                [
+                  "Operating Income",
+                  "614.62",
+                  "275.64",
+                  "-331.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.66",
+                  "2.82",
+                  "-3.90"
+                ],
+                [
+                  "Net Income",
+                  "661.19",
+                  "344.06",
+                  "-266.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.09",
+                  "3.52",
+                  "-3.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1209.92",
+                  "970.55",
+                  "663.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-984.01",
+                  "-1116.93",
+                  "-1049.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "144.28",
+                  "19.03",
+                  "43.10"
+                ],
+                [
+                  "CAPEX",
+                  "-1339.09",
+                  "-1288.64",
+                  "-998.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2707.15",
+                  "2788.11",
+                  "2787.02",
+                  "2577.28"
+                ],
+                [
+                  "Gross Profit",
+                  "721.55",
+                  "729.43",
+                  "736.25",
+                  "636.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.65",
+                  "26.16",
+                  "26.42",
+                  "24.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "165.19",
+                  "156.53",
+                  "157.37",
+                  "141.54"
+                ],
+                [
+                  "R&D Exp",
+                  "164.88",
+                  "156.72",
+                  "148.65",
+                  "145.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "258.50",
+                  "253.16",
+                  "227.44",
+                  "234.05"
+                ],
+                [
+                  "Operating Income",
+                  "132.97",
+                  "163.02",
+                  "202.79",
+                  "115.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.91",
+                  "5.85",
+                  "7.28",
+                  "4.49"
+                ],
+                [
+                  "Net Income",
+                  "134.09",
+                  "223.88",
+                  "101.35",
+                  "201.86"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.95",
+                  "8.03",
+                  "3.64",
+                  "7.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "325.55",
+                  "261.88",
+                  "253.71",
+                  "368.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-312.08",
+                  "-203.33",
+                  "-268.02",
+                  "-200.58"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "139.90",
+                  "35.91",
+                  "87.15",
+                  "-118.68"
+                ],
+                [
+                  "CAPEX",
+                  "-334.15",
+                  "-335.48",
+                  "-254.50",
+                  "-414.95"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ACES",
+    "連接器",
+    "Genesis",
+    "連接器",
+    "連接器",
+    "AI 伺服器",
+    "CSP",
+    "NVIDIA",
+    "GB200",
+    "MCIO",
+    "MCIO",
+    "AWS",
+    "Meta",
+    "Google",
+    "廣達",
+    "鴻海",
+    "仁寶",
+    "AWS",
+    "Meta",
+    "Google",
+    "NVIDIA",
+    "GB200",
+    "MCIO",
+    "廣達",
+    "鴻海",
+    "仁寶"
+  ]
+}

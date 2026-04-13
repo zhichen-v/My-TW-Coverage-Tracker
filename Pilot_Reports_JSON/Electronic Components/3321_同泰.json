@@ -1,0 +1,939 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3321_同泰.md",
+  "source_path": "Pilot_Reports/Electronic Components/3321_同泰.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3321_同泰.json",
+  "ticker": "3321",
+  "company_name": "同泰",
+  "title": "# 3321 - 同泰",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,429 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,932 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "同泰電子 (3321，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Uniflex"
+            },
+            {
+              "type": "text",
+              "text": ") 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "欣興"
+            },
+            {
+              "type": "text",
+              "text": " (Unimicron) 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "台表科"
+            },
+            {
+              "type": "text",
+              "text": " (TSMT) 之轉投資公司，專注於軟式印刷電路板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": ") 與軟硬結合板 (Rigid-Flex "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": ") 製造。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要應用領域包括：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mini LED"
+            },
+            {
+              "type": "text",
+              "text": " 背光模組 — 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台表科"
+            },
+            {
+              "type": "text",
+              "text": "供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mini LED"
+            },
+            {
+              "type": "text",
+              "text": " 背光用軟板，應用於高階筆電與顯示面板；(2) 無線充電 — 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": " 手機供應無線充電軟板，為韓系主要供應商之一；(3) 車載電子 — 車載鏡頭、BMS 電池管理系統用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": "；(4) AI 伺服器周邊 — 積極切入光學模組軟板新應用。上游關鍵材料為軟性"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板 (FCCL) 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚醯亞胺"
+            },
+            {
+              "type": "text",
+              "text": " (PI)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (軟板材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 軟性"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板 (FCCL)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "聚醯亞胺:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "達邁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (PI) 薄膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長春石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電解"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "覆蓋膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Coverlay 覆蓋膜供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟板製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FPC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "同泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性印刷電路板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟硬結合板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "同泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Rigid-Flex "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Mini LED]] 軟板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "同泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mini LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 背光模組用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (顯示、手機與車用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "背光模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台表科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mini LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 背光用軟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 無線充電軟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載鏡頭與 BMS 電池管理系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源與技術協同"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "背光模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台表科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mini LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 背光用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 無線充電軟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載鏡頭與 BMS 系統 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團內部協同訂單"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 軟性"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 薄膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "達邁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "薄膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長春石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電解"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.67",
+                  "1.99",
+                  "-31.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2145.03",
+                  "1966.14",
+                  "1541.21"
+                ],
+                [
+                  "Gross Profit",
+                  "130.93",
+                  "44.91",
+                  "-12.70"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.10",
+                  "2.28",
+                  "-0.82"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "64.44",
+                  "69.23",
+                  "65.93"
+                ],
+                [
+                  "R&D Exp",
+                  "78.73",
+                  "82.59",
+                  "77.90"
+                ],
+                [
+                  "General & Admin Exp",
+                  "133.95",
+                  "127.26",
+                  "129.38"
+                ],
+                [
+                  "Operating Income",
+                  "-146.19",
+                  "-234.17",
+                  "-285.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-6.82",
+                  "-11.91",
+                  "-18.55"
+                ],
+                [
+                  "Net Income",
+                  "-180.13",
+                  "-208.48",
+                  "-270.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-8.40",
+                  "-10.60",
+                  "-17.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-250.87",
+                  "-302.36",
+                  "-65.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-59.73",
+                  "55.52",
+                  "-138.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "295.52",
+                  "60.01",
+                  "300.74"
+                ],
+                [
+                  "CAPEX",
+                  "-60.16",
+                  "-43.92",
+                  "-45.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "524.85",
+                  "549.57",
+                  "456.99",
+                  "489.08"
+                ],
+                [
+                  "Gross Profit",
+                  "33.93",
+                  "29.37",
+                  "6.62",
+                  "14.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.46",
+                  "5.34",
+                  "1.45",
+                  "2.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.31",
+                  "14.62",
+                  "18.74",
+                  "16.91"
+                ],
+                [
+                  "R&D Exp",
+                  "15.92",
+                  "20.12",
+                  "21.88",
+                  "21.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "43.91",
+                  "30.10",
+                  "28.75",
+                  "28.65"
+                ],
+                [
+                  "Operating Income",
+                  "-41.21",
+                  "-35.46",
+                  "-62.76",
+                  "-53.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.85",
+                  "-6.45",
+                  "-13.73",
+                  "-10.88"
+                ],
+                [
+                  "Net Income",
+                  "-46.14",
+                  "-56.66",
+                  "-68.49",
+                  "-30.75"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-8.79",
+                  "-10.31",
+                  "-14.99",
+                  "-6.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-57.35",
+                  "-44.53",
+                  "-17.72",
+                  "-39.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "9.78",
+                  "-15.53",
+                  "-24.42",
+                  "-11.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-16.93",
+                  "77.50",
+                  "132.08",
+                  "90.84"
+                ],
+                [
+                  "CAPEX",
+                  "-11.56",
+                  "-13.09",
+                  "-24.51",
+                  "-15.64"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Uniflex",
+    "欣興",
+    "台表科",
+    "FPC",
+    "PCB",
+    "Mini LED",
+    "台表科",
+    "Mini LED",
+    "Samsung",
+    "FPC",
+    "銅箔",
+    "聚醯亞胺",
+    "台虹",
+    "銅箔",
+    "達邁",
+    "聚醯亞胺",
+    "長春石化",
+    "銅箔",
+    "FPC",
+    "PCB",
+    "Mini LED",
+    "Mini LED",
+    "FPC",
+    "台表科",
+    "Mini LED",
+    "Samsung",
+    "欣興",
+    "台表科",
+    "Mini LED",
+    "FPC",
+    "Samsung",
+    "FPC",
+    "欣興",
+    "台虹",
+    "銅箔",
+    "達邁",
+    "聚醯亞胺",
+    "長春石化",
+    "銅箔"
+  ]
+}

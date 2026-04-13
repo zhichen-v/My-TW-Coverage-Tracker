@@ -1,0 +1,482 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6494_九齊.md",
+  "source_path": "Pilot_Reports/Semiconductors/6494_九齊.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6494_九齊.json",
+  "ticker": "6494",
+  "company_name": "九齊",
+  "title": "# 6494_九齊",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "1,553 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,108 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "九齊科技股份有限公司 (6494，Nyquest) 是一家專注於語音控制IC及微控制器("
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": ")設計的台灣無晶圓廠(Fabless)"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "公司。九齊的產品線以4位元、8位元及32位元"
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": "為主，憑藉極高的性價比與高度客製化的晶片設計，在全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "領域(特別是語音及發聲玩具)享有極高的市佔率。除了穩固的玩具市場，九齊近年積極將產品應用拓展至智能小家電、個人電子護理產品以及結合邊緣運算(Edge "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": ")的智慧高階玩具中，以提升產品的毛利率與應用廣度。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "(Silicon Wafer)供應商、"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶圓代工廠及光罩服務廠。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "九齊科技"
+            },
+            {
+              "type": "text",
+              "text": " (消費性語音控制IC、各規格微控制器"
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": "之設計與開發)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": IC封裝測試廠(OSAT)、各式"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "代工廠("
+            },
+            {
+              "type": "wikilink",
+              "text": "EMS"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ")及玩具代工廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   Mattel(美泰兒)、Hasbro(孩之寶)、Bandai(萬代)等國際玩具巨頭，及各大中國玩具廠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外各大8吋/12吋晶圓代工廠(如"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯電"
+                },
+                {
+                  "type": "text",
+                  "text": "、力積電等)及封測廠。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $49.20 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "-175.71",
+                  "1.31",
+                  "1.56",
+                  "50.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1187.33",
+                  "1345.30",
+                  "1333.00"
+                ],
+                [
+                  "Gross Profit",
+                  "286.05",
+                  "408.48",
+                  "423.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.09",
+                  "30.36",
+                  "31.79"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "36.69",
+                  "43.47",
+                  "49.99"
+                ],
+                [
+                  "R&D Exp",
+                  "206.95",
+                  "247.60",
+                  "260.99"
+                ],
+                [
+                  "General & Admin Exp",
+                  "71.56",
+                  "74.66",
+                  "66.23"
+                ],
+                [
+                  "Operating Income",
+                  "-29.15",
+                  "42.76",
+                  "46.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.45",
+                  "3.18",
+                  "3.49"
+                ],
+                [
+                  "Net Income",
+                  "-29.50",
+                  "82.98",
+                  "56.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.48",
+                  "6.17",
+                  "4.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "106.48",
+                  "314.84",
+                  "64.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-25.12",
+                  "-127.06",
+                  "146.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-85.05",
+                  "-59.86",
+                  "-214.67"
+                ],
+                [
+                  "CAPEX",
+                  "-47.43",
+                  "-29.15",
+                  "-41.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "330.54",
+                  "293.42",
+                  "283.01",
+                  "298.38"
+                ],
+                [
+                  "Gross Profit",
+                  "80.32",
+                  "64.47",
+                  "71.68",
+                  "81.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.30",
+                  "21.97",
+                  "25.33",
+                  "27.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7.79",
+                  "10.20",
+                  "9.54",
+                  "11.49"
+                ],
+                [
+                  "R&D Exp",
+                  "44.52",
+                  "56.75",
+                  "56.80",
+                  "56.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.14",
+                  "19.85",
+                  "18.94",
+                  "17.71"
+                ],
+                [
+                  "Operating Income",
+                  "12.88",
+                  "-22.34",
+                  "-13.60",
+                  "-4.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.90",
+                  "-7.61",
+                  "-4.81",
+                  "-1.51"
+                ],
+                [
+                  "Net Income",
+                  "27.19",
+                  "-51.42",
+                  "-9.42",
+                  "6.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.23",
+                  "-17.52",
+                  "-3.33",
+                  "2.15"
+                ],
+                [
+                  "Op Cash Flow",
+                  "89.65",
+                  "75.72",
+                  "-58.66",
+                  "83.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "34.85",
+                  "-58.34",
+                  "-11.60",
+                  "-0.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.92",
+                  "-6.79",
+                  "-2.05",
+                  "-1.66"
+                ],
+                [
+                  "CAPEX",
+                  "-6.75",
+                  "-15.25",
+                  "-11.65",
+                  "-11.49"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MCU",
+    "半導體",
+    "MCU",
+    "消費性電子",
+    "AI",
+    "矽晶圓",
+    "半導體",
+    "MCU",
+    "消費性電子",
+    "EMS",
+    "ODM",
+    "聯電"
+  ]
+}

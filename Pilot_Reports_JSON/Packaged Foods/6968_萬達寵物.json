@@ -1,0 +1,650 @@
+{
+  "report_id": "Pilot_Reports/Packaged Foods/6968_萬達寵物.md",
+  "source_path": "Pilot_Reports/Packaged Foods/6968_萬達寵物.md",
+  "json_path": "Pilot_Reports_JSON/Packaged Foods/6968_萬達寵物.json",
+  "ticker": "6968",
+  "company_name": "萬達寵物",
+  "title": "# 6968 - 萬達寵物",
+  "sector_folder": "Packaged Foods",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Defensive"
+      },
+      {
+        "label": "產業:",
+        "value": "Packaged Foods"
+      },
+      {
+        "label": "市值:",
+        "value": "2,324 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,465 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "萬達寵物事業 (6968，Wonder Pets) 成立於 1999 年，2024 年於櫃買中心掛牌，為台灣寵物產業第一家上市櫃公司。旗下品牌包括「寵物公園」、「凱朵寵物」、「貓狗隊長」及全台最大寵物垂直電商「"
+            },
+            {
+              "type": "wikilink",
+              "text": "毛孩市集"
+            },
+            {
+              "type": "text",
+              "text": "」。全台擁有超過 126 家直營門市，營收以食品銷售為主 (約 71%)。與國內食品大廠如"
+            },
+            {
+              "type": "wikilink",
+              "text": "福壽實業"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "大成長城"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "在產品開發方面合作。2021 年率先導入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SAP"
+            },
+            {
+              "type": "text",
+              "text": " 企業資源規劃系統。國際寵物食品品牌合作包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Royal Canin"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Hill's"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Mars Petcare"
+            },
+            {
+              "type": "text",
+              "text": " 等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Royal Canin"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hill's"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mars Petcare"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國際寵物飼料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣食品廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福壽實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大成長城"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 寵物食品共同開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (零售通路與服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "萬達寵物"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全台 126+ 家直營寵物連鎖門市、「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "毛孩市集"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」電商平台、寵物美容住宿安親"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端消費者)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寵物飼主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台犬貓飼主 — 門市消費及線上購物"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台犬貓飼主 — 126+ 家直營門市及「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "毛孩市集"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」電商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Royal Canin"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hill's"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mars Petcare"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣食品廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福壽實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大成長城"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資訊系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SAP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ERP 系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $47.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.11",
+                  "N/A",
+                  "0.72",
+                  "1.79",
+                  "6.85"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3211.81",
+                  "2877.01",
+                  "2543.71"
+                ],
+                [
+                  "Gross Profit",
+                  "1331.84",
+                  "1170.19",
+                  "1042.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.47",
+                  "40.67",
+                  "40.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "984.26",
+                  "874.13",
+                  "768.58"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "196.55",
+                  "193.22",
+                  "171.62"
+                ],
+                [
+                  "Operating Income",
+                  "151.02",
+                  "102.84",
+                  "102.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.70",
+                  "3.57",
+                  "4.03"
+                ],
+                [
+                  "Net Income",
+                  "114.87",
+                  "100.83",
+                  "83.08"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.58",
+                  "3.50",
+                  "3.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "399.22",
+                  "333.95",
+                  "324.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-372.24",
+                  "-116.24",
+                  "-156.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-27.38",
+                  "-117.93",
+                  "-160.18"
+                ],
+                [
+                  "CAPEX",
+                  "-90.27",
+                  "-116.83",
+                  "-128.47"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "854.09",
+                  "785.45",
+                  "787.33",
+                  "784.95"
+                ],
+                [
+                  "Gross Profit",
+                  "354.45",
+                  "322.48",
+                  "328.13",
+                  "326.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.50",
+                  "41.06",
+                  "41.68",
+                  "41.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "255.66",
+                  "256.57",
+                  "244.86",
+                  "227.18"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "47.63",
+                  "48.18",
+                  "48.12",
+                  "52.63"
+                ],
+                [
+                  "Operating Income",
+                  "51.16",
+                  "17.74",
+                  "35.16",
+                  "46.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.99",
+                  "2.26",
+                  "4.47",
+                  "5.98"
+                ],
+                [
+                  "Net Income",
+                  "39.95",
+                  "11.79",
+                  "22.23",
+                  "40.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.68",
+                  "1.50",
+                  "2.82",
+                  "5.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "69.42",
+                  "58.30",
+                  "195.09",
+                  "76.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-14.47",
+                  "-311.08",
+                  "-30.07",
+                  "-16.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-65.59",
+                  "162.21",
+                  "-62.76",
+                  "-61.24"
+                ],
+                [
+                  "CAPEX",
+                  "-19.98",
+                  "-31.16",
+                  "-22.54",
+                  "-16.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "毛孩市集",
+    "福壽實業",
+    "大成長城",
+    "統一",
+    "SAP",
+    "Royal Canin",
+    "Hill's",
+    "Mars Petcare",
+    "Royal Canin",
+    "Hill's",
+    "Mars Petcare",
+    "福壽實業",
+    "大成長城",
+    "統一",
+    "毛孩市集",
+    "毛孩市集",
+    "Royal Canin",
+    "Hill's",
+    "Mars Petcare",
+    "福壽實業",
+    "大成長城",
+    "統一",
+    "SAP"
+  ]
+}

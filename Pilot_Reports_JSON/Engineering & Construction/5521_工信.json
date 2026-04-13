@@ -1,0 +1,614 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/5521_工信.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/5521_工信.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/5521_工信.json",
+  "ticker": "5521",
+  "company_name": "工信",
+  "title": "# 5521 - 工信",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Engineering & Construction"
+      },
+      {
+        "label": "市值:",
+        "value": "6,769 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "-1,639 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "工信工程"
+            },
+            {
+              "type": "text",
+              "text": "原創辦於 1941 年上海，1947 年來台登記設立，為承攬大型公共工程為主之老牌甲級營造廠。主要業務包括道路、橋樑、隧道、碼頭及捷運等土木工程，以及房屋建築工程營造與地質鑽探工程。公司具備重大公共建設之豐富施工經驗，早期曾參與多項交通基礎設施工程，近年持續承攬政府公共工程標案。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (建材與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東和鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "豐興鋼鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重機械:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 營建重機械租賃與採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (營造施工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工信工程"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 大型土木工程（道路、橋樑、隧道、捷運）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (業主端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、交通部高速公路局"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "港灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 港務公司（碼頭工程）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 地方政府（道路、橋樑）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "捷運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（捷運土建工程）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 交通部高速公路局、鐵道局"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "港灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 臺灣港務公司（碼頭工程）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 地方政府"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東和鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "豐興鋼鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重機械:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 營建機械租賃商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "地質鑽探:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 地質調查設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $13.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "26.44",
+                  "N/A",
+                  "0.75",
+                  "1.16",
+                  "-4.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9038.39",
+                  "7099.11",
+                  "5346.12"
+                ],
+                [
+                  "Gross Profit",
+                  "606.98",
+                  "307.52",
+                  "317.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.72",
+                  "4.33",
+                  "5.94"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3.16",
+                  "3.03",
+                  "1.42"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "306.69",
+                  "258.28",
+                  "187.48"
+                ],
+                [
+                  "Operating Income",
+                  "297.13",
+                  "46.21",
+                  "128.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.29",
+                  "0.65",
+                  "2.40"
+                ],
+                [
+                  "Net Income",
+                  "253.87",
+                  "9.68",
+                  "67.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.81",
+                  "0.14",
+                  "1.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2567.92",
+                  "2810.08",
+                  "132.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1910.69",
+                  "-2407.34",
+                  "-945.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-376.52",
+                  "43.43",
+                  "398.34"
+                ],
+                [
+                  "CAPEX",
+                  "-50.03",
+                  "-46.60",
+                  "-80.04"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2017.40",
+                  "2218.16",
+                  "2649.30",
+                  "2153.53"
+                ],
+                [
+                  "Gross Profit",
+                  "155.74",
+                  "189.98",
+                  "158.76",
+                  "102.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.72",
+                  "8.56",
+                  "5.99",
+                  "4.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1.45",
+                  "0.45",
+                  "0.54",
+                  "0.73"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "73.64",
+                  "88.03",
+                  "77.20",
+                  "67.82"
+                ],
+                [
+                  "Operating Income",
+                  "80.65",
+                  "101.51",
+                  "81.01",
+                  "33.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.00",
+                  "4.58",
+                  "3.06",
+                  "1.58"
+                ],
+                [
+                  "Net Income",
+                  "71.40",
+                  "114.90",
+                  "75.20",
+                  "-7.62"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.54",
+                  "5.18",
+                  "2.84",
+                  "-0.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "923.43",
+                  "1267.09",
+                  "949.89",
+                  "-572.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-46.06",
+                  "-1469.79",
+                  "-581.55",
+                  "186.71"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-31.65",
+                  "3.55",
+                  "86.37",
+                  "-434.79"
+                ],
+                [
+                  "CAPEX",
+                  "-10.65",
+                  "-15.41",
+                  "-18.10",
+                  "-5.88"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "工信工程",
+    "東和鋼鐵",
+    "豐興鋼鐵",
+    "台灣水泥",
+    "亞洲水泥",
+    "台北捷運",
+    "台北捷運",
+    "東和鋼鐵",
+    "豐興鋼鐵",
+    "台灣水泥",
+    "亞洲水泥"
+  ]
+}

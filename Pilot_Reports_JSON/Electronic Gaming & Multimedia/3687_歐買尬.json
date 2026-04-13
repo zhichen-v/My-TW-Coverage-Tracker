@@ -1,0 +1,708 @@
+{
+  "report_id": "Pilot_Reports/Electronic Gaming & Multimedia/3687_歐買尬.md",
+  "source_path": "Pilot_Reports/Electronic Gaming & Multimedia/3687_歐買尬.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Gaming & Multimedia/3687_歐買尬.json",
+  "ticker": "3687",
+  "company_name": "歐買尬",
+  "title": "# 3687 - 歐買尬",
+  "sector_folder": "Electronic Gaming & Multimedia",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Gaming & Multimedia"
+      },
+      {
+        "label": "市值:",
+        "value": "2,080 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,292 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "茂為歐買尬 (3687，MacroWell OMG) 為台灣數位娛樂與金融科技集團，已從早期線上遊戲營運商成功轉型為橫跨遊戲、第三方支付與電子支付的數位雲端企業。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心業務三大支柱：(1) 數位支付 — 旗下子公司 "
+            },
+            {
+              "type": "wikilink",
+              "text": "綠界科技"
+            },
+            {
+              "type": "text",
+              "text": " (6763) 為台灣第三方支付龍頭，市佔率極高，服務數十萬中小型電商賣家，競爭對手為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "藍新科技"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LINE Pay"
+            },
+            {
+              "type": "text",
+              "text": "；另一子公司歐付寶為台灣首家取得電子支付執照的業者，深耕跨境支付與微小商家服務；(2) 遊戲平台 — 經營「OMG 遊戲派對」平台，代理營運多款線上遊戲與手遊，搭配 FunPoint 數位娛樂支付服務；(3) 行銷科技 — 提供 B2B、B2C 數位金流整合方案與資訊軟體服務，賦能中小企業電商轉型。集團轉投資持有 "
+            },
+            {
+              "type": "wikilink",
+              "text": "精誠資訊"
+            },
+            {
+              "type": "text",
+              "text": " 旗下精誠金融股權。2025 年前三季合併營收 13.33 億元，年增 5.2%，受惠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "綠界科技"
+            },
+            {
+              "type": "text",
+              "text": " 處分轉投資精誠金融之業外收益，稅後淨利大增 184%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (技術與金融基礎設施)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行金融清算系統、信用卡收單機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器代管與雲端服務供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲內容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外遊戲開發商 (IP 授權)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "第三方支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣第三方支付龍頭)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐付寶 (跨境支付與電子錢包)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "歐買尬"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (OMG 遊戲派對平台營運、FunPoint 數位支付)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "行銷科技:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 數位金流整合與 B2B 解決方案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商賣家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型電商、網路服務平台 — 使用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金流服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "實體商家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微小店家 — 使用歐付寶收付款"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲玩家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線上遊戲與手遊消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "直播電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 直播賣貨業者 — 金流整合服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型電商賣家、網路服務平台 — 使用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 第三方支付收款"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "實體零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微小店家 — 使用歐付寶電子支付工具"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲玩家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線上遊戲與手遊消費者 — OMG 遊戲派對平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "直播電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 直播賣貨業者 — 金流整合服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲內容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外遊戲開發商 — IP 授權與遊戲代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VISA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mastercard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 信用卡收單機構 — 金流清算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器代管與雲端基礎設施供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "轉投資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 持有 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "精誠資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 旗下精誠金融股權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $69.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.50",
+                  "N/A",
+                  "1.14",
+                  "1.30",
+                  "3.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1827.77",
+                  "1722.12",
+                  "1624.34"
+                ],
+                [
+                  "Gross Profit",
+                  "737.07",
+                  "701.21",
+                  "670.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.33",
+                  "40.72",
+                  "41.30"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "127.75",
+                  "107.15",
+                  "99.52"
+                ],
+                [
+                  "R&D Exp",
+                  "140.30",
+                  "125.42",
+                  "110.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "191.54",
+                  "161.14",
+                  "139.21"
+                ],
+                [
+                  "Operating Income",
+                  "277.49",
+                  "307.50",
+                  "321.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.18",
+                  "17.86",
+                  "19.80"
+                ],
+                [
+                  "Net Income",
+                  "140.50",
+                  "69.99",
+                  "52.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.69",
+                  "4.06",
+                  "3.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "409.18",
+                  "430.71",
+                  "946.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "182.36",
+                  "-239.52",
+                  "-631.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-235.89",
+                  "-280.42",
+                  "-144.27"
+                ],
+                [
+                  "CAPEX",
+                  "-46.57",
+                  "-157.81",
+                  "-1412.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "494.88",
+                  "464.53",
+                  "442.24",
+                  "426.11"
+                ],
+                [
+                  "Gross Profit",
+                  "196.44",
+                  "187.10",
+                  "180.99",
+                  "172.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.69",
+                  "40.28",
+                  "40.93",
+                  "40.49"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "36.30",
+                  "35.13",
+                  "29.65",
+                  "26.68"
+                ],
+                [
+                  "R&D Exp",
+                  "42.12",
+                  "34.65",
+                  "32.41",
+                  "31.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "51.84",
+                  "52.30",
+                  "44.42",
+                  "42.98"
+                ],
+                [
+                  "Operating Income",
+                  "66.18",
+                  "65.03",
+                  "74.51",
+                  "71.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.37",
+                  "14.00",
+                  "16.85",
+                  "16.84"
+                ],
+                [
+                  "Net Income",
+                  "6.02",
+                  "106.95",
+                  "10.75",
+                  "16.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.22",
+                  "23.02",
+                  "2.43",
+                  "3.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "77.62",
+                  "29.45",
+                  "172.94",
+                  "129.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "71.45",
+                  "116.09",
+                  "46.83",
+                  "-52.01"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-286.62",
+                  "124.86",
+                  "48.77",
+                  "-122.89"
+                ],
+                [
+                  "CAPEX",
+                  "-14.54",
+                  "-10.83",
+                  "-14.09",
+                  "-7.11"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "綠界科技",
+    "藍新科技",
+    "LINE Pay",
+    "精誠資訊",
+    "綠界科技",
+    "綠界科技",
+    "綠界科技",
+    "綠界科技",
+    "VISA",
+    "Mastercard",
+    "綠界科技",
+    "精誠資訊"
+  ]
+}

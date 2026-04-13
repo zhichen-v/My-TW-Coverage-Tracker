@@ -1,0 +1,608 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4939_亞電.md",
+  "source_path": "Pilot_Reports/Electronic Components/4939_亞電.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4939_亞電.json",
+  "ticker": "4939",
+  "company_name": "亞電",
+  "title": "# 4939 - 亞電",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "2,917 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,247 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "亞洲電材 (Asia Electronic Material, AEM) 專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "軟性[[銅箔]]基層板 ([[FCCL]])"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "覆蓋膜 (Coverlay)"
+            },
+            {
+              "type": "text",
+              "text": " 之研發與製造。\n為軟性印刷電路板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": ") 產業之上游關鍵材料供應商。\n主要產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "覆蓋膜 (Coverlay)"
+            },
+            {
+              "type": "text",
+              "text": ": 保護軟板線路絕緣用。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "軟性[[銅箔]]基板 (FCCL)"
+            },
+            {
+              "type": "text",
+              "text": ": FPC 的基材。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "補強板 (Stiffener)"
+            },
+            {
+              "type": "text",
+              "text": ": 補強軟板機械強度。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "純膠 (Bonding Sheet)"
+            },
+            {
+              "type": "text",
+              "text": "。\n近年積極開發 "
+            },
+            {
+              "type": "strong",
+              "text": "車載"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "電池軟板材料) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[5G]] 高頻"
+            },
+            {
+              "type": "text",
+              "text": " (LCP/MPI) 應用材料，降低對"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "依賴。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "亞電 (4939)"
+            },
+            {
+              "type": "text",
+              "text": " - 軟板材料 (FCCL, Coverlay).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游原料"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "金居"
+            },
+            {
+              "type": "text",
+              "text": "), PI 膜 (杜邦, 達邁).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "軟板廠 (FPC Makers)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "臻鼎-KY"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台郡"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "嘉聯益"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "終端應用"
+            },
+            {
+              "type": "text",
+              "text": ": 手機 (最大宗), 穿戴裝置, 車用電子 (電池模組 FPC), 醫療。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "軟板廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": 中國大陸 FPC 廠 (比重高), 台灣軟板廠.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "終端品牌"
+                },
+                {
+                  "type": "text",
+                  "text": ": 華為, 小米, OPPO, vivo, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Apple"
+                },
+                {
+                  "type": "text",
+                  "text": " (間接)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "PI Film"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "達邁"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Taimide"
+                },
+                {
+                  "type": "text",
+                  "text": ", Kaneka.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[銅箔]]"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "南亞"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "長春"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.06",
+                  "2.16",
+                  "75.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1417.55",
+                  "1541.70",
+                  "1548.51"
+                ],
+                [
+                  "Gross Profit",
+                  "307.12",
+                  "325.70",
+                  "338.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.67",
+                  "21.13",
+                  "21.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "78.41",
+                  "85.91",
+                  "84.08"
+                ],
+                [
+                  "R&D Exp",
+                  "82.09",
+                  "87.45",
+                  "77.43"
+                ],
+                [
+                  "General & Admin Exp",
+                  "109.12",
+                  "104.35",
+                  "95.27"
+                ],
+                [
+                  "Operating Income",
+                  "37.49",
+                  "48.00",
+                  "82.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.64",
+                  "3.11",
+                  "5.31"
+                ],
+                [
+                  "Net Income",
+                  "-42.34",
+                  "19.08",
+                  "36.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.99",
+                  "1.24",
+                  "2.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "76.42",
+                  "49.47",
+                  "30.38"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-121.89",
+                  "-54.47",
+                  "-42.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.09",
+                  "124.16",
+                  "-266.30"
+                ],
+                [
+                  "CAPEX",
+                  "-102.99",
+                  "-50.87",
+                  "-56.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "352.64",
+                  "377.05",
+                  "352.55",
+                  "335.31"
+                ],
+                [
+                  "Gross Profit",
+                  "77.28",
+                  "87.08",
+                  "63.46",
+                  "79.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.91",
+                  "23.10",
+                  "18.00",
+                  "23.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.47",
+                  "20.20",
+                  "20.11",
+                  "18.63"
+                ],
+                [
+                  "R&D Exp",
+                  "17.20",
+                  "17.46",
+                  "24.94",
+                  "22.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "28.90",
+                  "27.86",
+                  "24.61",
+                  "27.75"
+                ],
+                [
+                  "Operating Income",
+                  "11.70",
+                  "21.56",
+                  "-6.20",
+                  "10.43"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.32",
+                  "5.72",
+                  "-1.76",
+                  "3.11"
+                ],
+                [
+                  "Net Income",
+                  "9.74",
+                  "22.74",
+                  "-80.48",
+                  "5.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.76",
+                  "6.03",
+                  "-22.83",
+                  "1.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "74.86",
+                  "-23.20",
+                  "33.82",
+                  "-9.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-30.74",
+                  "-21.30",
+                  "-42.62",
+                  "-27.23"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "92.07",
+                  "-115.67",
+                  "-134.12",
+                  "152.63"
+                ],
+                [
+                  "CAPEX",
+                  "-30.70",
+                  "-20.97",
+                  "-24.01",
+                  "-27.32"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "銅箔",
+    "FCCL",
+    "FPC",
+    "銅箔",
+    "電動車",
+    "5G",
+    "消費性電子",
+    "銅箔",
+    "金居",
+    "臻鼎-KY",
+    "台郡",
+    "嘉聯益",
+    "Apple",
+    "達邁",
+    "Taimide",
+    "銅箔",
+    "南亞",
+    "長春"
+  ]
+}

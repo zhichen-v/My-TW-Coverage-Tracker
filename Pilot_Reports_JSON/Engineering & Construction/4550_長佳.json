@@ -1,0 +1,645 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/4550_長佳.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/4550_長佳.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/4550_長佳.json",
+  "ticker": "4550",
+  "company_name": "長佳",
+  "title": "# 4550 - 長佳",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Healthcare"
+      },
+      {
+        "label": "產業:",
+        "value": "Health Information Services"
+      },
+      {
+        "label": "市值:",
+        "value": "929 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "383 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "長佳智能"
+            },
+            {
+              "type": "text",
+              "text": "（EverFortune.ai）為"
+            },
+            {
+              "type": "wikilink",
+              "text": "中國醫藥大學"
+            },
+            {
+              "type": "text",
+              "text": "衍生新創公司，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "晟德大藥廠"
+            },
+            {
+              "type": "text",
+              "text": "集團，專注於醫療人工智慧（AI）與大數據應用。公司以醫療 AI、雲端生醫平台與醫療大數據為三大核心發展方向，提供臨床輔助診斷、醫學研究、醫務核保理賠自動化審查、營養保健及體重管理等解決方案。已取得 49 張國際醫療器材許可證（含 11 張美國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "FDA"
+            },
+            {
+              "type": "text",
+              "text": "、15 張台灣 TFDA、越南 4 張、泰國 5 張、新加坡 1 張、馬來西亞 4 張）及 30 項全球專利。合作醫療機構超過 12 家。近期與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "群[[聯電"
+            },
+            {
+              "type": "text",
+              "text": "子]] 合資成立「長聯科技」，發展 AI 醫療機器人。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (技術與數據)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療數據:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國醫藥大學"
+                    },
+                    {
+                      "type": "text",
+                      "text": "附設醫院（臨床資料庫）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 運算:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GPU、雲端運算平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲存晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群[[聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "子]]（合資長聯科技）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (AI 平台開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "長佳智能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 醫療 AI 演算法、雲端生醫平台開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫院:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國醫藥大學"
+                    },
+                    {
+                      "type": "text",
+                      "text": "附設醫院等 12 家以上醫療機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壽險公司（核保理賠 AI）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞醫療市場"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國醫藥大學"
+                    },
+                    {
+                      "type": "text",
+                      "text": "附設醫院等 12 家以上合作醫院"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壽險公司（醫務核保與理賠自動化 AI）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞醫療機構（越南、泰國、馬來西亞、新加坡）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晟德大藥廠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（策略股東）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "學術合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國醫藥大學"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（數據與研發）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 硬體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（GPU 運算）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合資夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群[[聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "子]]（長聯科技）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.46",
+                  "N/A",
+                  "1.01",
+                  "0.97",
+                  "2.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "919.05",
+                  "1249.58",
+                  "1909.08"
+                ],
+                [
+                  "Gross Profit",
+                  "140.39",
+                  "199.62",
+                  "262.68"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.28",
+                  "15.97",
+                  "13.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "87.66",
+                  "94.45",
+                  "95.70"
+                ],
+                [
+                  "Operating Income",
+                  "52.73",
+                  "105.17",
+                  "166.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.74",
+                  "8.42",
+                  "8.75"
+                ],
+                [
+                  "Net Income",
+                  "50.59",
+                  "119.63",
+                  "123.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.50",
+                  "9.57",
+                  "6.45"
+                ],
+                [
+                  "Op Cash Flow",
+                  "306.96",
+                  "319.60",
+                  "274.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-192.85",
+                  "-109.76",
+                  "-184.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-77.93",
+                  "-160.34",
+                  "-30.31"
+                ],
+                [
+                  "CAPEX",
+                  "-137.96",
+                  "-81.57",
+                  "-191.04"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "332.66",
+                  "193.75",
+                  "200.21",
+                  "192.44"
+                ],
+                [
+                  "Gross Profit",
+                  "49.91",
+                  "33.47",
+                  "30.58",
+                  "26.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.00",
+                  "17.27",
+                  "15.27",
+                  "13.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.90",
+                  "20.27",
+                  "24.04",
+                  "21.45"
+                ],
+                [
+                  "Operating Income",
+                  "28.01",
+                  "13.20",
+                  "6.54",
+                  "4.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.42",
+                  "6.81",
+                  "3.27",
+                  "2.58"
+                ],
+                [
+                  "Net Income",
+                  "25.85",
+                  "13.55",
+                  "4.31",
+                  "6.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.77",
+                  "7.00",
+                  "2.15",
+                  "3.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "96.08",
+                  "-26.01",
+                  "163.82",
+                  "73.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-88.80",
+                  "-27.16",
+                  "-39.52",
+                  "-37.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.31",
+                  "-76.33",
+                  "-0.47",
+                  "0.18"
+                ],
+                [
+                  "CAPEX",
+                  "-68.91",
+                  "-21.66",
+                  "-35.02",
+                  "-12.38"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "長佳智能",
+    "中國醫藥大學",
+    "晟德大藥廠",
+    "FDA",
+    "群[[聯電",
+    "中國醫藥大學",
+    "NVIDIA",
+    "群[[聯電",
+    "中國醫藥大學",
+    "中國醫藥大學",
+    "晟德大藥廠",
+    "中國醫藥大學",
+    "NVIDIA",
+    "群[[聯電"
+  ]
+}

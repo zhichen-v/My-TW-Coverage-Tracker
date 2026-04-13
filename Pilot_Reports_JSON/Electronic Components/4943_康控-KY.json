@@ -1,0 +1,560 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4943_康控-KY.md",
+  "source_path": "Pilot_Reports/Electronic Components/4943_康控-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4943_康控-KY.json",
+  "ticker": "4943",
+  "company_name": "康控-KY",
+  "title": "# 4943 - 康控-KY",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,463 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,701 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "康控-KY (Concraft) 初期以"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "模具起家，後轉型為 "
+            },
+            {
+              "type": "strong",
+              "text": "聲學元件"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "精密機構件"
+            },
+            {
+              "type": "text",
+              "text": " 大廠。\n核心技術：Insert Molding (埋入式射出成型) 與精密模具。\n主要產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "聲學元件"
+            },
+            {
+              "type": "text",
+              "text": ": 微型揚聲器機構件、受話器 (Receiver) 機構件 (曾為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " 主要供應商)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "汽車零部件"
+            },
+            {
+              "type": "text",
+              "text": ": 車載鏡頭機構件、感測器部件、矽膠車燈、"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "光學/電子"
+            },
+            {
+              "type": "text",
+              "text": ": 用於消費電子的精密"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "、矽膠產品。\n近年面臨消費電子競爭，積極轉型 "
+            },
+            {
+              "type": "strong",
+              "text": "車用領域"
+            },
+            {
+              "type": "text",
+              "text": " (Tier 1 供應商) 與高階光學應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "康控-KY (4943)"
+            },
+            {
+              "type": "text",
+              "text": " - 精密機構件/聲學組件製造.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 塑膠粒, 金屬材料, 矽膠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "聲學模組廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "歌爾聲學"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "瑞聲科技"
+            },
+            {
+              "type": "text",
+              "text": " (AAC).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "終端品牌"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[Apple]]"
+            },
+            {
+              "type": "text",
+              "text": " (過去主力), "
+            },
+            {
+              "type": "strong",
+              "text": "車廠"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Volkswagen"
+            },
+            {
+              "type": "text",
+              "text": ", Brose)."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "聲學"
+                },
+                {
+                  "type": "text",
+                  "text": ": 美系大客戶 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Apple"
+                },
+                {
+                  "type": "text",
+                  "text": " - 間接或直接), 歌爾.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "Brose"
+                },
+                {
+                  "type": "text",
+                  "text": " (德國博澤), "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Volkswagen]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (大眾汽車), 新能源車廠."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   (無特定單一依賴，廣泛採購塑膠與金屬原料)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $11.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "0.95",
+                  "0.87",
+                  "7.60",
+                  "-20.25"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1690.29",
+                  "1516.44",
+                  "1683.81"
+                ],
+                [
+                  "Gross Profit",
+                  "-50.90",
+                  "-56.17",
+                  "-28.47"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-3.01",
+                  "-3.70",
+                  "-1.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "52.94",
+                  "55.73",
+                  "61.72"
+                ],
+                [
+                  "R&D Exp",
+                  "151.78",
+                  "115.59",
+                  "108.60"
+                ],
+                [
+                  "General & Admin Exp",
+                  "182.09",
+                  "212.21",
+                  "213.65"
+                ],
+                [
+                  "Operating Income",
+                  "-437.70",
+                  "-439.70",
+                  "-412.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-25.90",
+                  "-29.00",
+                  "-24.49"
+                ],
+                [
+                  "Net Income",
+                  "-233.76",
+                  "-145.22",
+                  "-248.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-13.83",
+                  "-9.58",
+                  "-14.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-68.87",
+                  "-221.09",
+                  "-316.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-110.31",
+                  "73.06",
+                  "112.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "193.62",
+                  "43.35",
+                  "419.52"
+                ],
+                [
+                  "CAPEX",
+                  "-158.26",
+                  "-73.39",
+                  "-70.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "494.04",
+                  "427.14",
+                  "397.53",
+                  "371.58"
+                ],
+                [
+                  "Gross Profit",
+                  "-1.18",
+                  "0.33",
+                  "-25.55",
+                  "-24.51"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-0.24",
+                  "0.08",
+                  "-6.43",
+                  "-6.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.00",
+                  "15.08",
+                  "12.05",
+                  "10.80"
+                ],
+                [
+                  "R&D Exp",
+                  "49.17",
+                  "39.02",
+                  "34.30",
+                  "29.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.02",
+                  "42.86",
+                  "49.20",
+                  "48.01"
+                ],
+                [
+                  "Operating Income",
+                  "-107.37",
+                  "-96.63",
+                  "-121.09",
+                  "-112.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-21.73",
+                  "-22.62",
+                  "-30.46",
+                  "-30.31"
+                ],
+                [
+                  "Net Income",
+                  "-47.20",
+                  "49.72",
+                  "-148.86",
+                  "-87.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-9.55",
+                  "11.64",
+                  "-37.45",
+                  "-23.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3.44",
+                  "-8.04",
+                  "-38.92",
+                  "-25.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-46.28",
+                  "-61.35",
+                  "-15.30",
+                  "12.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "85.02",
+                  "49.27",
+                  "-6.19",
+                  "65.53"
+                ],
+                [
+                  "CAPEX",
+                  "-51.90",
+                  "-51.79",
+                  "-16.01",
+                  "-38.56"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "連接器",
+    "Apple",
+    "連接器",
+    "連接器",
+    "歌爾聲學",
+    "瑞聲科技",
+    "Apple",
+    "Volkswagen",
+    "Apple",
+    "Volkswagen"
+  ]
+}

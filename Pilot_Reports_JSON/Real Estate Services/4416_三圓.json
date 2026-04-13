@@ -1,0 +1,540 @@
+{
+  "report_id": "Pilot_Reports/Real Estate Services/4416_三圓.md",
+  "source_path": "Pilot_Reports/Real Estate Services/4416_三圓.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate Services/4416_三圓.json",
+  "ticker": "4416",
+  "company_name": "三圓",
+  "title": "# 4416 - 三圓",
+  "sector_folder": "Real Estate Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate Services"
+      },
+      {
+        "label": "市值:",
+        "value": "878 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "12,715 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三圓建設股份有限公司 (4416) 為專注於大台北地區之精緻不動產開發商，以興建高品質"
+            },
+            {
+              "type": "wikilink",
+              "text": "豪宅"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "商辦"
+            },
+            {
+              "type": "text",
+              "text": "大樓聞名。近年代表作為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北"
+            },
+            {
+              "type": "text",
+              "text": "東區之指標豪宅案「"
+            },
+            {
+              "type": "wikilink",
+              "text": "Diamond Towers"
+            },
+            {
+              "type": "text",
+              "text": "」。公司主要採取先建後售或預售模式，鎖定高資產客群，並長期持有部分精華地段資產以獲取穩定租金收益。主要委託"
+            },
+            {
+              "type": "wikilink",
+              "text": "海悅國際"
+            },
+            {
+              "type": "text",
+              "text": "等代銷業者進行銷售，營造工程與知名營造廠如"
+            },
+            {
+              "type": "wikilink",
+              "text": "互助營造"
+            },
+            {
+              "type": "text",
+              "text": "合作。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三圓位於不動產產業鏈的"
+            },
+            {
+              "type": "strong",
+              "text": "中游建設端"
+            },
+            {
+              "type": "text",
+              "text": "：\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": "：土地開發、"
+            },
+            {
+              "type": "wikilink",
+              "text": "都市更新"
+            },
+            {
+              "type": "text",
+              "text": " 整合、"
+            },
+            {
+              "type": "wikilink",
+              "text": "建築師"
+            },
+            {
+              "type": "text",
+              "text": " 設計規劃、營造廠 工程承攬。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": "：建設公司 (三圓) 負責建案之整體規劃、財務槓桿操作與品牌行銷。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": "：銷售予 高資產人士、企業總部 或透過 代銷業者 進行銷售。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "購屋者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高資產人士 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Diamond Towers"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等指標"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "豪宅"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[商辦]]租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業總部辦公室租賃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "互助營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高階工程承攬"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "海悅國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 委託代銷服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "建材"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.60",
+                  "0.56",
+                  "32.47"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "404.30",
+                  "116.55",
+                  "95.72"
+                ],
+                [
+                  "Gross Profit",
+                  "108.98",
+                  "63.88",
+                  "51.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.96",
+                  "54.81",
+                  "54.21"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.24",
+                  "1.82",
+                  "1.89"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "49.78",
+                  "34.52",
+                  "49.65"
+                ],
+                [
+                  "Operating Income",
+                  "56.96",
+                  "27.54",
+                  "0.34"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.09",
+                  "23.63",
+                  "0.36"
+                ],
+                [
+                  "Net Income",
+                  "5.85",
+                  "-1.47",
+                  "-271.11"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.45",
+                  "-1.26",
+                  "-283.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-122.82",
+                  "134.24",
+                  "-1673.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "692.50",
+                  "-108.95",
+                  "27.39"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "85.52",
+                  "-452.19",
+                  "2390.45"
+                ],
+                [
+                  "CAPEX",
+                  "-0.32",
+                  "-2.01",
+                  "-0.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "27.62",
+                  "422.94",
+                  "24.51",
+                  "326.60"
+                ],
+                [
+                  "Gross Profit",
+                  "60.01",
+                  "160.11",
+                  "13.36",
+                  "64.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "217.26",
+                  "37.86",
+                  "54.50",
+                  "19.72"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.44",
+                  "17.67",
+                  "0.39",
+                  "1.03"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "27.10",
+                  "11.27",
+                  "7.73",
+                  "24.44"
+                ],
+                [
+                  "Operating Income",
+                  "32.47",
+                  "131.17",
+                  "5.23",
+                  "38.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "117.55",
+                  "31.01",
+                  "21.35",
+                  "11.93"
+                ],
+                [
+                  "Net Income",
+                  "-101.71",
+                  "88.24",
+                  "-86.96",
+                  "11.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-368.24",
+                  "20.86",
+                  "-354.84",
+                  "3.46"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-150.46",
+                  "275.25",
+                  "-550.61",
+                  "155.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "127.39",
+                  "15.34",
+                  "-407.46",
+                  "626.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "18.82",
+                  "-355.14",
+                  "-223.23",
+                  "185.30"
+                ],
+                [
+                  "CAPEX",
+                  "-2.13",
+                  "-0.45",
+                  "-0.16",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "豪宅",
+    "商辦",
+    "台北",
+    "Diamond Towers",
+    "海悅國際",
+    "互助營造",
+    "都市更新",
+    "建築師",
+    "Diamond Towers",
+    "豪宅",
+    "商辦",
+    "互助營造",
+    "海悅國際",
+    "建材"
+  ]
+}

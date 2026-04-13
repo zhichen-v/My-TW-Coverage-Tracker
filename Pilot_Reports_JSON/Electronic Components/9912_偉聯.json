@@ -1,0 +1,763 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/9912_偉聯.md",
+  "source_path": "Pilot_Reports/Electronic Components/9912_偉聯.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/9912_偉聯.json",
+  "ticker": "9912",
+  "company_name": "偉聯",
+  "title": "# 9912 - 偉聯",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "683 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "918 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "偉聯科技 (9912，AG Neovo/AIC) 為台灣專業顯示器品牌商與製造商，前身為 1978 年成立之偉聯工業 (鋼鐵貨櫃製造)，1999 年轉型進入電子業並創立自有品牌 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AG Neovo"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心業務以 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AG Neovo"
+            },
+            {
+              "type": "text",
+              "text": " 品牌行銷全球，產品線涵蓋：(1) 安防監控 — 專業安防監視器、4K 影像監控、SDI 監控顯示器，為公司營收主力；(2) 醫療顯示 — 牙科專用顯示器、臨床檢視顯示器、醫療觸控螢幕；(3) 商用顯示 — 數位電子看板、拼接電視牆、智慧白板、觸控顯示器；(4) 交通資訊 — 已進入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "台鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "捷運"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "高鐵"
+            },
+            {
+              "type": "text",
+              "text": " 系統，提供旅客資訊顯示方案。產品特色為長時間不停機運作與高度抗外力撞擊，在歐美安防與醫療市場具有知名度。公司亦涉及醫療器材銷售與不動產租賃。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (面板與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LCD 面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LCD 面板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動電路板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與驅動板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬機殼與支架供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (顯示器製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防監控顯示器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "偉聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AG Neovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌安防監視器製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療顯示器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "偉聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (牙科與臨床用醫療顯示器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "偉聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電子看板、拼接牆、觸控顯示器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防系統整合商 — 監控中心顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫院與牙科診所 — 醫療顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 旅客資訊顯示"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業場所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 零售與企業 — 數位看板與智慧白板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球安防系統整合商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AG Neovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 專業監控顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美醫院與牙科診所 — 醫療級顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 旅客資訊顯示方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業場所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 零售業與企業客戶 — 數位看板與觸控顯示"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LCD 面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LCD 面板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與驅動電路板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬機殼加工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.35",
+                  "1.72",
+                  "-23.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "506.37",
+                  "504.53",
+                  "510.59"
+                ],
+                [
+                  "Gross Profit",
+                  "210.36",
+                  "197.82",
+                  "199.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.54",
+                  "39.21",
+                  "39.10"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "154.10",
+                  "130.14",
+                  "126.70"
+                ],
+                [
+                  "R&D Exp",
+                  "43.23",
+                  "41.69",
+                  "36.90"
+                ],
+                [
+                  "General & Admin Exp",
+                  "73.69",
+                  "88.41",
+                  "76.09"
+                ],
+                [
+                  "Operating Income",
+                  "-60.67",
+                  "-62.42",
+                  "-40.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.98",
+                  "-12.37",
+                  "-7.84"
+                ],
+                [
+                  "Net Income",
+                  "-59.68",
+                  "-51.65",
+                  "-20.64"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-11.79",
+                  "-10.24",
+                  "-4.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-36.02",
+                  "-111.66",
+                  "68.21"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7.35",
+                  "-10.63",
+                  "-5.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "43.59",
+                  "83.35",
+                  "-59.40"
+                ],
+                [
+                  "CAPEX",
+                  "-3.52",
+                  "-10.07",
+                  "-4.91"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "143.76",
+                  "120.37",
+                  "126.22",
+                  "116.02"
+                ],
+                [
+                  "Gross Profit",
+                  "62.31",
+                  "48.38",
+                  "51.67",
+                  "48.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.35",
+                  "40.19",
+                  "40.94",
+                  "41.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.55",
+                  "31.50",
+                  "36.17",
+                  "40.88"
+                ],
+                [
+                  "R&D Exp",
+                  "9.98",
+                  "8.89",
+                  "11.27",
+                  "13.09"
+                ],
+                [
+                  "General & Admin Exp",
+                  "8.10",
+                  "23.55",
+                  "19.44",
+                  "22.60"
+                ],
+                [
+                  "Operating Income",
+                  "-1.32",
+                  "-15.56",
+                  "-15.21",
+                  "-28.58"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.92",
+                  "-12.93",
+                  "-12.05",
+                  "-24.63"
+                ],
+                [
+                  "Net Income",
+                  "1.52",
+                  "-14.33",
+                  "-20.04",
+                  "-26.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.06",
+                  "-11.90",
+                  "-15.88",
+                  "-23.12"
+                ],
+                [
+                  "Op Cash Flow",
+                  "33.10",
+                  "-41.27",
+                  "4.38",
+                  "-32.23"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.30",
+                  "-0.41",
+                  "-1.50",
+                  "-1.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-19.54",
+                  "5.31",
+                  "24.67",
+                  "33.15"
+                ],
+                [
+                  "CAPEX",
+                  "-2.09",
+                  "-0.35",
+                  "-0.15",
+                  "-0.92"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AG Neovo",
+    "AG Neovo",
+    "台鐵",
+    "捷運",
+    "高鐵",
+    "友達",
+    "群創",
+    "PCB",
+    "AG Neovo",
+    "台鐵",
+    "捷運",
+    "高鐵",
+    "AG Neovo",
+    "台鐵",
+    "捷運",
+    "高鐵",
+    "友達",
+    "群創",
+    "PCB"
+  ]
+}

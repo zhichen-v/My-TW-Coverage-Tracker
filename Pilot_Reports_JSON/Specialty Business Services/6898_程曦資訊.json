@@ -1,0 +1,578 @@
+{
+  "report_id": "Pilot_Reports/Specialty Business Services/6898_程曦資訊.md",
+  "source_path": "Pilot_Reports/Specialty Business Services/6898_程曦資訊.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Business Services/6898_程曦資訊.json",
+  "ticker": "6898",
+  "company_name": "程曦資訊",
+  "title": "# 6898 - [[程曦資訊]]",
+  "sector_folder": "Specialty Business Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Business Services"
+      },
+      {
+        "label": "市值:",
+        "value": "3,308 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,951 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "程曦資訊整合股份有限公司 (6898) 為台灣最大的數位客戶關係管理 (DCRM) 與BPO專案委外服務龍頭。主要業務包括："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "BPO客服委外："
+            },
+            {
+              "type": "text",
+              "text": " 自2004年起跨足BPO委外營運，為業界唯一同時具備原生技術、營運經驗及流程管理能力之一站式服務商。2025年營收11.96億元創歷史新高。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "DCRM系統："
+            },
+            {
+              "type": "text",
+              "text": " 數位客戶關係管理系統建置與SaaS租賃服務。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "AI客服平台："
+            },
+            {
+              "type": "text",
+              "text": " 整合智能機器人應答及文字客服，展現大規模人力調度與系統承載力。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "客戶涵蓋企業、政府部門及公/國營事業，合作品牌包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "OPPO"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣萊雅"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "可口可樂"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣高鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (技術平台)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端基礎設施："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雲端總機服務 (Cloud PBX) 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI引擎："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大語言模型 (LLM) 引擎開發商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "硬體設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 客服中心資訊硬體設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (客服營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "程曦資訊 (6898)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " DCRM系統建置/SaaS服務、客服中心營運與BPO委外執行管理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 經濟部、勞動部、內政部營建署等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公營事業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華郵政"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣萊雅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "可口可樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 經濟部、勞動部、內政部營建署（長期核心客群，續約率極高）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公營事業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華郵政"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣萊雅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "可口可樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雲端總機與通訊服務供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI技術："
+                    },
+                    {
+                      "type": "text",
+                      "text": " LLM大語言模型引擎開發商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $114.00 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "21.11",
+                  "N/A",
+                  "2.93",
+                  "6.71",
+                  "16.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1129.63",
+                  "926.30",
+                  "970.13"
+                ],
+                [
+                  "Gross Profit",
+                  "281.77",
+                  "235.95",
+                  "291.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.94",
+                  "25.47",
+                  "30.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "22.24",
+                  "18.91",
+                  "23.67"
+                ],
+                [
+                  "R&D Exp",
+                  "16.56",
+                  "8.84",
+                  "1.08"
+                ],
+                [
+                  "General & Admin Exp",
+                  "55.72",
+                  "50.66",
+                  "69.63"
+                ],
+                [
+                  "Operating Income",
+                  "187.25",
+                  "157.54",
+                  "197.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.58",
+                  "17.01",
+                  "20.31"
+                ],
+                [
+                  "Net Income",
+                  "182.72",
+                  "134.31",
+                  "168.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.18",
+                  "14.50",
+                  "17.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "151.63",
+                  "85.23",
+                  "160.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-65.91",
+                  "16.06",
+                  "-57.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-114.05",
+                  "-67.62",
+                  "-93.05"
+                ],
+                [
+                  "CAPEX",
+                  "-14.73",
+                  "-7.05",
+                  "-11.41"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "程曦資訊",
+    "OPPO",
+    "台灣萊雅",
+    "可口可樂",
+    "台灣高鐵",
+    "台電",
+    "中華郵政",
+    "台電",
+    "OPPO",
+    "台灣萊雅",
+    "可口可樂",
+    "台灣高鐵",
+    "中華郵政",
+    "台電",
+    "OPPO",
+    "台灣萊雅",
+    "可口可樂",
+    "台灣高鐵"
+  ]
+}

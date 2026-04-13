@@ -1,0 +1,751 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/1101_台泥.md",
+  "source_path": "Pilot_Reports/Building Materials/1101_台泥.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/1101_台泥.json",
+  "ticker": "1101",
+  "company_name": "台泥",
+  "title": "# 1101 - [[台泥]]",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "195,407 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "331,388 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台灣水泥股份有限公司 (1101，TCC Group) 成立於 1946 年，為台灣第一家股票上市公司，已從傳統水泥製造廠轉型為「綠色環境工程集團」。核心業務涵蓋三大板塊：(1) 低碳建材 — 生產"
+            },
+            {
+              "type": "wikilink",
+              "text": "低碳水泥"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "預拌混凝土"
+            },
+            {
+              "type": "text",
+              "text": "，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "南科建廠主力低碳混凝土供應商；(2) 資源循環 — 利用水泥窯協同處理廢棄物；(3) 綠色能源 — 透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "能元科技"
+            },
+            {
+              "type": "text",
+              "text": "生產鋰電池、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台泥儲能"
+            },
+            {
+              "type": "text",
+              "text": "發展儲能系統，並透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "NHOA"
+            },
+            {
+              "type": "text",
+              "text": "佈局歐洲電動車充電網絡。營運版圖橫跨歐、亞、非三洲，子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "台泥國際"
+            },
+            {
+              "type": "text",
+              "text": "深耕中國市場，土耳其"
+            },
+            {
+              "type": "wikilink",
+              "text": "OYAK"
+            },
+            {
+              "type": "text",
+              "text": "水泥為當地最大水泥廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與能源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "核心原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石灰石"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自有礦山)、砂石、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熟料"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石膏"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "替代燃料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業廢棄物、廢輪胎、生質能作為水泥窯替代燃料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "循環經濟材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中聯資源"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 提供高爐石等循環經濟材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (水泥生產與新能源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台泥]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 水泥研磨、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "預拌混凝土"
+                    },
+                    {
+                      "type": "text",
+                      "text": "生產"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[能元科技]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高階鋰電池製造"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台泥儲能]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 大型儲能系統開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎建設:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機場、港口、橋樑、捷運、高速公路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技廠房:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 建廠用低碳混凝土"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NHOA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 歐洲電動車充電網絡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 南科建廠主力低碳混凝土供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營建與預拌業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和昌國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "永炬"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "得福混凝土"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等營造廠與預拌混凝土廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府交通部、捷運局"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "循環經濟材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中聯資源"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高爐石"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陸海運物流:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宇鑫交通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "有麒實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 陸運；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "裕民航運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 海運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 土耳其"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OYAK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "水泥集團 — 熟料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.40 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "15.64",
+                  "1.30",
+                  "0.83",
+                  "12.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "149804.14",
+                  "154606.51",
+                  "109314.34"
+                ],
+                [
+                  "Gross Profit",
+                  "27557.59",
+                  "32728.03",
+                  "20533.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.40",
+                  "21.17",
+                  "18.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1684.33",
+                  "1405.45",
+                  "967.61"
+                ],
+                [
+                  "R&D Exp",
+                  "1324.21",
+                  "1453.06",
+                  "1440.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14471.45",
+                  "12742.89",
+                  "8095.69"
+                ],
+                [
+                  "Operating Income",
+                  "10077.59",
+                  "17126.62",
+                  "10030.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.73",
+                  "11.08",
+                  "9.18"
+                ],
+                [
+                  "Net Income",
+                  "-11617.61",
+                  "11259.32",
+                  "7997.81"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-7.76",
+                  "7.28",
+                  "7.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "33191.58",
+                  "31793.94",
+                  "36919.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-13562.14",
+                  "-36707.88",
+                  "-46046.01"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5456.11",
+                  "13823.04",
+                  "-12510.71"
+                ],
+                [
+                  "CAPEX",
+                  "-27020.47",
+                  "-34651.14",
+                  "-26639.96"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "40426.55",
+                  "39066.90",
+                  "35354.42",
+                  "34956.25"
+                ],
+                [
+                  "Gross Profit",
+                  "7473.05",
+                  "8843.98",
+                  "5346.85",
+                  "5893.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.49",
+                  "22.64",
+                  "15.12",
+                  "16.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "508.68",
+                  "367.78",
+                  "406.17",
+                  "401.70"
+                ],
+                [
+                  "R&D Exp",
+                  "288.00",
+                  "305.08",
+                  "385.21",
+                  "345.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "5154.76",
+                  "3031.04",
+                  "3441.03",
+                  "2844.62"
+                ],
+                [
+                  "Operating Income",
+                  "1521.61",
+                  "5140.08",
+                  "1114.43",
+                  "2301.47"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.76",
+                  "13.16",
+                  "3.15",
+                  "6.58"
+                ],
+                [
+                  "Net Income",
+                  "-2378.21",
+                  "-10200.12",
+                  "433.43",
+                  "527.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.88",
+                  "-26.11",
+                  "1.23",
+                  "1.51"
+                ],
+                [
+                  "Op Cash Flow",
+                  "14278.58",
+                  "7275.70",
+                  "4807.59",
+                  "6829.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1674.25",
+                  "3547.14",
+                  "-2276.55",
+                  "-13158.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11125.77",
+                  "3453.56",
+                  "-15707.76",
+                  "17923.86"
+                ],
+                [
+                  "CAPEX",
+                  "-6550.38",
+                  "-6779.85",
+                  "-4936.18",
+                  "-8754.06"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台泥",
+    "低碳水泥",
+    "預拌混凝土",
+    "台積電",
+    "能元科技",
+    "台泥儲能",
+    "NHOA",
+    "台泥國際",
+    "OYAK",
+    "石灰石",
+    "熟料",
+    "石膏",
+    "中聯資源",
+    "台泥",
+    "預拌混凝土",
+    "能元科技",
+    "台泥儲能",
+    "台積電",
+    "NHOA",
+    "台積電",
+    "和昌國際",
+    "永炬",
+    "得福混凝土",
+    "中聯資源",
+    "宇鑫交通",
+    "有麒實業",
+    "裕民航運",
+    "OYAK"
+  ]
+}

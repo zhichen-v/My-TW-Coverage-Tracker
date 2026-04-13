@@ -1,0 +1,506 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/4523_永彰.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/4523_永彰.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/4523_永彰.json",
+  "ticker": "4523",
+  "company_name": "永彰",
+  "title": "# 4523 - 永彰",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "1,958 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,210 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "永彰科技 (4523，原與"
+            },
+            {
+              "type": "wikilink",
+              "text": "Marelli"
+            },
+            {
+              "type": "text",
+              "text": "合資) 專注汽車空調 (冷凝器/蒸發器)。延伸至"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "水冷"
+            },
+            {
+              "type": "text",
+              "text": "散熱及"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "熱管理。客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "裕隆"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華汽車"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鋁材/銅材\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "永彰"
+            },
+            {
+              "type": "text",
+              "text": " (汽車空調/"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "水冷"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "熱管理)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "裕隆"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華汽車"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "裕隆"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 空調"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ODM — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "水冷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "鋁材/銅材; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Marelli"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (歷史)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $30.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "1.37",
+                  "N/A",
+                  "3.41",
+                  "0.88",
+                  "-1.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "573.79",
+                  "618.01",
+                  "582.56"
+                ],
+                [
+                  "Gross Profit",
+                  "-408.96",
+                  "121.54",
+                  "139.56"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-71.27",
+                  "19.67",
+                  "23.96"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "104.79",
+                  "69.32",
+                  "43.06"
+                ],
+                [
+                  "R&D Exp",
+                  "38.41",
+                  "46.42",
+                  "37.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "283.47",
+                  "187.36",
+                  "179.30"
+                ],
+                [
+                  "Operating Income",
+                  "-835.64",
+                  "-181.56",
+                  "-119.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-145.63",
+                  "-29.38",
+                  "-20.59"
+                ],
+                [
+                  "Net Income",
+                  "1424.33",
+                  "-97.80",
+                  "-16.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "248.23",
+                  "-15.83",
+                  "-2.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-406.38",
+                  "-242.17",
+                  "-515.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1506.32",
+                  "-95.67",
+                  "57.42"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-405.70",
+                  "112.19",
+                  "719.33"
+                ],
+                [
+                  "CAPEX",
+                  "-741.86",
+                  "-115.36",
+                  "-34.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "114.01",
+                  "123.94",
+                  "174.84",
+                  "161.01"
+                ],
+                [
+                  "Gross Profit",
+                  "52.09",
+                  "-362.23",
+                  "-137.21",
+                  "38.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.69",
+                  "-292.26",
+                  "-78.48",
+                  "23.85"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "37.30",
+                  "27.00",
+                  "19.17",
+                  "21.32"
+                ],
+                [
+                  "R&D Exp",
+                  "7.04",
+                  "8.37",
+                  "8.82",
+                  "14.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "49.63",
+                  "101.03",
+                  "67.29",
+                  "65.52"
+                ],
+                [
+                  "Operating Income",
+                  "-41.88",
+                  "-498.63",
+                  "-232.50",
+                  "-62.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-36.74",
+                  "-402.31",
+                  "-132.98",
+                  "-38.90"
+                ],
+                [
+                  "Net Income",
+                  "-66.53",
+                  "1862.20",
+                  "-247.03",
+                  "-124.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-58.35",
+                  "1502.47",
+                  "-141.29",
+                  "-77.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-81.55",
+                  "-87.85",
+                  "-124.74",
+                  "-112.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1883.67",
+                  "-92.89",
+                  "-62.27",
+                  "-222.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1313.09",
+                  "327.05",
+                  "389.24",
+                  "191.10"
+                ],
+                [
+                  "CAPEX",
+                  "-60.04",
+                  "-609.19",
+                  "-21.55",
+                  "-51.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Marelli",
+    "伺服器",
+    "水冷",
+    "儲能",
+    "裕隆",
+    "中華汽車",
+    "伺服器",
+    "水冷",
+    "儲能",
+    "裕隆",
+    "中華汽車",
+    "裕隆",
+    "中華汽車",
+    "伺服器",
+    "水冷",
+    "Marelli"
+  ]
+}

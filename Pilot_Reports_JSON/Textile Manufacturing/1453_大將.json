@@ -1,0 +1,503 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/1453_大將.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/1453_大將.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/1453_大將.json",
+  "ticker": "1453",
+  "company_name": "大將",
+  "title": "# 1453 - 大將",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,404 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,270 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "大將"
+            },
+            {
+              "type": "text",
+              "text": "開發 (Ta Jiang) 早期為紡織染整廠，後轉型為營建開發與紡織雙軌並行。紡織部門保留部分紗線、布料買賣及染整業務，但比重已逐漸降低；營建部門為主要成長動能，於屏東等地區進行透天住宅與大樓開發。公司亦跨足"
+            },
+            {
+              "type": "wikilink",
+              "text": "水處理"
+            },
+            {
+              "type": "text",
+              "text": "工程業務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "紡織事業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "貿易商與加工角色"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "營建事業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "住宅開發、銷售 (屏東地區)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "水處理事業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "工程承攬與服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 住宅買家"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "紡織:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 下游成衣廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關、工業用戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 營造廠、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東和鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等建材供應商\\n- "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "紡織:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新纖"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等紗線供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "310.00",
+                  "N/A",
+                  "952.01",
+                  "1.03",
+                  "-72.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1.48",
+                  "1.38",
+                  "203.87"
+                ],
+                [
+                  "Gross Profit",
+                  "4.20",
+                  "5.41",
+                  "64.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "284.81",
+                  "393.24",
+                  "31.84"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1.11",
+                  "2.08",
+                  "10.10"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "38.55",
+                  "38.58",
+                  "37.15"
+                ],
+                [
+                  "Operating Income",
+                  "-35.45",
+                  "-35.26",
+                  "17.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2403.59",
+                  "-2564.22",
+                  "8.66"
+                ],
+                [
+                  "Net Income",
+                  "4.59",
+                  "1.87",
+                  "60.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "311.12",
+                  "135.71",
+                  "29.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-395.25",
+                  "-417.98",
+                  "-59.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "34.17",
+                  "22.49",
+                  "8.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "362.50",
+                  "390.17",
+                  "53.27"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-8.42",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "0.40",
+                  "0.33",
+                  "0.37",
+                  "0.37"
+                ],
+                [
+                  "Gross Profit",
+                  "3.62",
+                  "0.19",
+                  "0.17",
+                  "0.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "912.85",
+                  "56.76",
+                  "45.31",
+                  "58.87"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.12",
+                  "0.30",
+                  "0.47",
+                  "0.23"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.84",
+                  "7.53",
+                  "8.70",
+                  "7.48"
+                ],
+                [
+                  "Operating Income",
+                  "-11.33",
+                  "-7.63",
+                  "-8.99",
+                  "-7.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2853.40",
+                  "-2292.19",
+                  "-2411.53",
+                  "-2015.32"
+                ],
+                [
+                  "Net Income",
+                  "-0.64",
+                  "17.49",
+                  "0.66",
+                  "-12.92"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-160.71",
+                  "5253.15",
+                  "176.14",
+                  "-3473.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-97.41",
+                  "-104.02",
+                  "-78.35",
+                  "-115.47"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1.52",
+                  "40.46",
+                  "-0.37",
+                  "-7.45"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "94.07",
+                  "62.60",
+                  "80.92",
+                  "124.91"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "大將",
+    "水處理",
+    "台泥",
+    "亞泥",
+    "東和鋼鐵",
+    "南亞",
+    "遠東新",
+    "新纖"
+  ]
+}

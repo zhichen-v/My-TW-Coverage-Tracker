@@ -1,0 +1,531 @@
+{
+  "report_id": "Pilot_Reports/Recreational Vehicles/8937_合騏.md",
+  "source_path": "Pilot_Reports/Recreational Vehicles/8937_合騏.md",
+  "json_path": "Pilot_Reports_JSON/Recreational Vehicles/8937_合騏.json",
+  "ticker": "8937",
+  "company_name": "合騏",
+  "title": "# 8937 - 合騏",
+  "sector_folder": "Recreational Vehicles",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Recreational Vehicles"
+      },
+      {
+        "label": "市值:",
+        "value": "15,810 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,378 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "合騏工業 (8937) 以品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADLY"
+            },
+            {
+              "type": "text",
+              "text": "」製造沙灘車 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "ATV"
+            },
+            {
+              "type": "text",
+              "text": ")、速克達及電動代步車，外銷歐美。近年透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "屹海風電"
+            },
+            {
+              "type": "text",
+              "text": "佈局台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "離岸風電"
+            },
+            {
+              "type": "text",
+              "text": "運維服務 (投資15億購專用船舶)。另發展土地資產開發及船舶租賃。傳統ATV佔比下降，"
+            },
+            {
+              "type": "wikilink",
+              "text": "離岸風電"
+            },
+            {
+              "type": "text",
+              "text": "為新成長引擎。風電客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "沃旭能源"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 機車引擎/傳動; 電池/馬達; 船舶\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "合騏"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "ADLY"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "ATV"
+            },
+            {
+              "type": "text",
+              "text": "/機車/電動車; "
+            },
+            {
+              "type": "wikilink",
+              "text": "屹海風電"
+            },
+            {
+              "type": "text",
+              "text": "運維)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "歐美ATV經銷"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "離岸風電"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "沃旭能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等風場 — 運維服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "歐美ATV經銷通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "沃旭能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "離岸風電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "運維"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "引擎/傳動/電池"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "子: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "屹海風電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 運維船舶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $147.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "208.74",
+                  "5.73",
+                  "-195.96"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "131.89",
+                  "159.95",
+                  "212.09"
+                ],
+                [
+                  "Gross Profit",
+                  "1.32",
+                  "19.40",
+                  "37.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "1.00",
+                  "12.13",
+                  "17.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.06",
+                  "5.56",
+                  "9.69"
+                ],
+                [
+                  "R&D Exp",
+                  "8.61",
+                  "8.28",
+                  "15.36"
+                ],
+                [
+                  "General & Admin Exp",
+                  "35.04",
+                  "38.59",
+                  "36.80"
+                ],
+                [
+                  "Operating Income",
+                  "-54.39",
+                  "-33.03",
+                  "-24.80"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-41.24",
+                  "-20.65",
+                  "-11.69"
+                ],
+                [
+                  "Net Income",
+                  "32.80",
+                  "51.79",
+                  "4.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "24.87",
+                  "32.38",
+                  "2.22"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-35.77",
+                  "11.65",
+                  "68.10"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-273.91",
+                  "-60.85",
+                  "-122.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "161.82",
+                  "44.06",
+                  "231.26"
+                ],
+                [
+                  "CAPEX",
+                  "-346.68",
+                  "-64.63",
+                  "-144.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "12.98",
+                  "18.14",
+                  "22.21",
+                  "22.41"
+                ],
+                [
+                  "Gross Profit",
+                  "-12.41",
+                  "-8.97",
+                  "-4.56",
+                  "-0.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-95.61",
+                  "-49.47",
+                  "-20.52",
+                  "-0.25"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.91",
+                  "8.14",
+                  "5.10",
+                  "6.82"
+                ],
+                [
+                  "R&D Exp",
+                  "1.79",
+                  "1.75",
+                  "1.79",
+                  "2.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6.08",
+                  "6.88",
+                  "8.57",
+                  "7.64"
+                ],
+                [
+                  "Operating Income",
+                  "-34.19",
+                  "-25.74",
+                  "-20.01",
+                  "-17.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-263.49",
+                  "-141.86",
+                  "-90.09",
+                  "-75.88"
+                ],
+                [
+                  "Net Income",
+                  "22.73",
+                  "-181.40",
+                  "-7.54",
+                  "12.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "175.13",
+                  "-999.82",
+                  "-33.97",
+                  "56.10"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-31.40",
+                  "-136.59",
+                  "0.24",
+                  "-10.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2577.16",
+                  "-4.52",
+                  "-93.80",
+                  "-35.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1917.50",
+                  "-21.88",
+                  "1329.12",
+                  "-9.03"
+                ],
+                [
+                  "CAPEX",
+                  "-2647.55",
+                  "-128.79",
+                  "-8.09",
+                  "-118.60"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ADLY",
+    "ATV",
+    "屹海風電",
+    "離岸風電",
+    "離岸風電",
+    "沃旭能源",
+    "ADLY",
+    "ATV",
+    "屹海風電",
+    "離岸風電",
+    "沃旭能源",
+    "沃旭能源",
+    "離岸風電",
+    "屹海風電"
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/3430_奇鈦科.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/3430_奇鈦科.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/3430_奇鈦科.json",
+  "ticker": "3430",
+  "company_name": "奇鈦科",
+  "title": "# 3430 - 奇鈦科",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "2,525 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,570 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "奇鈦科技 (3430，Chitec Technology) 為利基型特用化學品供應商，專精"
+            },
+            {
+              "type": "wikilink",
+              "text": "紫外線吸收劑"
+            },
+            {
+              "type": "text",
+              "text": " (UVA，佔營收約 49%)、抗氧化劑 (27%)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "光引發劑"
+            },
+            {
+              "type": "text",
+              "text": " (20%，全球前五大) 及阻燃劑 (4%)。海外營收佔比高 (亞洲 52%、美洲 27%、歐洲 8%)。下游塗料客戶涵蓋全球前五大塗料廠中三家 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "PPG"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Sherwin-Williams"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Nippon Paint"
+            },
+            {
+              "type": "text",
+              "text": " (立邦)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AkzoNobel"
+            },
+            {
+              "type": "text",
+              "text": "。電子級"
+            },
+            {
+              "type": "wikilink",
+              "text": "光引發劑"
+            },
+            {
+              "type": "text",
+              "text": "為"
+            },
+            {
+              "type": "wikilink",
+              "text": "光阻"
+            },
+            {
+              "type": "text",
+              "text": "上游原料之一，間接服務"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "等晶圓廠。另應用於光纖塗料、3D 列印樹脂及"
+            },
+            {
+              "type": "wikilink",
+              "text": "UV固化"
+            },
+            {
+              "type": "text",
+              "text": "油墨。設有美國休士頓及上海子公司。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化工中間體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 苯環衍生物等基礎精密化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "奇鈦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "紫外線吸收劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/抗氧化劑/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光引發劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/阻燃劑)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PPG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sherwin-Williams"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nippon Paint"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AkzoNobel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — UV 吸收劑/光穩定劑"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光阻"
+                    },
+                    {
+                      "type": "text",
+                      "text": "上游原料 — 間接服務"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等晶圓廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光纖/3D 列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光引發劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供光纖塗料及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UV固化"
+                    },
+                    {
+                      "type": "text",
+                      "text": "樹脂"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PPG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sherwin-Williams"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nippon Paint"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AkzoNobel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球前五大塗料廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光阻"
+                    },
+                    {
+                      "type": "text",
+                      "text": "上游原料，間接服務"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光纖/3D列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光引發劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UV固化"
+                    },
+                    {
+                      "type": "text",
+                      "text": "應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中間體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基礎精密化學品供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $74.90 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "21.96",
+                  "N/A",
+                  "1.56",
+                  "2.30",
+                  "12.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1472.53",
+                  "1262.47",
+                  "1597.73"
+                ],
+                [
+                  "Gross Profit",
+                  "416.86",
+                  "350.80",
+                  "424.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.31",
+                  "27.79",
+                  "26.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "122.97",
+                  "100.69",
+                  "119.35"
+                ],
+                [
+                  "R&D Exp",
+                  "29.20",
+                  "61.41",
+                  "42.59"
+                ],
+                [
+                  "General & Admin Exp",
+                  "66.51",
+                  "56.00",
+                  "52.41"
+                ],
+                [
+                  "Operating Income",
+                  "198.18",
+                  "132.71",
+                  "210.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.46",
+                  "10.51",
+                  "13.14"
+                ],
+                [
+                  "Net Income",
+                  "161.37",
+                  "120.24",
+                  "196.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.96",
+                  "9.52",
+                  "12.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "142.83",
+                  "150.06",
+                  "262.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-116.12",
+                  "-14.81",
+                  "-28.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-53.62",
+                  "-130.85",
+                  "61.83"
+                ],
+                [
+                  "CAPEX",
+                  "-85.53",
+                  "-32.55",
+                  "-31.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "488.42",
+                  "382.49",
+                  "379.74",
+                  "368.44"
+                ],
+                [
+                  "Gross Profit",
+                  "92.69",
+                  "91.34",
+                  "103.00",
+                  "104.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.98",
+                  "23.88",
+                  "27.12",
+                  "28.28"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "33.22",
+                  "30.05",
+                  "31.75",
+                  "31.70"
+                ],
+                [
+                  "R&D Exp",
+                  "8.53",
+                  "7.28",
+                  "7.19",
+                  "7.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "19.94",
+                  "17.26",
+                  "12.93",
+                  "16.39"
+                ],
+                [
+                  "Operating Income",
+                  "31.00",
+                  "36.75",
+                  "51.12",
+                  "48.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.35",
+                  "9.61",
+                  "13.46",
+                  "13.10"
+                ],
+                [
+                  "Net Income",
+                  "31.40",
+                  "1.43",
+                  "39.34",
+                  "39.92"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.43",
+                  "0.37",
+                  "10.36",
+                  "10.84"
+                ],
+                [
+                  "Op Cash Flow",
+                  "16.20",
+                  "44.47",
+                  "20.53",
+                  "59.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-58.07",
+                  "-20.10",
+                  "-13.03",
+                  "-70.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-89.25",
+                  "-40.39",
+                  "-4.95",
+                  "-4.92"
+                ],
+                [
+                  "CAPEX",
+                  "-38.43",
+                  "-22.41",
+                  "-14.69",
+                  "-30.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "紫外線吸收劑",
+    "光引發劑",
+    "PPG",
+    "Sherwin-Williams",
+    "Nippon Paint",
+    "AkzoNobel",
+    "光引發劑",
+    "光阻",
+    "台積電",
+    "UV固化",
+    "紫外線吸收劑",
+    "光引發劑",
+    "PPG",
+    "Sherwin-Williams",
+    "Nippon Paint",
+    "AkzoNobel",
+    "光阻",
+    "台積電",
+    "光引發劑",
+    "UV固化",
+    "PPG",
+    "Sherwin-Williams",
+    "Nippon Paint",
+    "AkzoNobel",
+    "光阻",
+    "台積電",
+    "光引發劑",
+    "UV固化"
+  ]
+}

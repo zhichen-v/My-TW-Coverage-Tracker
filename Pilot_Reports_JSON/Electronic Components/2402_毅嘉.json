@@ -1,0 +1,635 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2402_毅嘉.md",
+  "source_path": "Pilot_Reports/Electronic Components/2402_毅嘉.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2402_毅嘉.json",
+  "ticker": "2402",
+  "company_name": "毅嘉",
+  "title": "# 2402 - 毅嘉",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "15,777 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "17,291 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "毅嘉科技 (2402) 是台灣專業的"
+            },
+            {
+              "type": "wikilink",
+              "text": "軟性印刷電路板"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": ") 製造商，提供單面、雙面及多層 FPC。產品應用從手機鏡頭模組、折疊手機延伸至筆電、"
+            },
+            {
+              "type": "wikilink",
+              "text": "穿戴裝置"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "機器人"
+            },
+            {
+              "type": "text",
+              "text": "。近年客戶包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " 穿戴裝置、"
+            },
+            {
+              "type": "wikilink",
+              "text": "任天堂"
+            },
+            {
+              "type": "text",
+              "text": " Switch 2 面板軟板。全球 FPC 市占約 1-2%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "覆蓋膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PI 覆蓋膜及膠材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (FPC 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "毅嘉"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (單/雙/多層 FPC，手機/穿戴/車用)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統組裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "穿戴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 穿戴裝置"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "任天堂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Switch 2"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 FPC 及光纖通訊"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "穿戴裝置:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 穿戴裝置"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "任天堂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Switch 2"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系機器人客戶 (2025 Q3 量產)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎-KY"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉聯益"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台郡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $51.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.02",
+                  "17.75",
+                  "1.45",
+                  "2.12",
+                  "13.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10848.98",
+                  "9531.01",
+                  "8561.41"
+                ],
+                [
+                  "Gross Profit",
+                  "2068.52",
+                  "1708.82",
+                  "1273.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.07",
+                  "17.93",
+                  "14.88"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "286.49",
+                  "234.12",
+                  "207.06"
+                ],
+                [
+                  "R&D Exp",
+                  "360.70",
+                  "317.89",
+                  "267.21"
+                ],
+                [
+                  "General & Admin Exp",
+                  "490.00",
+                  "380.52",
+                  "308.63"
+                ],
+                [
+                  "Operating Income",
+                  "931.34",
+                  "776.28",
+                  "491.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.58",
+                  "8.14",
+                  "5.74"
+                ],
+                [
+                  "Net Income",
+                  "753.97",
+                  "711.21",
+                  "465.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.95",
+                  "7.46",
+                  "5.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "903.40",
+                  "482.23",
+                  "1060.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1581.69",
+                  "-1742.41",
+                  "-873.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1619.17",
+                  "1068.26",
+                  "-91.92"
+                ],
+                [
+                  "CAPEX",
+                  "-1560.65",
+                  "-982.99",
+                  "-341.72"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2724.84",
+                  "2800.27",
+                  "2438.83",
+                  "2515.62"
+                ],
+                [
+                  "Gross Profit",
+                  "539.49",
+                  "558.41",
+                  "432.38",
+                  "490.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.80",
+                  "19.94",
+                  "17.73",
+                  "19.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "69.09",
+                  "82.42",
+                  "58.90",
+                  "63.74"
+                ],
+                [
+                  "R&D Exp",
+                  "88.63",
+                  "98.17",
+                  "84.45",
+                  "101.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "125.89",
+                  "121.77",
+                  "100.35",
+                  "97.79"
+                ],
+                [
+                  "Operating Income",
+                  "255.88",
+                  "256.06",
+                  "188.68",
+                  "227.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.39",
+                  "9.14",
+                  "7.74",
+                  "9.03"
+                ],
+                [
+                  "Net Income",
+                  "187.43",
+                  "206.71",
+                  "175.12",
+                  "208.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.88",
+                  "7.38",
+                  "7.18",
+                  "8.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "145.39",
+                  "394.18",
+                  "343.54",
+                  "266.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-612.32",
+                  "-288.62",
+                  "-107.51",
+                  "-702.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "376.96",
+                  "-189.75",
+                  "708.33",
+                  "-262.72"
+                ],
+                [
+                  "CAPEX",
+                  "-573.38",
+                  "-292.28",
+                  "-194.98",
+                  "-610.63"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "軟性印刷電路板",
+    "FPC",
+    "穿戴裝置",
+    "車用電子",
+    "機器人",
+    "Google",
+    "任天堂",
+    "銅箔",
+    "Google",
+    "任天堂",
+    "Google",
+    "任天堂",
+    "銅箔",
+    "臻鼎-KY",
+    "嘉聯益",
+    "台郡"
+  ]
+}

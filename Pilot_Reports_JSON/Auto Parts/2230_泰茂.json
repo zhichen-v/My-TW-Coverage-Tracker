@@ -1,0 +1,641 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/2230_泰茂.md",
+  "source_path": "Pilot_Reports/Auto Parts/2230_泰茂.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/2230_泰茂.json",
+  "ticker": "2230",
+  "company_name": "泰茂",
+  "title": "# 2230 - 泰茂",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,238 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,143 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "泰茂實業 (2230，Thai Mao) 經營三大事業：(1) 活塞環 — 以 BLACK DIAMOND 品牌外銷全球 110 餘國售後市場；(2) 儲能系統 — 採用"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑新智能"
+            },
+            {
+              "type": "text",
+              "text": "電芯，開發工廠/家用儲能方案，宜蘭設有 5.5MW 大型儲能場站；(3) 中國白酒經銷 — 透過中溢匯通取得"
+            },
+            {
+              "type": "wikilink",
+              "text": "五糧液"
+            },
+            {
+              "type": "text",
+              "text": "全國電商權及北京/江蘇線下經銷，另代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "國台酒"
+            },
+            {
+              "type": "text",
+              "text": "。另透過收購"
+            },
+            {
+              "type": "wikilink",
+              "text": "晨亨科技"
+            },
+            {
+              "type": "text",
+              "text": "跨足車用顯示器，為國際車廠 Tier 1 顯示器供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與電芯)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能電芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑新智能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國產電芯供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "白酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "五糧液"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國台酒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 品牌授權與經銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造與服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "泰茂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (活塞環製造/儲能系統/白酒經銷)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[晨亨科技]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (子公司，車用顯示器 Tier 1)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "活塞環:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 110+ 國 AM 經銷 — BLACK DIAMOND 品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣工廠/家庭用戶、宜蘭 5.5MW 場站"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "白酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國江蘇省零售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晨亨科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "活塞環:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 110+ 國 AM 經銷商 — BLACK DIAMOND 品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣工廠與家庭用戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "白酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國消費者 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "五糧液"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電商/線下通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晨亨科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Tier 1 供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能電芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑新智能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國產電芯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "白酒品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "五糧液"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國台酒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 品牌授權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $32.90 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "47.00",
+                  "N/A",
+                  "0.99",
+                  "1.85",
+                  "25.43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1979.80",
+                  "658.41",
+                  "504.38"
+                ],
+                [
+                  "Gross Profit",
+                  "450.58",
+                  "217.11",
+                  "83.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.76",
+                  "32.97",
+                  "16.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.37",
+                  "31.49",
+                  "14.42"
+                ],
+                [
+                  "R&D Exp",
+                  "9.07",
+                  "6.35",
+                  "4.24"
+                ],
+                [
+                  "General & Admin Exp",
+                  "68.75",
+                  "51.53",
+                  "63.93"
+                ],
+                [
+                  "Operating Income",
+                  "342.76",
+                  "127.80",
+                  "158.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.31",
+                  "19.41",
+                  "31.37"
+                ],
+                [
+                  "Net Income",
+                  "324.43",
+                  "126.44",
+                  "126.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.39",
+                  "19.20",
+                  "25.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "229.61",
+                  "93.94",
+                  "63.09"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-112.40",
+                  "-299.40",
+                  "87.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-16.66",
+                  "319.08",
+                  "-33.25"
+                ],
+                [
+                  "CAPEX",
+                  "-57.19",
+                  "-245.46",
+                  "-16.01"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "541.02",
+                  "314.50",
+                  "451.69",
+                  "943.52"
+                ],
+                [
+                  "Gross Profit",
+                  "50.09",
+                  "30.94",
+                  "33.20",
+                  "85.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.26",
+                  "9.84",
+                  "7.35",
+                  "9.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.75",
+                  "9.53",
+                  "6.80",
+                  "8.68"
+                ],
+                [
+                  "R&D Exp",
+                  "1.74",
+                  "1.94",
+                  "1.53",
+                  "1.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "24.53",
+                  "20.76",
+                  "17.13",
+                  "19.38"
+                ],
+                [
+                  "Operating Income",
+                  "-1.21",
+                  "-1.28",
+                  "7.74",
+                  "54.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.22",
+                  "-0.41",
+                  "1.71",
+                  "5.82"
+                ],
+                [
+                  "Net Income",
+                  "-1.27",
+                  "-21.72",
+                  "9.77",
+                  "55.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.23",
+                  "-6.91",
+                  "2.16",
+                  "5.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-164.35",
+                  "5.51",
+                  "139.99",
+                  "78.45"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-52.33",
+                  "-9.44",
+                  "-9.20",
+                  "-19.90"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "92.73",
+                  "27.80",
+                  "48.36",
+                  "-9.36"
+                ],
+                [
+                  "CAPEX",
+                  "-50.79",
+                  "-13.62",
+                  "-5.62",
+                  "-50.02"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台塑新智能",
+    "五糧液",
+    "國台酒",
+    "晨亨科技",
+    "台塑新智能",
+    "五糧液",
+    "國台酒",
+    "晨亨科技",
+    "晨亨科技",
+    "五糧液",
+    "晨亨科技",
+    "台塑新智能",
+    "五糧液",
+    "國台酒"
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "report_id": "Pilot_Reports/Packaging & Containers/3607_谷崧.md",
+  "source_path": "Pilot_Reports/Packaging & Containers/3607_谷崧.md",
+  "json_path": "Pilot_Reports_JSON/Packaging & Containers/3607_谷崧.json",
+  "ticker": "3607",
+  "company_name": "谷崧",
+  "title": "# 3607 - 谷崧",
+  "sector_folder": "Packaging & Containers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Packaging & Containers"
+      },
+      {
+        "label": "市值:",
+        "value": "1,764 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "568 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "谷崧精密工業股份有限公司成立於 1990 年，為專業之精密模具開發與塑膠射出成型廠商，擁有逾三十年技術經驗。主要生產基地分佈於台灣桃園、中國東莞與常熟。公司近年積極進行產品結構調整，減少對毛利較低之消費電子（手機機殼）依賴，轉向車用零件及醫療器材等利基市場。2024 年第三季起車用產品穩定出貨，並與網通設備廠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "中磊"
+            },
+            {
+              "type": "text",
+              "text": "（5388）展開合作，為自 2016 年以來首度實現年度獲利。公司持有 ISO 9001、"
+            },
+            {
+              "type": "wikilink",
+              "text": "IATF 16949"
+            },
+            {
+              "type": "text",
+              "text": "、ISO 14001 等認證。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工程塑膠粒（"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密模具用鋼材及加工設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "谷崧 (3607):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密模具開發、塑膠射出成型、表面處理（噴塗、電鍍）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（富泰京）供應汽車內外裝件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中磊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（5388）之網通產品外殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sharp"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（手機）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（音訊產品）、追覓（掃地機器人）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療器材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療級塑膠射出產品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團（富泰京），供應汽車零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中磊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（5388），供應網通產品外殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sharp"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、追覓等日本及中國品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療器材品牌客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外工程塑膠原料廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密鋼材與加工設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $14.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "725.00",
+                  "N/A",
+                  "0.63",
+                  "0.64",
+                  "5.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2784.30",
+                  "3136.75",
+                  "2637.30"
+                ],
+                [
+                  "Gross Profit",
+                  "285.54",
+                  "296.83",
+                  "228.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.26",
+                  "9.46",
+                  "8.66"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "97.68",
+                  "94.59",
+                  "94.39"
+                ],
+                [
+                  "R&D Exp",
+                  "2.67",
+                  "4.02",
+                  "4.30"
+                ],
+                [
+                  "General & Admin Exp",
+                  "273.31",
+                  "258.22",
+                  "275.88"
+                ],
+                [
+                  "Operating Income",
+                  "-88.11",
+                  "-60.01",
+                  "-146.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.16",
+                  "-1.91",
+                  "-5.54"
+                ],
+                [
+                  "Net Income",
+                  "2.21",
+                  "20.46",
+                  "-44.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.08",
+                  "0.65",
+                  "-1.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "148.94",
+                  "141.17",
+                  "191.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "10.65",
+                  "120.87",
+                  "-35.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-173.24",
+                  "-201.17",
+                  "-204.67"
+                ],
+                [
+                  "CAPEX",
+                  "-29.61",
+                  "-29.00",
+                  "-33.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "638.64",
+                  "714.01",
+                  "787.50",
+                  "644.14"
+                ],
+                [
+                  "Gross Profit",
+                  "54.37",
+                  "98.39",
+                  "96.83",
+                  "35.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.51",
+                  "13.78",
+                  "12.30",
+                  "5.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.02",
+                  "25.20",
+                  "24.81",
+                  "23.65"
+                ],
+                [
+                  "R&D Exp",
+                  "0.66",
+                  "0.66",
+                  "0.69",
+                  "0.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "72.02",
+                  "66.41",
+                  "67.25",
+                  "67.62"
+                ],
+                [
+                  "Operating Income",
+                  "-42.33",
+                  "6.11",
+                  "4.08",
+                  "-55.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-6.63",
+                  "0.86",
+                  "0.52",
+                  "-8.69"
+                ],
+                [
+                  "Net Income",
+                  "-3.08",
+                  "51.60",
+                  "-4.58",
+                  "-41.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.48",
+                  "7.23",
+                  "-0.58",
+                  "-6.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "51.76",
+                  "37.85",
+                  "-26.96",
+                  "86.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "30.56",
+                  "14.59",
+                  "-18.07",
+                  "-16.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-23.39",
+                  "-104.33",
+                  "-23.23",
+                  "-22.30"
+                ],
+                [
+                  "CAPEX",
+                  "-8.41",
+                  "-5.49",
+                  "-10.31",
+                  "-5.40"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中磊",
+    "IATF 16949",
+    "PA",
+    "PC",
+    "ABS",
+    "鴻海",
+    "中磊",
+    "Sharp",
+    "TCL",
+    "鴻海",
+    "中磊",
+    "Sharp",
+    "TCL"
+  ]
+}

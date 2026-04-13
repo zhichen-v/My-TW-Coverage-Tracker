@@ -1,0 +1,662 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/3221_台嘉碩.md",
+  "source_path": "Pilot_Reports/Communication Equipment/3221_台嘉碩.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/3221_台嘉碩.json",
+  "ticker": "3221",
+  "company_name": "台嘉碩",
+  "title": "# 3221 - 台嘉碩",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "3,677 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,483 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台嘉碩科技 (3221，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tai-Saw"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣唯一具備表面聲波 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SAW"
+            },
+            {
+              "type": "text",
+              "text": ") 元件全製程能力之頻率元件製造商，核心技術團隊源自 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Motorola"
+            },
+            {
+              "type": "text",
+              "text": " 電子通訊零件事業部。主要產品涵蓋射頻 SAW 濾波器、中頻 SAW 濾波器、SAW 共振器、SAW 雙工器及體聲波 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "BAW"
+            },
+            {
+              "type": "text",
+              "text": ") 石英元件 (石英振盪器、TCXO 溫補振盪器等)。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司為全球非手機用 SAW 濾波器市佔率領先廠商，產品廣泛應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": " 網通設備、車用電子 (TPMS 胎壓偵測、Keyless 無鑰匙系統、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GNSS"
+            },
+            {
+              "type": "text",
+              "text": " 衛星定位)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "地面接收站及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "光通訊模組。車用電子營收佔比已達三成以上。子公司嘉碩生醫跨足生醫檢測晶片，轉投資韓國 Sawnics 強化高階 BAW 濾波器技術。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (壓電材料與晶棒)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壓電基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鉭酸鋰 (LiTaO3) 壓電基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石英晶棒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高純度石英晶棒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貴金屬導線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密封裝材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (頻率元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SAW/BAW 元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "台嘉碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球領先非手機用 SAW 濾波器/石英振盪器製造商)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (通訊與車用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Wi-Fi 路由器及 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基站"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TPMS、Keyless、GNSS 車載系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "地面接收站"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 光通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " AI 伺服器光模組用低相位雜訊振盪器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " AI 伺服器 800G 光模組廠 (低相位雜訊振盪器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美車用零組件廠 (GNSS/TPMS/Keyless)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際衛星營運商地面接收站"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際網通設備品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壓電材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日系壓電基板及石英材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Murata"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TDK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "希華"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $35.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "1750.00",
+                  "24.65",
+                  "1.68",
+                  "1.83",
+                  "28.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2179.51",
+                  "2134.94",
+                  "3357.99"
+                ],
+                [
+                  "Gross Profit",
+                  "472.77",
+                  "529.41",
+                  "928.23"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.69",
+                  "24.80",
+                  "27.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "115.59",
+                  "163.94",
+                  "115.43"
+                ],
+                [
+                  "R&D Exp",
+                  "167.06",
+                  "185.27",
+                  "194.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "129.94",
+                  "120.12",
+                  "141.11"
+                ],
+                [
+                  "Operating Income",
+                  "60.18",
+                  "60.08",
+                  "477.52"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.76",
+                  "2.81",
+                  "14.22"
+                ],
+                [
+                  "Net Income",
+                  "101.17",
+                  "-13.60",
+                  "324.92"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.64",
+                  "-0.64",
+                  "9.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "192.12",
+                  "200.64",
+                  "689.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-65.29",
+                  "-74.88",
+                  "-191.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-111.82",
+                  "-391.00",
+                  "-276.11"
+                ],
+                [
+                  "CAPEX",
+                  "-125.25",
+                  "-129.25",
+                  "-73.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "553.34",
+                  "557.70",
+                  "549.59",
+                  "527.83"
+                ],
+                [
+                  "Gross Profit",
+                  "108.46",
+                  "104.73",
+                  "116.03",
+                  "106.47"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.60",
+                  "18.78",
+                  "21.11",
+                  "20.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.49",
+                  "25.09",
+                  "24.82",
+                  "30.08"
+                ],
+                [
+                  "R&D Exp",
+                  "36.88",
+                  "37.83",
+                  "39.02",
+                  "44.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.28",
+                  "30.26",
+                  "32.51",
+                  "28.73"
+                ],
+                [
+                  "Operating Income",
+                  "11.81",
+                  "11.55",
+                  "19.68",
+                  "3.43"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.13",
+                  "2.07",
+                  "3.58",
+                  "0.65"
+                ],
+                [
+                  "Net Income",
+                  "-11.35",
+                  "-27.61",
+                  "15.69",
+                  "25.28"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.05",
+                  "-4.95",
+                  "2.85",
+                  "4.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-53.60",
+                  "28.65",
+                  "-32.02",
+                  "127.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-33.23",
+                  "-17.83",
+                  "-21.86",
+                  "-9.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.07",
+                  "47.33",
+                  "-0.51",
+                  "-1.79"
+                ],
+                [
+                  "CAPEX",
+                  "-41.95",
+                  "-26.87",
+                  "-11.64",
+                  "-28.89"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Tai-Saw",
+    "SAW",
+    "Motorola",
+    "BAW",
+    "Wi-Fi",
+    "GNSS",
+    "低軌衛星",
+    "AI 伺服器",
+    "5G",
+    "低軌衛星",
+    "Murata",
+    "TDK",
+    "晶技",
+    "希華"
+  ]
+}

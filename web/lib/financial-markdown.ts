@@ -11,7 +11,7 @@ const translationPairs = [
   ["季度關鍵財務數據", "Quarterly Financials"],
   ["近 3 年", "Last 3 Years"],
   ["近 4 季", "Last 4 Quarters"],
-  ["單位: 百萬台幣, 只有 Margin 為 %", "Unit: TWD millions, with margins shown in % only"],
+  ["單位: 百萬台幣, 只有 Margin 為 %", "Unit: Millions TWD, with margins shown in % only"],
   ["股價", "Share price"],
   ["截至", "through"],
   ["預估至", "forecast through"],
@@ -23,45 +23,26 @@ const translationPairs = [
   ["重點觀察", "Key Observation"],
   ["分析重點", "Analysis Focus"],
   ["補充觀念", "Notes"],
-  ["本益比（Trailing Twelve Months）", "Price-to-Earnings (Trailing Twelve Months)"],
-  ["本益比", "Price-to-Earnings"],
-  ["預估本益比", "Forward Price-to-Earnings"],
-  ["股價營收比", "Price-to-Sales"],
-  ["股價淨值比", "Price-to-Book"],
-  ["企業價值倍數", "Enterprise Value to EBITDA"],
+  ["本益比", "P/E (TTM)"],
+  ["預估本益比", "Forward P/E"],
+  ["股價營收比", "P/S (TTM)"],
+  ["股價淨值比", "P/B"],
+  ["企業價值倍數", "EV/EBITDA"],
   ["營收", "Revenue"],
   ["毛利", "Gross Profit"],
-  ["毛利率", "Gross Margin"],
-  ["銷售費用", "Selling & Marketing Expense"],
-  ["研發費用", "R&D Expense"],
-  ["管理費用", "General & Admin Expense"],
+  ["毛利率", "Gross Margin (%)"],
+  ["銷售費用", "Selling & Marketing Exp"],
+  ["研發費用", "R&D Exp"],
+  ["管理費用", "General & Admin Exp"],
   ["營業利益", "Operating Income"],
-  ["營業利益率", "Operating Margin"],
+  ["營業利益率", "Operating Margin (%)"],
   ["淨利", "Net Income"],
-  ["淨利率", "Net Margin"],
-  ["營運現金流", "Operating Cash Flow"],
+  ["淨利率", "Net Margin (%)"],
+  ["營運現金流", "Op Cash Flow"],
   ["投資現金流", "Investing Cash Flow"],
   ["融資現金流", "Financing Cash Flow"],
-  ["資本支出", "Capital Expenditure"],
-  ["P/E (TTM)", "P/E (TTM)"],
-  ["Forward P/E", "Forward P/E"],
-  ["P/S (TTM)", "P/S (TTM)"],
-  ["P/B", "P/B"],
-  ["EV/EBITDA", "EV/EBITDA"],
-  ["Revenue", "Revenue"],
-  ["Gross Profit", "Gross Profit"],
-  ["Gross Margin (%)", "Gross Margin (%)"],
-  ["Selling & Marketing Exp", "Selling & Marketing Exp"],
-  ["R&D Exp", "R&D Exp"],
-  ["General & Admin Exp", "General & Admin Exp"],
-  ["Operating Income", "Operating Income"],
-  ["Operating Margin (%)", "Operating Margin (%)"],
-  ["Net Income", "Net Income"],
-  ["Net Margin (%)", "Net Margin (%)"],
-  ["Op Cash Flow", "Op Cash Flow"],
-  ["Investing Cash Flow", "Investing Cash Flow"],
-  ["Financing Cash Flow", "Financing Cash Flow"],
-  ["CAPEX", "CAPEX"],
+  ["資本支出", "CAPEX"],
+  ["百萬台幣", "Millions TWD"],
 ] as const;
 
 function escapeRegExp(value: string) {
@@ -77,15 +58,15 @@ function buildReplacements(language: SupportedLanguage) {
   return [...basePairs].sort((a, b) => b[0].length - a[0].length);
 }
 
-export function translateFinancialMarkdown(
-  markdown: string,
+export function translateFinancialText(
+  text: string,
   language: SupportedLanguage,
 ) {
-  if (!markdown) {
-    return markdown;
+  if (!text) {
+    return text;
   }
 
   return buildReplacements(language).reduce((output, [from, to]) => {
     return output.replace(new RegExp(escapeRegExp(from), "g"), to);
-  }, markdown);
+  }, text);
 }

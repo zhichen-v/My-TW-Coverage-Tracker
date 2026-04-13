@@ -1,0 +1,663 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/5202_力新.md",
+  "source_path": "Pilot_Reports/Software - Application/5202_力新.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/5202_力新.json",
+  "ticker": "5202",
+  "company_name": "力新",
+  "title": "# 5202 - 力新",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "1,247 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "805 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "力新國際 (5202，NewSoft) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣鋼鐵集團"
+            },
+            {
+              "type": "text",
+              "text": "，為台灣知名軟體公司，早年以 OCR (光學字元辨識) 軟體「丹青」與「非常好色」聞名。目前轉型為企業數位轉型服務商：(1) "
+            },
+            {
+              "type": "strong",
+              "text": "AI OCR/IDR"
+            },
+            {
+              "type": "text",
+              "text": " — 企業文件辨識與智慧單據輸入系統，支援發票、收據等自動化辨識；(2) "
+            },
+            {
+              "type": "strong",
+              "text": "企業解決方案"
+            },
+            {
+              "type": "text",
+              "text": " — BPM 流程管理、雲端辦公室 (Pro OA)、碳盤查系統；(3) "
+            },
+            {
+              "type": "strong",
+              "text": "系統整合"
+            },
+            {
+              "type": "text",
+              "text": " — 配合母集團"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣鋼鐵集團"
+            },
+            {
+              "type": "text",
+              "text": "進行資訊系統整合；(4) "
+            },
+            {
+              "type": "strong",
+              "text": "AIoT"
+            },
+            {
+              "type": "text",
+              "text": " — 智慧聯網服務。公司以 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Microsoft"
+            },
+            {
+              "type": "text",
+              "text": " Azure 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AWS"
+            },
+            {
+              "type": "text",
+              "text": " 為雲端基礎設施，服務金融、製造及政府客戶。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (雲端與硬體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Azure、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "硬體合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 掃描器/事務機廠 (搭售 OCR 軟體)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟體開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "力新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AI OCR/IDR、BPM 流程管理、碳盤查系統)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦金"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等金融機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技/製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Gogoro"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣鋼鐵集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府/教育:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府機關、學校"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦金"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等金融機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技/製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Gogoro"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣鋼鐵集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府機關與學校"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Azure、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "硬體搭售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 掃描器與事務機廠商 (OEM 搭售軟體)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $14.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "8.31",
+                  "1.10",
+                  "-23.41"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "150.09",
+                  "163.76",
+                  "135.44"
+                ],
+                [
+                  "Gross Profit",
+                  "118.09",
+                  "122.87",
+                  "94.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "78.68",
+                  "75.03",
+                  "69.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.15",
+                  "25.84",
+                  "32.21"
+                ],
+                [
+                  "R&D Exp",
+                  "72.45",
+                  "58.26",
+                  "57.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "70.16",
+                  "76.36",
+                  "84.14"
+                ],
+                [
+                  "Operating Income",
+                  "-48.67",
+                  "-37.59",
+                  "-79.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-32.43",
+                  "-22.95",
+                  "-58.73"
+                ],
+                [
+                  "Net Income",
+                  "-54.63",
+                  "155.60",
+                  "161.58"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-36.40",
+                  "95.02",
+                  "119.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-105.56",
+                  "-161.92",
+                  "-160.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "120.75",
+                  "144.79",
+                  "98.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-56.30",
+                  "-73.14",
+                  "-10.21"
+                ],
+                [
+                  "CAPEX",
+                  "-2.68",
+                  "-8.33",
+                  "-3.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "34.55",
+                  "34.34",
+                  "50.02",
+                  "31.19"
+                ],
+                [
+                  "Gross Profit",
+                  "26.79",
+                  "25.55",
+                  "42.19",
+                  "23.57"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "77.53",
+                  "74.41",
+                  "84.34",
+                  "75.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.36",
+                  "6.25",
+                  "5.66",
+                  "5.89"
+                ],
+                [
+                  "R&D Exp",
+                  "18.02",
+                  "19.04",
+                  "18.60",
+                  "16.79"
+                ],
+                [
+                  "General & Admin Exp",
+                  "19.26",
+                  "15.38",
+                  "16.87",
+                  "18.65"
+                ],
+                [
+                  "Operating Income",
+                  "-16.84",
+                  "-15.12",
+                  "1.05",
+                  "-17.76"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-48.75",
+                  "-44.04",
+                  "2.11",
+                  "-56.96"
+                ],
+                [
+                  "Net Income",
+                  "-3.61",
+                  "10.24",
+                  "-30.27",
+                  "-31.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-10.45",
+                  "29.83",
+                  "-60.51",
+                  "-99.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-15.34",
+                  "4.21",
+                  "-69.27",
+                  "-25.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.94",
+                  "36.99",
+                  "103.10",
+                  "-18.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.96",
+                  "-47.51",
+                  "-3.03",
+                  "-2.80"
+                ],
+                [
+                  "CAPEX",
+                  "-0.17",
+                  "-0.07",
+                  "-1.53",
+                  "-0.91"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台灣鋼鐵集團",
+    "台灣鋼鐵集團",
+    "Microsoft",
+    "AWS",
+    "Microsoft",
+    "AWS",
+    "第一金",
+    "富邦金",
+    "Gogoro",
+    "台灣鋼鐵集團",
+    "第一金",
+    "富邦金",
+    "Gogoro",
+    "台灣鋼鐵集團",
+    "Microsoft",
+    "AWS"
+  ]
+}

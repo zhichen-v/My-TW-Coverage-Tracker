@@ -1,0 +1,536 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/5302_太欣.md",
+  "source_path": "Pilot_Reports/Semiconductors/5302_太欣.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/5302_太欣.json",
+  "ticker": "5302",
+  "company_name": "太欣",
+  "title": "# 5302 - 太欣",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "1,751 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,189 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "太欣半導體 (5302，Syntek) 為消費性 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 設計"
+            },
+            {
+              "type": "text",
+              "text": "公司，專精於影像處理與數位影像擷取錄影之"
+            },
+            {
+              "type": "wikilink",
+              "text": "SoC"
+            },
+            {
+              "type": "text",
+              "text": "，結合無線通訊技術。產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "行車記錄器"
+            },
+            {
+              "type": "text",
+              "text": "、數位攝影機及網路"
+            },
+            {
+              "type": "wikilink",
+              "text": "安防監控"
+            },
+            {
+              "type": "text",
+              "text": "。公司亦發展"
+            },
+            {
+              "type": "wikilink",
+              "text": "微控制器"
+            },
+            {
+              "type": "text",
+              "text": " IC 及數位電腦耳機 IC。競爭同業包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "聯詠"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "凌通"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像 SoC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "太欣"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Syntek，行車記錄器/攝影機/安防 SoC)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (影像產品)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "行車記錄:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 行車記錄器品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防監控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防監控設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "行車記錄:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 行車記錄器品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防監控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防監控設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凌通"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $10.95 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "90.09",
+                  "1.35",
+                  "-49.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "19.43",
+                  "13.91",
+                  "12.26"
+                ],
+                [
+                  "Gross Profit",
+                  "6.22",
+                  "4.93",
+                  "4.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.99",
+                  "35.41",
+                  "40.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.52",
+                  "2.58",
+                  "2.60"
+                ],
+                [
+                  "R&D Exp",
+                  "21.81",
+                  "30.44",
+                  "39.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "38.80",
+                  "37.59",
+                  "35.52"
+                ],
+                [
+                  "Operating Income",
+                  "-56.92",
+                  "-65.68",
+                  "-72.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-292.90",
+                  "-472.12",
+                  "-591.86"
+                ],
+                [
+                  "Net Income",
+                  "-19.03",
+                  "-43.84",
+                  "-54.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-97.93",
+                  "-315.15",
+                  "-442.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1.05",
+                  "-17.28",
+                  "-29.75"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8.71",
+                  "-9.83",
+                  "-14.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "23.66",
+                  "9.91",
+                  "69.43"
+                ],
+                [
+                  "CAPEX",
+                  "-8.64",
+                  "-19.08",
+                  "-14.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5.70",
+                  "6.02",
+                  "4.93",
+                  "2.79"
+                ],
+                [
+                  "Gross Profit",
+                  "1.61",
+                  "2.44",
+                  "2.07",
+                  "0.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.28",
+                  "40.51",
+                  "41.96",
+                  "3.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.63",
+                  "0.63",
+                  "0.64",
+                  "0.62"
+                ],
+                [
+                  "R&D Exp",
+                  "3.37",
+                  "3.16",
+                  "5.50",
+                  "9.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "10.56",
+                  "9.06",
+                  "9.18",
+                  "10.00"
+                ],
+                [
+                  "Operating Income",
+                  "-12.95",
+                  "-10.41",
+                  "-13.24",
+                  "-20.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-227.07",
+                  "-173.12",
+                  "-268.72",
+                  "-729.26"
+                ],
+                [
+                  "Net Income",
+                  "13.03",
+                  "-3.98",
+                  "-13.32",
+                  "-14.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "228.48",
+                  "-66.24",
+                  "-270.20",
+                  "-529.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19.15",
+                  "2.00",
+                  "-11.62",
+                  "-10.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.96",
+                  "-1.32",
+                  "2.34",
+                  "-4.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-17.72",
+                  "15.88",
+                  "7.66",
+                  "17.85"
+                ],
+                [
+                  "CAPEX",
+                  "-3.89",
+                  "-0.23",
+                  "-0.22",
+                  "-4.30"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IC 設計",
+    "SoC",
+    "行車記錄器",
+    "安防監控",
+    "微控制器",
+    "聯詠",
+    "凌通",
+    "聯詠",
+    "凌通"
+  ]
+}

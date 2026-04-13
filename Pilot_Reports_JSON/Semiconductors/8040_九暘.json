@@ -1,0 +1,539 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/8040_九暘.md",
+  "source_path": "Pilot_Reports/Semiconductors/8040_九暘.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/8040_九暘.json",
+  "ticker": "8040",
+  "company_name": "九暘",
+  "title": "# 8040 - 九暘",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "4,546 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,467 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "九暘電子 (8040，IC Plus) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯發科"
+            },
+            {
+              "type": "text",
+              "text": "轉投資之"
+            },
+            {
+              "type": "wikilink",
+              "text": "乙太網路"
+            },
+            {
+              "type": "text",
+              "text": " IC 設計公司，專注於 10/100 Mbps 及 Gigabit "
+            },
+            {
+              "type": "wikilink",
+              "text": "Ethernet"
+            },
+            {
+              "type": "text",
+              "text": " PHY 收發器及交換器晶片之研發、設計及行銷。產品應用於網路通訊設備及嵌入式系統。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (轉投資)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Ethernet PHY:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "九暘"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (乙太網路 PHY/交換器晶片)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (網通設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網路通訊設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嵌入式系統客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網路通訊設備廠商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嵌入式系統客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (轉投資)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microchip"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $47.15 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "6.88",
+                  "1.86",
+                  "-45.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "661.11",
+                  "644.04",
+                  "717.97"
+                ],
+                [
+                  "Gross Profit",
+                  "271.80",
+                  "224.41",
+                  "240.11"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.11",
+                  "34.84",
+                  "33.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "-87.88",
+                  "-104.75",
+                  "-56.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-13.29",
+                  "-16.26",
+                  "-7.89"
+                ],
+                [
+                  "Net Income",
+                  "-58.22",
+                  "-113.80",
+                  "-120.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-8.81",
+                  "-17.67",
+                  "-16.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "39.05",
+                  "-3.27",
+                  "8.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-61.05",
+                  "-60.10",
+                  "-31.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.61",
+                  "1892.77",
+                  "-82.42"
+                ],
+                [
+                  "CAPEX",
+                  "-61.05",
+                  "-59.61",
+                  "-41.79"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "155.28",
+                  "169.06",
+                  "162.88",
+                  "171.28"
+                ],
+                [
+                  "Gross Profit",
+                  "64.53",
+                  "70.27",
+                  "67.92",
+                  "60.17"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.56",
+                  "41.57",
+                  "41.70",
+                  "35.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "6.77",
+                  "7.62",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "67.03",
+                  "63.34",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "19.14",
+                  "18.31",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "-23.33",
+                  "-22.67",
+                  "-21.35",
+                  "-27.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.02",
+                  "-13.41",
+                  "-13.11",
+                  "-16.13"
+                ],
+                [
+                  "Net Income",
+                  "-14.82",
+                  "-21.03",
+                  "-8.83",
+                  "-30.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-9.55",
+                  "-12.44",
+                  "-5.42",
+                  "-17.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "0.95",
+                  "-2.10",
+                  "-0.05",
+                  "8.18"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.96",
+                  "-20.68",
+                  "-3.97",
+                  "-17.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.38",
+                  "0.00",
+                  "-0.22",
+                  "0.00"
+                ],
+                [
+                  "CAPEX",
+                  "-4.96",
+                  "-20.68",
+                  "-3.97",
+                  "-17.27"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聯發科",
+    "乙太網路",
+    "Ethernet",
+    "聯發科",
+    "聯發科",
+    "瑞昱",
+    "Microchip",
+    "Broadcom"
+  ]
+}

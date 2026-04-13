@@ -1,0 +1,504 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/4951_精拓科.md",
+  "source_path": "Pilot_Reports/Semiconductors/4951_精拓科.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/4951_精拓科.json",
+  "ticker": "4951",
+  "company_name": "精拓科",
+  "title": "# 4951 - 精拓科",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "2,438 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,017 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "精拓科技 (4951) 為專業半導體 IC 測試服務廠商，提供晶圓測試 (CP) 及成品測試 (FT) 服務。產品應用於類比 IC、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電源管理 IC"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "驅動 IC"
+            },
+            {
+              "type": "text",
+              "text": "及混合訊號 IC 測試。服務台灣 IC 設計公司及 IDM 客戶。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (測試設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試機台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Advantest"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Teradyne"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (測試代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精拓"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CP/FT 測試服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 類比/電源/驅動 IC 設計公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 類比/電源/驅動 IC 設計公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Advantest"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Teradyne"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣銓"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京元電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "逸昌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $71.40 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.18",
+                  "N/A",
+                  "4.51",
+                  "2.47",
+                  "10.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "540.64",
+                  "515.51",
+                  "408.57"
+                ],
+                [
+                  "Gross Profit",
+                  "411.43",
+                  "380.55",
+                  "285.17"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "76.10",
+                  "73.82",
+                  "69.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "67.90",
+                  "79.50",
+                  "72.43"
+                ],
+                [
+                  "R&D Exp",
+                  "84.94",
+                  "68.41",
+                  "63.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "86.42",
+                  "76.47",
+                  "52.85"
+                ],
+                [
+                  "Operating Income",
+                  "172.17",
+                  "156.16",
+                  "96.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "31.85",
+                  "30.29",
+                  "23.50"
+                ],
+                [
+                  "Net Income",
+                  "204.31",
+                  "145.05",
+                  "113.10"
+                ],
+                [
+                  "Net Margin (%)",
+                  "37.79",
+                  "28.14",
+                  "27.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "173.46",
+                  "218.73",
+                  "64.27"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "25.32",
+                  "-26.75",
+                  "-224.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-114.56",
+                  "-87.51",
+                  "-120.41"
+                ],
+                [
+                  "CAPEX",
+                  "-21.29",
+                  "-38.76",
+                  "-313.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "133.82",
+                  "144.19",
+                  "138.05",
+                  "124.59"
+                ],
+                [
+                  "Gross Profit",
+                  "101.18",
+                  "106.41",
+                  "107.11",
+                  "96.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "75.61",
+                  "73.80",
+                  "77.59",
+                  "77.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.77",
+                  "18.64",
+                  "17.99",
+                  "16.49"
+                ],
+                [
+                  "R&D Exp",
+                  "32.38",
+                  "18.71",
+                  "17.55",
+                  "16.30"
+                ],
+                [
+                  "General & Admin Exp",
+                  "23.67",
+                  "21.75",
+                  "21.17",
+                  "19.83"
+                ],
+                [
+                  "Operating Income",
+                  "30.36",
+                  "47.30",
+                  "50.40",
+                  "44.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.69",
+                  "32.81",
+                  "36.51",
+                  "35.41"
+                ],
+                [
+                  "Net Income",
+                  "76.49",
+                  "38.91",
+                  "45.93",
+                  "42.98"
+                ],
+                [
+                  "Net Margin (%)",
+                  "57.16",
+                  "26.99",
+                  "33.27",
+                  "34.50"
+                ],
+                [
+                  "Op Cash Flow",
+                  "36.86",
+                  "22.79",
+                  "54.84",
+                  "58.97"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "67.87",
+                  "-7.11",
+                  "-2.83",
+                  "-32.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.77",
+                  "-2.75",
+                  "-110.22",
+                  "-0.81"
+                ],
+                [
+                  "CAPEX",
+                  "-7.57",
+                  "-5.64",
+                  "-5.02",
+                  "-3.06"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電源管理 IC",
+    "驅動 IC",
+    "Advantest",
+    "Teradyne",
+    "Advantest",
+    "Teradyne",
+    "欣銓",
+    "京元電子",
+    "逸昌"
+  ]
+}

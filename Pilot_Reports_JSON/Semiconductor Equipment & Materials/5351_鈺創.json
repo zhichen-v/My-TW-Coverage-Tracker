@@ -1,0 +1,634 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/5351_鈺創.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/5351_鈺創.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/5351_鈺創.json",
+  "ticker": "5351",
+  "company_name": "鈺創",
+  "title": "# 5351 - 鈺創",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "24,127 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "25,645 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鈺創科技 (Etron) 成立於 1991 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司為全球知名 "
+            },
+            {
+              "type": "strong",
+              "text": "利基型記憶體 (Specialty DRAM)"
+            },
+            {
+              "type": "text",
+              "text": " 設計公司 (Fabless)，產品包含 "
+            },
+            {
+              "type": "strong",
+              "text": "Buffer DRAM"
+            },
+            {
+              "type": "text",
+              "text": " (KGDM, 消費性/"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "應用)、"
+            },
+            {
+              "type": "strong",
+              "text": "RPC DRAM"
+            },
+            {
+              "type": "text",
+              "text": " (微型封裝，針對 AIoT/Edge "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": ")。鈺創亦積極佈局邏輯 IC，包括 "
+            },
+            {
+              "type": "strong",
+              "text": "USB Type-C/PD 控制晶片"
+            },
+            {
+              "type": "text",
+              "text": " (E-Marker) 及 "
+            },
+            {
+              "type": "strong",
+              "text": "3D 深度影像感測晶片"
+            },
+            {
+              "type": "text",
+              "text": " (3D Sensing)。近年推動「異質整合」平台，搶攻 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "商機。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " 利基型 "
+            },
+            {
+              "type": "wikilink",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": " 及邏輯 IC 設計 (Fabless)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 晶圓代工 (力積電、南亞科等)、封測廠。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi 7"
+            },
+            {
+              "type": "text",
+              "text": "/6E 路由器)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "VR"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AR"
+            },
+            {
+              "type": "text",
+              "text": " 裝置 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": ")、PC 週邊、"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "VR/AR:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Facebook), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", Valve (供應 3D 感測或相關晶片)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美及亞洲"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "網通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌 (Wi-Fi 相關"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "記憶體"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Type-C"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 相關客戶 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 認證通過)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "利基型 DRAM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶豪科 (ESMT)、華邦電 (Winbond)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB 控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 威鋒 (Via Labs)、祥碩 (ASMedia)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $74.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "5.98",
+                  "6.14",
+                  "-73.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4036.78",
+                  "3473.22",
+                  "2661.97"
+                ],
+                [
+                  "Gross Profit",
+                  "618.36",
+                  "442.81",
+                  "-82.70"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.32",
+                  "12.75",
+                  "-3.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "208.55",
+                  "231.07",
+                  "210.84"
+                ],
+                [
+                  "R&D Exp",
+                  "782.09",
+                  "657.54",
+                  "688.60"
+                ],
+                [
+                  "General & Admin Exp",
+                  "273.36",
+                  "274.29",
+                  "264.19"
+                ],
+                [
+                  "Operating Income",
+                  "-579.26",
+                  "-652.53",
+                  "-1179.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-14.35",
+                  "-18.79",
+                  "-44.29"
+                ],
+                [
+                  "Net Income",
+                  "-497.49",
+                  "-540.64",
+                  "-892.91"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-12.32",
+                  "-15.57",
+                  "-33.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-436.50",
+                  "-11.38",
+                  "-66.60"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-409.30",
+                  "-245.13",
+                  "94.90"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "937.24",
+                  "313.51",
+                  "-170.70"
+                ],
+                [
+                  "CAPEX",
+                  "-272.85",
+                  "-167.10",
+                  "-179.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1594.96",
+                  "1069.97",
+                  "744.72",
+                  "627.13"
+                ],
+                [
+                  "Gross Profit",
+                  "364.21",
+                  "135.43",
+                  "52.27",
+                  "66.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.84",
+                  "12.66",
+                  "7.02",
+                  "10.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "55.48",
+                  "49.86",
+                  "51.91",
+                  "51.30"
+                ],
+                [
+                  "R&D Exp",
+                  "196.42",
+                  "209.92",
+                  "193.77",
+                  "181.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "64.92",
+                  "71.36",
+                  "69.55",
+                  "67.54"
+                ],
+                [
+                  "Operating Income",
+                  "63.79",
+                  "-179.50",
+                  "-246.09",
+                  "-217.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.00",
+                  "-16.78",
+                  "-33.04",
+                  "-34.68"
+                ],
+                [
+                  "Net Income",
+                  "69.10",
+                  "-140.69",
+                  "-227.75",
+                  "-198.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.33",
+                  "-13.15",
+                  "-30.58",
+                  "-31.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-24.77",
+                  "74.81",
+                  "-85.15",
+                  "-401.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-188.97",
+                  "-57.22",
+                  "-70.30",
+                  "-92.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "383.06",
+                  "152.83",
+                  "-177.63",
+                  "578.98"
+                ],
+                [
+                  "CAPEX",
+                  "-114.89",
+                  "-24.80",
+                  "-64.49",
+                  "-68.68"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹",
+    "網通",
+    "AI",
+    "AI",
+    "記憶體",
+    "DRAM",
+    "網通",
+    "Wi-Fi 7",
+    "VR",
+    "AR",
+    "Meta",
+    "Google",
+    "消費性電子",
+    "Meta",
+    "Google",
+    "網通",
+    "記憶體",
+    "Type-C",
+    "Intel",
+    "Apple"
+  ]
+}

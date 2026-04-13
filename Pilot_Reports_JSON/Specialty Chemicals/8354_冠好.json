@@ -1,0 +1,665 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/8354_冠好.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/8354_冠好.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/8354_冠好.json",
+  "ticker": "8354",
+  "company_name": "冠好",
+  "title": "# 8354 - 冠好",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "1,190 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,065 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "冠好科技 (8354，Koan Hao Technology) 成立於 1981 年，專業製造離型紙、離型膜、感壓自黏標籤 (PSA)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚醯亞胺"
+            },
+            {
+              "type": "text",
+              "text": " (PI) 保護膜、PET 保護膜、工業雙面膠帶、電子膠帶及"
+            },
+            {
+              "type": "wikilink",
+              "text": "QFN"
+            },
+            {
+              "type": "text",
+              "text": "封裝膠帶。產品應用橫跨"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "封裝 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "QFN"
+            },
+            {
+              "type": "text",
+              "text": "/IC 封裝膠帶)、電子光學、汽車、物流包裝及食品飲料包裝。上游基膜來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "杜邦"
+            },
+            {
+              "type": "text",
+              "text": " (Kapton PI 膜)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "東麗"
+            },
+            {
+              "type": "text",
+              "text": " (PET 膜)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SKC"
+            },
+            {
+              "type": "text",
+              "text": "。下游半導體封裝客戶涵蓋封測廠及 IC 封裝業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "杜邦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Kapton "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PET 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東麗"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Toray)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SKC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 光學/電子級 PET"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "膠黏劑:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 膠黏劑化學原料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "冠好"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (離型紙/離型膜/PSA 標籤/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "QFN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "封裝膠帶/PI 保護膜/電子膠帶)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "QFN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/IC 封裝膠帶 — 封測廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子光學:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流/食品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 包裝標籤客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 封測廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "QFN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/IC 封裝膠帶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子代工廠 — 電子膠帶/保護膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "包裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物流/食品包裝 — PSA 標籤"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "杜邦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Kapton "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PET 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東麗"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SKC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "膠黏劑:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 化學原料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $15.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "108.21",
+                  "N/A",
+                  "1.85",
+                  "0.50",
+                  "28.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "640.10",
+                  "614.42",
+                  "677.24"
+                ],
+                [
+                  "Gross Profit",
+                  "85.06",
+                  "74.06",
+                  "91.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.29",
+                  "12.05",
+                  "13.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "39.94",
+                  "39.89",
+                  "42.05"
+                ],
+                [
+                  "R&D Exp",
+                  "9.48",
+                  "8.42",
+                  "8.34"
+                ],
+                [
+                  "General & Admin Exp",
+                  "47.69",
+                  "42.66",
+                  "42.72"
+                ],
+                [
+                  "Operating Income",
+                  "-12.06",
+                  "-16.90",
+                  "-1.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.88",
+                  "-2.75",
+                  "-0.19"
+                ],
+                [
+                  "Net Income",
+                  "123.84",
+                  "61.74",
+                  "79.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.35",
+                  "10.05",
+                  "11.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "195.75",
+                  "121.41",
+                  "163.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-87.22",
+                  "-205.14",
+                  "-831.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-169.65",
+                  "-34.76",
+                  "820.86"
+                ],
+                [
+                  "CAPEX",
+                  "-13.74",
+                  "-3.96",
+                  "-2.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "153.32",
+                  "164.10",
+                  "162.15",
+                  "158.25"
+                ],
+                [
+                  "Gross Profit",
+                  "15.74",
+                  "22.33",
+                  "25.47",
+                  "19.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.27",
+                  "13.61",
+                  "15.71",
+                  "12.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10.58",
+                  "10.47",
+                  "10.46",
+                  "10.10"
+                ],
+                [
+                  "R&D Exp",
+                  "1.92",
+                  "1.92",
+                  "2.48",
+                  "2.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9.50",
+                  "8.97",
+                  "10.90",
+                  "12.75"
+                ],
+                [
+                  "Operating Income",
+                  "-6.26",
+                  "0.97",
+                  "1.63",
+                  "-6.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.08",
+                  "0.59",
+                  "1.01",
+                  "-3.80"
+                ],
+                [
+                  "Net Income",
+                  "59.01",
+                  "-96.31",
+                  "3.41",
+                  "31.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "38.49",
+                  "-58.69",
+                  "2.10",
+                  "20.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "27.88",
+                  "-116.76",
+                  "35.53",
+                  "82.75"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-203.89",
+                  "143.66",
+                  "25.05",
+                  "199.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "31.81",
+                  "-50.95",
+                  "-141.50",
+                  "-57.82"
+                ],
+                [
+                  "CAPEX",
+                  "-1.09",
+                  "-2.20",
+                  "-0.61",
+                  "-5.72"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聚醯亞胺",
+    "QFN",
+    "半導體",
+    "QFN",
+    "杜邦",
+    "東麗",
+    "SKC",
+    "杜邦",
+    "聚醯亞胺",
+    "東麗",
+    "SKC",
+    "QFN",
+    "QFN",
+    "QFN",
+    "杜邦",
+    "聚醯亞胺",
+    "東麗",
+    "SKC"
+  ]
+}

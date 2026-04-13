@@ -1,0 +1,553 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/2938_床的世界.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/2938_床的世界.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/2938_床的世界.json",
+  "ticker": "2938",
+  "company_name": "床的世界",
+  "title": "# 2938 - 床的世界",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "491 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "821 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "床的世界 (2938，Bedding World) 為台灣知名床墊連鎖通路品牌，擁有自有工廠與全台數十家大型直營門市。公司採「產銷合一」模式，除銷售自有品牌床墊外，亦為美國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Simmons"
+            },
+            {
+              "type": "text",
+              "text": " (席夢思) 名床之台灣經銷商，直接向美國工廠進口原裝床墊。同業競爭者包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "睡眠王國"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "德泰彈簧"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "老K牌彈簧床"
+            },
+            {
+              "type": "text",
+              "text": "。近年積極開發 "
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": " 智慧床墊產品線及睡眠周邊商品，並拓展 "
+            },
+            {
+              "type": "wikilink",
+              "text": "momo購物網"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PChome"
+            },
+            {
+              "type": "text",
+              "text": " 等電商通路。以「睡眠健康」為核心訴求，提供專業試躺顧問服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原物料與品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 彈簧用鋼線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "泡棉/乳膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外泡棉及進口天然乳膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 床墊表布供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Simmons"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (美國席夢思) — 原裝進口名床"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造與零售)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "床的世界"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 自有工廠床墊製造、全台直營門市零售、美國名床進口經銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端消費)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重視睡眠品質之家庭客群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 飯店、月子中心 — B2B 採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重視睡眠品質之家庭客群 — 全台直營門市"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 飯店業者、月子中心 — B2B 床墊採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Simmons"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (美國席夢思) — 原裝進口名床"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 彈簧用鋼線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "乳膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進口天然乳膠供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.40 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "8.91",
+                  "N/A",
+                  "0.63",
+                  "0.74",
+                  "7.19"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "840.56",
+                  "851.19",
+                  "890.60"
+                ],
+                [
+                  "Gross Profit",
+                  "578.13",
+                  "572.73",
+                  "583.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "68.78",
+                  "67.29",
+                  "65.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "367.65",
+                  "366.51",
+                  "331.51"
+                ],
+                [
+                  "R&D Exp",
+                  "0.92",
+                  "1.07",
+                  "2.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "90.28",
+                  "96.07",
+                  "93.76"
+                ],
+                [
+                  "Operating Income",
+                  "119.27",
+                  "109.08",
+                  "155.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.19",
+                  "12.82",
+                  "17.50"
+                ],
+                [
+                  "Net Income",
+                  "85.38",
+                  "75.47",
+                  "117.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.16",
+                  "8.87",
+                  "13.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "243.97",
+                  "189.32",
+                  "247.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-74.07",
+                  "-27.96",
+                  "-29.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-159.95",
+                  "-205.92",
+                  "-155.34"
+                ],
+                [
+                  "CAPEX",
+                  "-26.41",
+                  "-24.16",
+                  "-28.79"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-06-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "210.82"
+                ],
+                [
+                  "Gross Profit",
+                  "144.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "68.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "90.93"
+                ],
+                [
+                  "R&D Exp",
+                  "0.21"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22.13"
+                ],
+                [
+                  "Operating Income",
+                  "31.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.71"
+                ],
+                [
+                  "Net Income",
+                  "21.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "77.07"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-56.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-41.51"
+                ],
+                [
+                  "CAPEX",
+                  "-6.14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Simmons",
+    "睡眠王國",
+    "德泰彈簧",
+    "老K牌彈簧床",
+    "物聯網",
+    "momo購物網",
+    "PChome",
+    "中鋼",
+    "Simmons",
+    "Simmons",
+    "中鋼"
+  ]
+}

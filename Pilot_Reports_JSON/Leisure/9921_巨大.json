@@ -1,0 +1,670 @@
+{
+  "report_id": "Pilot_Reports/Leisure/9921_巨大.md",
+  "source_path": "Pilot_Reports/Leisure/9921_巨大.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/9921_巨大.json",
+  "ticker": "9921",
+  "company_name": "巨大",
+  "title": "# 9921 - 巨大",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "27,837 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "31,663 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "巨大機械工業股份有限公司 (9921，Giant Manufacturing) 成立於 1972 年，為全球最大自行車品牌製造商。旗下擁有自有品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "Giant"
+            },
+            {
+              "type": "text",
+              "text": "」及女性專屬品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "Liv"
+            },
+            {
+              "type": "text",
+              "text": "」，產品涵蓋公路車、登山車、城市車、兒童車及"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動輔助自行車"
+            },
+            {
+              "type": "text",
+              "text": " (E-Bike)。2003 年與"
+            },
+            {
+              "type": "wikilink",
+              "text": "美利達"
+            },
+            {
+              "type": "text",
+              "text": "共同推動台灣自行車產業「A-Team」計畫。公司在全球超過 50 國設有銷售網絡，擁有超過 12,000 間零售據點。生產基地遍布台灣、中國、越南及荷蘭。"
+            },
+            {
+              "type": "wikilink",
+              "text": "Shimano"
+            },
+            {
+              "type": "text",
+              "text": "為最主要傳動系統供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車架材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁合金、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "碳纖維"
+                    },
+                    {
+                      "type": "text",
+                      "text": "車架 (自主研發碳纖維技術)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳動系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shimano"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變速器與傳動零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "E-Bike 動力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shimano"
+                    },
+                    {
+                      "type": "text",
+                      "text": " STEPS、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Yamaha"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電動輔助系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "輪組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自有品牌輪組與國際品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌設計與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "巨大"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 自有品牌「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Giant"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」、「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Liv"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」自行車全球設計、製造與行銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (全球通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "專賣店:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球超過 12,000 間 Giant 零售據點"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐洲自行車經銷網絡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國與加拿大自行車專賣店"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 12,000 間 Giant 品牌專賣店與經銷商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐洲自行車經銷網絡 — 最大海外市場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國與加拿大自行車專賣店"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳動系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shimano"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變速器與 STEPS 電動輔助系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "E-Bike 動力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Yamaha"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電動輔助馬達系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "碳纖維:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "碳纖維"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原料 (自主碳纖維技術研發)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "A-Team 夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "美利達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 台灣自行車產業升級計畫"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $71.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "12.86",
+                  "0.45",
+                  "0.84",
+                  "14.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "71278.77",
+                  "76953.55",
+                  "92043.68"
+                ],
+                [
+                  "Gross Profit",
+                  "13534.04",
+                  "16973.29",
+                  "20824.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.99",
+                  "22.06",
+                  "22.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7752.29",
+                  "7629.18",
+                  "7944.48"
+                ],
+                [
+                  "R&D Exp",
+                  "1424.07",
+                  "1455.20",
+                  "1531.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2500.61",
+                  "2654.61",
+                  "2855.96"
+                ],
+                [
+                  "Operating Income",
+                  "1857.07",
+                  "5234.30",
+                  "8491.78"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.61",
+                  "6.80",
+                  "9.23"
+                ],
+                [
+                  "Net Income",
+                  "1264.01",
+                  "3401.39",
+                  "5843.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.77",
+                  "4.42",
+                  "6.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "12149.37",
+                  "10589.80",
+                  "511.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5459.87",
+                  "-32.15",
+                  "-630.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-7832.11",
+                  "-7180.98",
+                  "4609.63"
+                ],
+                [
+                  "CAPEX",
+                  "-2515.87",
+                  "-2314.24",
+                  "-2700.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "15354.74",
+                  "15754.34",
+                  "16850.95",
+                  "13591.79"
+                ],
+                [
+                  "Gross Profit",
+                  "3295.79",
+                  "3220.23",
+                  "2996.98",
+                  "1829.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.46",
+                  "20.44",
+                  "17.79",
+                  "13.46"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2020.31",
+                  "1787.73",
+                  "1714.87",
+                  "1723.69"
+                ],
+                [
+                  "R&D Exp",
+                  "294.85",
+                  "327.28",
+                  "370.69",
+                  "328.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "585.37",
+                  "672.88",
+                  "433.97",
+                  "744.78"
+                ],
+                [
+                  "Operating Income",
+                  "395.26",
+                  "432.35",
+                  "477.45",
+                  "-968.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.57",
+                  "2.74",
+                  "2.83",
+                  "-7.12"
+                ],
+                [
+                  "Net Income",
+                  "349.99",
+                  "189.88",
+                  "367.57",
+                  "-907.07"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.28",
+                  "1.21",
+                  "2.18",
+                  "-6.67"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4013.86",
+                  "4782.95",
+                  "1435.33",
+                  "-1831.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-235.28",
+                  "-477.28",
+                  "-719.45",
+                  "-943.39"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4092.43",
+                  "-3819.37",
+                  "-1620.31",
+                  "975.78"
+                ],
+                [
+                  "CAPEX",
+                  "-388.49",
+                  "-381.54",
+                  "-568.90",
+                  "-823.87"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Giant",
+    "Liv",
+    "電動輔助自行車",
+    "美利達",
+    "Shimano",
+    "碳纖維",
+    "Shimano",
+    "Shimano",
+    "Yamaha",
+    "Giant",
+    "Liv",
+    "Shimano",
+    "Yamaha",
+    "碳纖維",
+    "美利達"
+  ]
+}

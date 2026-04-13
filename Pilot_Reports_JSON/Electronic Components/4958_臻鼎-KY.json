@@ -1,0 +1,706 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4958_臻鼎-KY.md",
+  "source_path": "Pilot_Reports/Electronic Components/4958_臻鼎-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4958_臻鼎-KY.json",
+  "ticker": "4958",
+  "company_name": "臻鼎-KY",
+  "title": "# 4958 - 臻鼎-KY",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "222,054 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "250,644 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "臻鼎-KY (Zhen Ding Tech) 為全球最大 "
+            },
+            {
+              "type": "strong",
+              "text": "印刷電路板 (PCB)"
+            },
+            {
+              "type": "text",
+              "text": " 製造商。\n隸屬於 "
+            },
+            {
+              "type": "strong",
+              "text": "[[鴻海]]"
+            },
+            {
+              "type": "text",
+              "text": " 集團 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": ")，提供「One ZDT」一站式購足服務。\n產品線極其完整：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "軟板 ([[FPC]])"
+            },
+            {
+              "type": "text",
+              "text": ": 全球市佔第一，主要應用於手機 (iPhone)、平板。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "類載板 ([[SLP]]) / HDI"
+            },
+            {
+              "type": "text",
+              "text": ": 高階手機主板。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "IC 載板"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "BT 載板"
+            },
+            {
+              "type": "text",
+              "text": " (秦皇島廠) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[ABF 載板]]"
+            },
+            {
+              "type": "text",
+              "text": " (深圳/高雄廠)，積極切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "與車載領域。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "硬板 (RPCB)"
+            },
+            {
+              "type": "text",
+              "text": ": 伺服器、車用板。\n近年重心轉向 "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "IC 載板"
+            },
+            {
+              "type": "text",
+              "text": " 之高階產能擴充。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "臻鼎-KY (4958)"
+            },
+            {
+              "type": "text",
+              "text": " - 各式 PCB/載板製造.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CCL"
+            },
+            {
+              "type": "text",
+              "text": ") - "
+            },
+            {
+              "type": "wikilink",
+              "text": "台光電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "聯茂"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台燿"
+            },
+            {
+              "type": "text",
+              "text": "; "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": ", 鑽針 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "尖點"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "終端品牌"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[Apple]]"
+            },
+            {
+              "type": "text",
+              "text": " (最大客戶), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Microsoft"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "EMS 廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[鴻海]]"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "和碩"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "AI/HPC"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nvidia"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": " (載板與伺服器板)."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Apple]]"
+                },
+                {
+                  "type": "text",
+                  "text": ": iPhone/iPad/Watch 全系列 PCB 主力供應商.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "AI/Server"
+                },
+                {
+                  "type": "text",
+                  "text": ": Nvidia, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Amazon"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Microsoft"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "CCL"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台光電"
+                },
+                {
+                  "type": "text",
+                  "text": " (高階手機/AI板), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯茂"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "鑽針"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "尖點"
+                },
+                {
+                  "type": "text",
+                  "text": " (策略合作)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $207.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "29.06",
+                  "13.43",
+                  "1.22",
+                  "1.79",
+                  "7.91"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "182521.62",
+                  "171663.85",
+                  "151398.04"
+                ],
+                [
+                  "Gross Profit",
+                  "36136.40",
+                  "32460.76",
+                  "27459.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.80",
+                  "18.91",
+                  "18.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2351.91",
+                  "2154.91",
+                  "1899.65"
+                ],
+                [
+                  "R&D Exp",
+                  "11807.10",
+                  "11715.28",
+                  "9665.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "8041.02",
+                  "7025.11",
+                  "6724.67"
+                ],
+                [
+                  "Operating Income",
+                  "13936.38",
+                  "11565.46",
+                  "9169.68"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.64",
+                  "6.74",
+                  "6.06"
+                ],
+                [
+                  "Net Income",
+                  "6790.51",
+                  "9179.69",
+                  "6188.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.72",
+                  "5.35",
+                  "4.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "27616.51",
+                  "30384.82",
+                  "33598.64"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-31960.00",
+                  "-8146.90",
+                  "-25730.35"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1865.31",
+                  "-7150.61",
+                  "-495.10"
+                ],
+                [
+                  "CAPEX",
+                  "-33528.63",
+                  "-16258.18",
+                  "-26107.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "56870.10",
+                  "47366.17",
+                  "38203.47",
+                  "40081.87"
+                ],
+                [
+                  "Gross Profit",
+                  "12830.08",
+                  "10410.41",
+                  "7010.89",
+                  "5885.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.56",
+                  "21.98",
+                  "18.35",
+                  "14.68"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "743.93",
+                  "629.55",
+                  "492.86",
+                  "485.58"
+                ],
+                [
+                  "R&D Exp",
+                  "3653.26",
+                  "2980.67",
+                  "2610.56",
+                  "2562.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2511.32",
+                  "2236.07",
+                  "1493.69",
+                  "1799.95"
+                ],
+                [
+                  "Operating Income",
+                  "5921.56",
+                  "4564.12",
+                  "2413.79",
+                  "1036.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.41",
+                  "9.64",
+                  "6.32",
+                  "2.59"
+                ],
+                [
+                  "Net Income",
+                  "3161.28",
+                  "2391.74",
+                  "605.03",
+                  "632.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.56",
+                  "5.05",
+                  "1.58",
+                  "1.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "12209.80",
+                  "-2847.20",
+                  "7109.94",
+                  "11143.98"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9269.75",
+                  "-9774.45",
+                  "-7686.18",
+                  "-5229.62"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-10751.35",
+                  "10947.58",
+                  "-2183.57",
+                  "122.03"
+                ],
+                [
+                  "CAPEX",
+                  "-9030.23",
+                  "-10284.02",
+                  "-8577.45",
+                  "-5636.93"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鴻海",
+    "鴻海",
+    "FPC",
+    "SLP",
+    "BT 載板",
+    "ABF 載板",
+    "AI 伺服器",
+    "AI 伺服器",
+    "銅箔",
+    "CCL",
+    "台光電",
+    "聯茂",
+    "台燿",
+    "銅箔",
+    "尖點",
+    "Apple",
+    "Google",
+    "Microsoft",
+    "鴻海",
+    "和碩",
+    "Nvidia",
+    "AMD",
+    "Apple",
+    "Amazon",
+    "Microsoft",
+    "台光電",
+    "聯茂",
+    "尖點"
+  ]
+}

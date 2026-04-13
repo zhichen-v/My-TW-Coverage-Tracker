@@ -1,0 +1,565 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/7742_天弘化.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/7742_天弘化.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/7742_天弘化.json",
+  "ticker": "7742",
+  "company_name": "天弘化",
+  "title": "# 7742 - 天弘化",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "9,425 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "10,186 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "天弘化學 (7742，Uranus Chemicals) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "康普"
+            },
+            {
+              "type": "text",
+              "text": " (4739) 集團戰略子公司 (1975 年成立)，專注高純度新能源電池正極前驅體材料"
+            },
+            {
+              "type": "wikilink",
+              "text": "硫酸鈷"
+            },
+            {
+              "type": "text",
+              "text": "、精密電子級特用化學品、"
+            },
+            {
+              "type": "wikilink",
+              "text": "草酸"
+            },
+            {
+              "type": "text",
+              "text": "及特殊金屬化合物之研發與精煉。營收結構：新能源電池材料約 72%、草酸約 14%、特用化學品約 9%。採代工不代料模式 (toll processing) 迴避鈷價波動風險。下游客戶涵蓋全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "三元鋰電池"
+            },
+            {
+              "type": "text",
+              "text": "正極材料加工廠如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Umicore"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "住友金屬礦山"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "格林美"
+            },
+            {
+              "type": "text",
+              "text": "。上游鈷原料來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "嘉能可"
+            },
+            {
+              "type": "text",
+              "text": " (Glencore) 等國際鈷礦商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鈷原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉能可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Glencore) 等國際鈷礦/粗提煉商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康普"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (4739) — 集團戰略"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "天弘化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "硫酸鈷"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "草酸"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/特用化學品精煉，toll processing 模式)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池正極:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Umicore"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友金屬礦山"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "格林美"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三元鋰電池"
+                    },
+                    {
+                      "type": "text",
+                      "text": "前驅體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子級草酸/清洗劑 — 晶圓廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "正極材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Umicore"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友金屬礦山"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "格林美"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "硫酸鈷"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三元鋰電池"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶圓廠 — 電子級草酸/清洗劑"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鈷原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉能可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Glencore) 等國際鈷礦商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康普"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (4739)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $142.00 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "14.17",
+                  "6.59",
+                  "227.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "821.91",
+                  "726.29",
+                  "1317.75"
+                ],
+                [
+                  "Gross Profit",
+                  "179.68",
+                  "173.50",
+                  "264.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.86",
+                  "23.89",
+                  "20.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "49.88",
+                  "27.04",
+                  "46.79"
+                ],
+                [
+                  "R&D Exp",
+                  "7.45",
+                  "4.53",
+                  "7.74"
+                ],
+                [
+                  "General & Admin Exp",
+                  "53.58",
+                  "36.66",
+                  "107.26"
+                ],
+                [
+                  "Operating Income",
+                  "68.77",
+                  "105.27",
+                  "102.43"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.37",
+                  "14.49",
+                  "7.77"
+                ],
+                [
+                  "Net Income",
+                  "85.67",
+                  "52.04",
+                  "-46.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.42",
+                  "7.16",
+                  "-3.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-11.22",
+                  "-138.85",
+                  "220.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-63.35",
+                  "-133.01",
+                  "-72.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "174.24",
+                  "-46.69",
+                  "126.34"
+                ],
+                [
+                  "CAPEX",
+                  "-51.82",
+                  "-196.75",
+                  "-224.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "康普",
+    "硫酸鈷",
+    "草酸",
+    "三元鋰電池",
+    "Umicore",
+    "住友金屬礦山",
+    "格林美",
+    "嘉能可",
+    "嘉能可",
+    "康普",
+    "硫酸鈷",
+    "草酸",
+    "Umicore",
+    "住友金屬礦山",
+    "格林美",
+    "三元鋰電池",
+    "Umicore",
+    "住友金屬礦山",
+    "格林美",
+    "硫酸鈷",
+    "三元鋰電池",
+    "嘉能可",
+    "康普"
+  ]
+}

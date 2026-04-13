@@ -1,0 +1,752 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3229_晟鈦.md",
+  "source_path": "Pilot_Reports/Electronic Components/3229_晟鈦.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3229_晟鈦.json",
+  "ticker": "3229",
+  "company_name": "晟鈦",
+  "title": "# 3229 - 晟鈦",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,314 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,351 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晟鈦科技 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Cheer Time"
+            },
+            {
+              "type": "text",
+              "text": ") 主要從事 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 製造與加工，以小量多樣與急件服務為經營特色，避開大量生產紅海競爭。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心業務：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 鑽孔代工 — 為同業提供鑽孔加工服務，日產能約 8,000 片面板；(2) 多層 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 製造 — 生產 HDI、Load Board (IC 測試板)、晶圓測試板、老化板、軟硬結合板等高階產品；(3) 磷銅球製造 — 自 2014 年成立磷銅球事業部，採上拉法連鑄技術生產 25mm/50mm/55mm 磷銅球，年產約 3,600-3,800 噸，供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 電鍍製程。近期透過轉投資切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "與網通應用高階 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (PCB 材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅箔基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅 — 磷銅球原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蝕刻"
+                    },
+                    {
+                      "type": "text",
+                      "text": "化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (PCB 製造與加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 鑽孔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟鈦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (鑽孔代工服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多層板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟鈦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (HDI/Load Board/晶圓測試板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磷銅球:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟鈦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍用磷銅球)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (PCB 同業與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商 — 鑽孔代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 測試廠 — Load Board 測試板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電腦廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 成品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網通設備廠 — 網通 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商 — 鑽孔代工服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 測試廠 — Load Board 與晶圓測試板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電腦與網通設備廠 — 終端 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 成品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磷銅球:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍廠 — 磷銅球耗材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅箔基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅供應商 — 磷銅球原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蝕刻"
+                    },
+                    {
+                      "type": "text",
+                      "text": "化學品供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.26",
+                  "2.24",
+                  "55.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1040.58",
+                  "918.40",
+                  "928.14"
+                ],
+                [
+                  "Gross Profit",
+                  "67.29",
+                  "65.45",
+                  "50.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.47",
+                  "7.13",
+                  "5.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.35",
+                  "17.63",
+                  "16.64"
+                ],
+                [
+                  "R&D Exp",
+                  "1.65",
+                  "1.37",
+                  "1.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "47.67",
+                  "52.25",
+                  "63.91"
+                ],
+                [
+                  "Operating Income",
+                  "-1.38",
+                  "-5.80",
+                  "-32.34"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.13",
+                  "-0.63",
+                  "-3.48"
+                ],
+                [
+                  "Net Income",
+                  "-27.79",
+                  "8.73",
+                  "-25.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.67",
+                  "0.95",
+                  "-2.71"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-11.00",
+                  "67.91",
+                  "-27.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "11.53",
+                  "-24.54",
+                  "-8.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "17.48",
+                  "-97.38",
+                  "8.70"
+                ],
+                [
+                  "CAPEX",
+                  "-4.10",
+                  "-5.04",
+                  "-5.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "306.61",
+                  "255.16",
+                  "243.60",
+                  "235.22"
+                ],
+                [
+                  "Gross Profit",
+                  "32.13",
+                  "7.36",
+                  "10.38",
+                  "17.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.48",
+                  "2.89",
+                  "4.26",
+                  "7.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4.45",
+                  "4.80",
+                  "5.13",
+                  "4.96"
+                ],
+                [
+                  "R&D Exp",
+                  "0.40",
+                  "0.42",
+                  "0.42",
+                  "0.41"
+                ],
+                [
+                  "General & Admin Exp",
+                  "11.17",
+                  "12.26",
+                  "12.18",
+                  "12.06"
+                ],
+                [
+                  "Operating Income",
+                  "16.12",
+                  "-10.12",
+                  "-7.35",
+                  "-0.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.26",
+                  "-3.97",
+                  "-3.02",
+                  "-0.01"
+                ],
+                [
+                  "Net Income",
+                  "8.16",
+                  "-5.20",
+                  "-35.02",
+                  "4.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.66",
+                  "-2.04",
+                  "-14.38",
+                  "1.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-0.51",
+                  "-26.05",
+                  "-18.68",
+                  "34.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "6.60",
+                  "-1.34",
+                  "7.79",
+                  "-1.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "4.08",
+                  "24.70",
+                  "18.69",
+                  "-29.99"
+                ],
+                [
+                  "CAPEX",
+                  "-0.30",
+                  "-1.29",
+                  "-0.13",
+                  "-2.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Cheer Time",
+    "PCB",
+    "PCB",
+    "PCB",
+    "PCB",
+    "AI 伺服器",
+    "PCB",
+    "銅箔",
+    "CCL",
+    "蝕刻",
+    "PCB",
+    "PCB",
+    "PCB",
+    "PCB",
+    "PCB",
+    "PCB",
+    "PCB",
+    "銅箔",
+    "CCL",
+    "蝕刻"
+  ]
+}

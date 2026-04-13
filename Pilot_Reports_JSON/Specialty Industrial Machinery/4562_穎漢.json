@@ -1,0 +1,602 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4562_穎漢.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4562_穎漢.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4562_穎漢.json",
+  "ticker": "4562",
+  "company_name": "穎漢",
+  "title": "# 4562 - 穎漢",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "2,810 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,590 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "穎漢科技 (4562) 以自有品牌「YLM」行銷全球，專精 CNC "
+            },
+            {
+              "type": "wikilink",
+              "text": "彎管機"
+            },
+            {
+              "type": "text",
+              "text": "製造，為全球彎管機領導品牌之一。前五大客戶佔營收約 43%，主要為國際汽車排氣系統 Tier 1 如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Faurecia"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tenneco"
+            },
+            {
+              "type": "text",
+              "text": "等。產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "汽車"
+            },
+            {
+              "type": "text",
+              "text": "排氣管、底盤管件、"
+            },
+            {
+              "type": "wikilink",
+              "text": "空調"
+            },
+            {
+              "type": "text",
+              "text": "管件及"
+            },
+            {
+              "type": "wikilink",
+              "text": "航太"
+            },
+            {
+              "type": "text",
+              "text": "管件彎曲。上游伺服系統含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Fanuc"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Siemens"
+            },
+            {
+              "type": "text",
+              "text": "。另供應家具管件及健身器材管件彎曲設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鑄件/"
+            },
+            {
+              "type": "wikilink",
+              "text": "Fanuc"
+            },
+            {
+              "type": "text",
+              "text": "伺服/"
+            },
+            {
+              "type": "wikilink",
+              "text": "Siemens"
+            },
+            {
+              "type": "text",
+              "text": "控制/油壓\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "穎漢"
+            },
+            {
+              "type": "text",
+              "text": " (YLM CNC "
+            },
+            {
+              "type": "wikilink",
+              "text": "彎管機"
+            },
+            {
+              "type": "text",
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Faurecia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tenneco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 排氣管"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "空調:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "空調"
+                    },
+                    {
+                      "type": "text",
+                      "text": "管件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": "管件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Faurecia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tenneco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 汽車排氣 (前5大佔43%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "空調"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": "管件廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Fanuc"
+                    },
+                    {
+                      "type": "text",
+                      "text": "伺服; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens"
+                    },
+                    {
+                      "type": "text",
+                      "text": "控制; 油壓/鑄件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $32.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "3.92",
+                  "3.11",
+                  "-53.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "716.41",
+                  "776.84",
+                  "742.20"
+                ],
+                [
+                  "Gross Profit",
+                  "260.96",
+                  "276.47",
+                  "251.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "36.43",
+                  "35.59",
+                  "33.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "225.29",
+                  "207.99",
+                  "169.72"
+                ],
+                [
+                  "R&D Exp",
+                  "62.46",
+                  "53.65",
+                  "46.47"
+                ],
+                [
+                  "General & Admin Exp",
+                  "85.71",
+                  "89.77",
+                  "92.91"
+                ],
+                [
+                  "Operating Income",
+                  "-112.47",
+                  "-74.92",
+                  "-56.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.70",
+                  "-9.64",
+                  "-7.66"
+                ],
+                [
+                  "Net Income",
+                  "-112.13",
+                  "-39.37",
+                  "-80.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-15.65",
+                  "-5.07",
+                  "-10.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-84.37",
+                  "77.99",
+                  "59.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-30.56",
+                  "-32.50",
+                  "-19.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "30.33",
+                  "-75.38",
+                  "-47.53"
+                ],
+                [
+                  "CAPEX",
+                  "-31.01",
+                  "-20.97",
+                  "-22.68"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "137.17",
+                  "196.17",
+                  "190.21",
+                  "192.87"
+                ],
+                [
+                  "Gross Profit",
+                  "43.12",
+                  "69.48",
+                  "64.52",
+                  "83.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.44",
+                  "35.42",
+                  "33.92",
+                  "43.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.84",
+                  "53.80",
+                  "55.02",
+                  "54.62"
+                ],
+                [
+                  "R&D Exp",
+                  "22.28",
+                  "13.43",
+                  "13.58",
+                  "13.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.46",
+                  "21.68",
+                  "21.85",
+                  "20.72"
+                ],
+                [
+                  "Operating Income",
+                  "-62.46",
+                  "-19.43",
+                  "-25.91",
+                  "-3.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-45.54",
+                  "-9.90",
+                  "-13.62",
+                  "-1.81"
+                ],
+                [
+                  "Net Income",
+                  "-45.67",
+                  "-13.30",
+                  "-56.49",
+                  "3.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-33.30",
+                  "-6.78",
+                  "-29.70",
+                  "1.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-45.00",
+                  "-57.22",
+                  "78.58",
+                  "-60.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17.42",
+                  "-10.44",
+                  "-0.52",
+                  "-2.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "52.09",
+                  "-5.45",
+                  "6.42",
+                  "-22.73"
+                ],
+                [
+                  "CAPEX",
+                  "-16.05",
+                  "-10.24",
+                  "-1.75",
+                  "-2.97"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "彎管機",
+    "Faurecia",
+    "Tenneco",
+    "汽車",
+    "空調",
+    "航太",
+    "Fanuc",
+    "Siemens",
+    "Fanuc",
+    "Siemens",
+    "彎管機",
+    "Faurecia",
+    "Tenneco",
+    "空調",
+    "航太",
+    "Faurecia",
+    "Tenneco",
+    "空調",
+    "航太",
+    "Fanuc",
+    "Siemens"
+  ]
+}

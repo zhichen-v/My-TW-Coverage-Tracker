@@ -1,0 +1,500 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/9930_中聯資源.md",
+  "source_path": "Pilot_Reports/Building Materials/9930_中聯資源.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/9930_中聯資源.json",
+  "ticker": "9930",
+  "company_name": "中聯資源",
+  "title": "# 9930 - 中聯資源",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "17,547 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,648 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中聯資源股份有限公司 (CHC Resources Corporation) 成立於 1991 年，由"
+            },
+            {
+              "type": "wikilink",
+              "text": "中國鋼鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台泥"
+            },
+            {
+              "type": "text",
+              "text": "、亞泥等巨頭合資設立，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "高雄"
+            },
+            {
+              "type": "text",
+              "text": "。公司為台灣規模最大之高爐石粉專業產銷業者，在"
+            },
+            {
+              "type": "strong",
+              "text": "循環經濟"
+            },
+            {
+              "type": "text",
+              "text": "領域扮演樞紐角色。主要業務涵蓋水淬爐石加工、高爐水泥製造，以及處理鋼廠轉爐石與半導體廠氟化鈣污泥的資源再生服務。秉持 4R (Reduce, Recycle, Recovery, Reuse) 理念，中聯資源成功將工業副產品轉化為低碳綠色建材，應用於全台多項重大工程與預拌混凝土產業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (工業副產品來源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼鐵副產物:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水淬爐石、轉爐石、脫硫石 (來自母集團 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中龍鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鴻鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技污泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 回收半導體廠之氟化鈣污泥，製成人造螢石。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大宗水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購散裝水泥 (來自 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (核心製造與循環再生)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "產銷與研磨:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "中聯資源 (9930)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (產銷高爐石粉、高爐水泥、地質改良劑及輕質隔間灌漿料，並進行固化處理工程)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 提供低碳膠結材料予全台各大預拌混凝土廠。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重大公建與商辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北101、高鐵、高雄捷運及海堤回填工程。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體建廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 支援高科技廠房擴建所需之大量爐石粉。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌混凝土龍頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內各大預拌混凝土業者 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國產建材實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") 及建材經銷商。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造與公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 承攬 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北101"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、高速鐵路及捷運系統之各級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠與建設公司。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團內循環:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 將人造螢石回售予母集團 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 煉鋼使用。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼廠料源 (母集團):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中龍鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (中龍)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鴻鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鴻"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥料源 (策略股東):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (東泥)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (環泥)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中國鋼鐵",
+    "台泥",
+    "高雄",
+    "中國鋼鐵",
+    "中龍鋼鐵",
+    "中鴻鋼鐵",
+    "台灣水泥",
+    "亞洲水泥",
+    "東南水泥",
+    "環球水泥",
+    "國產建材實業",
+    "台北101",
+    "營造",
+    "中國鋼鐵",
+    "中國鋼鐵",
+    "中鋼",
+    "中龍鋼鐵",
+    "中鴻鋼鐵",
+    "中鴻",
+    "台灣水泥",
+    "台泥",
+    "亞洲水泥",
+    "亞泥",
+    "東南水泥",
+    "環球水泥"
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/8032_光菱.md",
+  "source_path": "Pilot_Reports/Computer Hardware/8032_光菱.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/8032_光菱.json",
+  "ticker": "8032",
+  "company_name": "光菱",
+  "title": "# 8032 - 光菱",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "1,785 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,800 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "光菱電子股份有限公司 (8032) 是一家專業的半導體零組件行銷通路商，主要代理並銷售先進的半導體設備、材料、電腦及週邊設備、電子零件組件等。作為國際供應商與本地製造商之間的橋樑，光菱不僅提供產品通路，亦提供技術支援與售後服務，涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ASIC"
+            },
+            {
+              "type": "text",
+              "text": "、功率元件、紅外線感測器等，協助台灣半導體及電子製造商提升生產效率。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (國際半導體設備與元件原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "濱松光子學"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (HAMAMATSU) — 紅外線感測器及光電元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群登科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "笙科電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 無線通訊及 RF IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東沅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "峰岹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 功率半導體及馬達驅動 IC"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (半導體通路與技術行銷)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "光菱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (半導體設備/零組件代理與技術行銷)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術支援:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "光菱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (應用端技術諮詢及售後服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (台灣電子製造商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內半導體製造商 — 設備與材料採購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各類電子產品/電腦周邊製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家電及工業控制設備製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內半導體及各類電子產品製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電腦周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣電腦周邊設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家電及工業控制設備製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "濱松光子學"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (HAMAMATSU) — 紅外線感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無線 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群登科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "笙科電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — RF 通訊晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東沅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "峰岹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 馬達驅動及功率 IC"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $34.45 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.88",
+                  "N/A",
+                  "0.54",
+                  "0.77",
+                  "13.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2889.74",
+                  "2700.58",
+                  "4089.92"
+                ],
+                [
+                  "Gross Profit",
+                  "422.73",
+                  "297.46",
+                  "588.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.63",
+                  "11.01",
+                  "14.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "153.25",
+                  "130.32",
+                  "169.84"
+                ],
+                [
+                  "R&D Exp",
+                  "47.36",
+                  "40.01",
+                  "51.43"
+                ],
+                [
+                  "General & Admin Exp",
+                  "138.94",
+                  "123.94",
+                  "168.20"
+                ],
+                [
+                  "Operating Income",
+                  "83.19",
+                  "3.19",
+                  "199.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.88",
+                  "0.12",
+                  "4.88"
+                ],
+                [
+                  "Net Income",
+                  "111.49",
+                  "61.07",
+                  "183.36"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.86",
+                  "2.26",
+                  "4.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-87.85",
+                  "902.49",
+                  "-496.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "71.31",
+                  "-15.37",
+                  "-13.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-154.31",
+                  "-580.45",
+                  "261.78"
+                ],
+                [
+                  "CAPEX",
+                  "-5.50",
+                  "-2.67",
+                  "-1.69"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "863.28",
+                  "892.51",
+                  "843.97",
+                  "738.49"
+                ],
+                [
+                  "Gross Profit",
+                  "107.40",
+                  "143.15",
+                  "109.45",
+                  "107.87"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.44",
+                  "16.04",
+                  "12.97",
+                  "14.61"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "43.25",
+                  "31.05",
+                  "39.48",
+                  "38.03"
+                ],
+                [
+                  "R&D Exp",
+                  "13.67",
+                  "8.76",
+                  "12.94",
+                  "12.10"
+                ],
+                [
+                  "General & Admin Exp",
+                  "35.47",
+                  "32.93",
+                  "34.43",
+                  "35.50"
+                ],
+                [
+                  "Operating Income",
+                  "15.02",
+                  "70.42",
+                  "22.60",
+                  "22.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.74",
+                  "7.89",
+                  "2.68",
+                  "3.01"
+                ],
+                [
+                  "Net Income",
+                  "51.14",
+                  "-1.29",
+                  "25.22",
+                  "26.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.92",
+                  "-0.14",
+                  "2.99",
+                  "3.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-68.65",
+                  "78.80",
+                  "97.44",
+                  "-76.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "17.94",
+                  "-15.95",
+                  "6.43",
+                  "2.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-71.39",
+                  "61.65",
+                  "3.52",
+                  "86.85"
+                ],
+                [
+                  "CAPEX",
+                  "-0.11",
+                  "-2.42",
+                  "-0.17",
+                  "-0.06"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MCU",
+    "ASIC",
+    "濱松光子學",
+    "群登科技",
+    "笙科電子",
+    "東沅",
+    "峰岹",
+    "濱松光子學",
+    "群登科技",
+    "笙科電子",
+    "東沅",
+    "峰岹"
+  ]
+}

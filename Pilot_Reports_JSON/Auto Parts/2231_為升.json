@@ -1,0 +1,682 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/2231_為升.md",
+  "source_path": "Pilot_Reports/Auto Parts/2231_為升.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/2231_為升.json",
+  "ticker": "2231",
+  "company_name": "為升",
+  "title": "# 2231 - 為升",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "14,135 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "18,996 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "為升電裝 (2231，CUB Elecparts) 為台灣汽車電子龍頭，核心產品為 TPMS 胎壓偵測系統 (AM 市佔約 90%) 及 77GHz 毫米波雷達。TPMS AM 最大客戶為"
+            },
+            {
+              "type": "wikilink",
+              "text": "Standard Motor Products"
+            },
+            {
+              "type": "text",
+              "text": " (SMP，北美最大 AM 經銷商)。毫米波雷達已開發 CPD 座艙偵測、BSD 盲點偵測及前方碰撞雷達，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "NXP"
+            },
+            {
+              "type": "text",
+              "text": " (恩智浦) 於 CES 2022 聯合展示 4D 成像雷達。加入"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "MIH"
+            },
+            {
+              "type": "text",
+              "text": " 電動車聯盟，供應毫米波雷達予 MIH 平台電動車及電動巴士。上游感測器 IC 採購自"
+            },
+            {
+              "type": "wikilink",
+              "text": "NXP"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "Texas Instruments"
+            },
+            {
+              "type": "text",
+              "text": "。另跨足智慧交通 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台鐵"
+            },
+            {
+              "type": "text",
+              "text": "平交道偵測) 及國防 (雷盾無人機反制系統)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (IC 與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷達 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (恩智浦)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Texas Instruments"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 毫米波雷達/感測器晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (研發製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "為升"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (TPMS 胎壓偵測、77GHz 毫米波雷達、智慧交通/國防雷達)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 經銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Standard Motor Products"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SMP)、Wells — 北美 TPMS AM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM 雷達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美電動車廠 — CPD 座艙偵測雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EV 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MIH"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 毫米波雷達供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 平交道偵測系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雷盾無人機反制系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 經銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Standard Motor Products"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SMP)、Wells — 北美 TPMS (AM 市佔 90%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM 雷達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美電動車廠 — CPD 座艙偵測"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EV 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MIH"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 毫米波雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 平交道偵測"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雷盾無人機反制系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷達 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Texas Instruments"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 感測器晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $104.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "16.25",
+                  "3.87",
+                  "4.17",
+                  "103.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3653.94",
+                  "4670.76",
+                  "4397.59"
+                ],
+                [
+                  "Gross Profit",
+                  "1191.94",
+                  "1535.44",
+                  "1748.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.62",
+                  "32.87",
+                  "39.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "356.86",
+                  "367.87",
+                  "362.22"
+                ],
+                [
+                  "R&D Exp",
+                  "519.38",
+                  "522.01",
+                  "554.76"
+                ],
+                [
+                  "General & Admin Exp",
+                  "404.89",
+                  "339.42",
+                  "349.60"
+                ],
+                [
+                  "Operating Income",
+                  "-89.20",
+                  "306.14",
+                  "481.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.44",
+                  "6.55",
+                  "10.95"
+                ],
+                [
+                  "Net Income",
+                  "-223.77",
+                  "474.88",
+                  "450.95"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.12",
+                  "10.17",
+                  "10.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-26.33",
+                  "-20.02",
+                  "-601.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-478.06",
+                  "370.63",
+                  "-827.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-274.17",
+                  "871.73",
+                  "282.33"
+                ],
+                [
+                  "CAPEX",
+                  "-836.84",
+                  "-362.84",
+                  "-644.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1052.73",
+                  "899.51",
+                  "820.14",
+                  "881.56"
+                ],
+                [
+                  "Gross Profit",
+                  "248.94",
+                  "286.72",
+                  "288.30",
+                  "367.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.65",
+                  "31.87",
+                  "35.15",
+                  "41.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "116.19",
+                  "90.29",
+                  "85.96",
+                  "64.42"
+                ],
+                [
+                  "R&D Exp",
+                  "126.95",
+                  "132.46",
+                  "131.80",
+                  "128.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "165.96",
+                  "80.03",
+                  "72.52",
+                  "86.37"
+                ],
+                [
+                  "Operating Income",
+                  "-160.15",
+                  "-16.07",
+                  "-1.98",
+                  "89.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.21",
+                  "-1.79",
+                  "-0.24",
+                  "10.10"
+                ],
+                [
+                  "Net Income",
+                  "-215.54",
+                  "37.70",
+                  "-143.94",
+                  "98.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-20.47",
+                  "4.19",
+                  "-17.55",
+                  "11.12"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-282.81",
+                  "201.18",
+                  "95.89",
+                  "-40.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "43.48",
+                  "-85.14",
+                  "-30.79",
+                  "-405.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "147.67",
+                  "-495.99",
+                  "-278.14",
+                  "352.30"
+                ],
+                [
+                  "CAPEX",
+                  "-174.75",
+                  "-124.71",
+                  "-53.89",
+                  "-483.49"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Standard Motor Products",
+    "NXP",
+    "鴻海",
+    "MIH",
+    "NXP",
+    "Texas Instruments",
+    "台鐵",
+    "NXP",
+    "Texas Instruments",
+    "Standard Motor Products",
+    "鴻海",
+    "MIH",
+    "台鐵",
+    "Standard Motor Products",
+    "鴻海",
+    "MIH",
+    "台鐵",
+    "NXP",
+    "Texas Instruments"
+  ]
+}

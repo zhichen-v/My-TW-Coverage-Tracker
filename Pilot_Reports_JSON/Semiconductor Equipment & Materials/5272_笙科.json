@@ -1,0 +1,555 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/5272_笙科.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/5272_笙科.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/5272_笙科.json",
+  "ticker": "5272",
+  "company_name": "笙科",
+  "title": "# 5272 - 笙科",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "1,205 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,163 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "笙科電子 (5272) 是亞洲唯一同時專長於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SRD"
+            },
+            {
+              "type": "text",
+              "text": " (短距離無線通訊) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LNB"
+            },
+            {
+              "type": "text",
+              "text": " (低雜訊降頻器) 之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "RF IC"
+            },
+            {
+              "type": "text",
+              "text": " 設計公司，前身為聯笙無線事業部門。公司專注以 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS"
+            },
+            {
+              "type": "text",
+              "text": " 製程開發射頻半導體晶片，產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線滑鼠"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線鍵盤"
+            },
+            {
+              "type": "text",
+              "text": "、遙控器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "衛星電視"
+            },
+            {
+              "type": "text",
+              "text": "接收及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": " 無線通訊模組。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠 (CMOS 製程)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (RF IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "射頻 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "笙科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SRD 無線通訊 IC、LNB 降頻器 IC)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC 周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無線滑鼠、鍵盤品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星電視:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 衛星接收設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物聯網無線模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC 周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無線滑鼠及鍵盤品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星電視:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 衛星接收設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物聯網無線通訊模組廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $21.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "3.53",
+                  "1.39",
+                  "-14.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "341.29",
+                  "331.80",
+                  "333.52"
+                ],
+                [
+                  "Gross Profit",
+                  "142.78",
+                  "152.11",
+                  "161.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.83",
+                  "45.85",
+                  "48.32"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "42.80",
+                  "38.59",
+                  "34.97"
+                ],
+                [
+                  "R&D Exp",
+                  "138.50",
+                  "139.67",
+                  "132.46"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.60",
+                  "51.18",
+                  "50.35"
+                ],
+                [
+                  "Operating Income",
+                  "-91.12",
+                  "-77.33",
+                  "-56.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-26.70",
+                  "-23.31",
+                  "-16.97"
+                ],
+                [
+                  "Net Income",
+                  "-73.76",
+                  "-5.10",
+                  "-31.10"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-21.61",
+                  "-1.54",
+                  "-9.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-16.60",
+                  "3.54",
+                  "13.18"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "10.87",
+                  "-3.16",
+                  "69.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-13.01",
+                  "-12.71",
+                  "-67.11"
+                ],
+                [
+                  "CAPEX",
+                  "-24.26",
+                  "-41.62",
+                  "-25.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "76.61",
+                  "104.02",
+                  "85.32",
+                  "80.28"
+                ],
+                [
+                  "Gross Profit",
+                  "31.46",
+                  "39.50",
+                  "41.19",
+                  "39.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.07",
+                  "37.97",
+                  "48.28",
+                  "48.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.06",
+                  "10.89",
+                  "9.68",
+                  "10.44"
+                ],
+                [
+                  "R&D Exp",
+                  "33.56",
+                  "33.22",
+                  "36.70",
+                  "34.06"
+                ],
+                [
+                  "General & Admin Exp",
+                  "13.40",
+                  "14.20",
+                  "12.43",
+                  "12.87"
+                ],
+                [
+                  "Operating Income",
+                  "-27.55",
+                  "-18.82",
+                  "-17.62",
+                  "-18.36"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-35.97",
+                  "-18.09",
+                  "-20.65",
+                  "-22.87"
+                ],
+                [
+                  "Net Income",
+                  "-26.99",
+                  "-17.18",
+                  "-16.35",
+                  "-16.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-35.23",
+                  "-16.51",
+                  "-19.16",
+                  "-20.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19.57",
+                  "-15.41",
+                  "-19.98",
+                  "16.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-20.06",
+                  "25.07",
+                  "10.39",
+                  "-7.00"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.04",
+                  "12.75",
+                  "-3.45",
+                  "-3.15"
+                ],
+                [
+                  "CAPEX",
+                  "-20.06",
+                  "-0.36",
+                  "-1.36",
+                  "-7.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "SRD",
+    "LNB",
+    "RF IC",
+    "CMOS",
+    "無線滑鼠",
+    "無線鍵盤",
+    "衛星電視",
+    "物聯網"
+  ]
+}

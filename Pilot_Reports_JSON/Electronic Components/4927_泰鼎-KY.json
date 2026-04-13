@@ -1,0 +1,896 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4927_泰鼎-KY.md",
+  "source_path": "Pilot_Reports/Electronic Components/4927_泰鼎-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4927_泰鼎-KY.json",
+  "ticker": "4927",
+  "company_name": "泰鼎-KY",
+  "title": "# 4927 - 泰鼎-KY",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "11,300 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "20,642 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "泰鼎-KY (4927，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Apex International"
+            },
+            {
+              "type": "text",
+              "text": ") 為 "
+            },
+            {
+              "type": "strong",
+              "text": "泰國最大台資 [[PCB]] 廠"
+            },
+            {
+              "type": "text",
+              "text": "，被稱為「泰國 PCB 王」，擁有約 100 萬平方呎月產能。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要產品為多層硬式印刷電路板 (Rigid PCB)，應用領域：(1) "
+            },
+            {
+              "type": "strong",
+              "text": "家用電器 (Home)"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mini LED"
+            },
+            {
+              "type": "text",
+              "text": " TV 背光板 (主力營收)、印表機、機上盒；(2) "
+            },
+            {
+              "type": "strong",
+              "text": "汽車電子 (Auto)"
+            },
+            {
+              "type": "text",
+              "text": " — 車用娛樂系統、儀表板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "充電樁；(3) "
+            },
+            {
+              "type": "strong",
+              "text": "通訊/電腦 (Comm/PC)"
+            },
+            {
+              "type": "text",
+              "text": " — 路由器、硬碟板。全產能位於泰國，受惠中美貿易戰「China+1」轉移東南亞趨勢。近年與韓國 PCB 大廠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "梨樹飛達"
+            },
+            {
+              "type": "text",
+              "text": " (Isu Petasys) 合資成立泰國公司，共同拓展 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "用板商機。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (PCB 原料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 軟板基材供應商 (泰國設廠中)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "尖點"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PCB 設備 (泰國設廠中)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (硬式 PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多層板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "泰鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (家電/車用/通訊 PCB 製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合資伺服器板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "泰鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "梨樹飛達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 合資 — AI 伺服器用 PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端品牌客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "韓系家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — TV/家電 PCB 最大客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Canon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電腦周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EMS 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和碩"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (三星電子) — TV/家電 PCB 最大客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Canon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 多元應用板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電腦周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 印表機/硬碟板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EMS 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 終端組裝廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Sagemcom — 路由器/機上盒板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應商 — PCB 核心原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 軟板基材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "尖點"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PCB 製程設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $42.65 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "5.32",
+                  "0.97",
+                  "1.92",
+                  "-66.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "12459.18",
+                  "12628.25",
+                  "14906.23"
+                ],
+                [
+                  "Gross Profit",
+                  "303.80",
+                  "1028.42",
+                  "2829.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "2.44",
+                  "8.14",
+                  "18.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "816.52",
+                  "845.96",
+                  "975.65"
+                ],
+                [
+                  "R&D Exp",
+                  "68.76",
+                  "57.09",
+                  "53.60"
+                ],
+                [
+                  "General & Admin Exp",
+                  "874.84",
+                  "774.37",
+                  "742.14"
+                ],
+                [
+                  "Operating Income",
+                  "-1456.31",
+                  "-649.01",
+                  "1057.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.69",
+                  "-5.14",
+                  "7.10"
+                ],
+                [
+                  "Net Income",
+                  "-1790.60",
+                  "-796.94",
+                  "874.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-14.37",
+                  "-6.31",
+                  "5.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-463.43",
+                  "2098.78",
+                  "1652.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1391.89",
+                  "-1471.87",
+                  "-2321.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1595.61",
+                  "-744.16",
+                  "498.43"
+                ],
+                [
+                  "CAPEX",
+                  "-1342.94",
+                  "-1507.45",
+                  "-2311.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2913.42",
+                  "2886.27",
+                  "3136.72",
+                  "3080.69"
+                ],
+                [
+                  "Gross Profit",
+                  "-66.14",
+                  "122.95",
+                  "150.97",
+                  "-13.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-2.27",
+                  "4.26",
+                  "4.81",
+                  "-0.45"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "168.83",
+                  "157.11",
+                  "181.45",
+                  "205.33"
+                ],
+                [
+                  "R&D Exp",
+                  "12.61",
+                  "7.03",
+                  "9.18",
+                  "11.63"
+                ],
+                [
+                  "General & Admin Exp",
+                  "190.12",
+                  "189.07",
+                  "194.77",
+                  "218.10"
+                ],
+                [
+                  "Operating Income",
+                  "-437.69",
+                  "-230.27",
+                  "-234.43",
+                  "-448.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.02",
+                  "-7.98",
+                  "-7.47",
+                  "-14.57"
+                ],
+                [
+                  "Net Income",
+                  "-508.51",
+                  "-286.30",
+                  "-293.81",
+                  "-654.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-17.45",
+                  "-9.92",
+                  "-9.37",
+                  "-21.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-375.77",
+                  "-624.96",
+                  "849.96",
+                  "-296.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-105.63",
+                  "-177.88",
+                  "-365.91",
+                  "-308.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "320.74",
+                  "877.48",
+                  "-318.13",
+                  "571.02"
+                ],
+                [
+                  "CAPEX",
+                  "-102.49",
+                  "-169.15",
+                  "-371.24",
+                  "-290.67"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Apex International",
+    "PCB",
+    "Mini LED",
+    "電動車",
+    "梨樹飛達",
+    "AI 伺服器",
+    "銅箔",
+    "銅箔",
+    "台虹",
+    "尖點",
+    "梨樹飛達",
+    "Samsung",
+    "Sony",
+    "Canon",
+    "LG",
+    "Amazon",
+    "HP",
+    "Seagate",
+    "鴻海",
+    "和碩",
+    "Samsung",
+    "Sony",
+    "Canon",
+    "LG",
+    "Amazon",
+    "HP",
+    "Seagate",
+    "鴻海",
+    "和碩",
+    "銅箔",
+    "台虹",
+    "尖點"
+  ]
+}

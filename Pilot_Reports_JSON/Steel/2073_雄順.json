@@ -1,0 +1,549 @@
+{
+  "report_id": "Pilot_Reports/Steel/2073_雄順.md",
+  "source_path": "Pilot_Reports/Steel/2073_雄順.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2073_雄順.json",
+  "ticker": "2073",
+  "company_name": "雄順",
+  "title": "# 2073 - 雄順",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "727 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "N/A 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "雄順興業 (2073) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼線"
+            },
+            {
+              "type": "text",
+              "text": "二次加工專業廠，核心製程含拉線/"
+            },
+            {
+              "type": "wikilink",
+              "text": "球化"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "酸洗"
+            },
+            {
+              "type": "text",
+              "text": "，主要產品為加工線材供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "扣件"
+            },
+            {
+              "type": "text",
+              "text": " (螺絲/螺帽) 產業。上游盤元來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。下游供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "高雄"
+            },
+            {
+              "type": "text",
+              "text": "岡山"
+            },
+            {
+              "type": "wikilink",
+              "text": "螺絲"
+            },
+            {
+              "type": "text",
+              "text": "產業聚落扣件廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "盤元"
+            },
+            {
+              "type": "text",
+              "text": "原料\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "雄順"
+            },
+            {
+              "type": "text",
+              "text": " (鋼線二次加工: 拉線/球化/酸洗)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "高雄岡山"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "螺絲"
+                    },
+                    {
+                      "type": "text",
+                      "text": "扣件聚落"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/機械用高強度"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "扣件"
+                    },
+                    {
+                      "type": "text",
+                      "text": "用線材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "岡山"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "螺絲"
+                    },
+                    {
+                      "type": "text",
+                      "text": "扣件聚落 — 加工線材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "汽車/機械"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "扣件"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "盤元"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "國內外廢鋼回收商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $26.45 as of 2026-04-12)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "N/A",
+                  "N/A",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "557.56",
+                  "591.89",
+                  "516.82"
+                ],
+                [
+                  "Gross Profit",
+                  "54.59",
+                  "96.22",
+                  "83.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.79",
+                  "16.26",
+                  "16.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.51",
+                  "29.91",
+                  "24.30"
+                ],
+                [
+                  "R&D Exp",
+                  "2.98",
+                  "3.27",
+                  "3.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "34.85",
+                  "36.73",
+                  "37.57"
+                ],
+                [
+                  "Operating Income",
+                  "-11.74",
+                  "26.31",
+                  "18.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.10",
+                  "4.45",
+                  "3.53"
+                ],
+                [
+                  "Net Income",
+                  "-10.69",
+                  "17.21",
+                  "12.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.92",
+                  "2.91",
+                  "2.50"
+                ],
+                [
+                  "Op Cash Flow",
+                  "67.67",
+                  "81.85",
+                  "63.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-50.58",
+                  "-32.85",
+                  "-22.64"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-33.27",
+                  "-98.03",
+                  "11.42"
+                ],
+                [
+                  "CAPEX",
+                  "-50.99",
+                  "-33.19",
+                  "-23.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "137.85",
+                  "128.78",
+                  "141.19",
+                  "149.73"
+                ],
+                [
+                  "Gross Profit",
+                  "14.93",
+                  "7.44",
+                  "14.87",
+                  "17.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.83",
+                  "5.78",
+                  "10.53",
+                  "11.59"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.67",
+                  "6.60",
+                  "7.38",
+                  "7.86"
+                ],
+                [
+                  "R&D Exp",
+                  "0.79",
+                  "0.64",
+                  "0.69",
+                  "0.85"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9.29",
+                  "8.99",
+                  "8.77",
+                  "7.81"
+                ],
+                [
+                  "Operating Income",
+                  "-1.81",
+                  "-8.78",
+                  "-1.98",
+                  "0.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.32",
+                  "-6.82",
+                  "-1.40",
+                  "0.56"
+                ],
+                [
+                  "Net Income",
+                  "-1.73",
+                  "-7.39",
+                  "-1.94",
+                  "0.36"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.25",
+                  "-5.74",
+                  "-1.37",
+                  "0.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "12.93",
+                  "11.83",
+                  "22.73",
+                  "20.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.12",
+                  "-4.00",
+                  "-19.12",
+                  "-23.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-18.27",
+                  "-17.51",
+                  "1.75",
+                  "0.76"
+                ],
+                [
+                  "CAPEX",
+                  "-4.12",
+                  "-4.38",
+                  "-19.15",
+                  "-23.34"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鋼線",
+    "球化",
+    "酸洗",
+    "扣件",
+    "中鋼",
+    "高雄",
+    "螺絲",
+    "中鋼",
+    "盤元",
+    "螺絲",
+    "汽車",
+    "扣件",
+    "螺絲",
+    "扣件",
+    "中鋼",
+    "盤元"
+  ]
+}

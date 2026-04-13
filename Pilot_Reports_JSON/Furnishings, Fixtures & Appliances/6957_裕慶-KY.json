@@ -1,0 +1,674 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/6957_裕慶-KY.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/6957_裕慶-KY.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/6957_裕慶-KY.json",
+  "ticker": "6957",
+  "company_name": "裕慶-KY",
+  "title": "# 6957_裕慶-KY",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "8,937 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,418 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "裕慶 (6957，KY) 成立於 1998 年，2024 年上市，為北美頂尖商用展示架及智能電動床機構件 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 代工大廠。核心業務分為：(1) 商用展示架 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " (佔營收約 64%) — 為歐美大型連鎖零售品牌客製化設計製造高載重展示架，2015 年收購 Beeline 設計公司後升級為「設計+生產+安裝」一條龍服務；(2) 商用展示架 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": " (約 10%)；(3) 智能電動床五金機構 (約 19%) — 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Leggett & Platt"
+            },
+            {
+              "type": "text",
+              "text": " 合作開發 AI 智能防護電動床。生產據點涵蓋中國、印尼及台灣。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳鋼、冷軋鋼管/鋼板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊烤漆塗料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 數位標籤、電子零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 木材、塑料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (設計與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "裕慶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 客製化商用展示架設計製造安裝、智能電動床五金機構 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ODM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 代工 (中國/印尼/台灣)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際零售客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "量販通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Target"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Home Depot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lowe's"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kohl's"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Coca-Cola"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用陳列架"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動床:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Leggett & Platt"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 智能電動床機構件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "量販通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Target"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Home Depot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lowe's"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kohl's"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Coca-Cola"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用展示陳列架"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動床:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Leggett & Platt"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 智能電動床機構件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國及東南亞鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍塗裝加工供應鏈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $163.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.93",
+                  "N/A",
+                  "2.34",
+                  "4.01",
+                  "12.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4013.93",
+                  "3863.91",
+                  "4332.88"
+                ],
+                [
+                  "Gross Profit",
+                  "1742.77",
+                  "1799.58",
+                  "1489.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.42",
+                  "46.57",
+                  "34.38"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "567.78",
+                  "341.52",
+                  "565.20"
+                ],
+                [
+                  "R&D Exp",
+                  "4.53",
+                  "6.76",
+                  "11.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "321.64",
+                  "345.37",
+                  "289.70"
+                ],
+                [
+                  "Operating Income",
+                  "848.82",
+                  "1105.93",
+                  "623.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.15",
+                  "28.62",
+                  "14.39"
+                ],
+                [
+                  "Net Income",
+                  "747.06",
+                  "879.85",
+                  "523.13"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.61",
+                  "22.77",
+                  "12.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "270.13",
+                  "1170.56",
+                  "831.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1564.65",
+                  "-65.30",
+                  "10.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "965.44",
+                  "-524.88",
+                  "-251.54"
+                ],
+                [
+                  "CAPEX",
+                  "-167.55",
+                  "-53.16",
+                  "-38.53"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1085.22",
+                  "804.77",
+                  "783.60",
+                  "1142.87"
+                ],
+                [
+                  "Gross Profit",
+                  "420.72",
+                  "296.33",
+                  "274.47",
+                  "607.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.77",
+                  "36.82",
+                  "35.03",
+                  "53.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "106.10",
+                  "152.75",
+                  "119.14",
+                  "194.25"
+                ],
+                [
+                  "R&D Exp",
+                  "0.45",
+                  "0.72",
+                  "0.68",
+                  "0.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "85.61",
+                  "79.18",
+                  "92.90",
+                  "77.08"
+                ],
+                [
+                  "Operating Income",
+                  "228.56",
+                  "63.69",
+                  "61.75",
+                  "336.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.06",
+                  "7.91",
+                  "7.88",
+                  "29.40"
+                ],
+                [
+                  "Net Income",
+                  "196.87",
+                  "37.53",
+                  "63.97",
+                  "327.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.14",
+                  "4.66",
+                  "8.16",
+                  "28.70"
+                ],
+                [
+                  "Op Cash Flow",
+                  "104.90",
+                  "-169.67",
+                  "615.71",
+                  "315.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-29.43",
+                  "232.41",
+                  "-317.31",
+                  "-1125.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-658.60",
+                  "-157.25",
+                  "14.77",
+                  "-182.93"
+                ],
+                [
+                  "CAPEX",
+                  "-46.40",
+                  "-30.82",
+                  "-11.37",
+                  "5.13"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ODM",
+    "ODM",
+    "OEM",
+    "Leggett & Platt",
+    "ODM",
+    "Walmart",
+    "Target",
+    "Home Depot",
+    "Lowe's",
+    "Kohl's",
+    "Coca-Cola",
+    "Leggett & Platt",
+    "Walmart",
+    "Target",
+    "Home Depot",
+    "Lowe's",
+    "Kohl's",
+    "Coca-Cola",
+    "Leggett & Platt"
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2331_精英.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2331_精英.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2331_精英.json",
+  "ticker": "2331",
+  "company_name": "精英",
+  "title": "# 2331 - 精英",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "12,514 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,832 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "精英電腦 (2331，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Elitegroup Computer Systems"
+            },
+            {
+              "type": "text",
+              "text": "，ECS) 成立於 1987 年，總部位於台北，為全球知名主機板及迷你電腦設計製造商。公司產品涵蓋桌上型電腦主機板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": " 平台)、迷你電腦 (LIVA 品牌)、筆記型電腦、Chromebook、顯示卡及工業電腦主機板。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "近年積極布局 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " PC 及輕電競主機板市場，並跨足數位看板、智慧零售及商務應用解決方案。在工業應用領域，開發 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": " 工業電腦主機板及立方衛星 (CubeSat) 模組。集團設有全球業務據點，產品銷售遍及亞洲、美洲及歐洲市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶片組與電子元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CPU/晶片組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 桌機/筆電 CPU 及晶片組平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 顯示卡 GPU 晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " DRAM 及 Flash 記憶體模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 多層 PCB 電路板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (主機板與迷你電腦設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精英"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 平台桌機主機板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "迷你電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精英"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (LIVA 品牌迷你 PC)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IPC 主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精英"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電腦主機板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電/Chromebook:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精英"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (商用/教育筆電及 Chromebook)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (通路商與企業客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 亞洲、美洲、歐洲 IT 產品經銷通路商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "教育市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Chromebook 教育市場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位看板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 零售業智慧看板解決方案客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業自動化及嵌入式系統整合商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 亞洲/美洲/歐洲 IT 經銷商 — 主機板及迷你電腦"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "教育市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Chromebook 生態系 — 教育及商用筆電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業自動化系統整合商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電腦主機板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位看板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧零售解決方案客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CPU 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 處理器及晶片組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 顯示卡繪圖晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " DRAM/Flash 記憶體模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 多層 PCB 電路板製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $22.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.92",
+                  "-118.16",
+                  "0.62",
+                  "1.17",
+                  "8.39"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "20112.11",
+                  "17495.71",
+                  "19741.74"
+                ],
+                [
+                  "Gross Profit",
+                  "2163.39",
+                  "1921.95",
+                  "3172.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.76",
+                  "10.99",
+                  "16.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "401.74",
+                  "494.84",
+                  "435.44"
+                ],
+                [
+                  "R&D Exp",
+                  "768.41",
+                  "1044.64",
+                  "1084.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "928.29",
+                  "898.56",
+                  "1069.07"
+                ],
+                [
+                  "Operating Income",
+                  "64.94",
+                  "-516.09",
+                  "583.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.32",
+                  "-2.95",
+                  "2.96"
+                ],
+                [
+                  "Net Income",
+                  "787.90",
+                  "-90.50",
+                  "1013.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.92",
+                  "-0.52",
+                  "5.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "338.80",
+                  "780.57",
+                  "1725.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1058.20",
+                  "-2313.02",
+                  "-431.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-170.59",
+                  "157.72",
+                  "-802.51"
+                ],
+                [
+                  "CAPEX",
+                  "-288.58",
+                  "-778.05",
+                  "-248.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5551.26",
+                  "5631.51",
+                  "5374.87",
+                  "3554.48"
+                ],
+                [
+                  "Gross Profit",
+                  "550.26",
+                  "539.72",
+                  "555.66",
+                  "517.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.91",
+                  "9.58",
+                  "10.34",
+                  "14.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "106.19",
+                  "102.95",
+                  "99.18",
+                  "93.42"
+                ],
+                [
+                  "R&D Exp",
+                  "194.48",
+                  "177.22",
+                  "196.13",
+                  "200.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "265.13",
+                  "232.45",
+                  "163.13",
+                  "267.58"
+                ],
+                [
+                  "Operating Income",
+                  "-15.54",
+                  "27.10",
+                  "97.23",
+                  "-43.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.28",
+                  "0.48",
+                  "1.81",
+                  "-1.23"
+                ],
+                [
+                  "Net Income",
+                  "-14.78",
+                  "286.43",
+                  "-54.94",
+                  "571.19"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.27",
+                  "5.09",
+                  "-1.02",
+                  "16.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "27.21",
+                  "56.05",
+                  "-45.47",
+                  "301.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-125.49",
+                  "-626.83",
+                  "294.45",
+                  "-600.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "45.59",
+                  "104.28",
+                  "-255.33",
+                  "-65.13"
+                ],
+                [
+                  "CAPEX",
+                  "-53.97",
+                  "-70.69",
+                  "-76.14",
+                  "-87.78"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Elitegroup Computer Systems",
+    "Intel",
+    "AMD",
+    "AI",
+    "IPC",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "AMD",
+    "Intel",
+    "AMD",
+    "IPC",
+    "Google",
+    "Google",
+    "IPC",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "AMD"
+  ]
+}

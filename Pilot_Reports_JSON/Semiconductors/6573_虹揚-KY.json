@@ -1,0 +1,446 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6573_虹揚-KY.md",
+  "source_path": "Pilot_Reports/Semiconductors/6573_虹揚-KY.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6573_虹揚-KY.json",
+  "ticker": "6573",
+  "company_name": "虹揚-KY",
+  "title": "# 6573_虹揚-KY",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "990 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,389 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "虹揚發展科技股份有限公司 (6573，虹揚-KY) 是一家專注於電源功率分離式元件(Discrete Device)設計與製造的"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "廠。其主要產品包括各類整流二極體、橋式整流器、蕭特基二極體及"
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": "等，廣泛應用於電源供應器、太陽能逆變器、家電及車用電子。虹揚-KY擁有從晶片設計、晶圓製造到封裝測試的高度垂直整合(IDM)能力，並在中國揚州設有大型生產基地。近年來，公司積極擴大高功率轉換與綠能應用的版圖，特別是在太陽能發電所需之旁路二極體市場擁有極高的市佔率，並成功切入強固型"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]的電源供應鏈。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "(3吋/4吋為主)、金屬引線框(Leadframe)、封裝用環氧樹脂及金/銅線等光電材料。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "虹揚-KY"
+            },
+            {
+              "type": "text",
+              "text": " (電源整流二極體、橋式整流器及高功率分離式元件之設計、製造及封測)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 太陽能模組/逆變器廠、電源供應器廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "廠、白色家電廠及汽車電子模組廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   中國大陸前十大太陽能電池廠、全球知名消費性家電品牌、以及台灣"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI[[伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "]]與工控設備大廠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外中低階"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "矽晶圓"
+                },
+                {
+                  "type": "text",
+                  "text": "材料供應商、金屬沖壓件與化學封裝材料貿易商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.30 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.00",
+                  "N/A",
+                  "1.19",
+                  "1.59",
+                  "-1667.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "833.21",
+                  "962.47",
+                  "1177.45"
+                ],
+                [
+                  "Gross Profit",
+                  "94.69",
+                  "32.25",
+                  "42.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.36",
+                  "3.35",
+                  "3.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "73.89",
+                  "75.10",
+                  "89.01"
+                ],
+                [
+                  "R&D Exp",
+                  "33.07",
+                  "40.19",
+                  "50.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "92.80",
+                  "100.17",
+                  "104.16"
+                ],
+                [
+                  "Operating Income",
+                  "-105.07",
+                  "-183.21",
+                  "-201.14"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-12.61",
+                  "-19.04",
+                  "-17.08"
+                ],
+                [
+                  "Net Income",
+                  "98.72",
+                  "-155.88",
+                  "-234.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.85",
+                  "-16.20",
+                  "-19.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "368.54",
+                  "83.60",
+                  "-63.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-418.22",
+                  "280.64",
+                  "-21.73"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "29.80",
+                  "-305.93",
+                  "21.59"
+                ],
+                [
+                  "CAPEX",
+                  "-10.16",
+                  "-26.54",
+                  "-22.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "190.67",
+                  "189.66",
+                  "222.16",
+                  "230.73"
+                ],
+                [
+                  "Gross Profit",
+                  "38.11",
+                  "15.30",
+                  "21.98",
+                  "19.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.99",
+                  "8.07",
+                  "9.89",
+                  "8.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17.99",
+                  "17.53",
+                  "18.39",
+                  "19.97"
+                ],
+                [
+                  "R&D Exp",
+                  "7.94",
+                  "6.73",
+                  "9.52",
+                  "8.88"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.73",
+                  "23.47",
+                  "23.25",
+                  "24.36"
+                ],
+                [
+                  "Operating Income",
+                  "-9.55",
+                  "-32.43",
+                  "-29.18",
+                  "-33.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.01",
+                  "-17.10",
+                  "-13.13",
+                  "-14.70"
+                ],
+                [
+                  "Net Income",
+                  "-30.73",
+                  "208.66",
+                  "-40.64",
+                  "-38.58"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-16.12",
+                  "110.02",
+                  "-18.29",
+                  "-16.72"
+                ],
+                [
+                  "Op Cash Flow",
+                  "163.25",
+                  "223.51",
+                  "-4.86",
+                  "-13.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-158.15",
+                  "-239.22",
+                  "-15.52",
+                  "-5.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-14.62",
+                  "52.05",
+                  "6.40",
+                  "-14.02"
+                ],
+                [
+                  "CAPEX",
+                  "-6.22",
+                  "-1.24",
+                  "-0.41",
+                  "-2.29"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "半導體",
+    "MOSFET",
+    "工業電腦",
+    "AI[[伺服器",
+    "矽晶圓",
+    "工業電腦",
+    "AI[[伺服器",
+    "矽晶圓"
+  ]
+}

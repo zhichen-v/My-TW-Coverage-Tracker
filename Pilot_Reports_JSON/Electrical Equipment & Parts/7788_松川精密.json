@@ -1,0 +1,476 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/7788_松川精密.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/7788_松川精密.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/7788_松川精密.json",
+  "ticker": "7788",
+  "company_name": "松川精密",
+  "title": "# 7788 - 松川精密",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "12,281 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "12,480 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "松川精密 (7788) 為台灣繼電器霸主 (品牌Song Chuan)。已打入"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈。與"
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "光寶科技"
+            },
+            {
+              "type": "text",
+              "text": "合作AI伺服器特規接觸器。自製率80%。客戶2000+家。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 紅銅/鈹銅/漆包線 (80%自製)\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "松川"
+            },
+            {
+              "type": "text",
+              "text": " (繼電器/高壓接觸器)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "光寶科技"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "、家電"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — EV接觸器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI電源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "全球家電 (2000+)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "80%自製"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $154.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.60",
+                  "14.98",
+                  "1.91",
+                  "2.07",
+                  "16.48"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6432.80",
+                  "5963.71",
+                  "5480.33"
+                ],
+                [
+                  "Gross Profit",
+                  "1739.63",
+                  "1653.73",
+                  "1526.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.04",
+                  "27.73",
+                  "27.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "281.97",
+                  "239.12",
+                  "242.29"
+                ],
+                [
+                  "R&D Exp",
+                  "174.35",
+                  "126.50",
+                  "152.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "804.95",
+                  "743.38",
+                  "793.37"
+                ],
+                [
+                  "Operating Income",
+                  "478.36",
+                  "544.74",
+                  "338.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.44",
+                  "9.13",
+                  "6.17"
+                ],
+                [
+                  "Net Income",
+                  "269.16",
+                  "504.40",
+                  "380.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.18",
+                  "8.46",
+                  "6.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "431.46",
+                  "769.74",
+                  "842.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-498.43",
+                  "-529.66",
+                  "-339.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "270.33",
+                  "-410.49",
+                  "102.86"
+                ],
+                [
+                  "CAPEX",
+                  "-344.23",
+                  "-530.37",
+                  "-360.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1669.74",
+                  "1529.50",
+                  "1610.81",
+                  "1622.75"
+                ],
+                [
+                  "Gross Profit",
+                  "434.81",
+                  "404.62",
+                  "438.00",
+                  "462.20"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.04",
+                  "26.45",
+                  "27.19",
+                  "28.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "86.49",
+                  "70.95",
+                  "66.01",
+                  "58.52"
+                ],
+                [
+                  "R&D Exp",
+                  "53.87",
+                  "40.98",
+                  "41.20",
+                  "38.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "221.60",
+                  "192.87",
+                  "183.34",
+                  "207.14"
+                ],
+                [
+                  "Operating Income",
+                  "72.85",
+                  "99.82",
+                  "147.45",
+                  "158.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.36",
+                  "6.53",
+                  "9.15",
+                  "9.75"
+                ],
+                [
+                  "Net Income",
+                  "110.91",
+                  "111.04",
+                  "-97.53",
+                  "144.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.64",
+                  "7.26",
+                  "-6.05",
+                  "8.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "124.34",
+                  "219.16",
+                  "38.24",
+                  "49.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-194.40",
+                  "-70.65",
+                  "-139.32",
+                  "-94.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "587.80",
+                  "-301.09",
+                  "163.75",
+                  "-180.12"
+                ],
+                [
+                  "CAPEX",
+                  "-123.69",
+                  "-87.83",
+                  "-61.77",
+                  "-70.94"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Tesla",
+    "台達電",
+    "光寶科技",
+    "Tesla",
+    "台達電",
+    "光寶科技",
+    "儲能",
+    "Tesla",
+    "台達電",
+    "光寶科技"
+  ]
+}

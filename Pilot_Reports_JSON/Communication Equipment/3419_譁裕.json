@@ -1,0 +1,684 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/3419_譁裕.md",
+  "source_path": "Pilot_Reports/Communication Equipment/3419_譁裕.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/3419_譁裕.json",
+  "ticker": "3419",
+  "company_name": "譁裕",
+  "title": "# 3419 - 譁裕",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "1,976 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,206 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "譁裕實業 (3419，Wha Yu) 為台灣老牌專業天線設計製造廠，產品線涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": " 天線 (路由器/AP 用)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 基站天線 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "O-RAN"
+            },
+            {
+              "type": "text",
+              "text": ")、車用多功能天線、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GPS"
+            },
+            {
+              "type": "text",
+              "text": " 天線及"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "地面接收天線。客戶基數超過 600 家，遍及全球 25 國以上。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "近年積極轉型高附加價值領域，包括 5G O-RAN 基站天線已打入美國電信商供應鏈小量出貨、車用天線涵蓋後裝市場車隊管理監控及前裝市場歐洲品牌車廠開發、以及聯手台系 IC 設計廠成功切入美系低軌衛星營運商地面接收設備。公司已通過 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " MFi 認證，跨足 PD 快充配件。生產基地包括台灣新竹湖口廠、中國東莞廠及越南新廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬與基板材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高純度銅材及貴金屬導線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高頻 PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊高頻通訊 PCB 載板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 耐高溫工程塑膠粒"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (天線設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "天線製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "譁裕"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Wi-Fi/5G/車用/GPS/低軌衛星天線設計與製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (網通與車用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中磊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "智易"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等網通代工廠 (路由器內建天線)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及美日電信營運商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐洲品牌車廠 (前裝天線)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系低軌衛星營運商 (地面接收天線)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通代工廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中磊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "智易"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (路由器天線)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信營運商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、美日電信商 (基站天線)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧終端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " MFi 認證配件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "低軌衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系低軌衛星營運商 (地面接收天線)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 與射頻元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高頻 PCB 及同軸連接器供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[氮化鎵]]相關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GaN 射頻測試設備供應商 (快充業務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "耀登"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "啟碁"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.40 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "30.94",
+                  "1.11",
+                  "1.99",
+                  "-14.41"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1479.25",
+                  "1401.49",
+                  "1981.16"
+                ],
+                [
+                  "Gross Profit",
+                  "254.86",
+                  "221.34",
+                  "380.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.23",
+                  "15.79",
+                  "19.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "134.24",
+                  "130.68",
+                  "143.94"
+                ],
+                [
+                  "R&D Exp",
+                  "160.83",
+                  "128.72",
+                  "118.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "163.98",
+                  "147.15",
+                  "112.04"
+                ],
+                [
+                  "Operating Income",
+                  "-204.00",
+                  "-185.26",
+                  "5.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-13.79",
+                  "-13.22",
+                  "0.28"
+                ],
+                [
+                  "Net Income",
+                  "-145.83",
+                  "-120.06",
+                  "33.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-9.86",
+                  "-8.57",
+                  "1.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-15.04",
+                  "177.02",
+                  "18.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-44.55",
+                  "170.98",
+                  "-69.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-140.29",
+                  "-85.28",
+                  "-64.98"
+                ],
+                [
+                  "CAPEX",
+                  "-55.43",
+                  "-78.34",
+                  "-73.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "497.63",
+                  "471.26",
+                  "413.28",
+                  "396.05"
+                ],
+                [
+                  "Gross Profit",
+                  "62.68",
+                  "40.66",
+                  "51.05",
+                  "57.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.60",
+                  "8.63",
+                  "12.35",
+                  "14.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "31.36",
+                  "31.71",
+                  "34.11",
+                  "33.33"
+                ],
+                [
+                  "R&D Exp",
+                  "42.09",
+                  "46.97",
+                  "41.03",
+                  "41.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.44",
+                  "31.97",
+                  "34.69",
+                  "45.44"
+                ],
+                [
+                  "Operating Income",
+                  "-43.17",
+                  "-70.00",
+                  "-58.78",
+                  "-62.75"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.68",
+                  "-14.85",
+                  "-14.22",
+                  "-15.84"
+                ],
+                [
+                  "Net Income",
+                  "-31.97",
+                  "-81.17",
+                  "-50.23",
+                  "-31.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.42",
+                  "-17.22",
+                  "-12.15",
+                  "-8.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-82.56",
+                  "-121.53",
+                  "-39.39",
+                  "-61.94"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8.42",
+                  "-19.32",
+                  "-10.38",
+                  "-5.82"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "126.01",
+                  "107.01",
+                  "60.78",
+                  "-68.27"
+                ],
+                [
+                  "CAPEX",
+                  "-12.81",
+                  "-20.00",
+                  "-10.65",
+                  "-7.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Wi-Fi",
+    "5G",
+    "O-RAN",
+    "GPS",
+    "低軌衛星",
+    "Apple",
+    "中磊",
+    "智易",
+    "中華電信",
+    "中磊",
+    "智易",
+    "中華電信",
+    "Apple",
+    "氮化鎵",
+    "耀登",
+    "啟碁"
+  ]
+}

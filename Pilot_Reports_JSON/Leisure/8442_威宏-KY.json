@@ -1,0 +1,752 @@
+{
+  "report_id": "Pilot_Reports/Leisure/8442_威宏-KY.md",
+  "source_path": "Pilot_Reports/Leisure/8442_威宏-KY.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/8442_威宏-KY.json",
+  "ticker": "8442",
+  "company_name": "威宏-KY",
+  "title": "# 8442 - 威宏-KY",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "3,656 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,026 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "威宏控股 (8442，WW Holding，KY) 旗下擁有四家核心子公司，分別經營不同產品線：(1) 威保 — 運動裝備與護具製造，客戶包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "Nike"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Under Armour"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Decathlon"
+            },
+            {
+              "type": "text",
+              "text": "；(2) 宏盛 — 精品包袋製造，客戶包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "Kipling"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TUMI"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TOUS"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Longchamp"
+            },
+            {
+              "type": "text",
+              "text": "；(3) 德御 — 高爾夫球袋與運動包袋；(4) 廣泰 — 行李箱與商務包。生產基地主要位於中國大陸與越南。2024 年全年營收約 83 億元，年增 5.4%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原物料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "紡織材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特種布料、皮革、尼龍"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 拉鍊、扣具、金屬框架"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "發泡材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " EVA、PU 等緩衝發泡材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "威保"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nike"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Under Armour"
+                    },
+                    {
+                      "type": "text",
+                      "text": "運動護具與手套"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "宏盛"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kipling"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TUMI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "精品包袋"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "德御"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高爾夫球袋"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廣泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 行李箱與商務包"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際品牌終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nike"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Under Armour"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Decathlon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精品品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kipling"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TUMI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TOUS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Longchamp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nike"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Under Armour"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Decathlon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 運動護具、手套與裝備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精品品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kipling"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TUMI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TOUS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Longchamp"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 手袋、錢包與拉桿箱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高爾夫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際高爾夫品牌 — 球袋與運動包袋"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "紡織材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特種布料與皮革供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 拉鍊、扣具供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "發泡材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " EVA/PU 緩衝材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $52.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.96",
+                  "5.48",
+                  "0.45",
+                  "0.97",
+                  "5.42"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8099.46",
+                  "8337.43",
+                  "7921.16"
+                ],
+                [
+                  "Gross Profit",
+                  "1549.87",
+                  "1751.39",
+                  "1608.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.14",
+                  "21.01",
+                  "20.30"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "360.65",
+                  "357.38",
+                  "258.74"
+                ],
+                [
+                  "R&D Exp",
+                  "174.73",
+                  "186.87",
+                  "148.08"
+                ],
+                [
+                  "General & Admin Exp",
+                  "534.00",
+                  "508.98",
+                  "544.52"
+                ],
+                [
+                  "Operating Income",
+                  "480.49",
+                  "698.16",
+                  "656.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.93",
+                  "8.37",
+                  "8.29"
+                ],
+                [
+                  "Net Income",
+                  "287.11",
+                  "743.69",
+                  "616.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.54",
+                  "8.92",
+                  "7.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "38.15",
+                  "801.49",
+                  "1012.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-235.78",
+                  "-303.02",
+                  "-175.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "72.81",
+                  "-610.01",
+                  "-697.30"
+                ],
+                [
+                  "CAPEX",
+                  "-160.57",
+                  "-290.40",
+                  "-149.96"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2208.65",
+                  "1935.40",
+                  "1972.69",
+                  "1982.72"
+                ],
+                [
+                  "Gross Profit",
+                  "379.34",
+                  "370.68",
+                  "377.03",
+                  "422.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.18",
+                  "19.15",
+                  "19.11",
+                  "21.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "98.78",
+                  "104.48",
+                  "78.86",
+                  "78.52"
+                ],
+                [
+                  "R&D Exp",
+                  "46.95",
+                  "43.48",
+                  "42.63",
+                  "41.68"
+                ],
+                [
+                  "General & Admin Exp",
+                  "151.60",
+                  "149.22",
+                  "100.08",
+                  "133.10"
+                ],
+                [
+                  "Operating Income",
+                  "82.01",
+                  "73.50",
+                  "155.46",
+                  "169.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.71",
+                  "3.80",
+                  "7.88",
+                  "8.55"
+                ],
+                [
+                  "Net Income",
+                  "50.88",
+                  "70.34",
+                  "2.52",
+                  "163.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.30",
+                  "3.63",
+                  "0.13",
+                  "8.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-3.51",
+                  "-176.84",
+                  "538.86",
+                  "-320.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "103.32",
+                  "-218.24",
+                  "-30.07",
+                  "-90.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-150.18",
+                  "163.62",
+                  "-62.41",
+                  "121.77"
+                ],
+                [
+                  "CAPEX",
+                  "8.34",
+                  "-67.70",
+                  "-63.62",
+                  "-37.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Nike",
+    "Under Armour",
+    "Decathlon",
+    "Kipling",
+    "TUMI",
+    "TOUS",
+    "Longchamp",
+    "Nike",
+    "Under Armour",
+    "Kipling",
+    "TUMI",
+    "Nike",
+    "Under Armour",
+    "Decathlon",
+    "Kipling",
+    "TUMI",
+    "TOUS",
+    "Longchamp",
+    "Nike",
+    "Under Armour",
+    "Decathlon",
+    "Kipling",
+    "TUMI",
+    "TOUS",
+    "Longchamp"
+  ]
+}

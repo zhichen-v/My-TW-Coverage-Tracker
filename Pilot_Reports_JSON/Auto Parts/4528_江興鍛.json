@@ -1,0 +1,601 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/4528_江興鍛.md",
+  "source_path": "Pilot_Reports/Auto Parts/4528_江興鍛.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/4528_江興鍛.json",
+  "ticker": "4528",
+  "company_name": "江興鍛",
+  "title": "# 4528 - 江興鍛",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "1,473 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,730 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "江興鍛壓工業 (4528) 為台灣冷/溫/熱鍛汽車傳動及底盤零組件專業廠，汽車佔營收逾 80%，定位為 Tier 2 供應商。主要客戶為全球傳動系統 Tier 1 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "NTN"
+            },
+            {
+              "type": "text",
+              "text": " (最大客戶，透過廣州 NTN)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dana"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AAM"
+            },
+            {
+              "type": "text",
+              "text": " (American Axle)，台灣客戶包含"
+            },
+            {
+              "type": "wikilink",
+              "text": "和大工業"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華台亞"
+            },
+            {
+              "type": "text",
+              "text": "。上游鋼材採購自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。公司為台灣航太 A-Team 4.0 成員，鍛造能力可延伸至航太零組件。受電動車轉型影響，傳動鍛件需求面臨結構性調整。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 碳鋼/合金鋼/特殊鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "江興鍛"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (冷/溫/熱鍛汽車傳動及底盤零組件)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (Tier 1 客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NTN"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dana"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AAM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 傳動系統鍛件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和大工業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華台亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 汽車零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳動 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NTN"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dana"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AAM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (American Axle) — 鍛造傳動件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和大工業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華台亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 汽車零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 碳鋼/合金鋼/特殊鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "16.06",
+                  "0.93",
+                  "0.62",
+                  "8.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1580.90",
+                  "1713.40",
+                  "1949.13"
+                ],
+                [
+                  "Gross Profit",
+                  "237.65",
+                  "250.62",
+                  "355.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.03",
+                  "14.63",
+                  "18.25"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "76.89",
+                  "81.58",
+                  "77.12"
+                ],
+                [
+                  "R&D Exp",
+                  "73.94",
+                  "75.94",
+                  "92.89"
+                ],
+                [
+                  "General & Admin Exp",
+                  "83.46",
+                  "89.05",
+                  "100.70"
+                ],
+                [
+                  "Operating Income",
+                  "3.36",
+                  "4.05",
+                  "84.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.21",
+                  "0.24",
+                  "4.36"
+                ],
+                [
+                  "Net Income",
+                  "-25.70",
+                  "0.82",
+                  "76.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.63",
+                  "0.05",
+                  "3.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "235.95",
+                  "265.92",
+                  "572.75"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-26.71",
+                  "-228.63",
+                  "-158.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-35.93",
+                  "-256.62",
+                  "-523.64"
+                ],
+                [
+                  "CAPEX",
+                  "-22.73",
+                  "-47.60",
+                  "-163.40"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "439.45",
+                  "372.94",
+                  "394.16",
+                  "374.35"
+                ],
+                [
+                  "Gross Profit",
+                  "71.64",
+                  "47.97",
+                  "65.52",
+                  "52.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.30",
+                  "12.86",
+                  "16.62",
+                  "14.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "21.25",
+                  "18.28",
+                  "18.10",
+                  "19.25"
+                ],
+                [
+                  "R&D Exp",
+                  "19.42",
+                  "17.93",
+                  "18.57",
+                  "18.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22.08",
+                  "19.57",
+                  "20.39",
+                  "21.41"
+                ],
+                [
+                  "Operating Income",
+                  "8.89",
+                  "-7.80",
+                  "8.45",
+                  "-6.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.02",
+                  "-2.09",
+                  "2.14",
+                  "-1.65"
+                ],
+                [
+                  "Net Income",
+                  "4.90",
+                  "-9.98",
+                  "-12.60",
+                  "-8.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.12",
+                  "-2.68",
+                  "-3.20",
+                  "-2.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "29.29",
+                  "86.35",
+                  "57.52",
+                  "62.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-6.42",
+                  "-4.88",
+                  "-2.75",
+                  "-12.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-85.66",
+                  "38.06",
+                  "-6.05",
+                  "17.71"
+                ],
+                [
+                  "CAPEX",
+                  "-7.25",
+                  "-4.40",
+                  "-4.87",
+                  "-6.20"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NTN",
+    "Dana",
+    "AAM",
+    "和大工業",
+    "中華台亞",
+    "中鋼",
+    "中鋼",
+    "NTN",
+    "Dana",
+    "AAM",
+    "和大工業",
+    "中華台亞",
+    "NTN",
+    "Dana",
+    "AAM",
+    "和大工業",
+    "中華台亞",
+    "中鋼"
+  ]
+}

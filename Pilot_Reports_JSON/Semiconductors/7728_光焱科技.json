@@ -1,0 +1,551 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/7728_光焱科技.md",
+  "source_path": "Pilot_Reports/Semiconductors/7728_光焱科技.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/7728_光焱科技.json",
+  "ticker": "7728",
+  "company_name": "光焱科技",
+  "title": "# 7728 - 光焱科技",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "11,873 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,219 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "光焱科技 (7728，Enlitech) 為精密光電量測設備公司，聚焦光電轉換測試、模擬光源及晶圓級光電檢測。產品包括太陽能電池量子效率檢測系統、"
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS 影像感測器"
+            },
+            {
+              "type": "text",
+              "text": "測試設備及"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽光子"
+            },
+            {
+              "type": "text",
+              "text": " (Silicon Photonics) 晶圓級光損耗測試系統 (Night Jar)。已加入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SEMI"
+            },
+            {
+              "type": "text",
+              "text": " 矽光子產業聯盟。產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能電池"
+            },
+            {
+              "type": "text",
+              "text": "量子效率檢測。全球學術論文引用光焱產品達 4,460 篇。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光源模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 模擬光源及光學感測"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 量測設備機構件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (量測設備製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電量測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "光焱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (太陽能/CIS/矽光子量測設備)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (研究與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太空/研究:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太空實驗室、全球研究機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 矽光子晶圓級檢測客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太空/研究:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太空實驗室、印度航太機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 矽光子晶圓級檢測客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "學術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球研究機構 (4,460 篇論文引用)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光源及感測元件供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hamamatsu Photonics"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Newport Corporation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $857.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "175.61",
+                  "N/A",
+                  "33.28",
+                  "15.76",
+                  "138.01"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "380.12",
+                  "333.73",
+                  "232.96"
+                ],
+                [
+                  "Gross Profit",
+                  "245.04",
+                  "220.57",
+                  "153.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "64.47",
+                  "66.09",
+                  "65.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "67.04",
+                  "68.39",
+                  "41.85"
+                ],
+                [
+                  "R&D Exp",
+                  "30.85",
+                  "26.97",
+                  "32.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.38",
+                  "33.31",
+                  "26.70"
+                ],
+                [
+                  "Operating Income",
+                  "106.78",
+                  "91.91",
+                  "52.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "28.09",
+                  "27.54",
+                  "22.53"
+                ],
+                [
+                  "Net Income",
+                  "108.27",
+                  "76.78",
+                  "50.82"
+                ],
+                [
+                  "Net Margin (%)",
+                  "28.48",
+                  "23.01",
+                  "21.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "101.80",
+                  "109.11",
+                  "51.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "149.70",
+                  "-158.55",
+                  "-17.35"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-153.18",
+                  "82.88",
+                  "11.05"
+                ],
+                [
+                  "CAPEX",
+                  "-8.32",
+                  "-3.88",
+                  "-5.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "63.74",
+                  "78.87",
+                  "84.70",
+                  "94.11"
+                ],
+                [
+                  "Gross Profit",
+                  "41.85",
+                  "50.75",
+                  "51.36",
+                  "63.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "65.66",
+                  "64.35",
+                  "60.64",
+                  "67.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.12",
+                  "16.26",
+                  "16.31",
+                  "21.13"
+                ],
+                [
+                  "R&D Exp",
+                  "14.47",
+                  "10.04",
+                  "11.95",
+                  "7.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "10.97",
+                  "10.29",
+                  "11.72",
+                  "11.04"
+                ],
+                [
+                  "Operating Income",
+                  "3.30",
+                  "14.17",
+                  "11.38",
+                  "23.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.17",
+                  "17.96",
+                  "13.44",
+                  "25.15"
+                ],
+                [
+                  "Net Income",
+                  "8.99",
+                  "2.37",
+                  "13.60",
+                  "20.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.11",
+                  "3.01",
+                  "16.06",
+                  "21.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-0.94",
+                  "-1.05",
+                  "5.03",
+                  "28.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8.32",
+                  "-39.80",
+                  "-1.08",
+                  "0.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-83.81",
+                  "18.95",
+                  "452.80",
+                  "-37.56"
+                ],
+                [
+                  "CAPEX",
+                  "-8.36",
+                  "-24.12",
+                  "-4.82",
+                  "-0.84"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "CMOS 影像感測器",
+    "矽光子",
+    "SEMI",
+    "太陽能電池",
+    "Amazon",
+    "Amazon",
+    "Hamamatsu Photonics",
+    "Newport Corporation"
+  ]
+}

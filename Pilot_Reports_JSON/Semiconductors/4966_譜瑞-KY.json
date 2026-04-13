@@ -1,0 +1,569 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/4966_譜瑞-KY.md",
+  "source_path": "Pilot_Reports/Semiconductors/4966_譜瑞-KY.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/4966_譜瑞-KY.json",
+  "ticker": "4966",
+  "company_name": "譜瑞-KY",
+  "title": "# 4966 - 譜瑞-KY",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "40,957 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "31,098 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "譜瑞-KY (Parade Technologies) 成立於 2005 年，總部位於美國加州 (註冊於開曼群島)。公司為全球領先的 "
+            },
+            {
+              "type": "strong",
+              "text": "高速傳輸介面 IC"
+            },
+            {
+              "type": "text",
+              "text": " (High-speed Interface) 及 "
+            },
+            {
+              "type": "strong",
+              "text": "顯示驅動 IC"
+            },
+            {
+              "type": "text",
+              "text": " (Display & Touch) 供應商。譜瑞是 "
+            },
+            {
+              "type": "strong",
+              "text": "DisplayPort (DP)"
+            },
+            {
+              "type": "text",
+              "text": " 標準的重要制定者與領導者，專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "eDP T-CON (嵌入式時序控制器)"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "strong",
+              "text": "High-speed Redriver/Retimer"
+            },
+            {
+              "type": "text",
+              "text": " (USB4, "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": " Gen4/5, HDMI)。譜瑞在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈中地位穩固，為 iPad/MacBook T-CON 獨家/主要供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " 高速傳輸與顯示介面 IC 設計領導廠。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 晶圓代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": ")、封測廠 (南茂等)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 品牌大廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lenovo"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ")。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Apple]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 最大客戶 (貢獻營收約 40-50%)，供應 eDP T-CON, High-speed Interface IC, Touch IC。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "非蘋陣營:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (商用筆電高速傳輸晶片)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (平板/筆電)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高速傳輸:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 祥碩 (ASMedia)、TI (德儀)、Retimer 領域對手 (Astera Labs, Montage)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "T-CON/Driver:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Novatek)、奇景 (Himax)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $533.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.53",
+                  "12.75",
+                  "2.48",
+                  "1.88",
+                  "9.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16531.05",
+                  "16245.65",
+                  "13769.07"
+                ],
+                [
+                  "Gross Profit",
+                  "7034.74",
+                  "6903.22",
+                  "6019.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "42.55",
+                  "42.49",
+                  "43.72"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "846.75",
+                  "913.99",
+                  "885.74"
+                ],
+                [
+                  "R&D Exp",
+                  "2909.87",
+                  "2913.47",
+                  "2586.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "568.97",
+                  "623.67",
+                  "580.27"
+                ],
+                [
+                  "Operating Income",
+                  "2709.15",
+                  "2452.08",
+                  "1966.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.39",
+                  "15.09",
+                  "14.28"
+                ],
+                [
+                  "Net Income",
+                  "2726.71",
+                  "2592.12",
+                  "2033.13"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.49",
+                  "15.96",
+                  "14.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3419.07",
+                  "3317.86",
+                  "3704.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-613.51",
+                  "-605.86",
+                  "-362.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2163.12",
+                  "-1261.03",
+                  "-1781.49"
+                ],
+                [
+                  "CAPEX",
+                  "-143.65",
+                  "-152.16",
+                  "-143.39"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3887.99",
+                  "4114.43",
+                  "4151.60",
+                  "4120.53"
+                ],
+                [
+                  "Gross Profit",
+                  "1634.04",
+                  "1773.53",
+                  "1766.92",
+                  "1738.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "42.03",
+                  "43.11",
+                  "42.56",
+                  "42.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "224.87",
+                  "198.75",
+                  "209.97",
+                  "209.94"
+                ],
+                [
+                  "R&D Exp",
+                  "742.13",
+                  "723.27",
+                  "744.03",
+                  "710.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "136.08",
+                  "142.88",
+                  "155.65",
+                  "152.87"
+                ],
+                [
+                  "Operating Income",
+                  "530.96",
+                  "708.63",
+                  "657.27",
+                  "664.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.66",
+                  "17.22",
+                  "15.83",
+                  "16.14"
+                ],
+                [
+                  "Net Income",
+                  "544.38",
+                  "702.32",
+                  "664.10",
+                  "688.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.00",
+                  "17.07",
+                  "16.00",
+                  "16.72"
+                ],
+                [
+                  "Op Cash Flow",
+                  "871.87",
+                  "766.58",
+                  "745.37",
+                  "757.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-93.70",
+                  "-412.52",
+                  "-19.51",
+                  "-159.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-37.26",
+                  "355.41",
+                  "-1731.99",
+                  "-37.34"
+                ],
+                [
+                  "CAPEX",
+                  "-36.23",
+                  "-40.58",
+                  "-34.92",
+                  "-57.78"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "PCIe",
+    "Apple",
+    "台積電",
+    "聯電",
+    "Apple",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "Samsung",
+    "Apple",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "Samsung",
+    "聯詠"
+  ]
+}

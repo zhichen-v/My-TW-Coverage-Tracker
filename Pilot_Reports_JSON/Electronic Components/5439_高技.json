@@ -1,0 +1,519 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5439_高技.md",
+  "source_path": "Pilot_Reports/Electronic Components/5439_高技.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5439_高技.json",
+  "ticker": "5439",
+  "company_name": "高技",
+  "title": "# 5439 - 高技",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "26,684 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "27,935 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "高技企業 (First Hi-tec) 成立於 1988 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園"
+            },
+            {
+              "type": "text",
+              "text": "。公司專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "厚銅、多層、高頻微波印刷電路板 (PCB)"
+            },
+            {
+              "type": "text",
+              "text": " 之製造。產品主要應用於 "
+            },
+            {
+              "type": "strong",
+              "text": "網通設備"
+            },
+            {
+              "type": "text",
+              "text": " (交換器/路由器)、"
+            },
+            {
+              "type": "strong",
+              "text": "電工"
+            },
+            {
+              "type": "text",
+              "text": " (电源供应器)、"
+            },
+            {
+              "type": "strong",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "充電椿/BMS) 及 "
+            },
+            {
+              "type": "strong",
+              "text": "半導體測試"
+            },
+            {
+              "type": "text",
+              "text": " (IC Tester)。高技以少量多樣、高客製化之利基型市場為主，避開"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "之價格競爭。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " 印刷電路板製造商 (中游)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板 (CCL)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "、膠片供應商。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備廠、電源供應器廠、車用零組件廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智邦 (Accton), 明泰 (Alpha Networks), 中磊 (Sercomm)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/電源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Delta Electronics, 透過其打入 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Ford"
+                    },
+                    {
+                      "type": "text",
+                      "text": "), 華城 (Fortune)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 研華 (Advantech), 威強電 (Portwell)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $287.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "20.46",
+                  "N/A",
+                  "2.77",
+                  "6.76",
+                  "14.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4177.70",
+                  "4350.48",
+                  "3224.58"
+                ],
+                [
+                  "Gross Profit",
+                  "642.15",
+                  "832.41",
+                  "579.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.37",
+                  "19.13",
+                  "17.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "405.22",
+                  "594.34",
+                  "379.64"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.70",
+                  "13.66",
+                  "11.77"
+                ],
+                [
+                  "Net Income",
+                  "326.77",
+                  "471.25",
+                  "370.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.82",
+                  "10.83",
+                  "11.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "289.38",
+                  "431.37",
+                  "660.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-445.92",
+                  "-198.35",
+                  "-157.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "20.13",
+                  "-156.35",
+                  "-329.09"
+                ],
+                [
+                  "CAPEX",
+                  "-445.59",
+                  "-182.99",
+                  "-158.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3160.77",
+                  "2288.11",
+                  "1424.24",
+                  "1194.25"
+                ],
+                [
+                  "Gross Profit",
+                  "793.00",
+                  "431.91",
+                  "294.88",
+                  "186.07"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.09",
+                  "18.88",
+                  "20.70",
+                  "15.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "622.40",
+                  "328.43",
+                  "208.72",
+                  "124.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.69",
+                  "14.35",
+                  "14.66",
+                  "10.41"
+                ],
+                [
+                  "Net Income",
+                  "531.18",
+                  "173.83",
+                  "180.01",
+                  "94.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.81",
+                  "7.60",
+                  "12.64",
+                  "7.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "231.15",
+                  "-294.47",
+                  "-32.87",
+                  "-24.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-254.64",
+                  "-617.07",
+                  "-346.02",
+                  "-81.49"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1400.77",
+                  "948.97",
+                  "503.56",
+                  "76.29"
+                ],
+                [
+                  "CAPEX",
+                  "-263.87",
+                  "-638.16",
+                  "-346.43",
+                  "-82.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "桃園",
+    "電動車",
+    "消費性電子",
+    "銅箔",
+    "銅箔",
+    "網通",
+    "工業電腦",
+    "台達電",
+    "Tesla",
+    "GM",
+    "Ford"
+  ]
+}

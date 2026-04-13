@@ -1,0 +1,698 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/6465_威潤.md",
+  "source_path": "Pilot_Reports/Communication Equipment/6465_威潤.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/6465_威潤.json",
+  "ticker": "6465",
+  "company_name": "威潤",
+  "title": "# 6465_威潤",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "1,926 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,548 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "威潤科技 (6465，"
+            },
+            {
+              "type": "wikilink",
+              "text": "ATrack Technology"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣專注於研發及製造車載衛星定位監控系統 (GPS Tracker) 的領導品牌。公司以自有品牌「ATrack」行銷全球，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "車聯網"
+            },
+            {
+              "type": "text",
+              "text": "及車隊管理市場提供高度客製化資通訊硬體方案。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "產品支援 4G LTE、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 及低功耗廣域網路 (LPWAN)，精準回傳車輛位置、駕駛行為及車況數據。近年針對物流車隊、租賃車及冷鏈運輸，積極擴充影像監控 (Video Telematics) 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 邊緣運算功能。已成功取得日本 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SoftBank"
+            },
+            {
+              "type": "text",
+              "text": " 電信認證大單，並與日系汽車零件 Tier-1 大廠合作切入東南亞摩托車"
+            },
+            {
+              "type": "wikilink",
+              "text": "車聯網"
+            },
+            {
+              "type": "text",
+              "text": "市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (定位晶片與通訊模組)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊基帶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 4G/5G 基帶晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GNSS 定位:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際 GNSS 衛星定位接收 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零件通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "益登"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3048) — 台灣電子零組件代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MCU/感測器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 低功耗 MCU 及車用 CAN Bus 介面晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (車載衛星定位硬體自有品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPS 追蹤器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威潤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ATrack 品牌商用車隊追蹤主機)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威潤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AI 視覺 DS/ADAS 行車影像管理)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特用產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工程機械/摩托車/冷鏈專用追蹤器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電信商與車隊管理服務商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SoftBank"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 4G LTE 衛星監控設備認證供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系車廠 Tier-1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本大型汽車零件商 — 東南亞摩托車車聯網 ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球 TSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美車隊管理系統服務商 (TSP)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SoftBank"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (軟銀) — 4G LTE 衛星定位監控設備供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系 Tier-1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本大型汽車零件供應商 — 東南亞摩托車車聯網 ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球 TSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美車隊管理科技服務商 — GPS 追蹤主機"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 4G/5G 基帶晶片及 GNSS 定位模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零件代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "益登"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3048) — 台灣電子零組件通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "感測元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用級 MCU 及 CAN Bus 介面晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "52.44",
+                  "N/A",
+                  "7.31",
+                  "5.50",
+                  "51.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "263.25",
+                  "160.91",
+                  "241.60"
+                ],
+                [
+                  "Gross Profit",
+                  "158.65",
+                  "38.60",
+                  "71.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "60.27",
+                  "23.99",
+                  "29.61"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.15",
+                  "26.05",
+                  "31.07"
+                ],
+                [
+                  "R&D Exp",
+                  "49.69",
+                  "47.09",
+                  "48.36"
+                ],
+                [
+                  "General & Admin Exp",
+                  "41.72",
+                  "52.69",
+                  "52.19"
+                ],
+                [
+                  "Operating Income",
+                  "39.10",
+                  "-87.23",
+                  "-60.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.85",
+                  "-54.21",
+                  "-24.87"
+                ],
+                [
+                  "Net Income",
+                  "40.43",
+                  "-65.66",
+                  "-52.89"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.36",
+                  "-40.81",
+                  "-21.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "49.08",
+                  "-9.40",
+                  "12.45"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-74.08",
+                  "-28.42",
+                  "6.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.88",
+                  "64.58",
+                  "-3.92"
+                ],
+                [
+                  "CAPEX",
+                  "-20.95",
+                  "-7.36",
+                  "-4.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "130.46",
+                  "45.23",
+                  "48.62",
+                  "38.94"
+                ],
+                [
+                  "Gross Profit",
+                  "107.62",
+                  "25.91",
+                  "18.69",
+                  "6.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "82.50",
+                  "57.28",
+                  "38.44",
+                  "16.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7.33",
+                  "6.98",
+                  "6.93",
+                  "6.91"
+                ],
+                [
+                  "R&D Exp",
+                  "17.05",
+                  "11.06",
+                  "10.45",
+                  "11.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.51",
+                  "8.54",
+                  "7.55",
+                  "11.12"
+                ],
+                [
+                  "Operating Income",
+                  "68.74",
+                  "-0.67",
+                  "-6.24",
+                  "-22.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "52.69",
+                  "-1.48",
+                  "-12.83",
+                  "-58.38"
+                ],
+                [
+                  "Net Income",
+                  "75.72",
+                  "0.34",
+                  "-15.63",
+                  "-20.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "58.04",
+                  "0.75",
+                  "-32.14",
+                  "-51.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "85.72",
+                  "-9.90",
+                  "-10.26",
+                  "-16.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-34.77",
+                  "-1.45",
+                  "-49.44",
+                  "11.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.80",
+                  "-0.80",
+                  "-0.27",
+                  "-0.01"
+                ],
+                [
+                  "CAPEX",
+                  "-1.13",
+                  "-2.68",
+                  "-15.96",
+                  "-1.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ATrack Technology",
+    "車聯網",
+    "5G",
+    "AI",
+    "SoftBank",
+    "車聯網",
+    "Qualcomm",
+    "聯發科",
+    "益登",
+    "SoftBank",
+    "SoftBank",
+    "Qualcomm",
+    "聯發科",
+    "益登"
+  ]
+}

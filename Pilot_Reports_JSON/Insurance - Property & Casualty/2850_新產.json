@@ -1,0 +1,763 @@
+{
+  "report_id": "Pilot_Reports/Insurance - Property & Casualty/2850_新產.md",
+  "source_path": "Pilot_Reports/Insurance - Property & Casualty/2850_新產.md",
+  "json_path": "Pilot_Reports_JSON/Insurance - Property & Casualty/2850_新產.json",
+  "ticker": "2850",
+  "company_name": "新產",
+  "title": "# 2850 - 新產",
+  "sector_folder": "Insurance - Property & Casualty",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Insurance - Property & Casualty"
+      },
+      {
+        "label": "市值:",
+        "value": "36,652 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "12,766 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "新光產物保險"
+            },
+            {
+              "type": "text",
+              "text": " (2850，新產) 成立於 1963 年，由"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光集團"
+            },
+            {
+              "type": "text",
+              "text": "創辦人吳火獅先生創立，現由吳東賢家族主導經營，為台灣歷史悠久之產險公司，長期穩居國內產險業前段班。主要業務涵蓋汽車保險 (含強制險與任意險)、火災保險、責任保險、工程保險及水險等。近年持續優化業務結構，降低車險佔比，提升商業火險、責任險等非車險業務比重。2024 年全年 EPS 達 10.47 元，獲利表現優異。集團關係企業涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光金控"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光銀行"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光三越"
+            },
+            {
+              "type": "text",
+              "text": "等，享有集團交叉銷售與客戶引薦優勢。再保險安排透過"
+            },
+            {
+              "type": "wikilink",
+              "text": "中央再保險"
+            },
+            {
+              "type": "text",
+              "text": "及國際再保險市場分散風險。受"
+            },
+            {
+              "type": "wikilink",
+              "text": "金管會"
+            },
+            {
+              "type": "text",
+              "text": "監理。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (風險分散)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國際再保險市場 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lloyd's of London"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 巨災風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精算服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精算與風險評估機構"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (保險本體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[新光產物保險]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 核保、保單設計、理賠管理與資產運用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路與保戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "旗下"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "銀保通路 — 交叉銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "關係企業、製造業工廠 (火險/工程險)、物流業者 (水險)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主 (強制險/任意險)、屋主 (住宅火險)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車經銷商、保險經紀人代理人"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團關係企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "體系 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光三越"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等關係企業投保"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造業工廠 (商業火險)、營建工程 (工程險)、進出口商 (水險)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽機車車主 (強制險/任意車險)、屋主 (住宅火險)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lloyd's of London"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 巨災風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 銀行保險通路與交叉銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外部通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車經銷商、保險經紀人代理人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "監理機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金管會"
+                    },
+                    {
+                      "type": "text",
+                      "text": "保險局 — 產險監理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $116.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "9.48",
+                  "N/A",
+                  "1.68",
+                  "1.77",
+                  "2.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "21561.95",
+                  "20853.74",
+                  "19938.67"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "4147.53",
+                  "3864.05",
+                  "3669.28"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "3878.67",
+                  "3309.28",
+                  "2914.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.99",
+                  "15.87",
+                  "14.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "125.57",
+                  "5002.73",
+                  "1592.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "76.84",
+                  "-64.42",
+                  "-76.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2272.63",
+                  "-1591.00",
+                  "-818.68"
+                ],
+                [
+                  "CAPEX",
+                  "-106.12",
+                  "-66.14",
+                  "-76.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5391.84",
+                  "5714.01",
+                  "5279.77",
+                  "5176.33"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1242.36",
+                  "927.78",
+                  "1015.58",
+                  "961.81"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "1204.23",
+                  "964.71",
+                  "997.75",
+                  "711.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "22.33",
+                  "16.88",
+                  "18.90",
+                  "13.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-630.64",
+                  "2825.07",
+                  "-1260.48",
+                  "-808.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "94.89",
+                  "51.68",
+                  "-50.45",
+                  "-19.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.08",
+                  "-2262.25",
+                  "-3.63",
+                  "-3.68"
+                ],
+                [
+                  "CAPEX",
+                  "-26.88",
+                  "-9.52",
+                  "-50.45",
+                  "-19.28"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新光產物保險",
+    "新光集團",
+    "新光金控",
+    "新光人壽",
+    "新光銀行",
+    "新光三越",
+    "中央再保險",
+    "金管會",
+    "中央再保險",
+    "Swiss Re",
+    "Munich Re",
+    "Lloyd's of London",
+    "新光產物保險",
+    "新光金控",
+    "新光人壽",
+    "新光銀行",
+    "新光集團",
+    "新光金控",
+    "新光人壽",
+    "新光銀行",
+    "新光三越",
+    "中央再保險",
+    "Swiss Re",
+    "Munich Re",
+    "Lloyd's of London",
+    "新光人壽",
+    "新光銀行",
+    "金管會"
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/7765_中華資安.md",
+  "source_path": "Pilot_Reports/Information Technology Services/7765_中華資安.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/7765_中華資安.json",
+  "ticker": "7765",
+  "company_name": "中華資安",
+  "title": "# 7765 - 中華資安",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "9,030 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,862 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中華資安國際 (7765) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": " (2412) 轉投資之資安子公司，於 2025 年 9 月正式上市，成為國內首家上市"
+            },
+            {
+              "type": "wikilink",
+              "text": "資安"
+            },
+            {
+              "type": "text",
+              "text": "公司。公司擁有得天獨厚之 ISP 網路閘口優勢，透過電信線路直接為近百萬家庭與四萬餘家中小企業進行源頭阻斷與 DDoS 防護 (守門員服務)。針對政府機關與關鍵基礎設施，提供紅隊演練、滲透測試與資安鑑識等最高規格檢測服務。自有產品包含 SecuTex NP (網路行車紀錄器)、CypherCom (加密通訊)、SecuTex ED (端點合規)、資安眼 HorusEyes ("
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 曝險分析) 等。營收獲利連續八年雙創新高。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (資安軟硬體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "防火牆/資安:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fortinet"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Palo Alto Networks"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國際資安防禦設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "端點防護:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際 EDR/XDR 資安軟體原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "威脅情資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用威脅情資資料庫供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全台第一大 ISP 寬頻與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網路骨幹"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (資安服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MSSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "中華資安"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電信端閘道防護、企業"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資安"
+                    },
+                    {
+                      "type": "text",
+                      "text": "檢測與滲透測試、資安鑑識應變、自有資安軟體研發及國際品牌代理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府機關與關鍵基礎設施"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金控銀行 — 高階防駭需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高科技半導體製造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家庭/中小企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 近百萬寬頻用戶與四萬餘家中小企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府機關與關鍵基礎設施 — 紅隊演練與資安鑑識"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金控銀行 — 高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資安"
+                    },
+                    {
+                      "type": "text",
+                      "text": "監控與應變"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 逾 300 家大型核心企業 — 資安防護服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高科技半導體製造廠 — 防駭與端點防護"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家庭/中小企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 近百萬"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "寬頻用戶 — 守門員防護與 DDoS 阻擋"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全台最大 ISP 寬頻與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網路骨幹，核心通路資源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際資安:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fortinet"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Palo Alto Networks"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 防火牆與資安防禦設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "威脅情資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際威脅情資與弱點資料庫"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $222.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.46",
+                  "15.01",
+                  "4.41",
+                  "4.40",
+                  "13.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2045.57",
+                  "1973.66",
+                  "1696.46"
+                ],
+                [
+                  "Gross Profit",
+                  "960.35",
+                  "865.55",
+                  "659.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "46.95",
+                  "43.86",
+                  "38.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "192.47",
+                  "172.33",
+                  "152.65"
+                ],
+                [
+                  "R&D Exp",
+                  "132.75",
+                  "108.69",
+                  "74.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "105.16",
+                  "119.67",
+                  "89.67"
+                ],
+                [
+                  "Operating Income",
+                  "529.97",
+                  "464.85",
+                  "343.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "25.91",
+                  "23.55",
+                  "20.24"
+                ],
+                [
+                  "Net Income",
+                  "436.93",
+                  "379.19",
+                  "269.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.36",
+                  "19.21",
+                  "15.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "416.70",
+                  "367.39",
+                  "336.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-532.46",
+                  "-51.62",
+                  "-56.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "674.45",
+                  "-251.55",
+                  "-171.38"
+                ],
+                [
+                  "CAPEX",
+                  "-17.11",
+                  "-23.66",
+                  "-56.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-06-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "576.34",
+                  "462.82",
+                  "516.22",
+                  "356.79"
+                ],
+                [
+                  "Gross Profit",
+                  "278.83",
+                  "216.03",
+                  "246.74",
+                  "160.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.38",
+                  "46.68",
+                  "47.80",
+                  "44.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "71.96",
+                  "40.29",
+                  "37.30",
+                  "34.94"
+                ],
+                [
+                  "R&D Exp",
+                  "37.20",
+                  "29.57",
+                  "32.78",
+                  "20.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "27.54",
+                  "27.29",
+                  "25.20",
+                  "24.86"
+                ],
+                [
+                  "Operating Income",
+                  "142.13",
+                  "118.88",
+                  "151.46",
+                  "80.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "24.66",
+                  "25.69",
+                  "29.34",
+                  "22.55"
+                ],
+                [
+                  "Net Income",
+                  "119.79",
+                  "97.51",
+                  "123.43",
+                  "65.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.78",
+                  "21.07",
+                  "23.91",
+                  "18.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "147.85",
+                  "109.44",
+                  "85.44",
+                  "21.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-488.82",
+                  "12.34",
+                  "-57.20",
+                  "-9.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6.97",
+                  "-5.87",
+                  "6.30",
+                  "-5.27"
+                ],
+                [
+                  "CAPEX",
+                  "-8.51",
+                  "-2.52",
+                  "-1.46",
+                  "-2.13"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中華電信",
+    "資安",
+    "AI",
+    "Fortinet",
+    "Palo Alto Networks",
+    "中華電信",
+    "5G",
+    "資安",
+    "資安",
+    "中華電信",
+    "中華電信",
+    "5G",
+    "Fortinet",
+    "Palo Alto Networks"
+  ]
+}

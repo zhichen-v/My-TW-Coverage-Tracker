@@ -1,0 +1,596 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/3162_精確.md",
+  "source_path": "Pilot_Reports/Auto Parts/3162_精確.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/3162_精確.json",
+  "ticker": "3162",
+  "company_name": "精確",
+  "title": "# 3162 - 精確",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Discretionary"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "7,624 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,791 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "精確科技 (3162) 為鋁合金壓鑄件專業廠，主攻"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "電池盒。全球8廠 (台1/中6/塞爾維亞1)。三大電池廠客戶："
+            },
+            {
+              "type": "wikilink",
+              "text": "寧德時代"
+            },
+            {
+              "type": "text",
+              "text": " (最大)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "蜂巢能源"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "億緯鋰能"
+            },
+            {
+              "type": "text",
+              "text": "。已打入"
+            },
+            {
+              "type": "wikilink",
+              "text": "比亞迪"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈。歐美聚焦壓鑄件。2025H1營收37.33億 (年增127%)。隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "敏實集團"
+            },
+            {
+              "type": "text",
+              "text": "。另供"
+            },
+            {
+              "type": "wikilink",
+              "text": "Volkswagen"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BMW"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鋁錠供應商\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "精確"
+            },
+            {
+              "type": "text",
+              "text": " (鋁壓鑄: "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "電池盒/結構件)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "寧德時代"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蜂巢能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億緯鋰能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電池盒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "比亞迪"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volkswagen"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "母: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "敏實集團"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "寧德時代"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蜂巢能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億緯鋰能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電池盒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "比亞迪"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volkswagen"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "鋁錠; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "敏實集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $56.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "32.94",
+                  "13.97",
+                  "0.99",
+                  "2.37",
+                  "15.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7698.85",
+                  "4652.56",
+                  "3592.85"
+                ],
+                [
+                  "Gross Profit",
+                  "963.31",
+                  "559.51",
+                  "394.58"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.51",
+                  "12.03",
+                  "10.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "234.55",
+                  "132.37",
+                  "93.59"
+                ],
+                [
+                  "R&D Exp",
+                  "175.28",
+                  "94.87",
+                  "106.35"
+                ],
+                [
+                  "General & Admin Exp",
+                  "325.50",
+                  "259.58",
+                  "271.50"
+                ],
+                [
+                  "Operating Income",
+                  "227.97",
+                  "72.69",
+                  "-76.87"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.96",
+                  "1.56",
+                  "-2.14"
+                ],
+                [
+                  "Net Income",
+                  "222.41",
+                  "70.25",
+                  "131.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.89",
+                  "1.51",
+                  "3.66"
+                ],
+                [
+                  "Op Cash Flow",
+                  "982.60",
+                  "147.71",
+                  "105.04"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1229.95",
+                  "-464.80",
+                  "-834.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "16.54",
+                  "343.71",
+                  "497.40"
+                ],
+                [
+                  "CAPEX",
+                  "-1406.43",
+                  "-573.22",
+                  "-858.33"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2109.76",
+                  "1940.73",
+                  "1809.36",
+                  "1839.00"
+                ],
+                [
+                  "Gross Profit",
+                  "244.44",
+                  "207.98",
+                  "263.10",
+                  "247.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.59",
+                  "10.72",
+                  "14.54",
+                  "13.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "64.02",
+                  "61.59",
+                  "53.12",
+                  "55.82"
+                ],
+                [
+                  "R&D Exp",
+                  "51.75",
+                  "50.36",
+                  "46.01",
+                  "27.16"
+                ],
+                [
+                  "General & Admin Exp",
+                  "94.48",
+                  "68.56",
+                  "77.48",
+                  "84.98"
+                ],
+                [
+                  "Operating Income",
+                  "34.20",
+                  "27.46",
+                  "86.49",
+                  "79.82"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.62",
+                  "1.42",
+                  "4.78",
+                  "4.34"
+                ],
+                [
+                  "Net Income",
+                  "59.53",
+                  "30.16",
+                  "67.61",
+                  "65.11"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.82",
+                  "1.55",
+                  "3.74",
+                  "3.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "235.45",
+                  "157.45",
+                  "371.42",
+                  "218.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-246.34",
+                  "-628.50",
+                  "-259.73",
+                  "-95.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-195.83",
+                  "551.20",
+                  "-404.31",
+                  "65.48"
+                ],
+                [
+                  "CAPEX",
+                  "-398.25",
+                  "-481.95",
+                  "-297.22",
+                  "-229.01"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電動車",
+    "寧德時代",
+    "蜂巢能源",
+    "億緯鋰能",
+    "比亞迪",
+    "敏實集團",
+    "Volkswagen",
+    "BMW",
+    "電動車",
+    "寧德時代",
+    "蜂巢能源",
+    "億緯鋰能",
+    "比亞迪",
+    "Volkswagen",
+    "BMW",
+    "敏實集團",
+    "寧德時代",
+    "蜂巢能源",
+    "億緯鋰能",
+    "比亞迪",
+    "Volkswagen",
+    "BMW",
+    "敏實集團"
+  ]
+}

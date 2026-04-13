@@ -1,0 +1,602 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/6261_久元.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/6261_久元.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/6261_久元.json",
+  "ticker": "6261",
+  "company_name": "久元",
+  "title": "# 6261_久元",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "9,175 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,204 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "久元電子 (6261) 是一家半導體測試代工及設備製造商，業務涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "晶圓測試"
+            },
+            {
+              "type": "text",
+              "text": " (CP)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "成品測試"
+            },
+            {
+              "type": "text",
+              "text": " (FT)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "系統級測試"
+            },
+            {
+              "type": "text",
+              "text": " (SLT) 及測試程式開發。設備產品包括 IC 測試機、"
+            },
+            {
+              "type": "wikilink",
+              "text": "分選機"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "固晶機"
+            },
+            {
+              "type": "text",
+              "text": "及 AI 相關檢測設備。2025 上半年測試代工占營收 49%、設備銷售占 39%。主要客戶"
+            },
+            {
+              "type": "wikilink",
+              "text": "晶元光電"
+            },
+            {
+              "type": "text",
+              "text": "占營收 23.5%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 測試設備用精密零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機械加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 分選機/固晶機機構件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (測試代工與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "久元"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CP/FT/SLT 測試服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 測試機、分選機、固晶機、AI 檢測設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (IC 設計與封裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶，占營收 23.5%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內 IC 設計公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封裝業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶，占營收 23.5%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內 IC 設計公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測業者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密機械零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京元電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Advantest"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Teradyne"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $71.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.00",
+                  "N/A",
+                  "2.19",
+                  "1.38",
+                  "7.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4190.70",
+                  "3966.81",
+                  "3710.60"
+                ],
+                [
+                  "Gross Profit",
+                  "1254.06",
+                  "1194.93",
+                  "1054.61"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.92",
+                  "30.12",
+                  "28.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "206.07",
+                  "182.33",
+                  "117.91"
+                ],
+                [
+                  "R&D Exp",
+                  "445.75",
+                  "354.57",
+                  "328.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "219.82",
+                  "184.16",
+                  "139.22"
+                ],
+                [
+                  "Operating Income",
+                  "437.77",
+                  "516.81",
+                  "550.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.45",
+                  "13.03",
+                  "14.84"
+                ],
+                [
+                  "Net Income",
+                  "544.09",
+                  "522.02",
+                  "526.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.98",
+                  "13.16",
+                  "14.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "664.17",
+                  "721.91",
+                  "519.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1069.28",
+                  "-482.60",
+                  "-131.67"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-570.57",
+                  "-485.89",
+                  "-833.11"
+                ],
+                [
+                  "CAPEX",
+                  "-984.45",
+                  "-482.07",
+                  "-346.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1182.83",
+                  "1058.08",
+                  "955.75",
+                  "994.05"
+                ],
+                [
+                  "Gross Profit",
+                  "361.95",
+                  "351.02",
+                  "289.90",
+                  "251.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.60",
+                  "33.18",
+                  "30.33",
+                  "25.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "55.74",
+                  "51.50",
+                  "48.56",
+                  "50.27"
+                ],
+                [
+                  "R&D Exp",
+                  "153.78",
+                  "106.37",
+                  "92.33",
+                  "93.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "64.37",
+                  "52.62",
+                  "53.27",
+                  "49.55"
+                ],
+                [
+                  "Operating Income",
+                  "103.89",
+                  "149.69",
+                  "117.57",
+                  "66.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.78",
+                  "14.15",
+                  "12.30",
+                  "6.70"
+                ],
+                [
+                  "Net Income",
+                  "197.28",
+                  "177.99",
+                  "49.61",
+                  "119.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.68",
+                  "16.82",
+                  "5.19",
+                  "11.99"
+                ],
+                [
+                  "Op Cash Flow",
+                  "295.00",
+                  "144.36",
+                  "141.30",
+                  "83.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-70.99",
+                  "-295.47",
+                  "-522.45",
+                  "-180.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "0.85",
+                  "-541.38",
+                  "-5.51",
+                  "-24.54"
+                ],
+                [
+                  "CAPEX",
+                  "-66.25",
+                  "-197.35",
+                  "-540.55",
+                  "-180.30"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "晶圓測試",
+    "成品測試",
+    "系統級測試",
+    "分選機",
+    "固晶機",
+    "晶元光電",
+    "晶元光電",
+    "晶元光電",
+    "京元電子",
+    "Advantest",
+    "Teradyne"
+  ]
+}

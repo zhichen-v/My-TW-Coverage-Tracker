@@ -1,0 +1,667 @@
+{
+  "report_id": "Pilot_Reports/Packaging & Containers/4304_勝昱.md",
+  "source_path": "Pilot_Reports/Packaging & Containers/4304_勝昱.md",
+  "json_path": "Pilot_Reports_JSON/Packaging & Containers/4304_勝昱.json",
+  "ticker": "4304",
+  "company_name": "勝昱",
+  "title": "# 4304 - 勝昱",
+  "sector_folder": "Packaging & Containers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Packaging & Containers"
+      },
+      {
+        "label": "市值:",
+        "value": "1,587 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,190 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "勝昱科技股份有限公司（原名琨詰科技）成立於 1982 年，為專業之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "EMI"
+            },
+            {
+              "type": "text",
+              "text": " 電磁波遮蔽材料與複合積層包裝材料製造商。主要產品包括 EMI 遮蔽貼合材料（應用於線材及 3C 產品）、鋁箔麥拉帶、軟性複合積層包裝材料（食品及醫療包裝）及絕緣材料等。2024 年產品營收結構為 EMI 遮蔽材料約 30%、塑膠薄膜約 25%、真空袋約 7%、複合膜約 5%。近期勝昱積極進行策略轉型，成立「綠電 AI」與「重電工程」事業部，佈局 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " 高速傳輸線材之 EMI 材料需求及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": " 電網升級工程。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬箔材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁箔、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等金屬箔基材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "薄膜基材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聚酯薄膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導電膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、塑膠粒"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (材料加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "勝昱 (4304):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密塗佈、貼合、分條及印刷加工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電線電纜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電纜廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（1609）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（1605）使用 EMI 遮蔽材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速傳輸線材之 EMI 材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重電工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電網工程設備安裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "食品/醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性複合積層包裝材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電線電纜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（1609）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（1605）等國內外電纜廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應鏈客戶、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重電工程客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "包裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 食品及醫療包裝加工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬箔材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外鋁箔及 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "薄膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聚酯薄膜廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 導電膠及塗料化學品供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $26.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "4.43",
+                  "333.33",
+                  "-31.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "377.41",
+                  "456.10",
+                  "513.27"
+                ],
+                [
+                  "Gross Profit",
+                  "9.70",
+                  "18.56",
+                  "23.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "2.57",
+                  "4.07",
+                  "4.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.81",
+                  "11.49",
+                  "14.10"
+                ],
+                [
+                  "R&D Exp",
+                  "0.55",
+                  "0.50",
+                  "0.57"
+                ],
+                [
+                  "General & Admin Exp",
+                  "51.43",
+                  "57.60",
+                  "64.05"
+                ],
+                [
+                  "Operating Income",
+                  "-56.10",
+                  "-51.03",
+                  "-55.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-14.87",
+                  "-11.19",
+                  "-10.76"
+                ],
+                [
+                  "Net Income",
+                  "-49.27",
+                  "-120.56",
+                  "-56.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-13.05",
+                  "-26.43",
+                  "-10.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-50.02",
+                  "-10.04",
+                  "-155.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.78",
+                  "2.35",
+                  "-0.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.01",
+                  "32.81",
+                  "154.42"
+                ],
+                [
+                  "CAPEX",
+                  "-1.24",
+                  "-3.69",
+                  "-1.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "87.42",
+                  "73.84",
+                  "94.45",
+                  "102.56"
+                ],
+                [
+                  "Gross Profit",
+                  "13.36",
+                  "2.21",
+                  "3.30",
+                  "-0.08"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.28",
+                  "3.00",
+                  "3.50",
+                  "-0.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.92",
+                  "3.57",
+                  "3.39",
+                  "3.49"
+                ],
+                [
+                  "R&D Exp",
+                  "0.04",
+                  "0.17",
+                  "0.07",
+                  "0.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "12.93",
+                  "13.11",
+                  "13.42",
+                  "12.37"
+                ],
+                [
+                  "Operating Income",
+                  "-2.53",
+                  "-14.63",
+                  "-13.57",
+                  "-16.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.89",
+                  "-19.82",
+                  "-14.37",
+                  "-15.72"
+                ],
+                [
+                  "Net Income",
+                  "-5.01",
+                  "-15.33",
+                  "-16.46",
+                  "-17.30"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.73",
+                  "-20.76",
+                  "-17.42",
+                  "-16.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "41.41",
+                  "-12.57",
+                  "-18.24",
+                  "-4.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.63",
+                  "-1.31",
+                  "-0.10",
+                  "-0.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-22.57",
+                  "5.10",
+                  "25.89",
+                  "2.61"
+                ],
+                [
+                  "CAPEX",
+                  "-1.35",
+                  "-1.69",
+                  "-0.60",
+                  "-0.46"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "EMI",
+    "AI 伺服器",
+    "台電",
+    "銅箔",
+    "PET",
+    "導電膠",
+    "大亞",
+    "華新",
+    "AI 伺服器",
+    "台電",
+    "大亞",
+    "華新",
+    "AI 伺服器",
+    "台電",
+    "銅箔",
+    "PET"
+  ]
+}

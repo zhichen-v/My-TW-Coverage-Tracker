@@ -1,0 +1,590 @@
+{
+  "report_id": "Pilot_Reports/Business Equipment & Supplies/5490_同亨.md",
+  "source_path": "Pilot_Reports/Business Equipment & Supplies/5490_同亨.md",
+  "json_path": "Pilot_Reports_JSON/Business Equipment & Supplies/5490_同亨.json",
+  "ticker": "5490",
+  "company_name": "同亨",
+  "title": "# 5490 - 同亨",
+  "sector_folder": "Business Equipment & Supplies",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Business Equipment & Supplies"
+      },
+      {
+        "label": "市值:",
+        "value": "2,687 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,100 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "同亨科技 (5490，XAC Automation) 成立於 1993 年，為全球電子金融交易終端機 (EFT-POS) 之專業製造商。產品涵蓋桌上型/手持式 POS 機、戶外自助付費終端機、mPOS 行動支付設備及 PIN Pad 密碼鍵盤。同亨專注於支付安全技術，產品通過 PCI 等國際安全認證。營運模式以"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": "為主，為國際大廠提供客製化解決方案，客戶涵蓋國際收單機構如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Ingenico"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Verifone"
+            },
+            {
+              "type": "text",
+              "text": "等品牌及各國銀行。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (核心電子與安控模組)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資安晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安控系統晶片、感測讀卡模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板、金屬機殼、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電路板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (交易終端設計與代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "同亨"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — EFT-POS 終端機與 mPOS 設備"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ODM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "代工，掌握支付安全加密技術與全球認證"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (金融收單與系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Ingenico"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Verifone"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 支付終端品牌代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行與收單機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國銀行與區域性支付處理商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 獨立 SI 與軟體商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際支付品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Ingenico"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Verifone"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — POS 終端"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ODM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國銀行與區域支付處理商 — EFT-POS 採購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球獨立 SI 與軟體商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安控晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際安全晶片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印刷電路板製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬機殼與面板供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $28.85 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.87",
+                  "N/A",
+                  "1.75",
+                  "2.01",
+                  "9.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1536.69",
+                  "1371.95",
+                  "767.33"
+                ],
+                [
+                  "Gross Profit",
+                  "668.79",
+                  "471.11",
+                  "190.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.52",
+                  "34.34",
+                  "24.83"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "44.92",
+                  "49.52",
+                  "33.91"
+                ],
+                [
+                  "R&D Exp",
+                  "316.66",
+                  "282.31",
+                  "275.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "110.41",
+                  "113.46",
+                  "108.57"
+                ],
+                [
+                  "Operating Income",
+                  "196.80",
+                  "25.82",
+                  "-227.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.81",
+                  "1.88",
+                  "-29.66"
+                ],
+                [
+                  "Net Income",
+                  "157.85",
+                  "32.85",
+                  "-172.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.27",
+                  "2.39",
+                  "-22.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-189.80",
+                  "22.86",
+                  "-30.31"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "14.97",
+                  "4.22",
+                  "148.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-45.38",
+                  "-6.86",
+                  "-19.67"
+                ],
+                [
+                  "CAPEX",
+                  "-7.61",
+                  "-4.38",
+                  "-5.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "410.35",
+                  "336.97",
+                  "421.12",
+                  "375.45"
+                ],
+                [
+                  "Gross Profit",
+                  "160.10",
+                  "158.19",
+                  "193.80",
+                  "135.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.01",
+                  "46.95",
+                  "46.02",
+                  "36.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "11.40",
+                  "10.54",
+                  "12.36",
+                  "18.31"
+                ],
+                [
+                  "R&D Exp",
+                  "81.92",
+                  "83.53",
+                  "71.56",
+                  "70.24"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.09",
+                  "27.14",
+                  "31.06",
+                  "31.80"
+                ],
+                [
+                  "Operating Income",
+                  "41.68",
+                  "36.98",
+                  "78.82",
+                  "15.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.16",
+                  "10.98",
+                  "18.72",
+                  "4.01"
+                ],
+                [
+                  "Net Income",
+                  "40.67",
+                  "10.39",
+                  "69.59",
+                  "21.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.91",
+                  "3.08",
+                  "16.52",
+                  "5.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-35.94",
+                  "114.84",
+                  "-258.65",
+                  "56.09"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.33",
+                  "-0.69",
+                  "20.84",
+                  "-0.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.28",
+                  "-3.12",
+                  "-3.27",
+                  "2.73"
+                ],
+                [
+                  "CAPEX",
+                  "-1.15",
+                  "-1.24",
+                  "-1.87",
+                  "-1.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ODM",
+    "Ingenico",
+    "Verifone",
+    "PCB",
+    "ODM",
+    "Ingenico",
+    "Verifone",
+    "Ingenico",
+    "Verifone",
+    "ODM",
+    "PCB"
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3693_營邦.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3693_營邦.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3693_營邦.json",
+  "ticker": "3693",
+  "company_name": "營邦",
+  "title": "# 3693 - 營邦",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "21,882 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,826 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "營邦企業 (AIC) 為全球領先的 "
+            },
+            {
+              "type": "strong",
+              "text": "伺服器與儲存系統"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案商，已從早期的"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "機殼製造轉型為提供 "
+            },
+            {
+              "type": "strong",
+              "text": "AI 伺服器準系統 (Barebone)"
+            },
+            {
+              "type": "text",
+              "text": " 與整機櫃解決方案。\n公司以高彈性、高密度的設計能力著稱，是大型"
+            },
+            {
+              "type": "wikilink",
+              "text": "雲端服務"
+            },
+            {
+              "type": "text",
+              "text": "商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": ") 與企業用戶的重要合作夥伴。\n核心優勢與發展亮點：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "AI 伺服器領航者"
+            },
+            {
+              "type": "text",
+              "text": ": 為 "
+            },
+            {
+              "type": "strong",
+              "text": "[[AMD]]"
+            },
+            {
+              "type": "text",
+              "text": " 全球首家 MI450 系列 GPU 合作廠，提供專屬機櫃與機殼；並與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[NVIDIA]]"
+            },
+            {
+              "type": "text",
+              "text": " 在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " Storage 領域維持策略合作。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "散熱技術實力"
+            },
+            {
+              "type": "text",
+              "text": ": 具備先進的液冷 (Liquid Cooling) "
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "架構設計能力，支援 8GPU 等超高密度運算"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "，滿足 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 運算產生的極大熱管理需求。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "高效能儲存解決方案"
+            },
+            {
+              "type": "text",
+              "text": ": 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Seagate]]"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "strong",
+              "text": "[[群聯]] (Phison)"
+            },
+            {
+              "type": "text",
+              "text": " 策略聯盟，開發全快閃"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": " (All-Flash) 與高密度儲存"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "，切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 邊緣運算市場。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "獲利能力表現"
+            },
+            {
+              "type": "text",
+              "text": ": 憑藉高附加價值的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": " 業務 (營收佔比已達 77%)，維持優於同業的毛利率與獲利水準。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 處理器 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "模組、電源供應器、金屬機構件。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "營邦 (3693)"
+            },
+            {
+              "type": "text",
+              "text": " - "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "主板開發、系統熱力設計、準系統組裝、整機櫃測試。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "二、三線雲端客戶"
+            },
+            {
+              "type": "text",
+              "text": ": 北美及區域型 Tier-2 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": "。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "軟體定義儲存商"
+            },
+            {
+              "type": "text",
+              "text": ": Media Entertainment, 影像監控系統整合商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "邊緣運算"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 網絡、自動駕駛與工業 4.0 設施。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   關鍵戰略夥伴："
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AMD"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": "。\n*   北美大型雲端與儲存技術應用客戶 (營收 80% 來自美洲)。\n*   群"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯電"
+                },
+                {
+                  "type": "text",
+                  "text": "子等 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": " 儲存解決方案合力廠商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $509.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "31.25",
+                  "23.86",
+                  "2.91",
+                  "4.19",
+                  "18.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7516.29",
+                  "8537.46",
+                  "8791.95"
+                ],
+                [
+                  "Gross Profit",
+                  "2162.21",
+                  "2700.55",
+                  "2487.19"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.77",
+                  "31.63",
+                  "28.29"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "336.93",
+                  "340.87",
+                  "343.23"
+                ],
+                [
+                  "R&D Exp",
+                  "415.46",
+                  "397.78",
+                  "295.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "534.40",
+                  "674.54",
+                  "613.29"
+                ],
+                [
+                  "Operating Income",
+                  "875.42",
+                  "1287.36",
+                  "1235.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.65",
+                  "15.08",
+                  "14.05"
+                ],
+                [
+                  "Net Income",
+                  "666.18",
+                  "1086.61",
+                  "927.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.86",
+                  "12.73",
+                  "10.55"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1556.81",
+                  "757.63",
+                  "1769.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-561.89",
+                  "-303.77",
+                  "-772.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-434.63",
+                  "-97.41",
+                  "27.90"
+                ],
+                [
+                  "CAPEX",
+                  "-589.08",
+                  "-322.67",
+                  "-785.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1613.97",
+                  "1602.77",
+                  "1843.04",
+                  "2456.51"
+                ],
+                [
+                  "Gross Profit",
+                  "469.99",
+                  "421.53",
+                  "521.21",
+                  "749.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.12",
+                  "26.30",
+                  "28.28",
+                  "30.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "95.71",
+                  "75.44",
+                  "84.34",
+                  "81.44"
+                ],
+                [
+                  "R&D Exp",
+                  "124.99",
+                  "111.02",
+                  "67.04",
+                  "112.41"
+                ],
+                [
+                  "General & Admin Exp",
+                  "244.37",
+                  "99.10",
+                  "65.34",
+                  "125.59"
+                ],
+                [
+                  "Operating Income",
+                  "4.92",
+                  "135.97",
+                  "304.49",
+                  "430.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.31",
+                  "8.48",
+                  "16.52",
+                  "17.51"
+                ],
+                [
+                  "Net Income",
+                  "93.59",
+                  "197.07",
+                  "13.22",
+                  "362.30"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.80",
+                  "12.30",
+                  "0.72",
+                  "14.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "607.42",
+                  "667.04",
+                  "-52.65",
+                  "334.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-111.67",
+                  "-238.95",
+                  "-73.47",
+                  "-137.80"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-274.88",
+                  "-188.59",
+                  "14.60",
+                  "14.24"
+                ],
+                [
+                  "CAPEX",
+                  "-123.19",
+                  "-249.92",
+                  "-88.65",
+                  "-127.33"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "雲端服務",
+    "CSP",
+    "AMD",
+    "NVIDIA",
+    "AI",
+    "散熱",
+    "伺服器",
+    "AI",
+    "Seagate",
+    "群聯",
+    "記憶體",
+    "伺服器",
+    "資料中心",
+    "5G",
+    "ODM",
+    "OEM",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "記憶體",
+    "伺服器",
+    "CSP",
+    "5G",
+    "AMD",
+    "NVIDIA",
+    "Intel",
+    "聯電",
+    "AI"
+  ]
+}

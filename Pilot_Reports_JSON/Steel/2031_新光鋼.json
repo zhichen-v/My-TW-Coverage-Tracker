@@ -1,0 +1,513 @@
+{
+  "report_id": "Pilot_Reports/Steel/2031_新光鋼.md",
+  "source_path": "Pilot_Reports/Steel/2031_新光鋼.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2031_新光鋼.json",
+  "ticker": "2031",
+  "company_name": "新光鋼",
+  "title": "# 2031 - 新光鋼",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "13,119 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "22,967 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "新光鋼鐵 (2031) 為台灣主要鋼材配銷商及裁剪加工中心。約33%鋼材採購自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。另佈局"
+            },
+            {
+              "type": "wikilink",
+              "text": "離岸風電"
+            },
+            {
+              "type": "text",
+              "text": "鋼構及鋼材貿易。下游供應營建/機械/造船等產業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼捲/鋼板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 向"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CSC) (約佔 33%) 及國外鋼廠 (如俄羅斯、巴西、日本、烏克蘭等，約佔 66%) 採購熱軋、鍍鋅及不鏽鋼捲。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 橋樑、捷運、大型場館 (淡江大橋)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 離岸風電水下基礎 (與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合作)、太陽能光電支架。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築/工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼結構建築、機械設備、汽機車零件。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內各大"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及鋼構廠。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能開發商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Century Iron)、太陽能電廠開發商。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "製造業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機械、汽機車零組件廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2002)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中龍鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、進口鋼廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $40.85 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.45",
+                  "10.06",
+                  "0.78",
+                  "1.12",
+                  "19.49"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16798.09",
+                  "14592.24",
+                  "16074.89"
+                ],
+                [
+                  "Gross Profit",
+                  "1491.74",
+                  "1170.00",
+                  "1445.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.88",
+                  "8.02",
+                  "8.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "340.40",
+                  "332.77",
+                  "318.12"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "252.32",
+                  "251.89",
+                  "236.03"
+                ],
+                [
+                  "Operating Income",
+                  "899.01",
+                  "585.35",
+                  "891.59"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.35",
+                  "4.01",
+                  "5.55"
+                ],
+                [
+                  "Net Income",
+                  "1058.25",
+                  "1444.21",
+                  "1654.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.30",
+                  "9.90",
+                  "10.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2707.29",
+                  "1295.54",
+                  "349.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-137.19",
+                  "-1265.32",
+                  "-649.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2510.35",
+                  "226.92",
+                  "154.13"
+                ],
+                [
+                  "CAPEX",
+                  "-148.67",
+                  "-1225.31",
+                  "-471.25"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3333.07",
+                  "4603.77",
+                  "5040.84",
+                  "4093.17"
+                ],
+                [
+                  "Gross Profit",
+                  "414.35",
+                  "406.36",
+                  "339.20",
+                  "343.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.43",
+                  "8.83",
+                  "6.73",
+                  "8.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "93.48",
+                  "92.80",
+                  "72.03",
+                  "87.99"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "75.03",
+                  "86.52",
+                  "42.20",
+                  "53.53"
+                ],
+                [
+                  "Operating Income",
+                  "245.85",
+                  "227.04",
+                  "224.96",
+                  "202.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.38",
+                  "4.93",
+                  "4.46",
+                  "4.94"
+                ],
+                [
+                  "Net Income",
+                  "200.90",
+                  "1003.51",
+                  "-339.09",
+                  "-80.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.03",
+                  "21.80",
+                  "-6.73",
+                  "-1.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "985.79",
+                  "496.20",
+                  "-522.67",
+                  "117.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-66.88",
+                  "11.11",
+                  "-54.18",
+                  "-575.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-938.44",
+                  "-451.49",
+                  "545.88",
+                  "523.59"
+                ],
+                [
+                  "CAPEX",
+                  "-65.34",
+                  "-23.62",
+                  "-33.38",
+                  "-462.10"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中鋼",
+    "離岸風電",
+    "中鋼",
+    "世紀鋼",
+    "營造",
+    "世紀鋼",
+    "中鋼",
+    "中龍鋼鐵"
+  ]
+}

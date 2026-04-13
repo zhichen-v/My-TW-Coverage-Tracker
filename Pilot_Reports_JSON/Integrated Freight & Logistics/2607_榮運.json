@@ -1,0 +1,627 @@
+{
+  "report_id": "Pilot_Reports/Integrated Freight & Logistics/2607_榮運.md",
+  "source_path": "Pilot_Reports/Integrated Freight & Logistics/2607_榮運.md",
+  "json_path": "Pilot_Reports_JSON/Integrated Freight & Logistics/2607_榮運.json",
+  "ticker": "2607",
+  "company_name": "榮運",
+  "title": "# 2607 - 榮運",
+  "sector_folder": "Integrated Freight & Logistics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Integrated Freight & Logistics"
+      },
+      {
+        "label": "市值:",
+        "value": "27,746 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "21,673 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "長榮國際儲運股份有限公司成立於1973年，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮集團"
+            },
+            {
+              "type": "text",
+              "text": "，為台灣內陸貨櫃運輸及貨櫃集散站之領導業者。主要業務包含：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "內陸運輸："
+            },
+            {
+              "type": "text",
+              "text": " 擁有全台最大貨櫃車隊，負責進出口貨櫃之拖運；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "貨櫃場經營："
+            },
+            {
+              "type": "text",
+              "text": " 營運汐止、桃園、台中港及高雄港等貨櫃集散站；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "物流倉儲："
+            },
+            {
+              "type": "text",
+              "text": " 經營桃園大園之現代化物流園區，提供高端倉儲服務；（4）"
+            },
+            {
+              "type": "strong",
+              "text": "客運："
+            },
+            {
+              "type": "text",
+              "text": " 經營長榮巴士提供機場接駁及國道客運服務。此外，亦涉足船舶出租（租予"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮海運"
+            },
+            {
+              "type": "text",
+              "text": "）及投資業務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (車輛與燃料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃拖車車頭與板架製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "燃料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（柴油供應）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃場堆高機、門式起重機等設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (物流服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "榮運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 內陸貨櫃拖運、貨櫃集散站營運、物流倉儲服務、客運（長榮巴士）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（最大客戶，集團內拖運及船舶出租）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、其他國際船公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "進出口商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進出口貿易商之貨櫃拖運需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "倉儲租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物流園區承租企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（集團內最大客戶，貨櫃拖運及船舶租賃）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及其他國際船公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "進出口商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進出口貿易商之貨櫃內陸拖運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "倉儲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 桃園大園物流園區之承租企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "客運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機場旅客及國道客運乘客"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "燃料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（柴油）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃拖車車頭與板架供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃場門式起重機、堆高機等物流設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $52.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.53",
+                  "N/A",
+                  "1.62",
+                  "0.90",
+                  "7.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "17099.19",
+                  "21247.50",
+                  "16394.05"
+                ],
+                [
+                  "Gross Profit",
+                  "3702.01",
+                  "4282.41",
+                  "4092.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.65",
+                  "20.15",
+                  "24.96"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "798.30",
+                  "779.32",
+                  "679.73"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "845.61",
+                  "853.63",
+                  "805.33"
+                ],
+                [
+                  "Operating Income",
+                  "2058.11",
+                  "2649.46",
+                  "2607.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.04",
+                  "12.47",
+                  "15.90"
+                ],
+                [
+                  "Net Income",
+                  "2889.80",
+                  "2777.28",
+                  "2723.07"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.90",
+                  "13.07",
+                  "16.61"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3420.83",
+                  "3460.03",
+                  "4483.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "404.35",
+                  "112.23",
+                  "126.90"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-7473.80",
+                  "-979.44",
+                  "-3369.34"
+                ],
+                [
+                  "CAPEX",
+                  "-418.16",
+                  "-576.17",
+                  "-1281.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4114.02",
+                  "4153.16",
+                  "4206.62",
+                  "4625.39"
+                ],
+                [
+                  "Gross Profit",
+                  "761.77",
+                  "945.72",
+                  "966.10",
+                  "1028.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.52",
+                  "22.77",
+                  "22.97",
+                  "22.23"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "228.83",
+                  "191.28",
+                  "176.30",
+                  "201.88"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "267.86",
+                  "187.47",
+                  "192.90",
+                  "197.38"
+                ],
+                [
+                  "Operating Income",
+                  "265.07",
+                  "566.97",
+                  "596.91",
+                  "629.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.44",
+                  "13.65",
+                  "14.19",
+                  "13.60"
+                ],
+                [
+                  "Net Income",
+                  "426.28",
+                  "814.67",
+                  "728.97",
+                  "919.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.36",
+                  "19.62",
+                  "17.33",
+                  "19.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2740.28",
+                  "-1117.94",
+                  "370.47",
+                  "1428.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1018.97",
+                  "3262.27",
+                  "429.68",
+                  "-2268.64"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5508.43",
+                  "-1670.31",
+                  "-181.97",
+                  "-113.09"
+                ],
+                [
+                  "CAPEX",
+                  "-159.73",
+                  "-71.14",
+                  "-80.68",
+                  "-106.61"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "長榮集團",
+    "長榮海運",
+    "台灣中油",
+    "長榮海運",
+    "陽明海運",
+    "長榮海運",
+    "陽明海運",
+    "台灣中油"
+  ]
+}

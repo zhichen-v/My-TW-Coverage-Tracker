@@ -1,0 +1,601 @@
+{
+  "report_id": "Pilot_Reports/Solar/3686_達能.md",
+  "source_path": "Pilot_Reports/Solar/3686_達能.md",
+  "json_path": "Pilot_Reports_JSON/Solar/3686_達能.json",
+  "ticker": "3686",
+  "company_name": "達能",
+  "title": "# 3686 - [[達能]]",
+  "sector_folder": "Solar",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Solar"
+      },
+      {
+        "label": "市值:",
+        "value": "1,446 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,049 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "達能科技股份有限公司 (3686) 原為專業太陽能"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "製造商，2019年因產業供需失衡進行重大轉型。目前公司業務聚焦於綠色低碳產業佈局："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "綠能資產經營："
+            },
+            {
+              "type": "text",
+              "text": " 結束"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "生產後，轉向電廠投資與資產管理。子公司明育能源專注於再生能源設備發電與能源技術顧問服務。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "太陽能電廠維運："
+            },
+            {
+              "type": "text",
+              "text": " 持有自有電廠進行售電，穩定收取電力收入。透過"
+            },
+            {
+              "type": "wikilink",
+              "text": "FIT"
+            },
+            {
+              "type": "text",
+              "text": "躉購費率機制向"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "售電。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "[[儲能]]系統佈局："
+            },
+            {
+              "type": "text",
+              "text": " 發展"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "系統整合解決方案，切入能源調度市場。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "營運規模較小，以穩健的電廠資產收益為主要獲利來源。歷史上曾供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "晶澳"
+            },
+            {
+              "type": "text",
+              "text": " (JA Solar) 等國際太陽能電池大廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能組件："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋰電池與儲能系統設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "達能 (3686)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能電廠投資維運、能源技術顧問服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台電]]："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 躉購電力"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 需要綠電憑證之企業客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力躉購："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（FIT躉購費率機制）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠電需求："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 有ESG與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RE100"
+                    },
+                    {
+                      "type": "text",
+                      "text": "需求之企業客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歷史客戶："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 過去為"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶澳"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (JA Solar) 等國際太陽能電池大廠供應矽晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內太陽能模組製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "維運設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能電廠監控與維運設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "16.85",
+                  "2.16",
+                  "-37.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "85.82",
+                  "82.54",
+                  "40.97"
+                ],
+                [
+                  "Gross Profit",
+                  "-0.63",
+                  "-0.83",
+                  "-0.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-0.74",
+                  "-1.00",
+                  "-1.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.04",
+                  "0.04",
+                  "0.04"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "27.30",
+                  "25.04",
+                  "24.17"
+                ],
+                [
+                  "Operating Income",
+                  "-27.97",
+                  "-25.91",
+                  "-24.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-32.59",
+                  "-31.39",
+                  "-60.99"
+                ],
+                [
+                  "Net Income",
+                  "-38.07",
+                  "-4.36",
+                  "-29.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-44.36",
+                  "-5.28",
+                  "-71.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-18.35",
+                  "-8.55",
+                  "39.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "53.45",
+                  "19.56",
+                  "-71.67"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.58",
+                  "-2.22",
+                  "-2.19"
+                ],
+                [
+                  "CAPEX",
+                  "-0.03",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "23.99",
+                  "22.14",
+                  "20.86",
+                  "18.83"
+                ],
+                [
+                  "Gross Profit",
+                  "-0.09",
+                  "-0.18",
+                  "-0.17",
+                  "-0.20"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-0.36",
+                  "-0.80",
+                  "-0.83",
+                  "-1.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.01",
+                  "0.01",
+                  "0.01",
+                  "0.01"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "7.86",
+                  "8.12",
+                  "6.34",
+                  "4.97"
+                ],
+                [
+                  "Operating Income",
+                  "-7.96",
+                  "-8.31",
+                  "-6.53",
+                  "-5.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-33.18",
+                  "-37.54",
+                  "-31.29",
+                  "-27.49"
+                ],
+                [
+                  "Net Income",
+                  "-14.66",
+                  "-10.77",
+                  "-16.43",
+                  "3.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-61.11",
+                  "-48.66",
+                  "-78.75",
+                  "20.11"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-0.87",
+                  "-3.21",
+                  "-11.79",
+                  "-2.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1.90",
+                  "8.35",
+                  "5.48",
+                  "37.73"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.65",
+                  "-0.65",
+                  "-0.65",
+                  "-0.64"
+                ],
+                [
+                  "CAPEX",
+                  "-0.03",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "達能",
+    "矽晶圓",
+    "矽晶圓",
+    "FIT",
+    "台電",
+    "儲能",
+    "儲能",
+    "晶澳",
+    "台電",
+    "台電",
+    "RE100",
+    "晶澳"
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2316_楠梓電.md",
+  "source_path": "Pilot_Reports/Electronic Components/2316_楠梓電.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2316_楠梓電.json",
+  "ticker": "2316",
+  "company_name": "楠梓電",
+  "title": "# 2316 - 楠梓電",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "18,688 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "17,069 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "楠梓電子 (2316) 是台灣老牌"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " (PCB) 製造商，主要產品為硬質印刷電路板及 PCB 組裝 (PCBA)。2024 年營收組成為 PCB 占 66.5%、PCBA 占 33.2%。產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "通訊設備"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業控制"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費電子"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CCL 供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 製程化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "硬板/PCBA:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "楠梓電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (硬質 PCB 及 PCB 組裝服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控設備客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 消費性電子 OEM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業控制設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 消費性電子 OEM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "敬鵬"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燿華"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $103.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "8.28",
+                  "N/A",
+                  "5.28",
+                  "1.60",
+                  "-100.87"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3332.05",
+                  "3515.94",
+                  "5132.72"
+                ],
+                [
+                  "Gross Profit",
+                  "-158.52",
+                  "-274.90",
+                  "181.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-4.76",
+                  "-7.82",
+                  "3.53"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "95.34",
+                  "96.73",
+                  "137.80"
+                ],
+                [
+                  "R&D Exp",
+                  "50.97",
+                  "42.64",
+                  "46.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "242.75",
+                  "245.29",
+                  "243.54"
+                ],
+                [
+                  "Operating Income",
+                  "-547.58",
+                  "-659.56",
+                  "-247.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-16.43",
+                  "-18.76",
+                  "-4.81"
+                ],
+                [
+                  "Net Income",
+                  "777.27",
+                  "835.61",
+                  "510.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "23.33",
+                  "23.77",
+                  "9.95"
+                ],
+                [
+                  "Op Cash Flow",
+                  "142.55",
+                  "70.43",
+                  "840.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-387.29",
+                  "835.94",
+                  "-125.62"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-625.49",
+                  "335.20",
+                  "-827.49"
+                ],
+                [
+                  "CAPEX",
+                  "-296.43",
+                  "-284.41",
+                  "-682.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "973.97",
+                  "774.48",
+                  "870.99",
+                  "922.66"
+                ],
+                [
+                  "Gross Profit",
+                  "-3.06",
+                  "-64.15",
+                  "-14.35",
+                  "-42.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-0.31",
+                  "-8.28",
+                  "-1.65",
+                  "-4.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "33.69",
+                  "23.18",
+                  "26.95",
+                  "27.75"
+                ],
+                [
+                  "R&D Exp",
+                  "17.32",
+                  "15.36",
+                  "13.72",
+                  "13.67"
+                ],
+                [
+                  "General & Admin Exp",
+                  "79.06",
+                  "59.56",
+                  "61.14",
+                  "55.84"
+                ],
+                [
+                  "Operating Income",
+                  "-133.13",
+                  "-162.24",
+                  "-116.16",
+                  "-140.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-13.67",
+                  "-20.95",
+                  "-13.34",
+                  "-15.18"
+                ],
+                [
+                  "Net Income",
+                  "941.78",
+                  "752.96",
+                  "265.76",
+                  "233.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "96.69",
+                  "97.22",
+                  "30.51",
+                  "25.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-100.62",
+                  "234.89",
+                  "80.02",
+                  "-172.38"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-960.90",
+                  "806.93",
+                  "-342.07",
+                  "354.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-162.78",
+                  "133.09",
+                  "40.67",
+                  "30.40"
+                ],
+                [
+                  "CAPEX",
+                  "-176.94",
+                  "-149.74",
+                  "-168.67",
+                  "-107.98"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "PCB",
+    "通訊設備",
+    "工業控制",
+    "車用電子",
+    "消費電子",
+    "銅箔",
+    "銅箔",
+    "華通",
+    "敬鵬",
+    "燿華"
+  ]
+}

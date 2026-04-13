@@ -1,0 +1,532 @@
+{
+  "report_id": "Pilot_Reports/Steel/2006_東和鋼鐵.md",
+  "source_path": "Pilot_Reports/Steel/2006_東和鋼鐵.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2006_東和鋼鐵.json",
+  "ticker": "2006",
+  "company_name": "東和鋼鐵",
+  "title": "# 2006 - 東和鋼鐵",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "51,845 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "58,357 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東和鋼鐵 (2006，Tung Ho) 為台灣最大"
+            },
+            {
+              "type": "wikilink",
+              "text": "電爐"
+            },
+            {
+              "type": "text",
+              "text": "鋼廠之一。產品含"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼筋"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "H型鋼"
+            },
+            {
+              "type": "text",
+              "text": " (台灣市占九成)。鋼筋訂單逾百萬噸。上游約50%國內+50%進口廢鋼。下游含"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼構"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮鋼"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "廠房。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 國內外廢鋼\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "[[東鋼]]"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電爐"
+            },
+            {
+              "type": "text",
+              "text": "→"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼筋"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "H型鋼"
+            },
+            {
+              "type": "text",
+              "text": "; 鋼構)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 營建業、"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼構"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮鋼"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "廠房"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建業 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鋼筋"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "H型鋼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼構"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮鋼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠房"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "國內外廢鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $71.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.02",
+                  "11.69",
+                  "0.90",
+                  "1.51",
+                  "7.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "57855.43",
+                  "60163.00",
+                  "60961.91"
+                ],
+                [
+                  "Gross Profit",
+                  "8576.99",
+                  "8390.57",
+                  "8646.19"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.82",
+                  "13.95",
+                  "14.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1141.80",
+                  "1131.85",
+                  "1126.41"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1551.34",
+                  "1545.06",
+                  "1530.61"
+                ],
+                [
+                  "Operating Income",
+                  "5883.85",
+                  "5713.67",
+                  "5989.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.17",
+                  "9.50",
+                  "9.82"
+                ],
+                [
+                  "Net Income",
+                  "4720.93",
+                  "4479.84",
+                  "4729.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.16",
+                  "7.45",
+                  "7.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8642.14",
+                  "7379.75",
+                  "4621.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1413.44",
+                  "-946.91",
+                  "-658.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-7325.49",
+                  "-6757.39",
+                  "-4415.53"
+                ],
+                [
+                  "CAPEX",
+                  "-1199.38",
+                  "-1052.81",
+                  "-683.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "13831.88",
+                  "15674.70",
+                  "14500.03",
+                  "15012.39"
+                ],
+                [
+                  "Gross Profit",
+                  "2204.33",
+                  "2467.30",
+                  "1963.80",
+                  "2133.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.94",
+                  "15.74",
+                  "13.54",
+                  "14.21"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "254.00",
+                  "316.97",
+                  "294.82",
+                  "294.13"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "426.27",
+                  "358.00",
+                  "342.83",
+                  "429.80"
+                ],
+                [
+                  "Operating Income",
+                  "1524.06",
+                  "1792.33",
+                  "1326.14",
+                  "1409.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.02",
+                  "11.43",
+                  "9.15",
+                  "9.39"
+                ],
+                [
+                  "Net Income",
+                  "1397.93",
+                  "1104.42",
+                  "1092.84",
+                  "1143.98"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.11",
+                  "7.05",
+                  "7.54",
+                  "7.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2312.60",
+                  "516.57",
+                  "2443.99",
+                  "1608.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-483.41",
+                  "-345.48",
+                  "-207.44",
+                  "-197.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1820.30",
+                  "-594.85",
+                  "-1641.06",
+                  "-2142.10"
+                ],
+                [
+                  "CAPEX",
+                  "-422.87",
+                  "-310.20",
+                  "-188.73",
+                  "-122.39"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電爐",
+    "鋼筋",
+    "H型鋼",
+    "中鋼構",
+    "長榮鋼",
+    "台積電",
+    "東鋼",
+    "電爐",
+    "鋼筋",
+    "H型鋼",
+    "中鋼構",
+    "長榮鋼",
+    "台積電",
+    "鋼筋",
+    "H型鋼",
+    "中鋼構",
+    "長榮鋼",
+    "台積電"
+  ]
+}

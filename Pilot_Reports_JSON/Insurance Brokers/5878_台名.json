@@ -1,0 +1,871 @@
+{
+  "report_id": "Pilot_Reports/Insurance Brokers/5878_台名.md",
+  "source_path": "Pilot_Reports/Insurance Brokers/5878_台名.md",
+  "json_path": "Pilot_Reports_JSON/Insurance Brokers/5878_台名.json",
+  "ticker": "5878",
+  "company_name": "台名",
+  "title": "# 5878_台名",
+  "sector_folder": "Insurance Brokers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Insurance Brokers"
+      },
+      {
+        "label": "市值:",
+        "value": "1,038 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "797 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台名保險經紀人 (5878) 成立於 2002 年，為國內保險經紀業界第三大業者。公司主要經紀銷售人身保險與財產保險商品，目前與 33 家保險公司簽約合作。營收結構以壽險經紀佣金 (約 48%) 為最大宗，續年經紀收入 (約 27%) 次之，獎金及手續費收入 (約 15%) 與產險經紀及其他 (約 10%) 為輔。合作壽險公司涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "富邦人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "國泰人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "南山人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "新光人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "全球人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "友邦人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "安聯人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "元大人壽"
+            },
+            {
+              "type": "text",
+              "text": "等；合作產險公司包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "富邦產險"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "國泰世紀產險"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "新安東京海上產險"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "明台產險"
+            },
+            {
+              "type": "text",
+              "text": "等。全省設有 11 個營業據點，服務逾五萬名保戶、超過七萬張保單。主要競爭對手為"
+            },
+            {
+              "type": "wikilink",
+              "text": "永達保經"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "錠嵂保經"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (保險商品供給)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南山人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全球人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "安聯人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大人壽"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "產險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰世紀產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新安東京海上產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "明台產險"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台名保經"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (人身保險與財產保險經紀服務，代銷 33 家保險商品)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端保戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壽險、健康險、投資型保單、意外險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 團體保險、企業財產險"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全省逾五萬名個人保戶，保單數超過七萬張"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 團體保險及企業財產險規劃之法人客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南山人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全球人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "安聯人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大人壽"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "產險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰世紀產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新安東京海上產險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "明台產險"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要競爭者",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "永達保經"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "錠嵂保經"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $41.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.51",
+                  "N/A",
+                  "1.18",
+                  "1.95",
+                  "13.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "882.59",
+                  "846.95",
+                  "784.35"
+                ],
+                [
+                  "Gross Profit",
+                  "159.46",
+                  "140.71",
+                  "145.59"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.07",
+                  "16.61",
+                  "18.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.16",
+                  "6.82",
+                  "7.71"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "94.79",
+                  "88.81",
+                  "84.14"
+                ],
+                [
+                  "Operating Income",
+                  "56.51",
+                  "45.08",
+                  "53.75"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.40",
+                  "5.32",
+                  "6.85"
+                ],
+                [
+                  "Net Income",
+                  "71.66",
+                  "55.45",
+                  "55.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.12",
+                  "6.55",
+                  "7.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "82.25",
+                  "71.73",
+                  "63.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-24.59",
+                  "27.66",
+                  "-27.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-80.58",
+                  "-85.52",
+                  "-89.12"
+                ],
+                [
+                  "CAPEX",
+                  "-3.19",
+                  "-4.11",
+                  "-1.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "240.57",
+                  "201.14",
+                  "221.07",
+                  "219.81"
+                ],
+                [
+                  "Gross Profit",
+                  "46.83",
+                  "33.50",
+                  "45.19",
+                  "33.94"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.47",
+                  "16.65",
+                  "20.44",
+                  "15.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.14",
+                  "1.45",
+                  "1.72",
+                  "2.85"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "23.46",
+                  "23.36",
+                  "25.67",
+                  "22.30"
+                ],
+                [
+                  "Operating Income",
+                  "21.23",
+                  "8.68",
+                  "17.80",
+                  "8.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.83",
+                  "4.32",
+                  "8.05",
+                  "4.00"
+                ],
+                [
+                  "Net Income",
+                  "18.75",
+                  "11.51",
+                  "32.85",
+                  "8.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.79",
+                  "5.72",
+                  "14.86",
+                  "3.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "34.88",
+                  "5.58",
+                  "12.24",
+                  "29.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-44.72",
+                  "3.63",
+                  "17.08",
+                  "-0.58"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.83",
+                  "-5.85",
+                  "-63.20",
+                  "-5.70"
+                ],
+                [
+                  "CAPEX",
+                  "-0.74",
+                  "-1.84",
+                  "-0.29",
+                  "-0.33"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "富邦人壽",
+    "國泰人壽",
+    "南山人壽",
+    "新光人壽",
+    "台灣人壽",
+    "遠雄人壽",
+    "全球人壽",
+    "友邦人壽",
+    "安聯人壽",
+    "元大人壽",
+    "富邦產險",
+    "國泰世紀產險",
+    "新安東京海上產險",
+    "明台產險",
+    "永達保經",
+    "錠嵂保經",
+    "富邦人壽",
+    "國泰人壽",
+    "南山人壽",
+    "新光人壽",
+    "台灣人壽",
+    "遠雄人壽",
+    "全球人壽",
+    "友邦人壽",
+    "安聯人壽",
+    "元大人壽",
+    "富邦產險",
+    "國泰世紀產險",
+    "新安東京海上產險",
+    "明台產險",
+    "富邦人壽",
+    "國泰人壽",
+    "南山人壽",
+    "新光人壽",
+    "台灣人壽",
+    "遠雄人壽",
+    "全球人壽",
+    "友邦人壽",
+    "安聯人壽",
+    "元大人壽",
+    "富邦產險",
+    "國泰世紀產險",
+    "新安東京海上產險",
+    "明台產險",
+    "永達保經",
+    "錠嵂保經"
+  ]
+}

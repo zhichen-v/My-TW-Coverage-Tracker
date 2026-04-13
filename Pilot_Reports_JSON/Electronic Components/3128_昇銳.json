@@ -1,0 +1,550 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3128_昇銳.md",
+  "source_path": "Pilot_Reports/Electronic Components/3128_昇銳.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3128_昇銳.json",
+  "ticker": "3128",
+  "company_name": "昇銳",
+  "title": "# 3128 - 昇銳",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,202 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,867 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "昇銳智慧科技 (Hi Sharp) 是台灣資深的 "
+            },
+            {
+              "type": "strong",
+              "text": "安全監控 (Surveillance)"
+            },
+            {
+              "type": "text",
+              "text": " 系統製造商。\n公司已成功從類比攝影機轉型為 "
+            },
+            {
+              "type": "strong",
+              "text": "AI 智慧監控"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "網路攝影機 (IP Cam)"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案供應商。\n核心競爭力與佈局：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "安控去中化商機"
+            },
+            {
+              "type": "text",
+              "text": ": 受益於美國 "
+            },
+            {
+              "type": "strong",
+              "text": "[[NDAA]] (國防授權法)"
+            },
+            {
+              "type": "text",
+              "text": "，成為歐美客戶在 \"非紅供應鏈\" 中的首選合作夥伴。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "車載監控系統"
+            },
+            {
+              "type": "text",
+              "text": ": 開發 "
+            },
+            {
+              "type": "strong",
+              "text": "倒車顯影"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "盲區偵測系統"
+            },
+            {
+              "type": "text",
+              "text": "，成功打入日本重工機械與北美物流車隊。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "AI 與邊緣運算"
+            },
+            {
+              "type": "text",
+              "text": ": 整合人臉識別、車牌辨識於 NVR 與智慧終端。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "終端產品製造 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "昇銳 (3128)"
+            },
+            {
+              "type": "text",
+              "text": " - 安控攝影機、車用監控模組。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "SoC 晶片"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "3034_聯詠|聯詠"
+            },
+            {
+              "type": "text",
+              "text": ", 原相.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "感光元件"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Sony"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "OmniVision"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游應用"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "公共工程"
+            },
+            {
+              "type": "text",
+              "text": ": 機場、智慧城市標案。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "特種車輛"
+            },
+            {
+              "type": "text",
+              "text": ": 貨車、垃圾車、巴士之環景系統。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   歐美與日本安控設備 ODM 客戶如 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Honeywell"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Axis Communications"
+                },
+                {
+                  "type": "text",
+                  "text": "。\n*   北美大型商用車隊設備商如 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Fleet Complete"
+                },
+                {
+                  "type": "text",
+                  "text": "。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "安控晶片"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "3034_聯詠|聯詠"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.40 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.60",
+                  "N/A",
+                  "1.04",
+                  "1.58",
+                  "16.48"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1099.34",
+                  "974.47",
+                  "1071.71"
+                ],
+                [
+                  "Gross Profit",
+                  "348.42",
+                  "282.26",
+                  "323.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.69",
+                  "28.97",
+                  "30.16"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "118.33",
+                  "97.74",
+                  "103.56"
+                ],
+                [
+                  "R&D Exp",
+                  "80.66",
+                  "70.83",
+                  "74.08"
+                ],
+                [
+                  "General & Admin Exp",
+                  "64.17",
+                  "59.35",
+                  "58.66"
+                ],
+                [
+                  "Operating Income",
+                  "85.26",
+                  "54.34",
+                  "86.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.76",
+                  "5.58",
+                  "8.11"
+                ],
+                [
+                  "Net Income",
+                  "70.17",
+                  "37.09",
+                  "73.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.38",
+                  "3.81",
+                  "6.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "120.38",
+                  "22.33",
+                  "148.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-279.12",
+                  "-25.96",
+                  "-139.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "166.96",
+                  "8.27",
+                  "9.12"
+                ],
+                [
+                  "CAPEX",
+                  "-277.68",
+                  "-20.32",
+                  "-125.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "263.03",
+                  "266.30",
+                  "295.31",
+                  "327.80"
+                ],
+                [
+                  "Gross Profit",
+                  "80.37",
+                  "83.78",
+                  "102.86",
+                  "113.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.56",
+                  "31.46",
+                  "34.83",
+                  "34.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "25.50",
+                  "24.89",
+                  "27.89",
+                  "33.43"
+                ],
+                [
+                  "R&D Exp",
+                  "23.75",
+                  "26.11",
+                  "24.14",
+                  "22.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "17.26",
+                  "17.09",
+                  "18.99",
+                  "16.55"
+                ],
+                [
+                  "Operating Income",
+                  "13.85",
+                  "15.69",
+                  "31.84",
+                  "40.74"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.27",
+                  "5.89",
+                  "10.78",
+                  "12.43"
+                ],
+                [
+                  "Net Income",
+                  "16.75",
+                  "-4.80",
+                  "24.92",
+                  "33.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.37",
+                  "-1.80",
+                  "8.44",
+                  "10.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8.80",
+                  "19.74",
+                  "-18.29",
+                  "48.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-84.44",
+                  "-58.89",
+                  "-70.90",
+                  "-101.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-157.32",
+                  "423.11",
+                  "81.62",
+                  "81.18"
+                ],
+                [
+                  "CAPEX",
+                  "-84.44",
+                  "-61.81",
+                  "-69.62",
+                  "-103.47"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NDAA",
+    "3034_聯詠|聯詠",
+    "Sony",
+    "OmniVision",
+    "Honeywell",
+    "Axis Communications",
+    "Fleet Complete",
+    "3034_聯詠|聯詠"
+  ]
+}

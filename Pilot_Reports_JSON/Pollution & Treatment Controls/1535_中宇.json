@@ -1,0 +1,729 @@
+{
+  "report_id": "Pilot_Reports/Pollution & Treatment Controls/1535_中宇.md",
+  "source_path": "Pilot_Reports/Pollution & Treatment Controls/1535_中宇.md",
+  "json_path": "Pilot_Reports_JSON/Pollution & Treatment Controls/1535_中宇.json",
+  "ticker": "1535",
+  "company_name": "中宇",
+  "title": "# 1535 - 中宇",
+  "sector_folder": "Pollution & Treatment Controls",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Pollution & Treatment Controls"
+      },
+      {
+        "label": "市值:",
+        "value": "6,596 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,262 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中宇環保工程股份有限公司成立於1993年，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下環保工程公司，總部位於高雄。公司具備統包工程（EPC）能力，主要業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "環保工程："
+            },
+            {
+              "type": "text",
+              "text": " 水處理（"
+            },
+            {
+              "type": "wikilink",
+              "text": "超純水"
+            },
+            {
+              "type": "text",
+              "text": "、廢水處理/回收）、空污防治（集塵、"
+            },
+            {
+              "type": "wikilink",
+              "text": "脫硫脫硝"
+            },
+            {
+              "type": "text",
+              "text": "）；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "機電工程："
+            },
+            {
+              "type": "text",
+              "text": " 汽電共生工程；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "生技製藥廠房："
+            },
+            {
+              "type": "text",
+              "text": " 無塵室機電建置。並提供後續操作維護（O&M）服務。主要客戶以母集團"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "中龍鋼鐵"
+            },
+            {
+              "type": "text",
+              "text": "為核心，亦服務"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "等半導體廠及公部門。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環保設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集塵器、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "脫硫脫硝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備、水處理膜與藥劑"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼構、管材、電機設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程分包:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 土建與配管分包商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (EPC統包與O&M)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中宇環保"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 環保工程（水處理、空污防治）、機電工程、汽電共生工程之EPC統包與操作維護"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼鐵集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（母公司，營收佔比最高）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中龍鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼住金越南"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CSVC）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體/科技:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（水處理與回收）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台水"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（淨水場工程）、各縣市環保局（焚化爐代操）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼鐵集團（母公司）:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CSC）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中龍鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼住金越南"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CSVC）— 營收佔比最高"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體/科技:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（水處理與回收工程）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台水"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（淨水場工程）、各縣市環保局（焚化爐代操維護）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環保設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外集塵、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "脫硫脫硝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及水處理設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼構、管材、電機設備供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程分包:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 土建及配管施工分包商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $53.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.36",
+                  "N/A",
+                  "0.58",
+                  "1.73",
+                  "8.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11366.06",
+                  "10858.81",
+                  "9759.33"
+                ],
+                [
+                  "Gross Profit",
+                  "1069.55",
+                  "1007.16",
+                  "972.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.41",
+                  "9.28",
+                  "9.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "67.98",
+                  "44.54",
+                  "37.47"
+                ],
+                [
+                  "R&D Exp",
+                  "9.45",
+                  "8.22",
+                  "12.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "526.08",
+                  "478.81",
+                  "458.51"
+                ],
+                [
+                  "Operating Income",
+                  "466.04",
+                  "475.59",
+                  "464.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.10",
+                  "4.38",
+                  "4.76"
+                ],
+                [
+                  "Net Income",
+                  "495.28",
+                  "501.89",
+                  "556.89"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.36",
+                  "4.62",
+                  "5.71"
+                ],
+                [
+                  "Op Cash Flow",
+                  "962.05",
+                  "1141.63",
+                  "-422.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-108.02",
+                  "-24.97",
+                  "163.90"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-473.87",
+                  "-484.81",
+                  "-319.77"
+                ],
+                [
+                  "CAPEX",
+                  "-66.15",
+                  "-176.72",
+                  "-201.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2687.20",
+                  "3069.65",
+                  "2469.80",
+                  "3043.81"
+                ],
+                [
+                  "Gross Profit",
+                  "327.21",
+                  "252.35",
+                  "248.34",
+                  "322.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.18",
+                  "8.22",
+                  "10.06",
+                  "10.59"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17.25",
+                  "16.35",
+                  "15.54",
+                  "13.29"
+                ],
+                [
+                  "R&D Exp",
+                  "2.38",
+                  "2.40",
+                  "2.89",
+                  "1.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "148.74",
+                  "120.97",
+                  "129.28",
+                  "124.13"
+                ],
+                [
+                  "Operating Income",
+                  "158.83",
+                  "112.63",
+                  "100.63",
+                  "183.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.91",
+                  "3.67",
+                  "4.07",
+                  "6.02"
+                ],
+                [
+                  "Net Income",
+                  "150.25",
+                  "122.30",
+                  "109.26",
+                  "147.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.59",
+                  "3.98",
+                  "4.42",
+                  "4.86"
+                ],
+                [
+                  "Op Cash Flow",
+                  "651.14",
+                  "514.92",
+                  "-327.70",
+                  "363.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-21.69",
+                  "109.44",
+                  "-21.57",
+                  "-70.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.28",
+                  "-11.33",
+                  "-64.42",
+                  "41.65"
+                ],
+                [
+                  "CAPEX",
+                  "-8.67",
+                  "-27.05",
+                  "-19.95",
+                  "-37.81"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中鋼",
+    "超純水",
+    "脫硫脫硝",
+    "中鋼",
+    "中龍鋼鐵",
+    "台積電",
+    "脫硫脫硝",
+    "中鋼",
+    "中龍鋼鐵",
+    "中鋼住金越南",
+    "台積電",
+    "友達",
+    "群創",
+    "台水",
+    "中鋼",
+    "中龍鋼鐵",
+    "中鋼住金越南",
+    "台積電",
+    "友達",
+    "群創",
+    "台水",
+    "脫硫脫硝"
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5230_雷笛克光學.md",
+  "source_path": "Pilot_Reports/Electronic Components/5230_雷笛克光學.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5230_雷笛克光學.json",
+  "ticker": "5230",
+  "company_name": "雷笛克光學",
+  "title": "# 5230 - 雷笛克光學",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "931 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,181 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "雷笛克光學 (Ledlink) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "LED 二次光學透鏡"
+            },
+            {
+              "type": "text",
+              "text": " 領導廠商，專注於光學設計與精密模具。\n產品與業務重點：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "二次光學透鏡"
+            },
+            {
+              "type": "text",
+              "text": ": 用於改變 LED 光源之角度、光形與強度。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "車用光學"
+            },
+            {
+              "type": "text",
+              "text": ": 矩陣式頭燈、日行燈、霧燈透鏡 (營收成長主力)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "特殊照明"
+            },
+            {
+              "type": "text",
+              "text": ": 舞台燈、建築照明、植物照明。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "精密塑膠件"
+            },
+            {
+              "type": "text",
+              "text": ": 子公司 "
+            },
+            {
+              "type": "strong",
+              "text": "群宏光電"
+            },
+            {
+              "type": "text",
+              "text": " 切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "模組機構件。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "雷笛克 (5230)"
+            },
+            {
+              "type": "text",
+              "text": " - 光學模擬, 模具設計, 塑膠射出.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "原料"
+            },
+            {
+              "type": "text",
+              "text": ": 光學級塑膠粒子 (PMMA, PC).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車燈廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Koito"
+            },
+            {
+              "type": "text",
+              "text": " (小系 - 全球龍頭), 華域視覺 (中國龍頭).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "LED 照明廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Cree"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Osram"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Philips"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "模組廠 (間接供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": ")."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Koito"
+                },
+                {
+                  "type": "text",
+                  "text": ", 華域視覺.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "照明"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際 LED 大廠.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "新應用"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "客戶 (群宏光電業務)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "原料"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際化工大廠."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "11.64",
+                  "0.71",
+                  "0.73",
+                  "8.68"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1317.92",
+                  "1544.29",
+                  "1267.92"
+                ],
+                [
+                  "Gross Profit",
+                  "307.98",
+                  "451.23",
+                  "386.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.37",
+                  "29.22",
+                  "30.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "145.50",
+                  "162.98",
+                  "137.00"
+                ],
+                [
+                  "R&D Exp",
+                  "98.44",
+                  "95.06",
+                  "95.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "139.21",
+                  "163.36",
+                  "150.45"
+                ],
+                [
+                  "Operating Income",
+                  "-75.18",
+                  "29.83",
+                  "3.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.70",
+                  "1.93",
+                  "0.28"
+                ],
+                [
+                  "Net Income",
+                  "-76.11",
+                  "32.73",
+                  "3.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.78",
+                  "2.12",
+                  "0.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "216.85",
+                  "200.06",
+                  "124.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-152.76",
+                  "-110.11",
+                  "-184.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-46.79",
+                  "-52.72",
+                  "93.98"
+                ],
+                [
+                  "CAPEX",
+                  "-150.64",
+                  "-147.72",
+                  "-149.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "352.84",
+                  "335.53",
+                  "328.08",
+                  "301.48"
+                ],
+                [
+                  "Gross Profit",
+                  "90.64",
+                  "82.54",
+                  "69.14",
+                  "65.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.69",
+                  "24.60",
+                  "21.07",
+                  "21.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "37.75",
+                  "36.45",
+                  "33.82",
+                  "37.47"
+                ],
+                [
+                  "R&D Exp",
+                  "25.57",
+                  "23.64",
+                  "24.31",
+                  "24.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "36.56",
+                  "36.23",
+                  "35.49",
+                  "30.93"
+                ],
+                [
+                  "Operating Income",
+                  "-9.24",
+                  "-13.78",
+                  "-24.49",
+                  "-27.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.62",
+                  "-4.11",
+                  "-7.46",
+                  "-9.18"
+                ],
+                [
+                  "Net Income",
+                  "-3.65",
+                  "-7.70",
+                  "-36.76",
+                  "-28.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.03",
+                  "-2.30",
+                  "-11.20",
+                  "-9.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "73.55",
+                  "55.42",
+                  "0.47",
+                  "87.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.08",
+                  "-58.76",
+                  "23.03",
+                  "-84.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.90",
+                  "-31.22",
+                  "-15.89",
+                  "2.22"
+                ],
+                [
+                  "CAPEX",
+                  "-86.92",
+                  "-36.59",
+                  "-7.45",
+                  "-19.68"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AI",
+    "伺服器",
+    "散熱",
+    "Koito",
+    "Cree",
+    "Osram",
+    "Philips",
+    "AI 伺服器",
+    "散熱",
+    "NVIDIA",
+    "Koito",
+    "AI",
+    "伺服器"
+  ]
+}

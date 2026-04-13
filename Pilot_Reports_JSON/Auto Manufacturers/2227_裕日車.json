@@ -1,0 +1,745 @@
+{
+  "report_id": "Pilot_Reports/Auto Manufacturers/2227_裕日車.md",
+  "source_path": "Pilot_Reports/Auto Manufacturers/2227_裕日車.md",
+  "json_path": "Pilot_Reports_JSON/Auto Manufacturers/2227_裕日車.json",
+  "ticker": "2227",
+  "company_name": "裕日車",
+  "title": "# 2227 - 裕日車",
+  "sector_folder": "Auto Manufacturers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Manufacturers"
+      },
+      {
+        "label": "市值:",
+        "value": "15,180 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,318 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "裕隆日產汽車 (2227，Yulon "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nissan"
+            },
+            {
+              "type": "text",
+              "text": " Motor) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "裕隆汽車"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "日產汽車"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Nissan"
+            },
+            {
+              "type": "text",
+              "text": "，持股約 40%) 之合資企業，獨家負責 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nissan"
+            },
+            {
+              "type": "text",
+              "text": " 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "Infiniti"
+            },
+            {
+              "type": "text",
+              "text": "品牌在台灣之行銷與經銷。整車製造委由母公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "裕隆汽車"
+            },
+            {
+              "type": "text",
+              "text": "苗栗三義廠組裝。業外收益中，中國"
+            },
+            {
+              "type": "wikilink",
+              "text": "東風日產"
+            },
+            {
+              "type": "text",
+              "text": "持股權益為重要獲利來源。主力車款涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "KICKS"
+            },
+            {
+              "type": "text",
+              "text": " e-POWER、"
+            },
+            {
+              "type": "wikilink",
+              "text": "X-TRAIL"
+            },
+            {
+              "type": "text",
+              "text": " e-POWER、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ARIYA"
+            },
+            {
+              "type": "text",
+              "text": " 純電跑旅及新導入之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nissan SAKURA"
+            },
+            {
+              "type": "text",
+              "text": " 純電輕自動車。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日產汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nissan"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Infiniti"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 技術授權與進口車供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "在台製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "裕隆汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 整車組裝代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (行銷代理)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "裕日車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nissan"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Infiniti"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌行銷、車型導入、經銷通路管理、零配件外銷)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KICKS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "X-TRAIL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ARIYA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nissan SAKURA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東風日產"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 業外權益法收益"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KICKS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " e-POWER、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "X-TRAIL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " e-POWER、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ARIYA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業車隊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nissan"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用與乘用車隊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東風日產"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 業外權益法收益"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日產汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 技術授權、進口車與零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "在台製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "裕隆汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 整車組裝代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $50.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.33",
+                  "2.54",
+                  "1.00",
+                  "0.84",
+                  "-23.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "15132.07",
+                  "23132.02",
+                  "26136.20"
+                ],
+                [
+                  "Gross Profit",
+                  "1432.97",
+                  "2658.11",
+                  "3055.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.47",
+                  "11.49",
+                  "11.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1353.72",
+                  "1832.33",
+                  "1856.70"
+                ],
+                [
+                  "R&D Exp",
+                  "286.25",
+                  "351.55",
+                  "555.67"
+                ],
+                [
+                  "General & Admin Exp",
+                  "405.35",
+                  "412.69",
+                  "521.67"
+                ],
+                [
+                  "Operating Income",
+                  "-612.32",
+                  "61.27",
+                  "118.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.05",
+                  "0.26",
+                  "0.45"
+                ],
+                [
+                  "Net Income",
+                  "389.93",
+                  "1670.34",
+                  "1161.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.58",
+                  "7.22",
+                  "4.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "169.08",
+                  "-533.66",
+                  "1157.13"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "420.22",
+                  "118.30",
+                  "6047.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1216.23",
+                  "-1092.59",
+                  "-2220.49"
+                ],
+                [
+                  "CAPEX",
+                  "-52.64",
+                  "-38.12",
+                  "-42.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3398.65",
+                  "3510.34",
+                  "3670.77",
+                  "4552.30"
+                ],
+                [
+                  "Gross Profit",
+                  "339.10",
+                  "307.76",
+                  "304.26",
+                  "481.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.98",
+                  "8.77",
+                  "8.29",
+                  "10.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "325.75",
+                  "288.16",
+                  "356.83",
+                  "382.98"
+                ],
+                [
+                  "R&D Exp",
+                  "75.41",
+                  "87.82",
+                  "61.32",
+                  "61.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "98.90",
+                  "105.07",
+                  "97.86",
+                  "103.53"
+                ],
+                [
+                  "Operating Income",
+                  "-160.93",
+                  "-173.29",
+                  "-211.75",
+                  "-66.34"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.74",
+                  "-4.94",
+                  "-5.77",
+                  "-1.46"
+                ],
+                [
+                  "Net Income",
+                  "462.24",
+                  "247.25",
+                  "-163.51",
+                  "-156.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.60",
+                  "7.04",
+                  "-4.45",
+                  "-3.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-428.40",
+                  "1017.51",
+                  "-24.00",
+                  "-396.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "38.09",
+                  "206.64",
+                  "40.18",
+                  "135.30"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.69",
+                  "-1181.18",
+                  "-11.72",
+                  "-11.65"
+                ],
+                [
+                  "CAPEX",
+                  "-15.05",
+                  "-21.54",
+                  "-5.81",
+                  "-10.23"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Nissan",
+    "裕隆汽車",
+    "日產汽車",
+    "Nissan",
+    "Nissan",
+    "Infiniti",
+    "裕隆汽車",
+    "東風日產",
+    "KICKS",
+    "X-TRAIL",
+    "ARIYA",
+    "Nissan SAKURA",
+    "日產汽車",
+    "Nissan",
+    "Infiniti",
+    "裕隆汽車",
+    "Nissan",
+    "Infiniti",
+    "KICKS",
+    "X-TRAIL",
+    "ARIYA",
+    "Nissan SAKURA",
+    "東風日產",
+    "KICKS",
+    "X-TRAIL",
+    "ARIYA",
+    "Nissan",
+    "東風日產",
+    "日產汽車",
+    "裕隆汽車"
+  ]
+}

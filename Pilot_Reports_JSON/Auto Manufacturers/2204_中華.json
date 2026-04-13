@@ -1,0 +1,787 @@
+{
+  "report_id": "Pilot_Reports/Auto Manufacturers/2204_中華.md",
+  "source_path": "Pilot_Reports/Auto Manufacturers/2204_中華.md",
+  "json_path": "Pilot_Reports_JSON/Auto Manufacturers/2204_中華.json",
+  "ticker": "2204",
+  "company_name": "中華",
+  "title": "# 2204 - 中華",
+  "sector_folder": "Auto Manufacturers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Manufacturers"
+      },
+      {
+        "label": "市值:",
+        "value": "30,338 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "34,998 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "中華汽車"
+            },
+            {
+              "type": "text",
+              "text": " (2204，China Motor Corporation) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "裕隆集團"
+            },
+            {
+              "type": "text",
+              "text": "核心製造企業，台灣輕型商用車龍頭。主要合作夥伴包含"
+            },
+            {
+              "type": "wikilink",
+              "text": "三菱汽車"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Mitsubishi"
+            },
+            {
+              "type": "text",
+              "text": " Motors) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "三菱扶桑"
+            },
+            {
+              "type": "text",
+              "text": " (FUSO)。近年成功引進"
+            },
+            {
+              "type": "wikilink",
+              "text": "上汽集團"
+            },
+            {
+              "type": "text",
+              "text": "旗下"
+            },
+            {
+              "type": "wikilink",
+              "text": "MG"
+            },
+            {
+              "type": "text",
+              "text": "品牌，MG HS 車款銷售亮眼。產品線涵蓋：(1) 乘用車 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "MG"
+            },
+            {
+              "type": "text",
+              "text": " HS、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Outlander"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Eclipse Cross"
+            },
+            {
+              "type": "text",
+              "text": " PHEV；(2) 商用車 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "Delica"
+            },
+            {
+              "type": "text",
+              "text": " (得利卡)、FUSO "
+            },
+            {
+              "type": "wikilink",
+              "text": "Canter"
+            },
+            {
+              "type": "text",
+              "text": " (堅達) 系列；(3) 電動商用車 — ET35 電動貨卡，已導入"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹物流"
+            },
+            {
+              "type": "text",
+              "text": "車隊；(4) 電動二輪 — 自有品牌"
+            },
+            {
+              "type": "wikilink",
+              "text": "eMOVING"
+            },
+            {
+              "type": "text",
+              "text": " iE125 自主充電系統。楊梅廠為主要生產基地。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (技術與零件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "乘用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mitsubishi"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 技術授權與零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱扶桑"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (FUSO) — 大型商用車技術"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MG 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "上汽集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — MG 品牌技術與零件供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[中華汽車]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (楊梅廠整車組裝，涵蓋乘用車、商用車及電動車)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (經銷與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車經銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "裕益汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — FUSO 大貨車/曳引車經銷"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新竹物流"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ET35 電動貨卡車隊客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MG"
+                    },
+                    {
+                      "type": "text",
+                      "text": " HS、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Outlander"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Delica"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新竹物流"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ET35 電動貨卡車隊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車經銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "裕益汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — FUSO 大貨車/曳引車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MG"
+                    },
+                    {
+                      "type": "text",
+                      "text": " HS、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Outlander"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Delica"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "乘用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 技術授權與零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱扶桑"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (FUSO) — 大型商用車技術"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MG 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "上汽集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 品牌技術與零件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $54.80 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.54",
+                  "7.53",
+                  "0.98",
+                  "0.83",
+                  "22.19"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "39243.20",
+                  "38432.52",
+                  "29553.87"
+                ],
+                [
+                  "Gross Profit",
+                  "5708.24",
+                  "6023.87",
+                  "4873.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.55",
+                  "15.67",
+                  "16.49"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "917.78",
+                  "776.67",
+                  "455.95"
+                ],
+                [
+                  "R&D Exp",
+                  "2013.48",
+                  "1577.72",
+                  "1596.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1049.59",
+                  "1027.75",
+                  "878.35"
+                ],
+                [
+                  "Operating Income",
+                  "1727.39",
+                  "2641.72",
+                  "1942.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.40",
+                  "6.87",
+                  "6.57"
+                ],
+                [
+                  "Net Income",
+                  "4006.79",
+                  "5652.25",
+                  "-7757.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.21",
+                  "14.71",
+                  "-26.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "258.41",
+                  "4261.40",
+                  "1763.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "255.53",
+                  "-5145.65",
+                  "-2097.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-446.52",
+                  "-2145.89",
+                  "-3347.13"
+                ],
+                [
+                  "CAPEX",
+                  "-2167.79",
+                  "-2723.89",
+                  "-882.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7559.91",
+                  "8450.30",
+                  "7949.85",
+                  "7022.32"
+                ],
+                [
+                  "Gross Profit",
+                  "1429.29",
+                  "1458.59",
+                  "1155.43",
+                  "525.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.91",
+                  "17.26",
+                  "14.53",
+                  "7.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "214.14",
+                  "311.99",
+                  "257.13",
+                  "117.67"
+                ],
+                [
+                  "R&D Exp",
+                  "624.87",
+                  "431.27",
+                  "491.62",
+                  "375.06"
+                ],
+                [
+                  "General & Admin Exp",
+                  "252.74",
+                  "255.12",
+                  "247.59",
+                  "198.27"
+                ],
+                [
+                  "Operating Income",
+                  "337.55",
+                  "460.21",
+                  "159.08",
+                  "-165.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.46",
+                  "5.45",
+                  "2.00",
+                  "-2.36"
+                ],
+                [
+                  "Net Income",
+                  "801.35",
+                  "699.98",
+                  "629.40",
+                  "739.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.60",
+                  "8.28",
+                  "7.92",
+                  "10.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "207.92",
+                  "-12.10",
+                  "121.77",
+                  "641.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "292.11",
+                  "329.58",
+                  "-377.82",
+                  "-604.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-717.24",
+                  "-618.72",
+                  "268.09",
+                  "-365.71"
+                ],
+                [
+                  "CAPEX",
+                  "-621.37",
+                  "-380.34",
+                  "-480.37",
+                  "-916.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中華汽車",
+    "裕隆集團",
+    "三菱汽車",
+    "Mitsubishi",
+    "三菱扶桑",
+    "上汽集團",
+    "MG",
+    "MG",
+    "Outlander",
+    "Eclipse Cross",
+    "Delica",
+    "Canter",
+    "新竹物流",
+    "eMOVING",
+    "三菱汽車",
+    "Mitsubishi",
+    "三菱扶桑",
+    "上汽集團",
+    "中華汽車",
+    "裕益汽車",
+    "新竹物流",
+    "MG",
+    "Outlander",
+    "Delica",
+    "新竹物流",
+    "裕益汽車",
+    "MG",
+    "Outlander",
+    "Delica",
+    "三菱汽車",
+    "三菱扶桑",
+    "上汽集團"
+  ]
+}

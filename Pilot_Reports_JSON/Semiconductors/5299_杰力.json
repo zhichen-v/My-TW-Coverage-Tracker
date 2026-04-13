@@ -1,0 +1,625 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/5299_杰力.md",
+  "source_path": "Pilot_Reports/Semiconductors/5299_杰力.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/5299_杰力.json",
+  "ticker": "5299",
+  "company_name": "杰力",
+  "title": "# 5299 - 杰力",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "4,061 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,591 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "杰力 (Excelliance MOS) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "[[MOSFET]] (金屬氧化物半導體場效電晶體)"
+            },
+            {
+              "type": "text",
+              "text": " 設計公司。\n隸屬於 "
+            },
+            {
+              "type": "strong",
+              "text": "華碩集團"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "為大股東)。\n主要產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "[[MOSFET]]"
+            },
+            {
+              "type": "text",
+              "text": ": 中低壓 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": " 為主，應用於 PC/NB、主機板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "電源管理 IC"
+            },
+            {
+              "type": "text",
+              "text": ": PMIC 解決方案。\n競爭優勢在於與 PC 系統廠關係緊密，且獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": " 穩定採用。近年積極往商用 PC 與非消費性領域拓展。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (IC 設計)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "杰力 (5299)"
+            },
+            {
+              "type": "text",
+              "text": " - 電路設計, 產品銷售.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游供應"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "晶圓代工"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "漢磊"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "世界先進"
+            },
+            {
+              "type": "text",
+              "text": " (部分產品).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "封測"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "日月光投控"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "超豐"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "主機板/NB"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": " (ASUS), "
+            },
+            {
+              "type": "wikilink",
+              "text": "微星"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "技嘉"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "代工廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "緯創"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "品牌廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "華碩"
+                },
+                {
+                  "type": "text",
+                  "text": " (ASUS).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "代工廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": 各大 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "ODM"
+                },
+                {
+                  "type": "text",
+                  "text": " 廠."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "晶圓"
+                },
+                {
+                  "type": "text",
+                  "text": ": 漢磊, 世界先進等.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "投資夥伴"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "朋程"
+                },
+                {
+                  "type": "text",
+                  "text": " (8255) 參與私募，強化車用佈局."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $79.80 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.54",
+                  "N/A",
+                  "2.74",
+                  "1.24",
+                  "11.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1483.42",
+                  "1691.96",
+                  "1733.18"
+                ],
+                [
+                  "Gross Profit",
+                  "515.93",
+                  "478.73",
+                  "451.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.78",
+                  "28.29",
+                  "26.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "64.80",
+                  "57.39",
+                  "35.66"
+                ],
+                [
+                  "R&D Exp",
+                  "180.35",
+                  "174.21",
+                  "149.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "70.37",
+                  "70.52",
+                  "61.90"
+                ],
+                [
+                  "Operating Income",
+                  "200.41",
+                  "176.61",
+                  "205.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.51",
+                  "10.44",
+                  "11.84"
+                ],
+                [
+                  "Net Income",
+                  "232.84",
+                  "301.79",
+                  "260.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.70",
+                  "17.84",
+                  "15.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "355.07",
+                  "399.02",
+                  "362.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-113.90",
+                  "-166.36",
+                  "-1467.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-217.59",
+                  "-216.72",
+                  "1056.21"
+                ],
+                [
+                  "CAPEX",
+                  "-52.68",
+                  "-36.34",
+                  "-65.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "306.99",
+                  "406.21",
+                  "406.22",
+                  "410.07"
+                ],
+                [
+                  "Gross Profit",
+                  "105.22",
+                  "148.69",
+                  "133.53",
+                  "114.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.27",
+                  "36.60",
+                  "32.87",
+                  "27.88"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.31",
+                  "12.81",
+                  "15.27",
+                  "19.22"
+                ],
+                [
+                  "R&D Exp",
+                  "50.71",
+                  "37.41",
+                  "45.71",
+                  "45.99"
+                ],
+                [
+                  "General & Admin Exp",
+                  "17.55",
+                  "12.98",
+                  "18.46",
+                  "17.38"
+                ],
+                [
+                  "Operating Income",
+                  "21.64",
+                  "85.48",
+                  "54.09",
+                  "31.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.05",
+                  "21.04",
+                  "13.32",
+                  "7.74"
+                ],
+                [
+                  "Net Income",
+                  "64.92",
+                  "-7.81",
+                  "70.93",
+                  "57.78"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.15",
+                  "-1.92",
+                  "17.46",
+                  "14.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-10.40",
+                  "73.06",
+                  "171.61",
+                  "120.08"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-45.05",
+                  "-134.17",
+                  "-108.98",
+                  "-174.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.70",
+                  "-1.67",
+                  "-1.71",
+                  "-1.85"
+                ],
+                [
+                  "CAPEX",
+                  "-14.85",
+                  "-8.30",
+                  "-14.20",
+                  "-11.03"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MOSFET",
+    "華碩",
+    "MOSFET",
+    "MOSFET",
+    "消費性電子",
+    "華碩",
+    "漢磊",
+    "世界先進",
+    "日月光投控",
+    "超豐",
+    "華碩",
+    "微星",
+    "技嘉",
+    "廣達",
+    "仁寶",
+    "緯創",
+    "華碩",
+    "ODM",
+    "朋程"
+  ]
+}

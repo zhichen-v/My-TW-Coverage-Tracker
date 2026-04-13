@@ -1,0 +1,556 @@
+{
+  "report_id": "Pilot_Reports/Tools & Accessories/4571_鈞興-KY.md",
+  "source_path": "Pilot_Reports/Tools & Accessories/4571_鈞興-KY.md",
+  "json_path": "Pilot_Reports_JSON/Tools & Accessories/4571_鈞興-KY.json",
+  "ticker": "4571",
+  "company_name": "鈞興-KY",
+  "title": "# 4571 - 鈞興-KY",
+  "sector_folder": "Tools & Accessories",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Tools & Accessories"
+      },
+      {
+        "label": "市值:",
+        "value": "8,482 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,426 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鈞興-KY (4571，KHGears) 註冊於開曼群島，生產基地主要位於中國珠海，為精密齒輪 (Gears) 與齒輪箱 (Gearboxes) 專業製造商。核心產品包括全鋼傘齒輪、粉末冶金齒輪、精密減速器及"
+            },
+            {
+              "type": "wikilink",
+              "text": "諧波減速機"
+            },
+            {
+              "type": "text",
+              "text": "。產品廣泛應用於電動工具 (Power Tools)、園林工具 (Garden Tools)、工業縫紉機、遊艇舷外機、E-Bike 中置電機及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業機器人"
+            },
+            {
+              "type": "text",
+              "text": " (含協作機器人)。主要客戶為全球電動工具龍頭 "
+            },
+            {
+              "type": "wikilink",
+              "text": "TTI"
+            },
+            {
+              "type": "text",
+              "text": " (創科實業) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Stanley Black & Decker"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼材、金屬粉末 (粉末冶金用)、銅材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鈞興-KY"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 齒輪滾齒/磨齒加工、熱處理、粉末冶金成型、齒輪箱組裝"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動/園林工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TTI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (創科實業)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Stanley Black & Decker"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Makita"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工業機器人"
+                    },
+                    {
+                      "type": "text",
+                      "text": "手臂廠、協作機器人廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 縫紉機廠、E-Bike 中置電機、遊艇"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[TTI]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 創科實業 (含 Milwaukee/Ryobi)，最大客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Stanley Black & Decker]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " SBD (含 DEWALT/CRAFTSMAN)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Makita]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本電動工具大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Bosch]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 德國電動工具大廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國鋼材及金屬粉末供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $162.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.70",
+                  "16.14",
+                  "2.68",
+                  "2.92",
+                  "10.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3061.90",
+                  "2348.85",
+                  "2443.39"
+                ],
+                [
+                  "Gross Profit",
+                  "946.48",
+                  "666.40",
+                  "692.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.91",
+                  "28.37",
+                  "28.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "116.93",
+                  "98.39",
+                  "96.08"
+                ],
+                [
+                  "R&D Exp",
+                  "138.62",
+                  "134.34",
+                  "140.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "207.99",
+                  "153.59",
+                  "195.55"
+                ],
+                [
+                  "Operating Income",
+                  "482.95",
+                  "280.09",
+                  "260.14"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.77",
+                  "11.92",
+                  "10.65"
+                ],
+                [
+                  "Net Income",
+                  "476.67",
+                  "273.90",
+                  "351.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.57",
+                  "11.66",
+                  "14.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "546.70",
+                  "592.92",
+                  "496.04"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-390.27",
+                  "-77.41",
+                  "-165.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-335.95",
+                  "-405.52",
+                  "-14.62"
+                ],
+                [
+                  "CAPEX",
+                  "-79.19",
+                  "-82.38",
+                  "-169.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "806.82",
+                  "672.72",
+                  "854.82",
+                  "829.03"
+                ],
+                [
+                  "Gross Profit",
+                  "276.03",
+                  "203.98",
+                  "280.76",
+                  "269.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.21",
+                  "30.32",
+                  "32.84",
+                  "32.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.37",
+                  "22.63",
+                  "34.69",
+                  "35.91"
+                ],
+                [
+                  "R&D Exp",
+                  "33.85",
+                  "29.75",
+                  "32.00",
+                  "34.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.78",
+                  "62.95",
+                  "65.32",
+                  "51.83"
+                ],
+                [
+                  "Operating Income",
+                  "159.04",
+                  "88.65",
+                  "148.76",
+                  "148.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.71",
+                  "13.18",
+                  "17.40",
+                  "17.85"
+                ],
+                [
+                  "Net Income",
+                  "132.71",
+                  "91.89",
+                  "155.13",
+                  "124.06"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.45",
+                  "13.66",
+                  "18.15",
+                  "14.96"
+                ],
+                [
+                  "Op Cash Flow",
+                  "208.38",
+                  "91.66",
+                  "136.69",
+                  "191.04"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-19.08",
+                  "-211.65",
+                  "99.86",
+                  "-194.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-269.30",
+                  "12.19",
+                  "-4.31",
+                  "-68.64"
+                ],
+                [
+                  "CAPEX",
+                  "-19.55",
+                  "-70.15",
+                  "-30.99",
+                  "-16.83"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "諧波減速機",
+    "工業機器人",
+    "TTI",
+    "Stanley Black & Decker",
+    "TTI",
+    "Stanley Black & Decker",
+    "Makita",
+    "Bosch",
+    "工業機器人",
+    "TTI",
+    "Stanley Black & Decker",
+    "Makita",
+    "Bosch"
+  ]
+}

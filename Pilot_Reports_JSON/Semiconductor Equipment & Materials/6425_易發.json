@@ -1,0 +1,528 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/6425_易發.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/6425_易發.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/6425_易發.json",
+  "ticker": "6425",
+  "company_name": "易發",
+  "title": "# 6425_易發",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "3,027 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,509 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "易發精機股份有限公司 (6425，EFCT) 是一家專業的高精密"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "生產設備開發商。易發精機以其優異的機器視覺與系統整合能力，提供從光電面板貼合、鋰電池模組"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "組裝到"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶圓級檢測設備(AOI)的全方位解決方案。近年來，易發成功切入全球先進封裝(如"
+            },
+            {
+              "type": "wikilink",
+              "text": "CoWoS"
+            },
+            {
+              "type": "text",
+              "text": ")測試設備供應鏈，並攜手"
+            },
+            {
+              "type": "wikilink",
+              "text": "群電"
+            },
+            {
+              "type": "text",
+              "text": "與美超微(Supermicro)開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "與超級算力櫃基礎設施，成為其營運轉型升級的重要轉捩點。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 各類機構零組件、伺服馬達、PLC控制器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": ")及攝影機/感測器供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "易發精機"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "AOI檢測機、光電貼合機、電池組裝線及"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "產線設備設計製造)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 晶圓代工廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "封測廠(OSAT)、光電面板廠、車用電池廠及"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "業者。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台積電"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "南亞科"
+                },
+                {
+                  "type": "text",
+                  "text": "、各大面板廠及"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "/機電合作夥伴(如Supermicro、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群電"
+                },
+                {
+                  "type": "text",
+                  "text": ")。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外精密傳動元件廠(如滑軌、馬達)、光學鏡頭及工業控制電子材料商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $62.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.15",
+                  "2.41",
+                  "-1071.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1409.99",
+                  "1697.00",
+                  "1094.63"
+                ],
+                [
+                  "Gross Profit",
+                  "408.94",
+                  "539.00",
+                  "272.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.00",
+                  "31.76",
+                  "24.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "113.64",
+                  "104.12",
+                  "85.35"
+                ],
+                [
+                  "R&D Exp",
+                  "177.00",
+                  "187.53",
+                  "132.55"
+                ],
+                [
+                  "General & Admin Exp",
+                  "184.96",
+                  "200.96",
+                  "155.15"
+                ],
+                [
+                  "Operating Income",
+                  "-66.66",
+                  "46.39",
+                  "-100.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.73",
+                  "2.73",
+                  "-9.22"
+                ],
+                [
+                  "Net Income",
+                  "-78.38",
+                  "30.30",
+                  "-69.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.56",
+                  "1.79",
+                  "-6.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "39.50",
+                  "57.89",
+                  "70.47"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-87.88",
+                  "-69.69",
+                  "-41.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "33.63",
+                  "410.35",
+                  "-145.30"
+                ],
+                [
+                  "CAPEX",
+                  "-55.22",
+                  "-50.06",
+                  "-20.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "481.45",
+                  "288.90",
+                  "349.24",
+                  "290.41"
+                ],
+                [
+                  "Gross Profit",
+                  "164.15",
+                  "82.51",
+                  "89.70",
+                  "72.57"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.10",
+                  "28.56",
+                  "25.69",
+                  "24.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.39",
+                  "32.54",
+                  "25.75",
+                  "26.96"
+                ],
+                [
+                  "R&D Exp",
+                  "40.16",
+                  "39.58",
+                  "47.90",
+                  "49.35"
+                ],
+                [
+                  "General & Admin Exp",
+                  "46.42",
+                  "45.72",
+                  "46.41",
+                  "46.42"
+                ],
+                [
+                  "Operating Income",
+                  "49.19",
+                  "-35.32",
+                  "-30.36",
+                  "-50.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.22",
+                  "-12.23",
+                  "-8.69",
+                  "-17.27"
+                ],
+                [
+                  "Net Income",
+                  "47.07",
+                  "-28.05",
+                  "-62.54",
+                  "-34.86"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.78",
+                  "-9.71",
+                  "-17.91",
+                  "-12.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "98.19",
+                  "-65.54",
+                  "3.64",
+                  "3.21"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-20.30",
+                  "-13.97",
+                  "-6.27",
+                  "-47.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "53.95",
+                  "-44.49",
+                  "-22.86",
+                  "47.04"
+                ],
+                [
+                  "CAPEX",
+                  "-19.66",
+                  "-10.13",
+                  "-9.34",
+                  "-16.10"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "自動化",
+    "自動化",
+    "半導體",
+    "CoWoS",
+    "群電",
+    "AI 伺服器",
+    "散熱",
+    "工業電腦",
+    "IPC",
+    "半導體",
+    "自動化",
+    "半導體",
+    "伺服器",
+    "資料中心",
+    "台積電",
+    "南亞科",
+    "伺服器",
+    "群電"
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "report_id": "Pilot_Reports/Insurance - Property & Casualty/2852_第一保.md",
+  "source_path": "Pilot_Reports/Insurance - Property & Casualty/2852_第一保.md",
+  "json_path": "Pilot_Reports_JSON/Insurance - Property & Casualty/2852_第一保.json",
+  "ticker": "2852",
+  "company_name": "第一保",
+  "title": "# 2852 - 第一保",
+  "sector_folder": "Insurance - Property & Casualty",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Insurance - Property & Casualty"
+      },
+      {
+        "label": "市值:",
+        "value": "7,845 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,708 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "第一產物保險"
+            },
+            {
+              "type": "text",
+              "text": " (2852，第一保) 成立於 1962 年，為台灣老牌獨立民營產險公司 (與"
+            },
+            {
+              "type": "wikilink",
+              "text": "第一金控"
+            },
+            {
+              "type": "text",
+              "text": "無直接股權隸屬關係)。公司營運風格穩健保守，長期維持優於法規要求之資本適足率 (RBC)。國際信用評等方面，獲"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華信評"
+            },
+            {
+              "type": "text",
+              "text": "「twAA-」穩定展望及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "S&P"
+            },
+            {
+              "type": "text",
+              "text": " 「BBB+」穩定展望。業務結構以汽車保險 (含強制險與任意險) 為大宗，其次為火災保險與責任保險。近年積極推動網路投保業務，提升數位通路佔比。銷售通路方面，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "第一銀行"
+            },
+            {
+              "type": "text",
+              "text": "維持長期銀行保險通路合作關係，並透過車商保代及保險經紀人拓展業務。再保險安排透過"
+            },
+            {
+              "type": "wikilink",
+              "text": "中央再保險"
+            },
+            {
+              "type": "text",
+              "text": "及國際再保險市場分散風險。2024 年全年營收 77.99 億元，每股盈餘 3 元。獲利與配息相對穩定。受"
+            },
+            {
+              "type": "wikilink",
+              "text": "金管會"
+            },
+            {
+              "type": "text",
+              "text": "監理。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (風險分散)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國際再保險市場 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lloyd's of London"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 巨災風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精算服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精算與風險評估機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "信用評等:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華信評"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "S&P"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 提供財務強度評等"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (保險本體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[第一產物保險]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 核保、保單設計、理賠管理與資產運用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路與保戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 長期銀行保險通路合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車商通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車經銷商保代"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車主 (強制險/任意險)、屋主 (住宅火險/地震基本保險)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型企業商業火險與責任險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路投保:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線上車險、旅平險等數位投保服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽機車車主 — 強制責任險與任意車險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "屋主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 住宅火險與地震基本保險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中小企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商業火險與責任險投保"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路投保用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線上車險與旅平險"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lloyd's of London"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 長期銀保通路合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外部通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車商保代、保險經紀人代理人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "信評機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華信評"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "S&P"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 財務強度評等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "監理機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金管會"
+                    },
+                    {
+                      "type": "text",
+                      "text": "保險局 — 產險監理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $26.05 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "8.83",
+                  "N/A",
+                  "1.03",
+                  "0.86",
+                  "3.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7554.40",
+                  "7799.05",
+                  "7394.60"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1520.09",
+                  "1601.42",
+                  "1531.18"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "880.19",
+                  "903.30",
+                  "636.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.65",
+                  "11.58",
+                  "8.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "468.10",
+                  "1258.73",
+                  "296.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-38.99",
+                  "-12.04",
+                  "-22.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-634.79",
+                  "-343.46",
+                  "-220.99"
+                ],
+                [
+                  "CAPEX",
+                  "-38.30",
+                  "-12.04",
+                  "-22.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1879.63",
+                  "1925.15",
+                  "1886.49",
+                  "1863.13"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "396.46",
+                  "377.90",
+                  "378.27",
+                  "367.46"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "148.79",
+                  "256.88",
+                  "221.12",
+                  "253.40"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.92",
+                  "13.34",
+                  "11.72",
+                  "13.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-12.83",
+                  "296.53",
+                  "340.21",
+                  "-155.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.39",
+                  "-1.90",
+                  "-1.65",
+                  "-3.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.54",
+                  "-633.03",
+                  "-0.58",
+                  "-0.64"
+                ],
+                [
+                  "CAPEX",
+                  "-31.70",
+                  "-1.90",
+                  "-1.65",
+                  "-3.06"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "第一產物保險",
+    "第一金控",
+    "中華信評",
+    "S&P",
+    "第一銀行",
+    "中央再保險",
+    "金管會",
+    "中央再保險",
+    "Swiss Re",
+    "Munich Re",
+    "Lloyd's of London",
+    "中華信評",
+    "S&P",
+    "第一產物保險",
+    "第一銀行",
+    "中央再保險",
+    "Swiss Re",
+    "Munich Re",
+    "Lloyd's of London",
+    "第一銀行",
+    "中華信評",
+    "S&P",
+    "金管會"
+  ]
+}

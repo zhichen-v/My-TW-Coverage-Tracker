@@ -1,0 +1,533 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6525_捷敏-KY.md",
+  "source_path": "Pilot_Reports/Semiconductors/6525_捷敏-KY.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6525_捷敏-KY.json",
+  "ticker": "6525",
+  "company_name": "捷敏-KY",
+  "title": "# 6525_捷敏-KY",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "10,917 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,240 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "捷敏股份有限公司 (6525，捷敏-KY / Gem Services) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯鈞"
+            },
+            {
+              "type": "text",
+              "text": "集團，是全球前三大的專業功率"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "封裝測試代工廠(OSAT)。捷敏-KY專注於分離式元件的後段封測，尤其是高壓/低壓的金氧半場效電晶體(Power "
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": ")、絕緣閘雙載子電晶體("
+            },
+            {
+              "type": "wikilink",
+              "text": "IGBT"
+            },
+            {
+              "type": "text",
+              "text": ")及電源管理IC。受惠於國際整合元件廠(IDM)持續擴大委外代工(Outsourcing)趨勢，以及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "、充電樁帶動的高功率電源轉換需求，捷敏-KY積極擴充產能並切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "第三代[[半導體"
+            },
+            {
+              "type": "text",
+              "text": "]]("
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": ")的先進高壓封裝模組市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 銅/鐵"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "、晶片黏著膠(Epoxy)、焊線(金線/銅線/鋁線)及環氧樹脂封裝膠(EMC)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "捷敏-KY"
+            },
+            {
+              "type": "text",
+              "text": " (Power "
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "IGBT"
+            },
+            {
+              "type": "text",
+              "text": "等高功率"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "分離式元件的專業封裝測試代工)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 整合元件廠(IDM)、分離式元件設計公司(Fabless)及消費性/工控/車用電源模組廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   全球各大電源管理IDM廠及無晶圓廠功率元件設計公司(台灣客戶佔逾四成)。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   界霖(主要"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "碳化矽"
+                },
+                {
+                  "type": "text",
+                  "text": "/"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "MOSFET"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "導線架"
+                },
+                {
+                  "type": "text",
+                  "text": "供應商)及長華等"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "封裝材料/設備通路商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $84.60 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.56",
+                  "15.11",
+                  "2.05",
+                  "2.33",
+                  "5.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5325.91",
+                  "4670.54",
+                  "4418.99"
+                ],
+                [
+                  "Gross Profit",
+                  "1420.28",
+                  "1058.97",
+                  "952.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.67",
+                  "22.67",
+                  "21.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.84",
+                  "19.14",
+                  "19.98"
+                ],
+                [
+                  "R&D Exp",
+                  "46.78",
+                  "55.50",
+                  "47.79"
+                ],
+                [
+                  "General & Admin Exp",
+                  "310.54",
+                  "298.38",
+                  "263.99"
+                ],
+                [
+                  "Operating Income",
+                  "1043.12",
+                  "685.95",
+                  "620.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.59",
+                  "14.69",
+                  "14.05"
+                ],
+                [
+                  "Net Income",
+                  "758.64",
+                  "664.20",
+                  "566.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.24",
+                  "14.22",
+                  "12.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1295.50",
+                  "1299.08",
+                  "1022.14"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1089.87",
+                  "-422.90",
+                  "-572.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-522.55",
+                  "-485.41",
+                  "-679.45"
+                ],
+                [
+                  "CAPEX",
+                  "-424.40",
+                  "-248.70",
+                  "-576.49"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1334.51",
+                  "1389.97",
+                  "1387.08",
+                  "1214.35"
+                ],
+                [
+                  "Gross Profit",
+                  "326.66",
+                  "393.75",
+                  "400.70",
+                  "299.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.48",
+                  "28.33",
+                  "28.89",
+                  "24.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5.29",
+                  "4.84",
+                  "5.01",
+                  "4.71"
+                ],
+                [
+                  "R&D Exp",
+                  "12.46",
+                  "12.84",
+                  "11.50",
+                  "9.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "66.19",
+                  "88.23",
+                  "78.36",
+                  "77.76"
+                ],
+                [
+                  "Operating Income",
+                  "242.72",
+                  "287.83",
+                  "305.83",
+                  "206.74"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.19",
+                  "20.71",
+                  "22.05",
+                  "17.02"
+                ],
+                [
+                  "Net Income",
+                  "193.22",
+                  "239.06",
+                  "142.48",
+                  "183.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.48",
+                  "17.20",
+                  "10.27",
+                  "15.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "403.70",
+                  "308.89",
+                  "329.14",
+                  "253.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-697.64",
+                  "-228.71",
+                  "-96.92",
+                  "-66.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "43.12",
+                  "-9.99",
+                  "-547.45",
+                  "-8.23"
+                ],
+                [
+                  "CAPEX",
+                  "-187.90",
+                  "-68.25",
+                  "-101.75",
+                  "-66.51"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聯鈞",
+    "半導體",
+    "MOSFET",
+    "IGBT",
+    "AI[[伺服器",
+    "電動車",
+    "第三代[[半導體",
+    "碳化矽",
+    "碳化矽",
+    "氮化鎵",
+    "氮化鎵",
+    "導線架",
+    "MOSFET",
+    "IGBT",
+    "半導體",
+    "碳化矽",
+    "MOSFET",
+    "導線架",
+    "半導體"
+  ]
+}

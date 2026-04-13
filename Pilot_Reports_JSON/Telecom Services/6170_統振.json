@@ -1,0 +1,750 @@
+{
+  "report_id": "Pilot_Reports/Telecom Services/6170_統振.md",
+  "source_path": "Pilot_Reports/Telecom Services/6170_統振.md",
+  "json_path": "Pilot_Reports_JSON/Telecom Services/6170_統振.json",
+  "ticker": "6170",
+  "company_name": "統振",
+  "title": "# 6170_統振",
+  "sector_folder": "Telecom Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Telecom Services"
+      },
+      {
+        "label": "市值:",
+        "value": "5,058 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,184 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "統振 (6170) 從傳統電池代理商成功轉型為台灣「外籍移工金融科技服務」龍頭企業。公司以自行開發的 QuickPay APP 為核心，打造涵蓋跨境匯款、電信、旅運及電商的移工生態圈。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務結構與動能：(1) 金融科技金流 — QuickPay 為台灣首家獲准辦理外籍移工小額匯兌之平台，有效會員數超過 40 萬人，累計匯款金額逾 500 億元，涵蓋印尼、越南、菲律賓及泰國等東南亞四國，市佔率約 40%，為主要營收與利潤引擎；(2) 電信事業 — 代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣大哥大"
+            },
+            {
+              "type": "text",
+              "text": " OK 卡預付卡，針對移工市場銷售；(3) 流通事業 — 子公司東旺利代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Duracell"
+            },
+            {
+              "type": "text",
+              "text": " 金頂電池 (台灣獨家)、德國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Doppelherz"
+            },
+            {
+              "type": "text",
+              "text": " 雙心保健食品及彩妝洗沐品牌；(4) 旅運服務 — Q Go 跨國機票與 Q-Shopping 移工電商平台。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金融與商品供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞各國合作銀行 — 跨境匯款清算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 便利商店金流系統 — 匯款收款端"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣大哥大"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — OK 卡預付卡代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Duracell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (金頂電池)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Doppelherz"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (雙心保健) — 流通商品代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "匯兌平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "統振"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (QuickPay 跨境小額匯款)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "統振"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣大哥大"
+                    },
+                    {
+                      "type": "text",
+                      "text": " OK 卡移工電信)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "流通代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "東旺利"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電池/保健品/彩妝品牌代理)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "旅運電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "統振"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Q Go 機票、Q-Shopping 電商)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外籍移工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印尼、越南、菲律賓、泰國在台移工 — 匯款/電信/消費"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新住民:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 在台東南亞新住民 — 生活服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內消費者 — 金頂電池/雙心保健品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外籍移工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 40 萬名 QuickPay 活躍會員 (印尼、越南、菲律賓、泰國)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "移工雇主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造業與營建業雇主 — 移工電信方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Duracell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金頂電池與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Doppelherz"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雙心保健品終端消費者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣大哥大"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — OK 卡預付卡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Duracell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (金頂) — 台灣獨家電池代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保健品代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Doppelherz"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (德之寶/雙心) — 德國保健食品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞各國合作銀行 — 跨境匯款清算通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "7-ELEVEN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 便利商店匯款收款端"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $52.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.90",
+                  "N/A",
+                  "1.58",
+                  "2.55",
+                  "15.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2905.94",
+                  "2261.39",
+                  "2468.79"
+                ],
+                [
+                  "Gross Profit",
+                  "865.39",
+                  "700.29",
+                  "608.57"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.78",
+                  "30.97",
+                  "24.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "418.74",
+                  "325.29",
+                  "279.36"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "0.00",
+                  "2.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "173.86",
+                  "153.78",
+                  "169.03"
+                ],
+                [
+                  "Operating Income",
+                  "272.80",
+                  "221.23",
+                  "157.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.39",
+                  "9.78",
+                  "6.37"
+                ],
+                [
+                  "Net Income",
+                  "330.12",
+                  "249.12",
+                  "237.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.36",
+                  "11.02",
+                  "9.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "405.46",
+                  "-690.07",
+                  "191.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "34.73",
+                  "233.45",
+                  "-295.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-182.16",
+                  "171.69",
+                  "284.38"
+                ],
+                [
+                  "CAPEX",
+                  "-0.23",
+                  "-0.44",
+                  "-3.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "813.49",
+                  "785.48",
+                  "817.85",
+                  "774.86"
+                ],
+                [
+                  "Gross Profit",
+                  "261.76",
+                  "240.78",
+                  "257.54",
+                  "230.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.18",
+                  "30.65",
+                  "31.49",
+                  "29.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "120.34",
+                  "117.64",
+                  "118.02",
+                  "122.95"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "63.10",
+                  "42.69",
+                  "48.03",
+                  "47.80"
+                ],
+                [
+                  "Operating Income",
+                  "78.31",
+                  "80.46",
+                  "91.49",
+                  "59.70"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.63",
+                  "10.24",
+                  "11.19",
+                  "7.71"
+                ],
+                [
+                  "Net Income",
+                  "155.26",
+                  "77.67",
+                  "96.04",
+                  "142.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.09",
+                  "9.89",
+                  "11.74",
+                  "18.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "208.37",
+                  "302.46",
+                  "-399.98",
+                  "-189.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.93",
+                  "-0.08",
+                  "-2.59",
+                  "53.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-58.91",
+                  "-318.87",
+                  "167.73",
+                  "152.30"
+                ],
+                [
+                  "CAPEX",
+                  "-2.48",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台灣大哥大",
+    "Duracell",
+    "Doppelherz",
+    "台灣大哥大",
+    "Duracell",
+    "Doppelherz",
+    "台灣大哥大",
+    "Duracell",
+    "Doppelherz",
+    "台灣大哥大",
+    "Duracell",
+    "Doppelherz",
+    "7-ELEVEN",
+    "全家便利商店"
+  ]
+}

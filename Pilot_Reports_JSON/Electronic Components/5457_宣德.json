@@ -1,0 +1,609 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5457_宣德.md",
+  "source_path": "Pilot_Reports/Electronic Components/5457_宣德.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5457_宣德.json",
+  "ticker": "5457",
+  "company_name": "宣德",
+  "title": "# 5457 - 宣德",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "6,778 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "15,486 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宣德科技 (Speed Tech) 成立於 1990 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園"
+            },
+            {
+              "type": "text",
+              "text": "，為中國 "
+            },
+            {
+              "type": "strong",
+              "text": "立訊精密 (Luxshare)"
+            },
+            {
+              "type": "text",
+              "text": " 集團成員 (立訊持股約 30%)。主要從事 "
+            },
+            {
+              "type": "strong",
+              "text": "電子連接器"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "strong",
+              "text": "線纜模組"
+            },
+            {
+              "type": "text",
+              "text": " 之製造。產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Type-C"
+            },
+            {
+              "type": "text",
+              "text": ", RJ45, USB, HDMI 等"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "，近年積極拓展 "
+            },
+            {
+              "type": "strong",
+              "text": "FATP (整機組裝)"
+            },
+            {
+              "type": "text",
+              "text": " 業務，應用領域擴及 "
+            },
+            {
+              "type": "strong",
+              "text": "[[低軌衛星]]"
+            },
+            {
+              "type": "text",
+              "text": " (Starlink)、"
+            },
+            {
+              "type": "strong",
+              "text": "[[電動車]]"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "strong",
+              "text": "美系手機"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": ") 及 "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]"
+            },
+            {
+              "type": "text",
+              "text": " (高速"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "/線束)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "及模組製造商 (中游)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 金屬沖壓件、塑膠射出件供應商。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 消費電子品牌 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SpaceX"
+            },
+            {
+              "type": "text",
+              "text": ")、車廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": ")、系統組裝廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Type-C"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/機構件)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (車用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SpaceX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Starlink 線束/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "連接器"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Jabra (耳機組立)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $34.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.60",
+                  "8.85",
+                  "0.28",
+                  "1.32",
+                  "6.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22688.93",
+                  "16741.10",
+                  "19259.28"
+                ],
+                [
+                  "Gross Profit",
+                  "3765.87",
+                  "3349.64",
+                  "4004.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.60",
+                  "20.01",
+                  "20.79"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "302.46",
+                  "313.98",
+                  "271.94"
+                ],
+                [
+                  "R&D Exp",
+                  "1184.26",
+                  "1035.01",
+                  "1148.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1078.91",
+                  "896.12",
+                  "847.28"
+                ],
+                [
+                  "Operating Income",
+                  "1200.25",
+                  "1104.53",
+                  "1736.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.29",
+                  "6.60",
+                  "9.02"
+                ],
+                [
+                  "Net Income",
+                  "397.08",
+                  "177.19",
+                  "781.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.75",
+                  "1.06",
+                  "4.06"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5905.75",
+                  "4422.56",
+                  "-1165.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3285.18",
+                  "-2289.89",
+                  "-579.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1140.33",
+                  "-602.18",
+                  "1364.86"
+                ],
+                [
+                  "CAPEX",
+                  "-2574.30",
+                  "-1404.29",
+                  "-1486.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7154.94",
+                  "5531.46",
+                  "5388.95",
+                  "6482.47"
+                ],
+                [
+                  "Gross Profit",
+                  "1275.50",
+                  "917.42",
+                  "972.97",
+                  "894.93"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.83",
+                  "16.59",
+                  "18.05",
+                  "13.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "78.14",
+                  "80.73",
+                  "83.02",
+                  "84.37"
+                ],
+                [
+                  "R&D Exp",
+                  "366.44",
+                  "324.47",
+                  "303.17",
+                  "313.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "296.12",
+                  "320.13",
+                  "301.56",
+                  "295.76"
+                ],
+                [
+                  "Operating Income",
+                  "534.79",
+                  "192.09",
+                  "285.22",
+                  "201.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.47",
+                  "3.47",
+                  "5.29",
+                  "3.10"
+                ],
+                [
+                  "Net Income",
+                  "183.14",
+                  "-105.72",
+                  "188.39",
+                  "97.28"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.56",
+                  "-1.91",
+                  "3.50",
+                  "1.50"
+                ],
+                [
+                  "Op Cash Flow",
+                  "549.75",
+                  "-465.97",
+                  "303.29",
+                  "1226.82"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-449.05",
+                  "-982.88",
+                  "-1110.49",
+                  "-335.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "8.77",
+                  "285.14",
+                  "651.97",
+                  "138.10"
+                ],
+                [
+                  "CAPEX",
+                  "-352.24",
+                  "-824.86",
+                  "-685.93",
+                  "-688.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "桃園",
+    "Type-C",
+    "連接器",
+    "低軌衛星",
+    "電動車",
+    "Tesla",
+    "Apple",
+    "AI 伺服器",
+    "連接器",
+    "連接器",
+    "Apple",
+    "網通",
+    "SpaceX",
+    "Tesla",
+    "Apple",
+    "Type-C",
+    "連接器",
+    "Tesla",
+    "連接器",
+    "SpaceX",
+    "連接器"
+  ]
+}

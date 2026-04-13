@@ -1,0 +1,546 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/8081_致新.md",
+  "source_path": "Pilot_Reports/Semiconductors/8081_致新.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/8081_致新.json",
+  "ticker": "8081",
+  "company_name": "致新",
+  "title": "# 8081 - 致新",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "19,803 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,519 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "致新科技 (8081，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Global Mixed-Mode Technology"
+            },
+            {
+              "type": "text",
+              "text": "，GMT) 為台灣前三大類比 IC 設計公司，專注於電源管理之類比及混合訊號 IC 設計。主要產品應用於筆記型電腦、伺服器、工作站、手機、寬頻網路、LCD 螢幕及消費性電子之"
+            },
+            {
+              "type": "wikilink",
+              "text": "電源管理 IC"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PMIC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "致新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GMT，台灣前三大類比 IC，電源管理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (筆電與伺服器)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板及消費電子客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板及消費電子客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立錡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Texas Instruments"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MPS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $231.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.02",
+                  "13.47",
+                  "2.29",
+                  "2.43",
+                  "9.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8665.68",
+                  "8252.66",
+                  "7910.87"
+                ],
+                [
+                  "Gross Profit",
+                  "3377.88",
+                  "3255.38",
+                  "3197.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.98",
+                  "39.45",
+                  "40.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "400.86",
+                  "401.93",
+                  "408.52"
+                ],
+                [
+                  "R&D Exp",
+                  "1088.33",
+                  "1067.57",
+                  "1019.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "211.12",
+                  "198.88",
+                  "184.23"
+                ],
+                [
+                  "Operating Income",
+                  "1677.57",
+                  "1587.01",
+                  "1585.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.36",
+                  "19.23",
+                  "20.04"
+                ],
+                [
+                  "Net Income",
+                  "1522.73",
+                  "1535.28",
+                  "1486.07"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.57",
+                  "18.60",
+                  "18.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1282.73",
+                  "1920.90",
+                  "2462.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-54.29",
+                  "-421.15",
+                  "-64.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1418.52",
+                  "-1175.07",
+                  "-901.56"
+                ],
+                [
+                  "CAPEX",
+                  "-165.25",
+                  "-140.87",
+                  "-106.70"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2044.24",
+                  "2215.41",
+                  "2248.14",
+                  "2157.89"
+                ],
+                [
+                  "Gross Profit",
+                  "779.30",
+                  "781.27",
+                  "928.73",
+                  "888.59"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.12",
+                  "35.27",
+                  "41.31",
+                  "41.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "104.17",
+                  "99.65",
+                  "91.62",
+                  "105.42"
+                ],
+                [
+                  "R&D Exp",
+                  "290.43",
+                  "275.04",
+                  "254.08",
+                  "268.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "54.64",
+                  "53.45",
+                  "51.37",
+                  "51.65"
+                ],
+                [
+                  "Operating Income",
+                  "330.06",
+                  "353.13",
+                  "531.66",
+                  "462.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.15",
+                  "15.94",
+                  "23.65",
+                  "21.44"
+                ],
+                [
+                  "Net Income",
+                  "404.16",
+                  "389.38",
+                  "316.70",
+                  "412.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.77",
+                  "17.58",
+                  "14.09",
+                  "19.12"
+                ],
+                [
+                  "Op Cash Flow",
+                  "481.34",
+                  "-76.64",
+                  "162.10",
+                  "715.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1.29",
+                  "-78.44",
+                  "-1.76",
+                  "24.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-9.28",
+                  "-1410.74",
+                  "2.15",
+                  "-0.64"
+                ],
+                [
+                  "CAPEX",
+                  "-56.84",
+                  "-19.62",
+                  "-72.77",
+                  "-16.01"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Global Mixed-Mode Technology",
+    "電源管理 IC",
+    "Lenovo",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "Dell",
+    "HP",
+    "立錡",
+    "Texas Instruments",
+    "MPS"
+  ]
+}

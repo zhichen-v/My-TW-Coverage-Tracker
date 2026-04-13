@@ -1,0 +1,572 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2428_興勤.md",
+  "source_path": "Pilot_Reports/Electronic Components/2428_興勤.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2428_興勤.json",
+  "ticker": "2428",
+  "company_name": "興勤",
+  "title": "# 2428 - 興勤",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "20,242 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,141 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "興勤電子 (2428) 是台灣專業的電子保護元件製造商，產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NTC 熱敏電阻"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PTC 熱敏電阻"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "壓敏電阻"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "氣體放電管"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "溫度感測器"
+            },
+            {
+              "type": "text",
+              "text": "。公司為少數擁有正/負溫度係數熱敏電阻完整產品線的廠商，深耕"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": "市場多年，車用營收占比持續攀升。產品應用於電池模組、驅動系統、三電系統及座椅/車窗。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷粉體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " NTC/PTC 用特殊陶瓷材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬電極:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電極材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (保護元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保護元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "興勤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (NTC/PTC/壓敏電阻/溫度感測器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用與工業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用電池/驅動/三電系統保護"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業設備突波及過流保護"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電源保護元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用電子 Tier 1 供應商 (電池/驅動/三電系統)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業設備電源保護客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電源供應器保護元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷粉體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊陶瓷材料供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TDK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Murata"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bourns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $158.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.16",
+                  "12.33",
+                  "2.52",
+                  "1.81",
+                  "6.68"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8034.66",
+                  "7519.70",
+                  "7077.14"
+                ],
+                [
+                  "Gross Profit",
+                  "3226.26",
+                  "2979.75",
+                  "2743.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.15",
+                  "39.63",
+                  "38.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "374.46",
+                  "363.04",
+                  "338.35"
+                ],
+                [
+                  "R&D Exp",
+                  "402.73",
+                  "409.96",
+                  "360.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "438.10",
+                  "434.54",
+                  "445.35"
+                ],
+                [
+                  "Operating Income",
+                  "2010.97",
+                  "1772.21",
+                  "1599.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "25.03",
+                  "23.57",
+                  "22.60"
+                ],
+                [
+                  "Net Income",
+                  "1506.03",
+                  "1550.54",
+                  "1307.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.74",
+                  "20.62",
+                  "18.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2033.26",
+                  "1788.91",
+                  "2128.62"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1043.97",
+                  "-938.95",
+                  "-1699.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-633.22",
+                  "-630.66",
+                  "-1334.98"
+                ],
+                [
+                  "CAPEX",
+                  "-512.84",
+                  "-479.88",
+                  "-877.98"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2004.02",
+                  "2055.07",
+                  "1895.95",
+                  "2031.69"
+                ],
+                [
+                  "Gross Profit",
+                  "783.60",
+                  "858.62",
+                  "742.59",
+                  "754.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.10",
+                  "41.78",
+                  "39.17",
+                  "37.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "112.55",
+                  "92.28",
+                  "81.33",
+                  "96.98"
+                ],
+                [
+                  "R&D Exp",
+                  "107.23",
+                  "95.24",
+                  "100.07",
+                  "105.88"
+                ],
+                [
+                  "General & Admin Exp",
+                  "118.55",
+                  "99.66",
+                  "115.67",
+                  "112.96"
+                ],
+                [
+                  "Operating Income",
+                  "445.27",
+                  "571.44",
+                  "445.52",
+                  "438.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.22",
+                  "27.81",
+                  "23.50",
+                  "21.60"
+                ],
+                [
+                  "Net Income",
+                  "425.72",
+                  "289.81",
+                  "380.19",
+                  "401.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.24",
+                  "14.10",
+                  "20.05",
+                  "19.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "779.44",
+                  "645.65",
+                  "357.56",
+                  "634.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-654.38",
+                  "-344.31",
+                  "-191.37",
+                  "-558.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "121.25",
+                  "-436.89",
+                  "-64.24",
+                  "-976.16"
+                ],
+                [
+                  "CAPEX",
+                  "-133.58",
+                  "-119.17",
+                  "-102.75",
+                  "-103.22"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NTC 熱敏電阻",
+    "PTC 熱敏電阻",
+    "壓敏電阻",
+    "氣體放電管",
+    "溫度感測器",
+    "車用電子",
+    "TDK",
+    "Murata",
+    "Bourns"
+  ]
+}

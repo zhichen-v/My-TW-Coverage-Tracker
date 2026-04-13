@@ -1,0 +1,650 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3260_威剛.md",
+  "source_path": "Pilot_Reports/Semiconductors/3260_威剛.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3260_威剛.json",
+  "ticker": "3260",
+  "company_name": "威剛",
+  "title": "# 3260 - 威剛",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "118,289 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "144,078 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "威剛科技 (3260) 是全球第二大 "
+            },
+            {
+              "type": "wikilink",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": " 模組廠，旗下擁有 ADATA 消費品牌及 XPG 電競品牌。產品涵蓋 DDR4/"
+            },
+            {
+              "type": "wikilink",
+              "text": "DDR5"
+            },
+            {
+              "type": "text",
+              "text": " DRAM 模組、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SSD"
+            },
+            {
+              "type": "text",
+              "text": " 固態硬碟、記憶卡及 USB 隨身碟，並拓展至工控及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (記憶體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DRAM 顆粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SK Hynix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NAND 顆粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SK Hynix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (模組製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威剛"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ADATA/XPG 品牌，DRAM/SSD/記憶卡)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 OEM/ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器組裝廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 3C 通路商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 OEM/ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器組裝廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 3C 通路商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DRAM/NAND:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SK Hynix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金士頓"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宇瞻"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $372.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.18",
+                  "19.47",
+                  "2.23",
+                  "5.11",
+                  "14.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "53087.43",
+                  "40178.52",
+                  "33684.78"
+                ],
+                [
+                  "Gross Profit",
+                  "14766.21",
+                  "8750.17",
+                  "5657.94"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.81",
+                  "21.78",
+                  "16.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1756.44",
+                  "1663.94",
+                  "1522.44"
+                ],
+                [
+                  "R&D Exp",
+                  "889.61",
+                  "776.03",
+                  "599.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2977.83",
+                  "2341.43",
+                  "1768.56"
+                ],
+                [
+                  "Operating Income",
+                  "9142.33",
+                  "3968.77",
+                  "1766.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.22",
+                  "9.88",
+                  "5.25"
+                ],
+                [
+                  "Net Income",
+                  "7292.61",
+                  "2707.49",
+                  "1409.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.74",
+                  "6.74",
+                  "4.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2130.44",
+                  "796.94",
+                  "-5211.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4405.88",
+                  "-3473.22",
+                  "-1116.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3977.90",
+                  "2878.89",
+                  "4958.93"
+                ],
+                [
+                  "CAPEX",
+                  "-1878.10",
+                  "-1444.48",
+                  "-713.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "15844.87",
+                  "14510.64",
+                  "12824.41",
+                  "9907.51"
+                ],
+                [
+                  "Gross Profit",
+                  "7663.67",
+                  "3305.35",
+                  "2434.12",
+                  "1364.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.37",
+                  "22.78",
+                  "18.98",
+                  "13.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "548.46",
+                  "449.13",
+                  "423.81",
+                  "335.05"
+                ],
+                [
+                  "R&D Exp",
+                  "324.98",
+                  "235.79",
+                  "176.12",
+                  "152.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1176.28",
+                  "717.85",
+                  "598.61",
+                  "485.09"
+                ],
+                [
+                  "Operating Income",
+                  "5613.96",
+                  "1902.58",
+                  "1235.59",
+                  "391.29"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "35.43",
+                  "13.11",
+                  "9.63",
+                  "3.95"
+                ],
+                [
+                  "Net Income",
+                  "4127.56",
+                  "1760.05",
+                  "878.60",
+                  "526.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.05",
+                  "12.13",
+                  "6.85",
+                  "5.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-292.98",
+                  "2072.05",
+                  "-1383.95",
+                  "1735.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1238.15",
+                  "-1413.02",
+                  "-1554.95",
+                  "-199.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "2246.44",
+                  "-57.67",
+                  "3250.62",
+                  "-1461.49"
+                ],
+                [
+                  "CAPEX",
+                  "-433.84",
+                  "-860.82",
+                  "-223.02",
+                  "-360.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "DRAM",
+    "DDR5",
+    "SSD",
+    "AI 伺服器",
+    "Samsung",
+    "SK Hynix",
+    "Micron",
+    "Samsung",
+    "SK Hynix",
+    "Micron",
+    "廣達",
+    "仁寶",
+    "廣達",
+    "仁寶",
+    "Samsung",
+    "SK Hynix",
+    "Micron",
+    "金士頓",
+    "宇瞻"
+  ]
+}

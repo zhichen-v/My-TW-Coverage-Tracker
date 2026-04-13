@@ -1,0 +1,677 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/2504_國產.md",
+  "source_path": "Pilot_Reports/Building Materials/2504_國產.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/2504_國產.json",
+  "ticker": "2504",
+  "company_name": "國產",
+  "title": "# 2504 - 國產",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "45,781 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "56,353 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "國產建材實業股份有限公司 (Goldsun Building Materials Co., Ltd.) 成立於 1954 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北"
+            },
+            {
+              "type": "text",
+              "text": "。公司為台灣 "
+            },
+            {
+              "type": "strong",
+              "text": "預拌混凝土 (Ready-Mixed Concrete)"
+            },
+            {
+              "type": "text",
+              "text": " 龍頭，市占率全台第一。近年受惠於全台科技廠辦 (如 "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": ") 建廠需求及房市熱絡，業績穩健。積極佈局「碳礦化」混凝土技術及資產活化 (如南港大型開發案)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與料源掌握)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "核心材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購水泥 (來自 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") 與飛灰。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有礦源與物流:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 利用自有砂石船隊及散裝碼頭營運，進口砂石；並設立附屬爐石粉研磨廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (核心製造與減碳技術)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌混凝土:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "國產建材實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 於全台設立 28 處預拌廠，進行高強度混凝土拌合。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "碳封存合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與加拿大新創 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CarbonCure"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 合作，導入碳礦化技術，將工業二氧化碳封存於混凝土中。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新型建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 拓展矽酸鈣板、輕質隔間板與地板材。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技廠辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應全台科技大廠建廠專案 (貢獻營收約20%)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共與商辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北流行音樂中心、南港 CITYLINK 複合式大樓。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "房地產指標:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 南港「世界明珠」豪宅、以及各大建商之建案。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技產業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (佔其廠房訂單高達7%)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華邦電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力晶科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦與營造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "潤泰集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (如輝達進駐之玉成企業總部大樓)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (利百代大樓)、互助"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、達欣工。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大宗水泥來源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內雙雄 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "低碳技術授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 加拿大碳捕捉技術公司 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CarbonCure"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $38.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.61",
+                  "12.35",
+                  "2.03",
+                  "1.69",
+                  "9.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22532.72",
+                  "21718.63",
+                  "21041.13"
+                ],
+                [
+                  "Gross Profit",
+                  "6178.94",
+                  "5583.84",
+                  "4985.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.42",
+                  "25.71",
+                  "23.70"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "231.83",
+                  "184.99",
+                  "174.99"
+                ],
+                [
+                  "R&D Exp",
+                  "25.43",
+                  "60.00",
+                  "42.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "821.83",
+                  "796.63",
+                  "728.47"
+                ],
+                [
+                  "Operating Income",
+                  "5099.86",
+                  "4542.22",
+                  "4039.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.63",
+                  "20.91",
+                  "19.20"
+                ],
+                [
+                  "Net Income",
+                  "3884.01",
+                  "4591.19",
+                  "3530.98"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.24",
+                  "21.14",
+                  "16.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5154.42",
+                  "3961.95",
+                  "3784.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3468.19",
+                  "-2441.86",
+                  "-1730.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-803.39",
+                  "-905.51",
+                  "-1867.30"
+                ],
+                [
+                  "CAPEX",
+                  "-3911.18",
+                  "-4494.59",
+                  "-2648.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5740.24",
+                  "5549.83",
+                  "5888.01",
+                  "5354.64"
+                ],
+                [
+                  "Gross Profit",
+                  "1593.42",
+                  "1620.25",
+                  "1598.88",
+                  "1366.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.76",
+                  "29.19",
+                  "27.15",
+                  "25.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "70.56",
+                  "62.94",
+                  "54.15",
+                  "44.18"
+                ],
+                [
+                  "R&D Exp",
+                  "5.51",
+                  "4.93",
+                  "7.87",
+                  "7.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "201.39",
+                  "207.70",
+                  "211.46",
+                  "201.27"
+                ],
+                [
+                  "Operating Income",
+                  "1315.95",
+                  "1344.68",
+                  "1325.40",
+                  "1113.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.93",
+                  "24.23",
+                  "22.51",
+                  "20.80"
+                ],
+                [
+                  "Net Income",
+                  "998.28",
+                  "1023.13",
+                  "1025.83",
+                  "836.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.39",
+                  "18.44",
+                  "17.42",
+                  "15.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1864.34",
+                  "1430.48",
+                  "775.45",
+                  "1084.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1219.65",
+                  "-794.80",
+                  "-513.16",
+                  "-940.58"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-149.93",
+                  "-1215.78",
+                  "-417.35",
+                  "979.66"
+                ],
+                [
+                  "CAPEX",
+                  "-1210.53",
+                  "-1048.31",
+                  "-630.85",
+                  "-1021.49"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台北",
+    "台積電",
+    "台灣水泥",
+    "亞洲水泥",
+    "CarbonCure",
+    "台積電",
+    "華邦電",
+    "力晶科技",
+    "台達電",
+    "華碩",
+    "潤泰集團",
+    "國泰建設",
+    "營造",
+    "台灣水泥",
+    "台泥",
+    "亞洲水泥",
+    "亞泥",
+    "CarbonCure"
+  ]
+}

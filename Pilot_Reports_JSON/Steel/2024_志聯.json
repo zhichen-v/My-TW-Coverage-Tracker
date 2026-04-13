@@ -1,0 +1,522 @@
+{
+  "report_id": "Pilot_Reports/Steel/2024_志聯.md",
+  "source_path": "Pilot_Reports/Steel/2024_志聯.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2024_志聯.json",
+  "ticker": "2024",
+  "company_name": "志聯",
+  "title": "# 2024 - 志聯",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "1,424 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,751 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "志聯工業 (2024) 為專業"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼線"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "棒鋼"
+            },
+            {
+              "type": "text",
+              "text": "製造商。上游鋼胚來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "日本製鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "寶鋼"
+            },
+            {
+              "type": "text",
+              "text": "。下游供應彈簧/扣件/汽車零組件產業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "盤元 (Wire Rod):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 向"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CSC)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "寶鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本製鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Nippon Steel) 採購碳鋼及合金鋼盤元。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 擁有酸洗、抽線、熱處理、研磨等完整加工設備。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機械/汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軸承、齒輪、螺栓、心軸等精密零件。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子/OA:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印表機軸心、電子沖壓件。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金/工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 螺絲螺帽、手工具、彈簧。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加工廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外螺絲螺帽廠、CNC 車床加工廠。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零件廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽機車零組件製造商。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2002) (盤元主要來源)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $14.60 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.44",
+                  "1.28",
+                  "30.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "988.90",
+                  "1096.75",
+                  "916.43"
+                ],
+                [
+                  "Gross Profit",
+                  "67.51",
+                  "84.83",
+                  "18.29"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.83",
+                  "7.74",
+                  "2.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.52",
+                  "35.64",
+                  "31.01"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.90",
+                  "31.77",
+                  "32.27"
+                ],
+                [
+                  "Operating Income",
+                  "5.08",
+                  "17.43",
+                  "-44.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.51",
+                  "1.59",
+                  "-4.91"
+                ],
+                [
+                  "Net Income",
+                  "-5.88",
+                  "15.92",
+                  "-54.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.60",
+                  "1.45",
+                  "-5.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "80.67",
+                  "113.64",
+                  "288.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.84",
+                  "-6.77",
+                  "0.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-91.47",
+                  "-119.42",
+                  "-258.68"
+                ],
+                [
+                  "CAPEX",
+                  "-17.23",
+                  "-15.83",
+                  "-15.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "245.65",
+                  "236.47",
+                  "253.05",
+                  "253.73"
+                ],
+                [
+                  "Gross Profit",
+                  "21.75",
+                  "9.99",
+                  "16.13",
+                  "19.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.85",
+                  "4.22",
+                  "6.37",
+                  "7.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7.55",
+                  "7.82",
+                  "7.47",
+                  "7.69"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "7.47",
+                  "9.21",
+                  "7.78",
+                  "7.44"
+                ],
+                [
+                  "Operating Income",
+                  "6.73",
+                  "-7.04",
+                  "0.88",
+                  "4.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.74",
+                  "-2.98",
+                  "0.35",
+                  "1.78"
+                ],
+                [
+                  "Net Income",
+                  "7.71",
+                  "-5.82",
+                  "-10.71",
+                  "2.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.14",
+                  "-2.46",
+                  "-4.23",
+                  "1.16"
+                ],
+                [
+                  "Op Cash Flow",
+                  "14.14",
+                  "35.95",
+                  "29.48",
+                  "1.10"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "2.73",
+                  "-6.89",
+                  "-1.72",
+                  "5.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-27.60",
+                  "-12.64",
+                  "-39.55",
+                  "-11.67"
+                ],
+                [
+                  "CAPEX",
+                  "-5.22",
+                  "-10.19",
+                  "-1.37",
+                  "-0.45"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鋼線",
+    "棒鋼",
+    "中鋼",
+    "日本製鐵",
+    "寶鋼",
+    "中鋼",
+    "寶鋼",
+    "日本製鐵",
+    "中鋼"
+  ]
+}

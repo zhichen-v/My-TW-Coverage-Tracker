@@ -1,0 +1,477 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3332_幸康.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3332_幸康.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3332_幸康.json",
+  "ticker": "3332",
+  "company_name": "幸康",
+  "title": "# 3332 - 幸康",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "2,728 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,899 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "幸康電子 (3332，Cincon) 品牌 CINCON 專注"
+            },
+            {
+              "type": "wikilink",
+              "text": "DC-DC 轉換器"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AC-DC 電源供應器"
+            },
+            {
+              "type": "text",
+              "text": "，主攻醫療 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "IEC 60601-1"
+            },
+            {
+              "type": "text",
+              "text": ")、鐵道及工業利基。佈局"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": "新世代功率。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 磁性材料、"
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "幸康"
+            },
+            {
+              "type": "text",
+              "text": " (CINCON "
+            },
+            {
+              "type": "wikilink",
+              "text": "DC-DC 轉換器"
+            },
+            {
+              "type": "text",
+              "text": ")\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 醫療/鐵道/工業設備"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "歐美日醫療/鐵道/工業設備商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "磁性材料/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "碳化矽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鎵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "功率元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $56.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.97",
+                  "N/A",
+                  "1.71",
+                  "1.49",
+                  "8.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1595.92",
+                  "1336.19",
+                  "1397.03"
+                ],
+                [
+                  "Gross Profit",
+                  "581.90",
+                  "454.28",
+                  "518.94"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "36.46",
+                  "34.00",
+                  "37.15"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "130.33",
+                  "114.65",
+                  "101.79"
+                ],
+                [
+                  "R&D Exp",
+                  "165.29",
+                  "166.97",
+                  "154.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "124.05",
+                  "100.40",
+                  "117.27"
+                ],
+                [
+                  "Operating Income",
+                  "162.23",
+                  "72.25",
+                  "145.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.17",
+                  "5.41",
+                  "10.40"
+                ],
+                [
+                  "Net Income",
+                  "169.90",
+                  "104.78",
+                  "143.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.65",
+                  "7.84",
+                  "10.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "221.75",
+                  "177.39",
+                  "190.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-48.83",
+                  "-55.56",
+                  "-216.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-62.22",
+                  "-126.09",
+                  "-218.61"
+                ],
+                [
+                  "CAPEX",
+                  "-49.22",
+                  "-55.06",
+                  "-225.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "359.31",
+                  "414.18",
+                  "425.71",
+                  "396.72"
+                ],
+                [
+                  "Gross Profit",
+                  "123.10",
+                  "141.85",
+                  "173.85",
+                  "143.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.26",
+                  "34.25",
+                  "40.84",
+                  "36.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "31.96",
+                  "33.43",
+                  "34.30",
+                  "30.64"
+                ],
+                [
+                  "R&D Exp",
+                  "38.46",
+                  "41.73",
+                  "42.48",
+                  "42.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.00",
+                  "26.75",
+                  "29.21",
+                  "26.09"
+                ],
+                [
+                  "Operating Income",
+                  "10.69",
+                  "39.93",
+                  "67.86",
+                  "43.76"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.97",
+                  "9.64",
+                  "15.94",
+                  "11.03"
+                ],
+                [
+                  "Net Income",
+                  "29.74",
+                  "38.42",
+                  "54.07",
+                  "47.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.28",
+                  "9.28",
+                  "12.70",
+                  "12.01"
+                ],
+                [
+                  "Op Cash Flow",
+                  "36.91",
+                  "41.30",
+                  "107.79",
+                  "35.75"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.50",
+                  "-16.49",
+                  "-11.52",
+                  "-11.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-47.76",
+                  "-29.83",
+                  "20.05",
+                  "-4.68"
+                ],
+                [
+                  "CAPEX",
+                  "-9.85",
+                  "-16.46",
+                  "-11.61",
+                  "-11.30"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "DC-DC 轉換器",
+    "AC-DC 電源供應器",
+    "IEC 60601-1",
+    "碳化矽",
+    "氮化鎵",
+    "MOSFET",
+    "碳化矽",
+    "氮化鎵",
+    "DC-DC 轉換器",
+    "碳化矽",
+    "氮化鎵"
+  ]
+}

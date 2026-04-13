@@ -1,0 +1,678 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2303_聯電.md",
+  "source_path": "Pilot_Reports/Semiconductors/2303_聯電.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2303_聯電.json",
+  "ticker": "2303",
+  "company_name": "聯電",
+  "title": "# 2303 - [[聯電]]",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "780,466 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "731,157 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": " (United Microelectronics Corporation, UMC) 成立於 1980 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司為全球第三大"
+            },
+            {
+              "type": "strong",
+              "text": "晶圓代工 (Foundry)"
+            },
+            {
+              "type": "text",
+              "text": " 廠商，僅次於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "與三星。"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": "專注於"
+            },
+            {
+              "type": "strong",
+              "text": "成熟製程"
+            },
+            {
+              "type": "text",
+              "text": " (22nm - 0.6um) 及特殊製程 (Specialty Technologies)，如高壓 (HV)、嵌入式非揮發性"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": " (eNVM)、RFSOI 及 BCD 製程。公司在台灣、新加坡、中國(廈門)及日本擁有 12 吋及 8 吋晶圓廠。"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": "近年策略不再追求先進製程競賽，轉而深耕特殊製程，追求穩健獲利與現金流。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料/設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GlobalWafers)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SUMCO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、Shin-Etsu。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tokyo Electron"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lam Research"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", 漢唐, 帆宣。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品/光阻:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Merck, DOW, 關東鑫林, 三福化工。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計公司 (Fabless):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 將從客戶端接收的設計圖生產成晶片。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "應用領域:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/Wi-Fi)、顯示器驅動 IC (DDI)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "物聯網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、車用電子 (Auto)、電源管理 (PMIC)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MCU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊/網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Novatek ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " - "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團), Himax (奇景)."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Texas Instruments"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", Silicon Labs, Kodak."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", 台勝科."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 應用材料, 艾司摩爾."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $62.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.73",
+                  "13.31",
+                  "3.29",
+                  "2.06",
+                  "7.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "237553.20",
+                  "232302.58",
+                  "222533.00"
+                ],
+                [
+                  "Gross Profit",
+                  "68906.50",
+                  "75654.08",
+                  "77743.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.01",
+                  "32.57",
+                  "34.94"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2433.45",
+                  "2701.48",
+                  "3225.15"
+                ],
+                [
+                  "R&D Exp",
+                  "17724.75",
+                  "15616.04",
+                  "13283.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6791.90",
+                  "7117.42",
+                  "7477.04"
+                ],
+                [
+                  "Operating Income",
+                  "43658.93",
+                  "51268.64",
+                  "57289.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.38",
+                  "22.07",
+                  "25.74"
+                ],
+                [
+                  "Net Income",
+                  "41716.25",
+                  "47210.93",
+                  "59688.95"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.56",
+                  "20.32",
+                  "26.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "99864.19",
+                  "93872.04",
+                  "85999.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-53154.43",
+                  "-85941.10",
+                  "-97786.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-39203.86",
+                  "-39199.75",
+                  "-29086.18"
+                ],
+                [
+                  "CAPEX",
+                  "-50733.65",
+                  "-91343.01",
+                  "-94020.18"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "61809.54",
+                  "59127.04",
+                  "58757.66",
+                  "57858.96"
+                ],
+                [
+                  "Gross Profit",
+                  "18958.44",
+                  "17623.32",
+                  "16878.10",
+                  "15446.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.67",
+                  "29.81",
+                  "28.72",
+                  "26.70"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "594.95",
+                  "628.04",
+                  "591.22",
+                  "619.24"
+                ],
+                [
+                  "R&D Exp",
+                  "4936.75",
+                  "4630.62",
+                  "4193.68",
+                  "3963.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1852.58",
+                  "1714.52",
+                  "1682.37",
+                  "1542.43"
+                ],
+                [
+                  "Operating Income",
+                  "13356.18",
+                  "11007.21",
+                  "10767.49",
+                  "9716.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.61",
+                  "18.62",
+                  "18.33",
+                  "16.79"
+                ],
+                [
+                  "Net Income",
+                  "10054.92",
+                  "14982.06",
+                  "8902.53",
+                  "7776.74"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.27",
+                  "25.34",
+                  "15.15",
+                  "13.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "33002.89",
+                  "20937.56",
+                  "22098.03",
+                  "23825.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17059.09",
+                  "-16151.88",
+                  "-9437.80",
+                  "-10505.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11416.15",
+                  "-15160.40",
+                  "1148.77",
+                  "-13776.09"
+                ],
+                [
+                  "CAPEX",
+                  "-15493.49",
+                  "-12170.62",
+                  "-8587.88",
+                  "-14481.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聯電",
+    "聯電",
+    "新竹",
+    "台積電",
+    "聯電",
+    "記憶體",
+    "聯電",
+    "矽晶圓",
+    "環球晶",
+    "SUMCO",
+    "Applied Materials",
+    "ASML",
+    "Tokyo Electron",
+    "Lam Research",
+    "5G",
+    "物聯網",
+    "MCU",
+    "聯發科",
+    "瑞昱",
+    "Qualcomm",
+    "聯詠",
+    "聯電",
+    "Texas Instruments",
+    "矽晶圓",
+    "環球晶"
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/1590_亞德客-KY.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/1590_亞德客-KY.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/1590_亞德客-KY.json",
+  "ticker": "1590",
+  "company_name": "亞德客-KY",
+  "title": "# 1590 - 亞德客-KY",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "202,000 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "198,269 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "亞德客國際 (1590，AirTAC，亞德客-KY) 為全球知名"
+            },
+            {
+              "type": "wikilink",
+              "text": "氣動元件"
+            },
+            {
+              "type": "text",
+              "text": "製造商，中國市佔約 30%。競爭對手為"
+            },
+            {
+              "type": "wikilink",
+              "text": "SMC"
+            },
+            {
+              "type": "text",
+              "text": " (日本) 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "Festo"
+            },
+            {
+              "type": "text",
+              "text": " (德國)。客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Luxshare"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "CATL"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BYD"
+            },
+            {
+              "type": "text",
+              "text": "。另拓展"
+            },
+            {
+              "type": "wikilink",
+              "text": "線性滑軌"
+            },
+            {
+              "type": "text",
+              "text": "。密封件來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "NOK"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 部分自製"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "密封件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NOK"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "亞德客"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AirTAC "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氣動元件"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "線性滑軌"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Luxshare"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新能源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CATL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BYD"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Luxshare"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新能源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CATL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BYD"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "SMC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Festo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "密封件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NOK"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,010.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.04",
+                  "18.62",
+                  "5.88",
+                  "3.84",
+                  "15.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "34329.94",
+                  "30660.13",
+                  "29827.35"
+                ],
+                [
+                  "Gross Profit",
+                  "15782.04",
+                  "14313.70",
+                  "13754.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.97",
+                  "46.69",
+                  "46.12"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3152.64",
+                  "3046.15",
+                  "2887.99"
+                ],
+                [
+                  "R&D Exp",
+                  "1110.51",
+                  "1040.12",
+                  "895.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1217.33",
+                  "1174.93",
+                  "1118.72"
+                ],
+                [
+                  "Operating Income",
+                  "10301.56",
+                  "9052.49",
+                  "8852.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "30.01",
+                  "29.53",
+                  "29.68"
+                ],
+                [
+                  "Net Income",
+                  "8400.10",
+                  "7623.68",
+                  "6965.81"
+                ],
+                [
+                  "Net Margin (%)",
+                  "24.47",
+                  "24.87",
+                  "23.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "7666.59",
+                  "10678.46",
+                  "9047.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-969.07",
+                  "-3696.27",
+                  "-3550.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-9428.78",
+                  "-9518.25",
+                  "-2639.37"
+                ],
+                [
+                  "CAPEX",
+                  "-2823.81",
+                  "-2676.56",
+                  "-2512.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9035.14",
+                  "8245.91",
+                  "8952.81",
+                  "8096.08"
+                ],
+                [
+                  "Gross Profit",
+                  "4292.19",
+                  "3796.68",
+                  "4119.14",
+                  "3574.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "47.51",
+                  "46.04",
+                  "46.01",
+                  "44.15"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "842.03",
+                  "756.99",
+                  "807.01",
+                  "746.60"
+                ],
+                [
+                  "R&D Exp",
+                  "303.06",
+                  "273.53",
+                  "263.94",
+                  "269.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "311.33",
+                  "312.87",
+                  "291.30",
+                  "301.82"
+                ],
+                [
+                  "Operating Income",
+                  "2835.76",
+                  "2453.29",
+                  "2756.88",
+                  "2255.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "31.39",
+                  "29.75",
+                  "30.79",
+                  "27.86"
+                ],
+                [
+                  "Net Income",
+                  "2327.81",
+                  "2099.47",
+                  "2037.06",
+                  "1935.75"
+                ],
+                [
+                  "Net Margin (%)",
+                  "25.76",
+                  "25.46",
+                  "22.75",
+                  "23.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2688.83",
+                  "1902.69",
+                  "1761.19",
+                  "1313.88"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-851.50",
+                  "74.02",
+                  "-208.62",
+                  "17.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6913.38",
+                  "384.21",
+                  "-112.95",
+                  "-2786.67"
+                ],
+                [
+                  "CAPEX",
+                  "-803.22",
+                  "-834.26",
+                  "-709.14",
+                  "-477.19"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "氣動元件",
+    "SMC",
+    "Festo",
+    "鴻海",
+    "Luxshare",
+    "Apple",
+    "CATL",
+    "BYD",
+    "線性滑軌",
+    "NOK",
+    "NOK",
+    "氣動元件",
+    "線性滑軌",
+    "鴻海",
+    "Luxshare",
+    "Apple",
+    "CATL",
+    "BYD",
+    "鴻海",
+    "Luxshare",
+    "CATL",
+    "BYD",
+    "SMC",
+    "Festo",
+    "NOK"
+  ]
+}

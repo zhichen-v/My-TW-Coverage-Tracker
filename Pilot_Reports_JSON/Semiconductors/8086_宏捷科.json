@@ -1,0 +1,596 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/8086_宏捷科.md",
+  "source_path": "Pilot_Reports/Semiconductors/8086_宏捷科.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/8086_宏捷科.json",
+  "ticker": "8086",
+  "company_name": "宏捷科",
+  "title": "# 8086 - 宏捷科",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "28,397 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "25,885 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宏捷科技 (8086，AWSC) 為全球第二大"
+            },
+            {
+              "type": "wikilink",
+              "text": "砷化鎵"
+            },
+            {
+              "type": "text",
+              "text": " (GaAs) "
+            },
+            {
+              "type": "wikilink",
+              "text": "晶圓代工"
+            },
+            {
+              "type": "text",
+              "text": "廠，市占率約 24%。專注於 6 吋 GaAs "
+            },
+            {
+              "type": "wikilink",
+              "text": "HBT"
+            },
+            {
+              "type": "text",
+              "text": "、pHEMT 及 BiHEMT 製程代工，產品應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": " 及智慧型手機射頻元件 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "PA"
+            },
+            {
+              "type": "text",
+              "text": " 功率放大器、Switch 及 LNA) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "3D 感測"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "VCSEL"
+            },
+            {
+              "type": "text",
+              "text": "。最大客戶 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Skyworks"
+            },
+            {
+              "type": "text",
+              "text": " 貢獻約 56% 營收。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (磊晶材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GaAs 磊晶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全新光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GaAs 磊晶片供應)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GaAs 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "宏捷科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球第二大 GaAs 晶圓代工，市占 24%)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (RF IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RF IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Skyworks"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (占營收 56%)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立積"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "紫光展銳"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RF IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Skyworks"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (占營收 56%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣 RF:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立積"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國 RF:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "紫光展銳"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GaAs 磊晶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全新光電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "穩懋"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球最大 GaAs 代工)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $144.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "43.13",
+                  "29.42",
+                  "6.90",
+                  "3.45",
+                  "18.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4116.53",
+                  "4455.58",
+                  "2723.10"
+                ],
+                [
+                  "Gross Profit",
+                  "1089.91",
+                  "885.09",
+                  "414.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.48",
+                  "19.86",
+                  "15.23"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "27.16",
+                  "26.23",
+                  "19.59"
+                ],
+                [
+                  "R&D Exp",
+                  "195.02",
+                  "202.53",
+                  "219.63"
+                ],
+                [
+                  "General & Admin Exp",
+                  "129.84",
+                  "131.18",
+                  "105.91"
+                ],
+                [
+                  "Operating Income",
+                  "737.88",
+                  "525.15",
+                  "69.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.92",
+                  "11.79",
+                  "2.56"
+                ],
+                [
+                  "Net Income",
+                  "660.15",
+                  "520.92",
+                  "82.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.04",
+                  "11.69",
+                  "3.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1307.99",
+                  "1248.67",
+                  "136.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-707.51",
+                  "-820.70",
+                  "-498.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "23.76",
+                  "419.07",
+                  "427.25"
+                ],
+                [
+                  "CAPEX",
+                  "-249.09",
+                  "-877.70",
+                  "-504.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1253.17",
+                  "974.42",
+                  "771.76",
+                  "759.96"
+                ],
+                [
+                  "Gross Profit",
+                  "381.42",
+                  "232.22",
+                  "161.38",
+                  "41.91"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.44",
+                  "23.83",
+                  "20.91",
+                  "5.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.31",
+                  "4.91",
+                  "7.04",
+                  "5.29"
+                ],
+                [
+                  "R&D Exp",
+                  "55.95",
+                  "41.16",
+                  "44.06",
+                  "44.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "38.67",
+                  "27.81",
+                  "31.20",
+                  "30.22"
+                ],
+                [
+                  "Operating Income",
+                  "278.49",
+                  "158.35",
+                  "79.08",
+                  "-38.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.22",
+                  "16.25",
+                  "10.25",
+                  "-5.01"
+                ],
+                [
+                  "Net Income",
+                  "260.72",
+                  "98.95",
+                  "82.52",
+                  "16.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.81",
+                  "10.15",
+                  "10.69",
+                  "2.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "288.26",
+                  "327.26",
+                  "236.03",
+                  "557.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "634.41",
+                  "169.27",
+                  "-269.59",
+                  "-158.01"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "83.22",
+                  "77.78",
+                  "59.50",
+                  "71.92"
+                ],
+                [
+                  "CAPEX",
+                  "-103.57",
+                  "-61.22",
+                  "-40.23",
+                  "-214.97"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "砷化鎵",
+    "晶圓代工",
+    "HBT",
+    "Wi-Fi",
+    "PA",
+    "3D 感測",
+    "VCSEL",
+    "Skyworks",
+    "全新光電",
+    "Skyworks",
+    "立積",
+    "紫光展銳",
+    "Skyworks",
+    "立積",
+    "紫光展銳",
+    "全新光電",
+    "穩懋"
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/1449_佳和.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/1449_佳和.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/1449_佳和.json",
+  "ticker": "1449",
+  "company_name": "佳和",
+  "title": "# 1449 - 佳和",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,487 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,627 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "佳和"
+            },
+            {
+              "type": "text",
+              "text": "實業 (Chia Her Industrial) 為台灣知名紡織廠，以生產高品質羊毛紡織品起家，近年積極轉型為機能性與複合材料供應商。紡織部門供應成衣布料，涵蓋時尚、戶外、家飾；複合材料部門成功切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "及航空航太供應鏈，提供車用及機艙用內裝材料。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "紡織事業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "擁有織布、染整一貫化製程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "供應機能性布料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "複合材料事業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "供應特殊纖維製品給車廠Tier 1供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "切入"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "內飾及航太供應鏈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "成衣品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lululemon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Arc'teryx"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等國際戶外品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "內飾供應鏈、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Land Rover"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊紗線廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $11.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "97.50",
+                  "5.79",
+                  "0.56",
+                  "0.67",
+                  "-53.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2665.56",
+                  "2893.64",
+                  "2656.75"
+                ],
+                [
+                  "Gross Profit",
+                  "248.38",
+                  "582.05",
+                  "399.93"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.32",
+                  "20.11",
+                  "15.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "211.35",
+                  "178.65",
+                  "153.27"
+                ],
+                [
+                  "R&D Exp",
+                  "66.38",
+                  "69.84",
+                  "75.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "252.43",
+                  "205.19",
+                  "184.37"
+                ],
+                [
+                  "Operating Income",
+                  "-281.78",
+                  "128.38",
+                  "-13.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-10.57",
+                  "4.44",
+                  "-0.50"
+                ],
+                [
+                  "Net Income",
+                  "13.48",
+                  "88.34",
+                  "51.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.51",
+                  "3.05",
+                  "1.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-115.99",
+                  "77.32",
+                  "182.97"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "330.57",
+                  "-277.21",
+                  "-77.26"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "100.40",
+                  "193.56",
+                  "16.43"
+                ],
+                [
+                  "CAPEX",
+                  "-171.03",
+                  "-176.86",
+                  "-162.01"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "859.89",
+                  "453.13",
+                  "703.42",
+                  "649.11"
+                ],
+                [
+                  "Gross Profit",
+                  "7.25",
+                  "14.98",
+                  "113.41",
+                  "112.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "0.84",
+                  "3.31",
+                  "16.12",
+                  "17.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "103.66",
+                  "32.29",
+                  "34.76",
+                  "40.63"
+                ],
+                [
+                  "R&D Exp",
+                  "17.35",
+                  "15.51",
+                  "16.23",
+                  "17.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "99.84",
+                  "62.25",
+                  "49.06",
+                  "41.28"
+                ],
+                [
+                  "Operating Income",
+                  "-213.60",
+                  "-95.07",
+                  "13.35",
+                  "13.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-24.84",
+                  "-20.98",
+                  "1.90",
+                  "2.09"
+                ],
+                [
+                  "Net Income",
+                  "43.62",
+                  "-32.36",
+                  "-16.84",
+                  "19.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.07",
+                  "-7.14",
+                  "-2.39",
+                  "2.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-117.69",
+                  "-69.59",
+                  "-0.24",
+                  "71.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "473.04",
+                  "-63.21",
+                  "-44.45",
+                  "-34.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1.62",
+                  "199.80",
+                  "-37.64",
+                  "-63.38"
+                ],
+                [
+                  "CAPEX",
+                  "-9.73",
+                  "-99.27",
+                  "-23.76",
+                  "-38.26"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "佳和",
+    "電動車",
+    "電動車",
+    "Lululemon",
+    "Arc'teryx",
+    "Tesla",
+    "電動車",
+    "Land Rover"
+  ]
+}

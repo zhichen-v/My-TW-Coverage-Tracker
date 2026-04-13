@@ -1,0 +1,794 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3615_安可.md",
+  "source_path": "Pilot_Reports/Electronic Components/3615_安可.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3615_安可.json",
+  "ticker": "3615",
+  "company_name": "安可",
+  "title": "# 3615 - 安可",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "2,170 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,095 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "安可光電 (3615，"
+            },
+            {
+              "type": "wikilink",
+              "text": "AimCore"
+            },
+            {
+              "type": "text",
+              "text": ") 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "錸德"
+            },
+            {
+              "type": "text",
+              "text": " 集團旗下成員，是台灣專業的鍍膜代工廠。核心產品為 "
+            },
+            {
+              "type": "strong",
+              "text": "ITO 導電玻璃"
+            },
+            {
+              "type": "text",
+              "text": "，為顯示面板與觸控感測器的必需材料。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務轉型與亮點：\n1. "
+            },
+            {
+              "type": "strong",
+              "text": "車用領域"
+            },
+            {
+              "type": "text",
+              "text": ": 積極拉升車用產品比重，開發車用蓋板抗反射薄膜及電致變色後視鏡片。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "先進封裝"
+            },
+            {
+              "type": "text",
+              "text": ": 受惠於晶片封裝技術演進，玻璃基板 (Glass Substrate) 需求增溫，安可具備相關鍍膜加工潛力。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "新能源材料"
+            },
+            {
+              "type": "text",
+              "text": ": 切入鈣鈦礦太陽能電池供應鏈，提供高穿透力 TCO 導電玻璃。\n4. "
+            },
+            {
+              "type": "strong",
+              "text": "PSS 基板"
+            },
+            {
+              "type": "text",
+              "text": ": 生產圖案化藍寶石基板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "PSS"
+            },
+            {
+              "type": "text",
+              "text": ")，應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": " 客戶。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ITO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 靶材 (銦錫氧化物)、貴金屬濺鍍靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "藍寶石晶圓:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍寶石"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶棒切片供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鍍膜加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ITO 導電玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (真空濺鍍鍍膜加工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PSS 基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (圖案化藍寶石基板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用鍍膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (抗反射/電致變色薄膜)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/觸控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、觸控面板模組廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 磊晶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "隆達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PSS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 藍寶石基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 後視鏡廠、汽車內裝面板商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鈣鈦礦太陽能電池廠 — TCO 導電玻璃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板觸控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ITO 導電玻璃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 磊晶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PSS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 圖案化藍寶石基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用光學:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用後視鏡與內裝元件廠 — 抗反射鍍膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鈣鈦礦太陽能電池廠 — TCO 導電玻璃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "錸德"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源與技術支援"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ITO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 靶材供應商 — 濺鍍用銦錫氧化物"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "37.74",
+                  "N/A",
+                  "2.34",
+                  "0.99",
+                  "23.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "927.63",
+                  "1020.70",
+                  "1075.23"
+                ],
+                [
+                  "Gross Profit",
+                  "209.15",
+                  "165.96",
+                  "194.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.55",
+                  "16.26",
+                  "18.12"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "52.42",
+                  "65.90",
+                  "87.70"
+                ],
+                [
+                  "R&D Exp",
+                  "18.70",
+                  "23.80",
+                  "30.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "110.76",
+                  "91.01",
+                  "84.59"
+                ],
+                [
+                  "Operating Income",
+                  "27.28",
+                  "-14.74",
+                  "-8.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.94",
+                  "-1.44",
+                  "-0.77"
+                ],
+                [
+                  "Net Income",
+                  "56.44",
+                  "0.17",
+                  "60.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.08",
+                  "0.02",
+                  "5.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "250.88",
+                  "132.64",
+                  "60.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-278.14",
+                  "-71.40",
+                  "128.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-308.20",
+                  "-244.10",
+                  "-90.03"
+                ],
+                [
+                  "CAPEX",
+                  "-107.12",
+                  "-39.37",
+                  "-40.57"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "176.78",
+                  "237.59",
+                  "264.90",
+                  "248.35"
+                ],
+                [
+                  "Gross Profit",
+                  "39.07",
+                  "46.82",
+                  "71.89",
+                  "51.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.10",
+                  "19.70",
+                  "27.14",
+                  "20.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "9.74",
+                  "16.06",
+                  "13.84",
+                  "12.79"
+                ],
+                [
+                  "R&D Exp",
+                  "4.76",
+                  "4.61",
+                  "4.75",
+                  "4.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.40",
+                  "27.81",
+                  "22.65",
+                  "28.89"
+                ],
+                [
+                  "Operating Income",
+                  "-6.83",
+                  "-1.66",
+                  "30.65",
+                  "5.12"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.86",
+                  "-0.70",
+                  "11.57",
+                  "2.06"
+                ],
+                [
+                  "Net Income",
+                  "19.48",
+                  "45.68",
+                  "-5.24",
+                  "-3.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.02",
+                  "19.22",
+                  "-1.98",
+                  "-1.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "111.25",
+                  "100.65",
+                  "-32.15",
+                  "71.14"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-180.45",
+                  "42.25",
+                  "-121.66",
+                  "-18.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-69.83",
+                  "-178.12",
+                  "-27.41",
+                  "-32.84"
+                ],
+                [
+                  "CAPEX",
+                  "-97.52",
+                  "-1.28",
+                  "-2.52",
+                  "-5.81"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AimCore",
+    "錸德",
+    "PSS",
+    "LED",
+    "磊晶",
+    "ITO",
+    "藍寶石",
+    "友達",
+    "群創",
+    "晶元光電",
+    "隆達",
+    "PSS",
+    "友達",
+    "群創",
+    "晶元光電",
+    "PSS",
+    "錸德",
+    "ITO"
+  ]
+}

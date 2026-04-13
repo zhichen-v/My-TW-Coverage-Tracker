@@ -1,0 +1,496 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/8038_長園科.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/8038_長園科.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/8038_長園科.json",
+  "ticker": "8038",
+  "company_name": "長園科",
+  "title": "# 8038 - 長園科",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,650 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,017 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "長園科技 (8038) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "磷酸鋰鐵"
+            },
+            {
+              "type": "text",
+              "text": "電池先驅 (2005年專利)。最大客戶"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": " (高階鋰鐵"
+            },
+            {
+              "type": "wikilink",
+              "text": "UPS"
+            },
+            {
+              "type": "text",
+              "text": ")。切入AI "
+            },
+            {
+              "type": "wikilink",
+              "text": "BBU"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "天宇"
+            },
+            {
+              "type": "text",
+              "text": "結盟。2025年營收5.97億 (年增237%)，轉盈。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鋰/鐵/磷化工/電池芯代工\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "長園科"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "LiFePO4"
+            },
+            {
+              "type": "text",
+              "text": "正極/鋰鐵模組)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "UPS"
+            },
+            {
+              "type": "text",
+              "text": "; "
+            },
+            {
+              "type": "wikilink",
+              "text": "天宇"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "BBU"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UPS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "天宇"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BBU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "策略夥伴"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "特種化工/電池芯代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $42.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "46.25",
+                  "N/A",
+                  "4.44",
+                  "5.66",
+                  "41.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "596.93",
+                  "176.69",
+                  "332.99"
+                ],
+                [
+                  "Gross Profit",
+                  "172.35",
+                  "6.45",
+                  "89.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.87",
+                  "3.65",
+                  "26.82"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "25.88",
+                  "17.18",
+                  "16.23"
+                ],
+                [
+                  "R&D Exp",
+                  "33.92",
+                  "44.03",
+                  "26.15"
+                ],
+                [
+                  "General & Admin Exp",
+                  "66.52",
+                  "52.72",
+                  "44.43"
+                ],
+                [
+                  "Operating Income",
+                  "46.03",
+                  "-107.47",
+                  "2.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.71",
+                  "-60.83",
+                  "0.75"
+                ],
+                [
+                  "Net Income",
+                  "57.10",
+                  "-96.19",
+                  "0.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.57",
+                  "-54.44",
+                  "0.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-36.11",
+                  "-86.47",
+                  "-100.05"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17.17",
+                  "-10.65",
+                  "12.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "155.37",
+                  "46.14",
+                  "192.78"
+                ],
+                [
+                  "CAPEX",
+                  "-1.90",
+                  "-6.83",
+                  "-2.41"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "185.90",
+                  "210.17",
+                  "162.65",
+                  "38.22"
+                ],
+                [
+                  "Gross Profit",
+                  "33.68",
+                  "68.77",
+                  "46.67",
+                  "23.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.12",
+                  "32.72",
+                  "28.70",
+                  "60.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.34",
+                  "6.77",
+                  "5.36",
+                  "5.40"
+                ],
+                [
+                  "R&D Exp",
+                  "3.80",
+                  "7.42",
+                  "11.61",
+                  "11.09"
+                ],
+                [
+                  "General & Admin Exp",
+                  "17.00",
+                  "16.33",
+                  "13.69",
+                  "19.50"
+                ],
+                [
+                  "Operating Income",
+                  "4.54",
+                  "38.25",
+                  "16.01",
+                  "-12.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.44",
+                  "18.20",
+                  "9.84",
+                  "-33.41"
+                ],
+                [
+                  "Net Income",
+                  "6.75",
+                  "42.83",
+                  "18.89",
+                  "-11.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.63",
+                  "20.38",
+                  "11.61",
+                  "-29.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "54.17",
+                  "-24.45",
+                  "-38.01",
+                  "-27.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.24",
+                  "-4.94",
+                  "2.76",
+                  "-5.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "79.09",
+                  "15.21",
+                  "24.19",
+                  "36.89"
+                ],
+                [
+                  "CAPEX",
+                  "-0.19",
+                  "-1.43",
+                  "-0.01",
+                  "-0.28"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "磷酸鋰鐵",
+    "台積電",
+    "UPS",
+    "BBU",
+    "天宇",
+    "LiFePO4",
+    "台積電",
+    "UPS",
+    "天宇",
+    "BBU",
+    "台積電",
+    "UPS",
+    "天宇",
+    "BBU"
+  ]
+}

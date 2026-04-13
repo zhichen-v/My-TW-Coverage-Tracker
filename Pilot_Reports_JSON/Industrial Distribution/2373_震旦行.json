@@ -1,0 +1,748 @@
+{
+  "report_id": "Pilot_Reports/Industrial Distribution/2373_震旦行.md",
+  "source_path": "Pilot_Reports/Industrial Distribution/2373_震旦行.md",
+  "json_path": "Pilot_Reports_JSON/Industrial Distribution/2373_震旦行.json",
+  "ticker": "2373",
+  "company_name": "震旦行",
+  "title": "# 2373 - 震旦行",
+  "sector_folder": "Industrial Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Industrial Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "12,639 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "13,888 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "震旦行股份有限公司成立於1965年，為台灣最大辦公設備通路集團之一。核心業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "辦公設備："
+            },
+            {
+              "type": "text",
+              "text": " 旗下"
+            },
+            {
+              "type": "wikilink",
+              "text": "金儀"
+            },
+            {
+              "type": "text",
+              "text": "為"
+            },
+            {
+              "type": "wikilink",
+              "text": "Konica Minolta"
+            },
+            {
+              "type": "text",
+              "text": "影印機/多功能事務機台灣獨家代理商，提供企業辦公設備租賃與售後服務；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "辦公家具："
+            },
+            {
+              "type": "text",
+              "text": " 自有品牌震旦辦公家具，為台灣辦公家具市場領導品牌；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "數位印刷："
+            },
+            {
+              "type": "text",
+              "text": " 子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "康鈦科技"
+            },
+            {
+              "type": "text",
+              "text": "代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Konica Minolta"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "DEVELOP"
+            },
+            {
+              "type": "text",
+              "text": " 高階數位生產型印刷系統；（4）"
+            },
+            {
+              "type": "strong",
+              "text": "雲端與通訊："
+            },
+            {
+              "type": "text",
+              "text": " 震旦雲提供企業雲端 IT 服務，通訊事業提供企業通訊解決方案；（5）"
+            },
+            {
+              "type": "strong",
+              "text": "3D列印："
+            },
+            {
+              "type": "text",
+              "text": " 代理工業級"
+            },
+            {
+              "type": "wikilink",
+              "text": "3D列印"
+            },
+            {
+              "type": "text",
+              "text": "設備。集團業務遍及台灣及中國大陸市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "事務機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（日本，影印機/多功能事務機原廠）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位印刷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DEVELOP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（高階數位生產型印刷系統）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D列印"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "辦公家具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自有品牌設計製造"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (通路與服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "震旦行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 辦公設備銷售/租賃、辦公家具、企業雲端 IT 服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[金儀]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 事務機台灣獨家代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[康鈦科技]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 數位印刷系統代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣及大陸各產業企業辦公設備採購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 公務機關辦公設備標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印刷業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 數位印刷服務業者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業辦公:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣及大陸各產業企業（辦公設備租賃與採購）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 公務機關辦公設備標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印刷業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 數位印刷業者（高階數位生產型印刷系統）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "辦公空間:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商辦大樓（辦公家具整體規劃）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "事務機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（日本，核心設備原廠）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位印刷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DEVELOP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（高階印刷設備）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D列印"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IT服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雲端基礎設施與軟體供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $56.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.56",
+                  "7.87",
+                  "1.16",
+                  "1.85",
+                  "11.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11292.75",
+                  "11533.33",
+                  "12576.33"
+                ],
+                [
+                  "Gross Profit",
+                  "5012.81",
+                  "5320.11",
+                  "5544.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "44.39",
+                  "46.13",
+                  "44.09"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2593.58",
+                  "2606.25",
+                  "2741.97"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1554.69",
+                  "1698.27",
+                  "1588.32"
+                ],
+                [
+                  "Operating Income",
+                  "864.54",
+                  "1015.59",
+                  "1214.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.66",
+                  "8.81",
+                  "9.66"
+                ],
+                [
+                  "Net Income",
+                  "958.64",
+                  "1091.51",
+                  "1309.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.49",
+                  "9.46",
+                  "10.41"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1285.45",
+                  "1712.22",
+                  "799.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "393.84",
+                  "264.95",
+                  "-170.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1592.22",
+                  "-1423.23",
+                  "-1217.60"
+                ],
+                [
+                  "CAPEX",
+                  "-593.68",
+                  "-379.41",
+                  "-476.04"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2752.91",
+                  "2643.84",
+                  "2608.38",
+                  "2864.43"
+                ],
+                [
+                  "Gross Profit",
+                  "1270.05",
+                  "1244.79",
+                  "1193.98",
+                  "1145.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "46.13",
+                  "47.08",
+                  "45.77",
+                  "40.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "412.25",
+                  "582.10",
+                  "575.61",
+                  "730.93"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "622.19",
+                  "427.96",
+                  "467.33",
+                  "175.83"
+                ],
+                [
+                  "Operating Income",
+                  "235.60",
+                  "234.73",
+                  "151.04",
+                  "238.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.56",
+                  "8.88",
+                  "5.79",
+                  "8.34"
+                ],
+                [
+                  "Net Income",
+                  "225.45",
+                  "240.62",
+                  "160.31",
+                  "238.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.19",
+                  "9.10",
+                  "6.15",
+                  "8.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "242.97",
+                  "299.01",
+                  "-117.04",
+                  "911.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "190.10",
+                  "-10.30",
+                  "-140.50",
+                  "-65.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-746.01",
+                  "-304.09",
+                  "-137.25",
+                  "-319.11"
+                ],
+                [
+                  "CAPEX",
+                  "-34.48",
+                  "-32.75",
+                  "-88.30",
+                  "-152.92"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "金儀",
+    "Konica Minolta",
+    "康鈦科技",
+    "Konica Minolta",
+    "DEVELOP",
+    "3D列印",
+    "Konica Minolta",
+    "Konica Minolta",
+    "DEVELOP",
+    "3D列印",
+    "金儀",
+    "Konica Minolta",
+    "康鈦科技",
+    "Konica Minolta",
+    "Konica Minolta",
+    "DEVELOP",
+    "3D列印"
+  ]
+}

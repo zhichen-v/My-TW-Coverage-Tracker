@@ -1,0 +1,505 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3588_通嘉.md",
+  "source_path": "Pilot_Reports/Semiconductors/3588_通嘉.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3588_通嘉.json",
+  "ticker": "3588",
+  "company_name": "通嘉",
+  "title": "# 3588 - 通嘉",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "3,231 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,624 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "通嘉科技 (Leadtrend) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "AC/DC 電源管理 IC"
+            },
+            {
+              "type": "text",
+              "text": " 設計商。\n專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "高功率密度"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "快充"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案。\n主要產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "PWM 控制器"
+            },
+            {
+              "type": "text",
+              "text": ": AC/DC 電源核心晶片。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "USB-PD 協議晶片"
+            },
+            {
+              "type": "text",
+              "text": ": 支援 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Type-C"
+            },
+            {
+              "type": "text",
+              "text": " 快充規格 (PD 3.1)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "同步整流 (SR) IC"
+            },
+            {
+              "type": "text",
+              "text": ": 提升電源轉換效率。\n客戶包含各大電源供應器廠，最終應用於手機快充頭、NB 變壓器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備與智慧家電。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 晶圓代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "世界"
+            },
+            {
+              "type": "text",
+              "text": "), 封測廠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "通嘉 (3588)"
+            },
+            {
+              "type": "text",
+              "text": " - IC 設計.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "電源供應器廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "光寶"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "群光"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "終端品牌"
+            },
+            {
+              "type": "text",
+              "text": ": 小米, 聯想, 戴爾."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "光寶"
+                },
+                {
+                  "type": "text",
+                  "text": " (Lite-On).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群光"
+                },
+                {
+                  "type": "text",
+                  "text": " (Chicony).\n*   陸系手機品牌 (快充標配)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $52.10 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "104.20",
+                  "N/A",
+                  "2.40",
+                  "1.84",
+                  "32.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1348.68",
+                  "1453.91",
+                  "1141.59"
+                ],
+                [
+                  "Gross Profit",
+                  "458.38",
+                  "552.43",
+                  "429.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.99",
+                  "38.00",
+                  "37.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "60.36",
+                  "67.32",
+                  "69.94"
+                ],
+                [
+                  "R&D Exp",
+                  "271.84",
+                  "282.93",
+                  "267.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "109.78",
+                  "117.23",
+                  "97.93"
+                ],
+                [
+                  "Operating Income",
+                  "16.41",
+                  "84.95",
+                  "-5.71"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.22",
+                  "5.84",
+                  "-0.50"
+                ],
+                [
+                  "Net Income",
+                  "30.59",
+                  "111.89",
+                  "28.86"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.27",
+                  "7.70",
+                  "2.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "174.44",
+                  "65.52",
+                  "317.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.82",
+                  "-53.66",
+                  "-40.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-118.93",
+                  "10.35",
+                  "-63.99"
+                ],
+                [
+                  "CAPEX",
+                  "-39.85",
+                  "-43.51",
+                  "-42.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "333.91",
+                  "326.84",
+                  "343.15",
+                  "344.79"
+                ],
+                [
+                  "Gross Profit",
+                  "105.60",
+                  "99.06",
+                  "129.60",
+                  "124.13"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.63",
+                  "30.31",
+                  "37.77",
+                  "36.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.98",
+                  "15.23",
+                  "14.75",
+                  "14.40"
+                ],
+                [
+                  "R&D Exp",
+                  "69.42",
+                  "66.92",
+                  "66.43",
+                  "69.06"
+                ],
+                [
+                  "General & Admin Exp",
+                  "26.73",
+                  "26.12",
+                  "28.30",
+                  "28.63"
+                ],
+                [
+                  "Operating Income",
+                  "-6.53",
+                  "-9.21",
+                  "20.11",
+                  "12.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.96",
+                  "-2.82",
+                  "5.86",
+                  "3.49"
+                ],
+                [
+                  "Net Income",
+                  "8.05",
+                  "4.99",
+                  "1.55",
+                  "16.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.41",
+                  "1.53",
+                  "0.45",
+                  "4.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5.27",
+                  "16.58",
+                  "99.90",
+                  "52.69"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.12",
+                  "-10.15",
+                  "-7.23",
+                  "-10.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.75",
+                  "-74.32",
+                  "-38.85",
+                  "-3.01"
+                ],
+                [
+                  "CAPEX",
+                  "-7.20",
+                  "-11.54",
+                  "-9.34",
+                  "-11.76"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Type-C",
+    "網通",
+    "聯電",
+    "世界",
+    "光寶",
+    "群光",
+    "台達電",
+    "光寶",
+    "群光"
+  ]
+}

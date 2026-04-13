@@ -1,0 +1,806 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3019_亞光.md",
+  "source_path": "Pilot_Reports/Electronic Components/3019_亞光.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3019_亞光.json",
+  "ticker": "3019",
+  "company_name": "亞光",
+  "title": "# 3019 - 亞光",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "35,743 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "26,047 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "亞光 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Asia Optical"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣老牌光學大廠，以玻璃研磨與稜鏡技術著稱。公司從數位相機市場成功轉型，聚焦車載鏡頭、潛望式鏡頭與軍用瞄準器三大成長動能。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品：(1) 車載鏡頭 — 打入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": " 純視覺車載鏡頭供應鏈，亦供貨 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": " 等 Tier 1；(2) 手機光學 — 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LG Innotek"
+            },
+            {
+              "type": "text",
+              "text": " 策略結盟，供應模造玻璃與稜鏡用於高階手機鏡頭模組，子公司科太光電獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LG Innotek"
+            },
+            {
+              "type": "text",
+              "text": " 入股；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "LiDAR"
+            },
+            {
+              "type": "text",
+              "text": " 光達鏡頭 — 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LiDAR"
+            },
+            {
+              "type": "text",
+              "text": " 關鍵鏡頭供應商；(4) 光通訊 — 布局 "
+            },
+            {
+              "type": "wikilink",
+              "text": "矽光子"
+            },
+            {
+              "type": "text",
+              "text": "與光收發模組相關鏡頭。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Schott"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HOYA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 光學玻璃硝材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學級塑膠粒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍍膜材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密光學鍍膜靶材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (光學元件與鏡頭製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃鏡片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "亞光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (非球面玻璃成型/研磨)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "稜鏡:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "亞光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (潛望式鏡頭用稜鏡)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "亞光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用光學模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (模組廠與終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機鏡頭模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Innotek"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 稜鏡與玻璃鏡片供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車載鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LiDAR"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 系統廠 — 光達鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動相機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 運動相機與無人機品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (車載鏡頭主力供應商)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Innotek"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 手機用稜鏡與玻璃鏡片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LiDAR"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 系統整合廠 — 光達鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Innotek"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 間接供貨 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Schott"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HOYA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 光學硝材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學級塑膠粒供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $128.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.16",
+                  "13.33",
+                  "1.35",
+                  "2.40",
+                  "8.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "26445.66",
+                  "23047.47",
+                  "17830.19"
+                ],
+                [
+                  "Gross Profit",
+                  "4965.39",
+                  "4279.85",
+                  "3184.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.78",
+                  "18.57",
+                  "17.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "279.99",
+                  "243.85",
+                  "206.60"
+                ],
+                [
+                  "R&D Exp",
+                  "939.45",
+                  "899.24",
+                  "819.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1476.06",
+                  "1378.41",
+                  "1238.60"
+                ],
+                [
+                  "Operating Income",
+                  "2269.91",
+                  "1758.34",
+                  "919.78"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.58",
+                  "7.63",
+                  "5.16"
+                ],
+                [
+                  "Net Income",
+                  "1843.20",
+                  "1615.79",
+                  "776.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.97",
+                  "7.01",
+                  "4.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2103.74",
+                  "3826.72",
+                  "2239.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1098.93",
+                  "-638.18",
+                  "-727.92"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1544.55",
+                  "-595.62",
+                  "-867.38"
+                ],
+                [
+                  "CAPEX",
+                  "-1115.85",
+                  "-913.86",
+                  "-573.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6976.25",
+                  "7152.52",
+                  "6907.66",
+                  "5409.22"
+                ],
+                [
+                  "Gross Profit",
+                  "1083.21",
+                  "1573.94",
+                  "1381.84",
+                  "926.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.53",
+                  "22.01",
+                  "20.00",
+                  "17.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "85.39",
+                  "71.34",
+                  "61.00",
+                  "62.25"
+                ],
+                [
+                  "R&D Exp",
+                  "250.26",
+                  "245.59",
+                  "241.62",
+                  "201.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "338.76",
+                  "381.12",
+                  "398.02",
+                  "358.16"
+                ],
+                [
+                  "Operating Income",
+                  "408.80",
+                  "875.90",
+                  "681.20",
+                  "304.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.86",
+                  "12.25",
+                  "9.86",
+                  "5.62"
+                ],
+                [
+                  "Net Income",
+                  "303.32",
+                  "520.44",
+                  "798.88",
+                  "220.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.35",
+                  "7.28",
+                  "11.57",
+                  "4.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1139.78",
+                  "248.43",
+                  "586.53",
+                  "129.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-313.06",
+                  "-297.11",
+                  "-296.70",
+                  "-192.05"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-326.75",
+                  "-1122.25",
+                  "-5.60",
+                  "-89.94"
+                ],
+                [
+                  "CAPEX",
+                  "-326.65",
+                  "-301.28",
+                  "-296.00",
+                  "-191.92"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Asia Optical",
+    "Tesla",
+    "Bosch",
+    "Continental",
+    "LG Innotek",
+    "LG Innotek",
+    "LiDAR",
+    "LiDAR",
+    "矽光子",
+    "Schott",
+    "HOYA",
+    "ADAS",
+    "LG Innotek",
+    "Tesla",
+    "Bosch",
+    "Continental",
+    "LiDAR",
+    "Tesla",
+    "Bosch",
+    "Continental",
+    "LG Innotek",
+    "LiDAR",
+    "LG Innotek",
+    "Apple",
+    "Schott",
+    "HOYA"
+  ]
+}

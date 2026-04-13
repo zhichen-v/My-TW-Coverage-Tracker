@@ -1,0 +1,566 @@
+{
+  "report_id": "Pilot_Reports/Banks - Regional/2849_安泰銀.md",
+  "source_path": "Pilot_Reports/Banks - Regional/2849_安泰銀.md",
+  "json_path": "Pilot_Reports_JSON/Banks - Regional/2849_安泰銀.json",
+  "ticker": "2849",
+  "company_name": "安泰銀",
+  "title": "# 2849 - 安泰銀",
+  "sector_folder": "Banks - Regional",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Banks - Regional"
+      },
+      {
+        "label": "市值:",
+        "value": "25,645 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "N/A"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "安泰商業銀行"
+            },
+            {
+              "type": "text",
+              "text": " (2849) 成立於 1992 年。2007 年由私募基金"
+            },
+            {
+              "type": "wikilink",
+              "text": "隆力集團"
+            },
+            {
+              "type": "text",
+              "text": " (Lone Star Funds) 入主，另一重要股東為日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "歐力士集團"
+            },
+            {
+              "type": "text",
+              "text": " (ORIX)。全台設有約 50 家分行。核心競爭力鎖定於企業聯貸市場，專精客製化結構融資、土地建築融資及大型專案聯貸。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (資金來源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "存款:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一般存戶、企業存款"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "同業資金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、金融同業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略股東:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "隆力集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "歐力士集團"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[安泰商業銀行]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (企業聯貸、結構融資、不動產土建融資及財富管理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (授信客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業聯貸:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型企業之結構融資與專案貸款"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產融資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 建設開發商之土地建築融資"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "財富管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高資產客群"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型企業聯貸案、不動產開發商之土建融資"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "財富管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高淨值客群"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略股東:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "隆力集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Lone Star Funds)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "歐力士集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ORIX)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "財金資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "信保基金"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $13.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.38",
+                  "N/A",
+                  "4.82",
+                  "0.71",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5764.55",
+                  "5541.10",
+                  "5822.81"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1099.97",
+                  "981.55",
+                  "959.86"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "1538.98",
+                  "1325.81",
+                  "1101.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.70",
+                  "23.93",
+                  "18.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "545.08",
+                  "1692.36",
+                  "2373.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "312.36",
+                  "-1979.89",
+                  "196.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1536.31",
+                  "-204.41",
+                  "-3771.28"
+                ],
+                [
+                  "CAPEX",
+                  "-158.64",
+                  "-133.27",
+                  "-104.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1544.99",
+                  "1466.20",
+                  "1387.40",
+                  "1365.94"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "290.37",
+                  "277.31",
+                  "270.20",
+                  "262.10"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "394.47",
+                  "453.29",
+                  "327.96",
+                  "363.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "25.53",
+                  "30.92",
+                  "23.64",
+                  "26.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-43.09",
+                  "1058.29",
+                  "-248.25",
+                  "-221.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "43.17",
+                  "-241.92",
+                  "629.69",
+                  "-118.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "171.01",
+                  "-1226.27",
+                  "428.49",
+                  "-909.54"
+                ],
+                [
+                  "CAPEX",
+                  "-95.81",
+                  "-37.52",
+                  "-16.22",
+                  "-9.09"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "安泰商業銀行",
+    "隆力集團",
+    "歐力士集團",
+    "中央銀行",
+    "隆力集團",
+    "歐力士集團",
+    "安泰商業銀行",
+    "隆力集團",
+    "歐力士集團",
+    "財金資訊",
+    "信保基金"
+  ]
+}

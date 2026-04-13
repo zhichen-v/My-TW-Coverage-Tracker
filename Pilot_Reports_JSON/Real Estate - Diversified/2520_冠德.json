@@ -1,0 +1,681 @@
+{
+  "report_id": "Pilot_Reports/Real Estate - Diversified/2520_冠德.md",
+  "source_path": "Pilot_Reports/Real Estate - Diversified/2520_冠德.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate - Diversified/2520_冠德.json",
+  "ticker": "2520",
+  "company_name": "冠德",
+  "title": "# 2520 - 冠德",
+  "sector_folder": "Real Estate - Diversified",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate - Diversified"
+      },
+      {
+        "label": "市值:",
+        "value": "18,762 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "30,240 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "冠德建設"
+            },
+            {
+              "type": "text",
+              "text": " (2520，Kindom Development) 成立於 1979 年，總部位於台北，為台灣知名捷運共構開發商，擅長複合式大型開發案。旗下擁有甲級營造廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "根基營造"
+            },
+            {
+              "type": "text",
+              "text": " (2546) 及百貨商場"
+            },
+            {
+              "type": "wikilink",
+              "text": "Global Mall"
+            },
+            {
+              "type": "text",
+              "text": " (環球購物中心)，形成從開發、營造到商場經營的完整產業鏈。"
+            },
+            {
+              "type": "wikilink",
+              "text": "Global Mall"
+            },
+            {
+              "type": "text",
+              "text": "目前全台營運 8 個據點，涵蓋台北、新北、桃園、高雄及屏東。冠德近年積極拓展，正於台中興建結合捷運市政府站之「"
+            },
+            {
+              "type": "wikilink",
+              "text": "冠德環球購物中心"
+            },
+            {
+              "type": "text",
+              "text": "」，預計 2029 年完工，並引進"
+            },
+            {
+              "type": "wikilink",
+              "text": "凱悅酒店集團"
+            },
+            {
+              "type": "text",
+              "text": "打造複合式空間。集團旗下三大事業體 — 冠德建設、"
+            },
+            {
+              "type": "wikilink",
+              "text": "根基營造"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Global Mall"
+            },
+            {
+              "type": "text",
+              "text": " — 2024 年同獲亞洲最佳企業雇主獎。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (土地與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "土地取得:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 捷運聯開、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "都市更新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、土地標售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造施工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "根基營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (子公司，2546，甲級資格) — 2025 年獲台灣 ESG 永續獎低碳營運首獎"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水泥、鋼筋、機電設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與經營)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "冠德建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 捷運共構住宅及商辦開發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場營運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Global Mall"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (環球購物中心) — 全台 8 據點"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "購屋族群:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中高階購屋客群 (精緻住宅)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Global Mall"
+                    },
+                    {
+                      "type": "text",
+                      "text": "購物中心消費客群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱悅酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 台中冠德環球購物中心合作夥伴"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中高階購屋客群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Global Mall"
+                    },
+                    {
+                      "type": "text",
+                      "text": "全台 8 據點之消費族群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱悅酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 台中"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "冠德環球購物中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "根基營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (子公司 2546) — 垂直整合施工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水泥、鋼筋及機電設備供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Global Mall"
+                    },
+                    {
+                      "type": "text",
+                      "text": "進駐之餐飲、零售品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.07",
+                  "6.21",
+                  "0.82",
+                  "0.77",
+                  "8.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22872.61",
+                  "28677.52",
+                  "19442.50"
+                ],
+                [
+                  "Gross Profit",
+                  "5136.06",
+                  "9667.03",
+                  "5871.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.46",
+                  "33.71",
+                  "30.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "99.75",
+                  "237.70",
+                  "163.65"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1927.73",
+                  "1926.65",
+                  "1775.25"
+                ],
+                [
+                  "Operating Income",
+                  "3108.58",
+                  "7502.68",
+                  "3932.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.59",
+                  "26.16",
+                  "20.23"
+                ],
+                [
+                  "Net Income",
+                  "1556.14",
+                  "5550.48",
+                  "2395.15"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.80",
+                  "19.35",
+                  "12.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-4044.41",
+                  "9857.75",
+                  "1909.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "153.91",
+                  "88.47",
+                  "68.67"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "2513.14",
+                  "-5917.75",
+                  "-3322.36"
+                ],
+                [
+                  "CAPEX",
+                  "-168.96",
+                  "-93.38",
+                  "-76.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6676.67",
+                  "6129.84",
+                  "5339.33",
+                  "4726.77"
+                ],
+                [
+                  "Gross Profit",
+                  "1546.76",
+                  "1199.76",
+                  "1210.37",
+                  "1179.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.17",
+                  "19.57",
+                  "22.67",
+                  "24.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.63",
+                  "27.05",
+                  "24.04",
+                  "24.04"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "516.20",
+                  "468.76",
+                  "493.13",
+                  "449.64"
+                ],
+                [
+                  "Operating Income",
+                  "1005.93",
+                  "703.95",
+                  "693.20",
+                  "705.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.07",
+                  "11.48",
+                  "12.98",
+                  "14.93"
+                ],
+                [
+                  "Net Income",
+                  "529.77",
+                  "339.29",
+                  "247.70",
+                  "439.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.93",
+                  "5.54",
+                  "4.64",
+                  "9.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "64.00",
+                  "939.82",
+                  "-4582.34",
+                  "-465.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3.15",
+                  "88.08",
+                  "37.21",
+                  "31.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-487.71",
+                  "-43.99",
+                  "2893.08",
+                  "151.76"
+                ],
+                [
+                  "CAPEX",
+                  "-53.63",
+                  "-66.91",
+                  "-35.52",
+                  "-12.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "冠德建設",
+    "根基營造",
+    "Global Mall",
+    "Global Mall",
+    "冠德環球購物中心",
+    "凱悅酒店集團",
+    "根基營造",
+    "Global Mall",
+    "都市更新",
+    "根基營造",
+    "Global Mall",
+    "Global Mall",
+    "凱悅酒店集團",
+    "Global Mall",
+    "凱悅酒店集團",
+    "冠德環球購物中心",
+    "根基營造",
+    "Global Mall"
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6672_騰輝電子-KY.md",
+  "source_path": "Pilot_Reports/Electronic Components/6672_騰輝電子-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6672_騰輝電子-KY.json",
+  "ticker": "6672",
+  "company_name": "騰輝電子-KY",
+  "title": "# 6672_騰輝電子-KY",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "9,144 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,510 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "騰輝電子-KY (6672) 是一家專注於利基型與高階金屬基板的印刷電路板(PCB)相關材料製造商。騰輝電子-KY的核心產品包含散熱鋁基板(IMS)以及高頻高速"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板(CCL)，在車用LED頭燈散熱鋁基板領域享有全球領先地位。公司專注於高單價、高毛利的特殊應用，產品廣泛應用於軍工航太、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": "/衛星通訊("
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "散熱及高階AI伺服器。近年來，騰輝亦積極開發半導體先進封裝所需的特殊薄膜材料及光導應用高速材料。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "、玻璃纖維布、特殊樹脂(如PTFE)及鋁板金屬材料供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "騰輝電子-KY"
+            },
+            {
+              "type": "text",
+              "text": " (車用散熱鋁基板、高頻高速/軍工特殊"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板及半導體封裝材料製造)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 全球各類專業印刷電路板(PCB)製造商及半導體封測廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   歐美軍工航太大廠、日系"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "電動車"
+                },
+                {
+                  "type": "text",
+                  "text": "照明 Tier 1 供應商(如"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Koito"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Stanley"
+                },
+                {
+                  "type": "text",
+                  "text": ")及全球一線PCB板廠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國際知名的高純度"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "銅箔"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "玻纖布"
+                },
+                {
+                  "type": "text",
+                  "text": "大廠及高階特用化學樹脂供應商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $128.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "26.61",
+                  "18.58",
+                  "2.14",
+                  "2.56",
+                  "14.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4264.73",
+                  "4227.62",
+                  "4740.44"
+                ],
+                [
+                  "Gross Profit",
+                  "1373.14",
+                  "1418.31",
+                  "1521.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.20",
+                  "33.55",
+                  "32.10"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "549.60",
+                  "574.43",
+                  "573.47"
+                ],
+                [
+                  "R&D Exp",
+                  "240.46",
+                  "319.81",
+                  "239.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "181.03",
+                  "204.69",
+                  "222.93"
+                ],
+                [
+                  "Operating Income",
+                  "402.05",
+                  "319.38",
+                  "485.64"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.43",
+                  "7.55",
+                  "10.24"
+                ],
+                [
+                  "Net Income",
+                  "346.14",
+                  "356.80",
+                  "431.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.12",
+                  "8.44",
+                  "9.11"
+                ],
+                [
+                  "Op Cash Flow",
+                  "225.01",
+                  "634.29",
+                  "743.02"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-105.60",
+                  "-193.36",
+                  "55.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-141.13",
+                  "-309.22",
+                  "-601.09"
+                ],
+                [
+                  "CAPEX",
+                  "-343.77",
+                  "-87.11",
+                  "-82.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1106.74",
+                  "1032.56",
+                  "1103.05",
+                  "1022.37"
+                ],
+                [
+                  "Gross Profit",
+                  "355.37",
+                  "337.19",
+                  "331.87",
+                  "348.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.11",
+                  "32.66",
+                  "30.09",
+                  "34.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "131.24",
+                  "135.11",
+                  "142.55",
+                  "140.70"
+                ],
+                [
+                  "R&D Exp",
+                  "61.34",
+                  "54.64",
+                  "57.02",
+                  "67.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.34",
+                  "38.29",
+                  "47.84",
+                  "52.56"
+                ],
+                [
+                  "Operating Income",
+                  "120.45",
+                  "109.15",
+                  "84.45",
+                  "88.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.88",
+                  "10.57",
+                  "7.66",
+                  "8.61"
+                ],
+                [
+                  "Net Income",
+                  "98.89",
+                  "83.90",
+                  "88.45",
+                  "74.91"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.93",
+                  "8.13",
+                  "8.02",
+                  "7.33"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-101.19",
+                  "109.60",
+                  "66.68",
+                  "149.92"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "66.19",
+                  "-90.76",
+                  "-139.61",
+                  "58.58"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "66.40",
+                  "-203.87",
+                  "-44.31",
+                  "40.65"
+                ],
+                [
+                  "CAPEX",
+                  "-115.50",
+                  "-87.06",
+                  "-108.24",
+                  "-32.96"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "銅箔",
+    "5G",
+    "低軌衛星",
+    "電動車",
+    "銅箔",
+    "銅箔",
+    "電動車",
+    "Koito",
+    "Stanley",
+    "銅箔",
+    "玻纖布"
+  ]
+}

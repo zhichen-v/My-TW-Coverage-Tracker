@@ -1,0 +1,774 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3701_大眾控.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3701_大眾控.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3701_大眾控.json",
+  "ticker": "3701",
+  "company_name": "大眾控",
+  "title": "# 3701 - 大眾控",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "14,192 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,453 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "大眾全球投資控股 (3701，FICG) 為大眾電腦集團之投資控股公司，旗下三大事業體涵蓋 EMS 代工、衛星通訊及智慧顯示。集團營收主力為子公司 "
+            },
+            {
+              "type": "strong",
+              "text": "三希科技"
+            },
+            {
+              "type": "text",
+              "text": " (約佔 85%)，專注於伺服器、光通訊模組、工控及車用電子之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "EMS"
+            },
+            {
+              "type": "text",
+              "text": " 代工製造，主要客戶為國際光模組大廠。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三希科技近年積極切入 800G/1.6T "
+            },
+            {
+              "type": "wikilink",
+              "text": "光收發模組"
+            },
+            {
+              "type": "text",
+              "text": "代工及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CPO"
+            },
+            {
+              "type": "text",
+              "text": " (共封裝光學) 3.2T 先進封裝領域，光通訊產品已佔集團營收近五成。子公司 "
+            },
+            {
+              "type": "strong",
+              "text": "攸泰科技"
+            },
+            {
+              "type": "text",
+              "text": " (約佔 13%) 專精於強固型移動裝置、船用電子及"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "地面設備。另有 "
+            },
+            {
+              "type": "strong",
+              "text": "大眾電腦"
+            },
+            {
+              "type": "text",
+              "text": " 負責車用電子及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AIoT"
+            },
+            {
+              "type": "text",
+              "text": " 產品研發。集團亦布局無人機及智慧顯示 (擬 IPO) 等新興領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光電元件與電子零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雷射二極體、檢光二極體及光學透鏡等光通訊核心元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 處理器及伺服器相關半導體元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB、連接器及金屬機構件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (EMS 代工製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "三希科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (800G/1.6T "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光收發模組"
+                    },
+                    {
+                      "type": "text",
+                      "text": " EMS 代工，"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 3.2T 先進封裝)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "三希科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (伺服器、通訊設備、工控產品組裝)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星/船用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "攸泰科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (強固型裝置、船用電子、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "地面設備)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "大眾電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AIoT"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載及自動化產品研發)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (光模組品牌與終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光模組品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Coherent"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華工正源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、海信寬頻 — 800G/1.6T 光收發模組代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海事/國防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球海事電子及國防單位 — 強固型裝置與衛星通訊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球雲端服務商 — 透過光模組客戶間接供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光模組品牌 (三希科技):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Coherent"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華工正源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、海信寬頻 — 800G/1.6T 光收發模組 EMS 代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海事/國防 (攸泰科技):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球海事電子及國防、執法單位 — 強固型移動裝置、船用電子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子 (大眾電腦):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載資通訊系統客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光通訊雷射及檢光二極體元件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 伺服器處理器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關係企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國眾電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (5410) — 系統整合服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $60.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "56.07",
+                  "N/A",
+                  "1.34",
+                  "2.92",
+                  "33.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "13101.75",
+                  "13283.40",
+                  "12448.43"
+                ],
+                [
+                  "Gross Profit",
+                  "1796.04",
+                  "2055.52",
+                  "1666.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.71",
+                  "15.47",
+                  "13.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "504.73",
+                  "516.92",
+                  "357.03"
+                ],
+                [
+                  "R&D Exp",
+                  "535.60",
+                  "344.95",
+                  "320.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "525.91",
+                  "553.75",
+                  "525.46"
+                ],
+                [
+                  "Operating Income",
+                  "229.80",
+                  "639.90",
+                  "463.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.75",
+                  "4.82",
+                  "3.72"
+                ],
+                [
+                  "Net Income",
+                  "26.33",
+                  "332.14",
+                  "476.47"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.20",
+                  "2.50",
+                  "3.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "496.67",
+                  "1509.18",
+                  "458.88"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1383.34",
+                  "-516.67",
+                  "-267.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "401.00",
+                  "501.37",
+                  "54.34"
+                ],
+                [
+                  "CAPEX",
+                  "-502.14",
+                  "-325.63",
+                  "-226.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2293.70",
+                  "2618.58",
+                  "2761.90",
+                  "2946.85"
+                ],
+                [
+                  "Gross Profit",
+                  "413.80",
+                  "532.97",
+                  "446.19",
+                  "446.83"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.04",
+                  "20.35",
+                  "16.16",
+                  "15.16"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "124.61",
+                  "120.09",
+                  "142.51",
+                  "135.60"
+                ],
+                [
+                  "R&D Exp",
+                  "129.10",
+                  "132.05",
+                  "130.31",
+                  "155.76"
+                ],
+                [
+                  "General & Admin Exp",
+                  "163.34",
+                  "145.39",
+                  "144.35",
+                  "133.25"
+                ],
+                [
+                  "Operating Income",
+                  "-3.26",
+                  "135.44",
+                  "29.02",
+                  "22.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.14",
+                  "5.17",
+                  "1.05",
+                  "0.75"
+                ],
+                [
+                  "Net Income",
+                  "37.15",
+                  "66.54",
+                  "157.70",
+                  "-20.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.62",
+                  "2.54",
+                  "5.71",
+                  "-0.70"
+                ],
+                [
+                  "Op Cash Flow",
+                  "451.59",
+                  "329.63",
+                  "-349.24",
+                  "127.60"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-112.15",
+                  "-65.74",
+                  "428.36",
+                  "-92.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "5.88",
+                  "-148.48",
+                  "49.98",
+                  "-157.56"
+                ],
+                [
+                  "CAPEX",
+                  "-339.12",
+                  "-79.32",
+                  "-106.79",
+                  "-93.81"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "EMS",
+    "光收發模組",
+    "CPO",
+    "低軌衛星",
+    "AIoT",
+    "Intel",
+    "AMD",
+    "光收發模組",
+    "CPO",
+    "低軌衛星",
+    "AIoT",
+    "Coherent",
+    "華工正源",
+    "Coherent",
+    "華工正源",
+    "Intel",
+    "AMD",
+    "國眾電腦"
+  ]
+}

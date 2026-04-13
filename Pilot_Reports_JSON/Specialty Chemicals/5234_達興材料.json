@@ -1,0 +1,562 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/5234_達興材料.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/5234_達興材料.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/5234_達興材料.json",
+  "ticker": "5234",
+  "company_name": "達興材料",
+  "title": "# 5234 - 達興材料",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "37,697 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "36,390 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "達興材料 (Daxin) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "[[友達]]集團"
+            },
+            {
+              "type": "text",
+              "text": " 旗下專業特用化學材料廠，並已成功跨足 "
+            },
+            {
+              "type": "strong",
+              "text": "半導體材料"
+            },
+            {
+              "type": "text",
+              "text": "。\n業務涵蓋三大領域：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "顯示器材料"
+            },
+            {
+              "type": "text",
+              "text": ": LCD 光阻劑、配向膜 (PI)、顯影液、剝離液 (主要營收來源, 穩定現金流)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "半導體材料"
+            },
+            {
+              "type": "text",
+              "text": ": 先進封裝 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CoWoS"
+            },
+            {
+              "type": "text",
+              "text": ") 用光阻剝離液、雷射離型層 (Laser Release)、有機介電層 (PID)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "關鍵原材料"
+            },
+            {
+              "type": "text",
+              "text": ": 自行合成上游單體/高分子，提升毛利。\n達興是少數打入晶圓代工先進製程供應鏈的本土材料商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "達興 (5234)"
+            },
+            {
+              "type": "text",
+              "text": " - 配方研發, 合成, 純化, 量產.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "化學品"
+            },
+            {
+              "type": "text",
+              "text": ": 溶劑, 單體, 起始劑. (積極提升自製率).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "面板廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "晶圓代工/封測"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": " (主要先進封裝客戶), 國內外封測大廠."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "面板"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "友達"
+                },
+                {
+                  "type": "text",
+                  "text": " (母公司), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群創"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台積電"
+                },
+                {
+                  "type": "text",
+                  "text": " ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "CoWoS"
+                },
+                {
+                  "type": "text",
+                  "text": " 材料供應商), 成熟製程晶圓廠."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "原料"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國內外化工廠 (如 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Sumitomo"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Nissan Chemical"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Everlight"
+                },
+                {
+                  "type": "text",
+                  "text": " 永光)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $367.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "48.54",
+                  "31.10",
+                  "8.14",
+                  "10.69",
+                  "32.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4629.78",
+                  "4117.85",
+                  "4264.12"
+                ],
+                [
+                  "Gross Profit",
+                  "1879.50",
+                  "1517.85",
+                  "1479.09"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.60",
+                  "36.86",
+                  "34.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "217.81",
+                  "196.21",
+                  "185.79"
+                ],
+                [
+                  "R&D Exp",
+                  "559.55",
+                  "497.97",
+                  "480.77"
+                ],
+                [
+                  "General & Admin Exp",
+                  "249.33",
+                  "216.50",
+                  "204.75"
+                ],
+                [
+                  "Operating Income",
+                  "852.80",
+                  "607.16",
+                  "607.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.42",
+                  "14.74",
+                  "14.25"
+                ],
+                [
+                  "Net Income",
+                  "756.96",
+                  "570.61",
+                  "523.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.35",
+                  "13.86",
+                  "12.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "980.82",
+                  "865.41",
+                  "725.21"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-212.37",
+                  "-518.40",
+                  "-328.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-715.96",
+                  "-395.94",
+                  "-364.86"
+                ],
+                [
+                  "CAPEX",
+                  "-273.59",
+                  "-194.04",
+                  "-220.15"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1186.39",
+                  "1186.25",
+                  "1151.08",
+                  "1106.06"
+                ],
+                [
+                  "Gross Profit",
+                  "489.59",
+                  "470.65",
+                  "466.55",
+                  "452.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.27",
+                  "39.68",
+                  "40.53",
+                  "40.93"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "56.18",
+                  "56.06",
+                  "53.08",
+                  "52.50"
+                ],
+                [
+                  "R&D Exp",
+                  "148.28",
+                  "141.37",
+                  "135.16",
+                  "134.74"
+                ],
+                [
+                  "General & Admin Exp",
+                  "68.85",
+                  "63.86",
+                  "57.57",
+                  "59.05"
+                ],
+                [
+                  "Operating Income",
+                  "216.28",
+                  "209.36",
+                  "220.74",
+                  "206.42"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.23",
+                  "17.65",
+                  "19.18",
+                  "18.66"
+                ],
+                [
+                  "Net Income",
+                  "209.00",
+                  "195.75",
+                  "159.36",
+                  "192.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.62",
+                  "16.50",
+                  "13.84",
+                  "17.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "434.89",
+                  "226.87",
+                  "121.76",
+                  "197.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-243.30",
+                  "-190.88",
+                  "410.11",
+                  "-188.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-87.82",
+                  "-158.19",
+                  "-431.77",
+                  "-38.18"
+                ],
+                [
+                  "CAPEX",
+                  "-103.81",
+                  "-56.21",
+                  "-70.08",
+                  "-43.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "友達",
+    "CoWoS",
+    "友達",
+    "群創",
+    "台積電",
+    "友達",
+    "群創",
+    "台積電",
+    "CoWoS",
+    "Sumitomo",
+    "Nissan Chemical",
+    "Everlight"
+  ]
+}

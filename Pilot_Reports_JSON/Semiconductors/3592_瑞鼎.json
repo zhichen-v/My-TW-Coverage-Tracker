@@ -1,0 +1,577 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3592_瑞鼎.md",
+  "source_path": "Pilot_Reports/Semiconductors/3592_瑞鼎.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3592_瑞鼎.json",
+  "ticker": "3592",
+  "company_name": "瑞鼎",
+  "title": "# 3592 - 瑞鼎",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "17,295 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,163 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "瑞鼎科技 (3592) 是"
+            },
+            {
+              "type": "wikilink",
+              "text": "友達光電"
+            },
+            {
+              "type": "text",
+              "text": "投資成立之顯示驅動 IC 設計公司，台灣前十大 IC 設計公司之一，兩岸 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMOLED"
+            },
+            {
+              "type": "text",
+              "text": " 顯示驅動 IC 標竿廠商。2024 年營收 243.8 億元。產品涵蓋 TFT-LCD/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AMOLED"
+            },
+            {
+              "type": "text",
+              "text": " 顯示驅動 IC、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TDDI"
+            },
+            {
+              "type": "text",
+              "text": "、Timing Controller (TCON)、電源管理 IC 及觸控 IC。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "瑞鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (LCD/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMOLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 驅動 IC、TDDI、TCON，前十大 IC 設計)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (面板廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (創始投資人)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京東方"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung Display"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京東方"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung Display"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奇景光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Synaptics"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $228.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.72",
+                  "0.36",
+                  "0.77",
+                  "1.50",
+                  "5.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22397.17",
+                  "24376.80",
+                  "18346.62"
+                ],
+                [
+                  "Gross Profit",
+                  "6386.75",
+                  "7312.94",
+                  "5310.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.52",
+                  "30.00",
+                  "28.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "513.59",
+                  "599.80",
+                  "438.89"
+                ],
+                [
+                  "R&D Exp",
+                  "3851.63",
+                  "3957.84",
+                  "3049.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "524.68",
+                  "556.90",
+                  "414.90"
+                ],
+                [
+                  "Operating Income",
+                  "1496.85",
+                  "2198.41",
+                  "1407.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.68",
+                  "9.02",
+                  "7.67"
+                ],
+                [
+                  "Net Income",
+                  "1383.39",
+                  "2098.99",
+                  "1442.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.18",
+                  "8.61",
+                  "7.86"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1198.63",
+                  "2952.63",
+                  "1677.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2340.93",
+                  "-944.65",
+                  "-1857.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1245.38",
+                  "-1904.56",
+                  "-2858.23"
+                ],
+                [
+                  "CAPEX",
+                  "-685.65",
+                  "-467.87",
+                  "-542.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5293.96",
+                  "5849.81",
+                  "5826.31",
+                  "5688.71"
+                ],
+                [
+                  "Gross Profit",
+                  "1537.20",
+                  "1574.05",
+                  "1721.01",
+                  "1681.27"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.04",
+                  "26.91",
+                  "29.54",
+                  "29.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "137.73",
+                  "123.91",
+                  "130.07",
+                  "81.24"
+                ],
+                [
+                  "R&D Exp",
+                  "978.33",
+                  "895.81",
+                  "1013.69",
+                  "1042.54"
+                ],
+                [
+                  "General & Admin Exp",
+                  "147.46",
+                  "121.51",
+                  "123.19",
+                  "139.21"
+                ],
+                [
+                  "Operating Income",
+                  "273.68",
+                  "432.82",
+                  "454.06",
+                  "418.29"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.17",
+                  "7.40",
+                  "7.79",
+                  "7.35"
+                ],
+                [
+                  "Net Income",
+                  "314.78",
+                  "265.87",
+                  "459.12",
+                  "417.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.95",
+                  "4.54",
+                  "7.88",
+                  "7.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "799.92",
+                  "-23.46",
+                  "-54.65",
+                  "594.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1305.84",
+                  "-1032.03",
+                  "11.85",
+                  "-520.45"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "41.11",
+                  "530.39",
+                  "-65.88",
+                  "105.56"
+                ],
+                [
+                  "CAPEX",
+                  "-65.64",
+                  "-338.48",
+                  "-83.75",
+                  "-316.45"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "友達光電",
+    "AMOLED",
+    "AMOLED",
+    "TDDI",
+    "聯華電子",
+    "AMOLED",
+    "友達光電",
+    "群創光電",
+    "京東方",
+    "Samsung Display",
+    "友達光電",
+    "群創光電",
+    "京東方",
+    "Samsung Display",
+    "聯華電子",
+    "聯詠",
+    "奇景光電",
+    "Synaptics"
+  ]
+}

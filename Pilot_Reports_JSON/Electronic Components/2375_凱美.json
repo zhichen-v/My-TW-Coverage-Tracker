@@ -1,0 +1,551 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2375_凱美.md",
+  "source_path": "Pilot_Reports/Electronic Components/2375_凱美.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2375_凱美.json",
+  "ticker": "2375",
+  "company_name": "凱美",
+  "title": "# 2375 - 凱美",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "8,466 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,013 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "凱美電機 (2375) 是台灣專業的"
+            },
+            {
+              "type": "wikilink",
+              "text": "被動元件"
+            },
+            {
+              "type": "text",
+              "text": "製造商，自有品牌 JAMICON。2024 年營收組成為"
+            },
+            {
+              "type": "wikilink",
+              "text": "電阻"
+            },
+            {
+              "type": "text",
+              "text": "占 47%、"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋁質電解電容"
+            },
+            {
+              "type": "text",
+              "text": "占 43%、"
+            },
+            {
+              "type": "wikilink",
+              "text": "風扇馬達"
+            },
+            {
+              "type": "text",
+              "text": "占 10%。主要原料為鋁箔、電解紙、導針、鋁殼及導電高分子材料。原料來源涵蓋日本、台灣、中國及馬來西亞。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁箔/電解紙:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本及亞洲供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "導電高分子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PEDT"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 固態電容用材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基板/油墨:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電阻基板及印刷材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (被動元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電阻/電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "凱美"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (JAMICON 品牌，電阻/鋁電解電容/風扇)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電子組裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球家電及電子品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電源及設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球家電及電子產品品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電源及控制設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本/亞洲鋁箔供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立隆電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鈺邦"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金山電"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $77.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "20.66",
+                  "14.37",
+                  "1.53",
+                  "0.86",
+                  "8.87"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5545.49",
+                  "5263.97",
+                  "4810.82"
+                ],
+                [
+                  "Gross Profit",
+                  "1109.86",
+                  "988.11",
+                  "730.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.01",
+                  "18.77",
+                  "15.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "244.70",
+                  "209.99",
+                  "197.65"
+                ],
+                [
+                  "R&D Exp",
+                  "54.41",
+                  "48.52",
+                  "58.36"
+                ],
+                [
+                  "General & Admin Exp",
+                  "322.38",
+                  "320.05",
+                  "294.73"
+                ],
+                [
+                  "Operating Income",
+                  "488.36",
+                  "409.56",
+                  "179.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.81",
+                  "7.78",
+                  "3.73"
+                ],
+                [
+                  "Net Income",
+                  "405.26",
+                  "494.71",
+                  "265.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.31",
+                  "9.40",
+                  "5.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "775.55",
+                  "1007.87",
+                  "1272.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "910.35",
+                  "-469.63",
+                  "2945.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-953.10",
+                  "-463.01",
+                  "-4915.52"
+                ],
+                [
+                  "CAPEX",
+                  "-264.67",
+                  "-221.43",
+                  "-215.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1340.14",
+                  "1434.62",
+                  "1476.26",
+                  "1294.48"
+                ],
+                [
+                  "Gross Profit",
+                  "259.81",
+                  "287.90",
+                  "305.55",
+                  "256.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.39",
+                  "20.07",
+                  "20.70",
+                  "19.82"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "65.04",
+                  "64.17",
+                  "59.51",
+                  "55.99"
+                ],
+                [
+                  "R&D Exp",
+                  "13.35",
+                  "14.65",
+                  "13.22",
+                  "13.19"
+                ],
+                [
+                  "General & Admin Exp",
+                  "81.90",
+                  "80.74",
+                  "79.96",
+                  "79.78"
+                ],
+                [
+                  "Operating Income",
+                  "99.53",
+                  "128.33",
+                  "152.86",
+                  "107.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.43",
+                  "8.95",
+                  "10.35",
+                  "8.31"
+                ],
+                [
+                  "Net Income",
+                  "104.13",
+                  "147.00",
+                  "21.12",
+                  "133.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.77",
+                  "10.25",
+                  "1.43",
+                  "10.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "161.40",
+                  "63.97",
+                  "367.88",
+                  "182.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-369.42",
+                  "320.63",
+                  "-238.82",
+                  "1197.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "314.53",
+                  "-276.35",
+                  "-9.52",
+                  "-981.77"
+                ],
+                [
+                  "CAPEX",
+                  "-89.84",
+                  "-59.91",
+                  "-64.76",
+                  "-50.14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "被動元件",
+    "電阻",
+    "鋁質電解電容",
+    "風扇馬達",
+    "PEDT",
+    "立隆電子",
+    "鈺邦",
+    "金山電"
+  ]
+}

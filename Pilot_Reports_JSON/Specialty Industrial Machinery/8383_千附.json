@@ -1,0 +1,636 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/8383_千附.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/8383_千附.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/8383_千附.json",
+  "ticker": "8383",
+  "company_name": "千附",
+  "title": "# 8383 - 千附",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "5,206 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,061 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "千附實業 (8383，Chen Full International) 為高科技廠務系統工程服務商。四大業務：精密科技 (航太/半導體精密元件，佔約 50%)、廠務工程 (半導體管路，佔約 30%，代理德國"
+            },
+            {
+              "type": "wikilink",
+              "text": "SIMONA"
+            },
+            {
+              "type": "text",
+              "text": "工程塑膠及瑞士"
+            },
+            {
+              "type": "wikilink",
+              "text": "Georg Fischer"
+            },
+            {
+              "type": "text",
+              "text": "管件)、機械事業 (製鞋機械)、水資源 (海水淡化/廢水回收)。廠務工程在手訂單近 20 億元。精密零組件客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Applied Materials"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "京鼎"
+            },
+            {
+              "type": "text",
+              "text": "。航太客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "漢翔"
+            },
+            {
+              "type": "text",
+              "text": "。千附精密 (6829) 為其關係企業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (代理與原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 德國"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SIMONA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 半導體級塑膠板/管"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "管件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瑞士"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Georg Fischer"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (+GF+) — 半導體管件/閥門"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 航太級金屬原材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (工程與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "千附"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (半導體廠務管線工程/精密零組件加工/製鞋機械/水資源)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 廠務工程；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精密零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "漢翔"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 航太零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關係:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 千附精密 (6829)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體廠務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 管線工程 (訂單近 20 億)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京鼎"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "漢翔"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 德國"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SIMONA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "管件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瑞士"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Georg Fischer"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $46.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.65",
+                  "N/A",
+                  "1.55",
+                  "1.37",
+                  "9.01"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3358.30",
+                  "2967.52",
+                  "2628.43"
+                ],
+                [
+                  "Gross Profit",
+                  "957.50",
+                  "931.31",
+                  "628.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.51",
+                  "31.38",
+                  "23.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "78.27",
+                  "76.91",
+                  "99.75"
+                ],
+                [
+                  "R&D Exp",
+                  "69.89",
+                  "59.60",
+                  "59.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "262.62",
+                  "255.02",
+                  "204.47"
+                ],
+                [
+                  "Operating Income",
+                  "546.72",
+                  "539.78",
+                  "263.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.28",
+                  "18.19",
+                  "10.04"
+                ],
+                [
+                  "Net Income",
+                  "384.52",
+                  "394.42",
+                  "167.75"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.45",
+                  "13.29",
+                  "6.38"
+                ],
+                [
+                  "Op Cash Flow",
+                  "621.24",
+                  "3.83",
+                  "541.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-487.33",
+                  "-675.29",
+                  "-353.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-134.94",
+                  "139.04",
+                  "-354.72"
+                ],
+                [
+                  "CAPEX",
+                  "-444.87",
+                  "-588.36",
+                  "-278.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "970.68",
+                  "829.38",
+                  "745.34",
+                  "812.90"
+                ],
+                [
+                  "Gross Profit",
+                  "316.62",
+                  "209.21",
+                  "190.31",
+                  "241.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.62",
+                  "25.22",
+                  "25.53",
+                  "29.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.78",
+                  "22.70",
+                  "18.84",
+                  "17.95"
+                ],
+                [
+                  "R&D Exp",
+                  "16.27",
+                  "22.17",
+                  "16.54",
+                  "14.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "71.28",
+                  "66.83",
+                  "53.22",
+                  "71.29"
+                ],
+                [
+                  "Operating Income",
+                  "210.30",
+                  "97.51",
+                  "101.71",
+                  "137.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.66",
+                  "11.76",
+                  "13.65",
+                  "16.88"
+                ],
+                [
+                  "Net Income",
+                  "170.94",
+                  "90.85",
+                  "43.65",
+                  "79.08"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.61",
+                  "10.95",
+                  "5.86",
+                  "9.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "647.27",
+                  "-114.26",
+                  "97.40",
+                  "-9.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-158.04",
+                  "-150.62",
+                  "-104.11",
+                  "-74.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-316.39",
+                  "230.04",
+                  "-27.26",
+                  "-21.33"
+                ],
+                [
+                  "CAPEX",
+                  "-175.90",
+                  "-123.68",
+                  "-88.81",
+                  "-56.48"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "SIMONA",
+    "Georg Fischer",
+    "Applied Materials",
+    "京鼎",
+    "漢翔",
+    "SIMONA",
+    "Georg Fischer",
+    "台積電",
+    "Applied Materials",
+    "京鼎",
+    "漢翔",
+    "台積電",
+    "Applied Materials",
+    "京鼎",
+    "漢翔",
+    "SIMONA",
+    "Georg Fischer"
+  ]
+}

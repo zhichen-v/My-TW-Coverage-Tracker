@@ -1,0 +1,580 @@
+{
+  "report_id": "Pilot_Reports/Integrated Freight & Logistics/5601_台聯櫃.md",
+  "source_path": "Pilot_Reports/Integrated Freight & Logistics/5601_台聯櫃.md",
+  "json_path": "Pilot_Reports_JSON/Integrated Freight & Logistics/5601_台聯櫃.json",
+  "ticker": "5601",
+  "company_name": "台聯櫃",
+  "title": "# 5601_台聯櫃",
+  "sector_folder": "Integrated Freight & Logistics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Integrated Freight & Logistics"
+      },
+      {
+        "label": "市值:",
+        "value": "2,368 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,255 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "臺聯貨櫃通運股份有限公司（TACT）早期主要經營貨櫃集散站業務及國民住宅興建。近年業務轉型，目前主要經營空櫃棧租及土地/設備之不動產租賃與出售業務，並提供倉儲、理貨包裝等服務。公司在台灣物流體系中扮演基礎設施提供者角色，主要服務對象為"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮海運"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "陽明海運"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "萬海航運"
+            },
+            {
+              "type": "text",
+              "text": "等國際貨櫃航運公司及進出口貿易商。營收規模較小，主要來自棧租收入及不動產租賃，獲利穩定。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設施維護)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃場設備維護與更新供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物業管理與設施維護服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (場站營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "臺聯貨櫃"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 空櫃棧租、貨櫃集散站營運、倉儲理貨、不動產租賃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萬海航運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等貨櫃航運公司（空櫃棧租）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流承攬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際物流承攬業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一般企業租戶（不動產租賃）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "陽明海運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萬海航運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等貨櫃航運公司（空櫃棧租服務）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際物流承攬業者（倉儲理貨服務）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業租戶（土地與設施租賃）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貿易商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進出口貿易商（貨櫃集散服務）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 貨櫃場設備維護商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 設施管理與維護服務廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $36.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "87.02",
+                  "N/A",
+                  "25.31",
+                  "1.69",
+                  "55.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "93.59",
+                  "91.92",
+                  "88.27"
+                ],
+                [
+                  "Gross Profit",
+                  "56.09",
+                  "55.35",
+                  "53.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "59.93",
+                  "60.21",
+                  "60.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "23.50",
+                  "24.56",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "32.59",
+                  "30.79",
+                  "30.10"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "34.82",
+                  "33.49",
+                  "34.10"
+                ],
+                [
+                  "Net Income",
+                  "27.17",
+                  "25.39",
+                  "31.08"
+                ],
+                [
+                  "Net Margin (%)",
+                  "29.03",
+                  "27.62",
+                  "35.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "33.31",
+                  "29.85",
+                  "30.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1.08",
+                  "-2.95",
+                  "2.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-25.78",
+                  "-27.78",
+                  "-33.93"
+                ],
+                [
+                  "CAPEX",
+                  "-2.15",
+                  "-4.37",
+                  "-5.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "23.92",
+                  "23.52",
+                  "23.29",
+                  "22.85"
+                ],
+                [
+                  "Gross Profit",
+                  "14.20",
+                  "14.32",
+                  "14.19",
+                  "13.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "59.37",
+                  "60.89",
+                  "60.93",
+                  "58.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6.59",
+                  "5.82",
+                  "5.69",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "7.61",
+                  "8.50",
+                  "8.51",
+                  "7.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "31.82",
+                  "36.14",
+                  "36.52",
+                  "34.86"
+                ],
+                [
+                  "Net Income",
+                  "6.39",
+                  "7.04",
+                  "7.13",
+                  "6.61"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.69",
+                  "29.94",
+                  "30.62",
+                  "28.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3.72",
+                  "9.99",
+                  "7.75",
+                  "11.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "0.38",
+                  "0.01",
+                  "-1.03",
+                  "-0.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.85",
+                  "-23.23",
+                  "-0.99",
+                  "-0.71"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-0.32",
+                  "-1.08",
+                  "-0.76"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "長榮海運",
+    "陽明海運",
+    "萬海航運",
+    "長榮海運",
+    "陽明海運",
+    "萬海航運",
+    "長榮海運",
+    "陽明海運",
+    "萬海航運"
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4584_君帆.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4584_君帆.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4584_君帆.json",
+  "ticker": "4584",
+  "company_name": "君帆",
+  "title": "# 4584 - 君帆",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "1,278 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,335 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "君帆工業 (4584，Jufan Industrial) 為專業液壓缸與氣壓元件製造商 (逾 40 年經驗)，產品涵蓋薄型油壓缸、圓形油壓缸、伺服油壓系統、氣壓缸及真空元件。中國輪胎硫化機油壓缸市場領導品牌。下游應用涵蓋輪胎機械 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "正新橡膠"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "Maxxis"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈)、醫療設備 (手術台/CT 掃描升降，日本/中國客戶)、射出成型機鎖模油壓缸及工具機。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼管/鋼棒/鑄件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "油封/密封件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 油封及密封件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "君帆"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (液壓缸/氣壓缸/真空元件，精密加工/電鍍/組裝)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "輪胎機械:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "正新橡膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Maxxis"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 硫化機油壓缸"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本醫療設備廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shimadzu"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 手術台/CT 掃描升降系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "射出機/工具機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東芝機械"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 — 鎖模油壓缸/驅動系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "輪胎設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "正新橡膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Maxxis"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 硫化機油壓缸"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 手術台/CT 掃描升降"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機械:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 射出成型機/工具機廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼管/鋼棒/鑄件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "密封件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 油封/密封件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $42.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.64",
+                  "N/A",
+                  "0.97",
+                  "1.22",
+                  "6.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1310.97",
+                  "1331.05",
+                  "1011.96"
+                ],
+                [
+                  "Gross Profit",
+                  "436.26",
+                  "421.79",
+                  "326.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.28",
+                  "31.69",
+                  "32.22"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "79.83",
+                  "84.03",
+                  "67.57"
+                ],
+                [
+                  "R&D Exp",
+                  "47.28",
+                  "55.98",
+                  "17.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "128.27",
+                  "118.86",
+                  "142.01"
+                ],
+                [
+                  "Operating Income",
+                  "180.87",
+                  "162.93",
+                  "99.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.80",
+                  "12.24",
+                  "9.83"
+                ],
+                [
+                  "Net Income",
+                  "102.78",
+                  "108.08",
+                  "91.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.84",
+                  "8.12",
+                  "9.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "99.86",
+                  "260.03",
+                  "105.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-22.41",
+                  "-297.97",
+                  "-14.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-152.58",
+                  "-57.47",
+                  "-40.58"
+                ],
+                [
+                  "CAPEX",
+                  "-117.07",
+                  "-209.79",
+                  "-32.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "281.09",
+                  "341.44",
+                  "332.24",
+                  "356.20"
+                ],
+                [
+                  "Gross Profit",
+                  "96.23",
+                  "105.76",
+                  "108.33",
+                  "125.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.23",
+                  "30.97",
+                  "32.60",
+                  "35.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.28",
+                  "19.89",
+                  "18.71",
+                  "21.96"
+                ],
+                [
+                  "R&D Exp",
+                  "11.57",
+                  "13.48",
+                  "12.33",
+                  "9.90"
+                ],
+                [
+                  "General & Admin Exp",
+                  "33.61",
+                  "32.39",
+                  "29.82",
+                  "32.46"
+                ],
+                [
+                  "Operating Income",
+                  "31.77",
+                  "39.99",
+                  "47.47",
+                  "61.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.30",
+                  "11.71",
+                  "14.29",
+                  "17.30"
+                ],
+                [
+                  "Net Income",
+                  "23.93",
+                  "19.30",
+                  "19.78",
+                  "39.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.51",
+                  "5.65",
+                  "5.95",
+                  "11.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "46.12",
+                  "-4.34",
+                  "98.26",
+                  "-40.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-31.57",
+                  "-5.89",
+                  "-32.44",
+                  "47.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-35.65",
+                  "-78.58",
+                  "-13.34",
+                  "-25.01"
+                ],
+                [
+                  "CAPEX",
+                  "-34.84",
+                  "-2.07",
+                  "-58.89",
+                  "-21.27"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "正新橡膠",
+    "Maxxis",
+    "正新橡膠",
+    "Maxxis",
+    "Shimadzu",
+    "東芝機械",
+    "正新橡膠",
+    "Maxxis"
+  ]
+}

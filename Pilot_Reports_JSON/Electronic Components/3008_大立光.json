@@ -1,0 +1,769 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3008_大立光.md",
+  "source_path": "Pilot_Reports/Electronic Components/3008_大立光.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3008_大立光.json",
+  "ticker": "3008",
+  "company_name": "大立光",
+  "title": "# 3008 - [[大立光]]",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "290,372 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "162,937 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "大立光"
+            },
+            {
+              "type": "text",
+              "text": "電 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Largan Precision"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球手機鏡頭龍頭廠，技術與產能遙遙領先同業。公司專注於高階塑膠非球面鏡片之設計與模具製造，擁有極高良率與專利護城河。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要產品線涵蓋：(1) 高階手機鏡頭 — 7P/8P/9P 規格鏡組，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " iPhone 系列核心供應商；(2) 潛望式鏡頭 (Periscope Lens) — 受惠高倍光學變焦趨勢，打入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": " 旗艦機種；(3) 車用鏡頭 — 切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 車載光學，規格持續升級。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學材料與模具)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學塑膠粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日系特殊光學樹脂供應商 — 鏡片核心材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高精密模具鋼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自製精密模具與自動化設備 — 核心競爭力"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鏡頭設計與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "[[大立光]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (7P/8P/9P 高階手機鏡組)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "潛望式鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "[[大立光]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Periscope 長焦鏡頭)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "[[大立光]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載光學鏡頭)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (鏡頭模組廠與終端品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鏡頭模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Innotek"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 模組組裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "小米"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "vivo"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、歐系車廠 — 透過模組廠間接供貨"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "小米"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "vivo"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鏡頭模組廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Innotek"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立訊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 透過模組廠供貨車載鏡頭"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日系光學塑膠粒供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自製精密模具與自動化設備為核心競爭力"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $2,220.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.25",
+                  "11.78",
+                  "4.75",
+                  "1.57",
+                  "5.25"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "61147.89",
+                  "59457.55",
+                  "48842.25"
+                ],
+                [
+                  "Gross Profit",
+                  "30837.05",
+                  "31209.31",
+                  "23805.55"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.43",
+                  "52.49",
+                  "48.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "376.08",
+                  "398.79",
+                  "290.63"
+                ],
+                [
+                  "R&D Exp",
+                  "5293.32",
+                  "5246.70",
+                  "4191.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1609.39",
+                  "1531.29",
+                  "1504.48"
+                ],
+                [
+                  "Operating Income",
+                  "23558.26",
+                  "24032.53",
+                  "17819.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "38.53",
+                  "40.42",
+                  "36.48"
+                ],
+                [
+                  "Net Income",
+                  "21275.41",
+                  "25915.41",
+                  "17902.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "34.79",
+                  "43.59",
+                  "36.65"
+                ],
+                [
+                  "Op Cash Flow",
+                  "26080.23",
+                  "31578.53",
+                  "18198.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9235.73",
+                  "-16066.03",
+                  "-11151.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-13457.66",
+                  "-10763.55",
+                  "-9750.25"
+                ],
+                [
+                  "CAPEX",
+                  "-12514.88",
+                  "-11446.93",
+                  "-8449.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "17218.64",
+                  "11672.62",
+                  "14579.23",
+                  "18209.99"
+                ],
+                [
+                  "Gross Profit",
+                  "8260.18",
+                  "6260.02",
+                  "7964.51",
+                  "10758.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "47.97",
+                  "53.63",
+                  "54.63",
+                  "59.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "102.47",
+                  "80.54",
+                  "95.92",
+                  "182.23"
+                ],
+                [
+                  "R&D Exp",
+                  "1419.56",
+                  "986.34",
+                  "1348.30",
+                  "1768.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "409.56",
+                  "314.31",
+                  "433.97",
+                  "482.73"
+                ],
+                [
+                  "Operating Income",
+                  "6328.59",
+                  "4878.83",
+                  "6086.33",
+                  "8325.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "36.75",
+                  "41.80",
+                  "41.75",
+                  "45.72"
+                ],
+                [
+                  "Net Income",
+                  "6719.70",
+                  "1032.13",
+                  "6443.31",
+                  "8676.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "39.03",
+                  "8.84",
+                  "44.20",
+                  "47.65"
+                ],
+                [
+                  "Op Cash Flow",
+                  "10519.68",
+                  "3186.77",
+                  "9830.08",
+                  "16080.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1092.31",
+                  "-2437.28",
+                  "-2457.43",
+                  "5.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1746.32",
+                  "-7694.00",
+                  "5.26",
+                  "-56.76"
+                ],
+                [
+                  "CAPEX",
+                  "-2669.65",
+                  "-3537.19",
+                  "-2916.74",
+                  "-2752.33"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "大立光",
+    "大立光",
+    "Largan Precision",
+    "Apple",
+    "Apple",
+    "Samsung",
+    "ADAS",
+    "大立光",
+    "大立光",
+    "大立光",
+    "ADAS",
+    "LG Innotek",
+    "鴻海",
+    "立訊",
+    "Apple",
+    "Samsung",
+    "小米",
+    "OPPO",
+    "vivo",
+    "Tesla",
+    "Apple",
+    "Samsung",
+    "小米",
+    "OPPO",
+    "vivo",
+    "LG Innotek",
+    "鴻海",
+    "立訊",
+    "Tesla"
+  ]
+}

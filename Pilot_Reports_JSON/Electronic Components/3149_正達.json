@@ -1,0 +1,729 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3149_正達.md",
+  "source_path": "Pilot_Reports/Electronic Components/3149_正達.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3149_正達.json",
+  "ticker": "3149",
+  "company_name": "正達",
+  "title": "# 3149 - 正達",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "9,977 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,106 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "正達國際光電 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "G-Tech Optoelectronics"
+            },
+            {
+              "type": "text",
+              "text": ") 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": " 集團旗下玻璃加工領先廠商，專精於 3D 玻璃成型與薄膜技術。公司已成功轉型，由過往消費性電子玻璃供應商跨足高品質車用與建築領域。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "技術優勢與市場拓展：(1) 車載玻璃 — 開發中控台大型曲面玻璃、智慧後視鏡及防眩光 (AG) 鍍膜，打入歐美一線車廠供應鏈；(2) MIH "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "平台 — 作為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": " MIH 聯盟成員，負責提供輕量化、智慧化車用玻璃解決方案；(3) 建築玻璃 — 生產 Low-E 節能玻璃、抗菌玻璃等高附加價值建築材料。上游玻璃原片主要來自 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Corning"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AGC"
+            },
+            {
+              "type": "text",
+              "text": " (旭硝子)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (玻璃原片與鍍膜材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃原片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corning"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AGC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (旭硝子) — 高品質玻璃原片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍍膜靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鍍膜用靶材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學強化藥劑:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃化學強化處理藥劑"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (玻璃加工與鍍膜)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 成型:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "正達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (車用曲面玻璃 3D 熱彎成型)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學強化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "正達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (玻璃化學強化處理)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多功能鍍膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "正達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AG 防眩光/AR 抗反射/Low-E 節能鍍膜)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用/建築/消費)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美一線車廠 — 中控台曲面玻璃/智慧後視鏡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[電動車]]平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " MIH 聯盟 — 電動車用玻璃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧建築 — Low-E 節能玻璃/抗菌玻璃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 過往主要消費電子客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美一線車廠 — 中控台曲面玻璃與智慧後視鏡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[電動車]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " MIH 聯盟 — 電動車用玻璃方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧建築專案 — Low-E 節能玻璃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 過往主要客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃原片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corning"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AGC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高品質玻璃原片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍍膜靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鍍膜用靶材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團母公司資源支持"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $44.10 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "-42.82",
+                  "4.59",
+                  "3.72",
+                  "-26.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2282.75",
+                  "2163.18",
+                  "1859.04"
+                ],
+                [
+                  "Gross Profit",
+                  "-240.39",
+                  "24.46",
+                  "62.57"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-10.53",
+                  "1.13",
+                  "3.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.34",
+                  "47.55",
+                  "38.47"
+                ],
+                [
+                  "R&D Exp",
+                  "108.75",
+                  "118.78",
+                  "97.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "203.99",
+                  "169.19",
+                  "124.89"
+                ],
+                [
+                  "Operating Income",
+                  "-598.47",
+                  "-311.06",
+                  "-198.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-26.22",
+                  "-14.38",
+                  "-10.67"
+                ],
+                [
+                  "Net Income",
+                  "-604.61",
+                  "-240.76",
+                  "-117.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-26.49",
+                  "-11.13",
+                  "-6.34"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-410.71",
+                  "12.53",
+                  "27.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-610.63",
+                  "-151.25",
+                  "-55.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "779.52",
+                  "578.07",
+                  "-94.23"
+                ],
+                [
+                  "CAPEX",
+                  "-348.78",
+                  "-102.06",
+                  "-45.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "654.15",
+                  "591.97",
+                  "565.96",
+                  "470.68"
+                ],
+                [
+                  "Gross Profit",
+                  "-80.95",
+                  "-32.94",
+                  "-48.84",
+                  "-77.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-12.37",
+                  "-5.56",
+                  "-8.63",
+                  "-16.50"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10.77",
+                  "11.57",
+                  "11.67",
+                  "11.33"
+                ],
+                [
+                  "R&D Exp",
+                  "30.65",
+                  "24.77",
+                  "29.86",
+                  "23.46"
+                ],
+                [
+                  "General & Admin Exp",
+                  "65.93",
+                  "49.53",
+                  "50.49",
+                  "38.04"
+                ],
+                [
+                  "Operating Income",
+                  "-188.30",
+                  "-118.80",
+                  "-140.87",
+                  "-150.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-28.79",
+                  "-20.07",
+                  "-24.89",
+                  "-31.98"
+                ],
+                [
+                  "Net Income",
+                  "-141.07",
+                  "-152.74",
+                  "-164.79",
+                  "-146.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-21.57",
+                  "-25.80",
+                  "-29.12",
+                  "-31.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-78.85",
+                  "-98.30",
+                  "-49.82",
+                  "-183.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-94.34",
+                  "-356.91",
+                  "-261.19",
+                  "101.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "89.85",
+                  "183.08",
+                  "560.20",
+                  "-53.61"
+                ],
+                [
+                  "CAPEX",
+                  "-187.82",
+                  "-65.25",
+                  "-68.74",
+                  "-26.97"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "G-Tech Optoelectronics",
+    "鴻海",
+    "電動車",
+    "鴻海",
+    "Corning",
+    "AGC",
+    "Corning",
+    "AGC",
+    "電動車",
+    "鴻海",
+    "Apple",
+    "電動車",
+    "鴻海",
+    "Apple",
+    "Corning",
+    "AGC",
+    "鴻海"
+  ]
+}

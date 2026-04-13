@@ -1,0 +1,826 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3236_千如.md",
+  "source_path": "Pilot_Reports/Electronic Components/3236_千如.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3236_千如.json",
+  "ticker": "3236",
+  "company_name": "千如",
+  "title": "# 3236 - 千如",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "3,260 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,667 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "千如電機 (3236，"
+            },
+            {
+              "type": "wikilink",
+              "text": "ABC Taiwan Electronics"
+            },
+            {
+              "type": "text",
+              "text": ") 是專業的電感 (Inductor) 與被動元件製造商，以高品質與客製化能力著稱。產品線涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SMD"
+            },
+            {
+              "type": "text",
+              "text": " 功率電感、濾波器、變壓器以及精密散熱零件。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心業務驅動力：(1) 車用電子領航 — 取得 IATF 16949 與 AEC-Q200 認證，深耕"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": " BMS (電池管理系統)、車載充電器 (OBC) 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 相關電感需求，客戶涵蓋國際 Tier 1 車電廠商；(2) 工業與醫療 — 提供高穩定性功率元件，用於工業自動化、醫療監控儀器與高階電源供應器；(3) AI 與網通 — 針對"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "開發大電流、低損耗電感解決方案，因應算力提升帶來的電源管理挑戰。生產基地橫跨台灣、中國與東南亞。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (磁性材料與金屬)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 漆包銅線供應商 — 電感繞線核心材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磁性材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鐵氧體磁芯、金屬粉末磁芯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 陶瓷材料供應商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MLCC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 級陶瓷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (被動元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率電感:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "千如"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 功率電感、繞線電感)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "濾波器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "千如"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (EMI 濾波器、共模電感)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "變壓器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "千如"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高頻變壓器、脈衝變壓器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用、AI 與工控應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Tier 1 車電廠 BMS/OBC 電感"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電源管理電感"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 基地台與伺服器電源模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業自動化設備與電源供應器廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " BMS/OBC/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電感"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電源模組電感"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 伺服器與基地台電源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業/醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業自動化與醫療設備廠商 — 高穩定性電感"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 漆包銅線供應商 — 電感繞線材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磁芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鐵氧體與金屬粉末磁芯供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 陶瓷基板材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.05 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "97.03",
+                  "N/A",
+                  "1.58",
+                  "2.09",
+                  "13.40"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2067.60",
+                  "1864.18",
+                  "1992.30"
+                ],
+                [
+                  "Gross Profit",
+                  "523.10",
+                  "409.91",
+                  "449.63"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.30",
+                  "21.99",
+                  "22.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "75.39",
+                  "73.45",
+                  "63.83"
+                ],
+                [
+                  "R&D Exp",
+                  "102.14",
+                  "110.22",
+                  "104.40"
+                ],
+                [
+                  "General & Admin Exp",
+                  "251.55",
+                  "246.13",
+                  "247.22"
+                ],
+                [
+                  "Operating Income",
+                  "94.01",
+                  "-19.90",
+                  "34.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.55",
+                  "-1.07",
+                  "1.72"
+                ],
+                [
+                  "Net Income",
+                  "33.76",
+                  "4.45",
+                  "37.36"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.63",
+                  "0.24",
+                  "1.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "168.23",
+                  "161.41",
+                  "287.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-102.08",
+                  "-127.87",
+                  "-227.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-105.47",
+                  "-89.15",
+                  "116.07"
+                ],
+                [
+                  "CAPEX",
+                  "-151.70",
+                  "-231.54",
+                  "-243.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "539.00",
+                  "551.16",
+                  "527.46",
+                  "449.99"
+                ],
+                [
+                  "Gross Profit",
+                  "140.32",
+                  "157.70",
+                  "118.72",
+                  "106.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.03",
+                  "28.61",
+                  "22.51",
+                  "23.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "20.34",
+                  "18.78",
+                  "18.50",
+                  "17.77"
+                ],
+                [
+                  "R&D Exp",
+                  "27.21",
+                  "26.04",
+                  "25.14",
+                  "23.75"
+                ],
+                [
+                  "General & Admin Exp",
+                  "65.73",
+                  "61.17",
+                  "55.40",
+                  "69.25"
+                ],
+                [
+                  "Operating Income",
+                  "27.03",
+                  "51.71",
+                  "19.67",
+                  "-4.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.02",
+                  "9.38",
+                  "3.73",
+                  "-0.98"
+                ],
+                [
+                  "Net Income",
+                  "21.03",
+                  "32.95",
+                  "-20.20",
+                  "-0.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.90",
+                  "5.98",
+                  "-3.83",
+                  "-0.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "118.65",
+                  "67.53",
+                  "10.70",
+                  "-28.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-41.94",
+                  "-32.96",
+                  "-33.39",
+                  "6.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-45.71",
+                  "-77.67",
+                  "14.82",
+                  "3.09"
+                ],
+                [
+                  "CAPEX",
+                  "-54.14",
+                  "-33.41",
+                  "-41.73",
+                  "-22.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ABC Taiwan Electronics",
+    "SMD",
+    "電動車",
+    "ADAS",
+    "資料中心",
+    "AI 伺服器",
+    "MLCC",
+    "SMD",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "廣達",
+    "緯創",
+    "AI 伺服器",
+    "仁寶",
+    "和碩",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "電動車",
+    "ADAS",
+    "廣達",
+    "緯創",
+    "AI 伺服器",
+    "仁寶",
+    "和碩"
+  ]
+}

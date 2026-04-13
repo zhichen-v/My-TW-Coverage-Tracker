@@ -1,0 +1,483 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/1470_大統新創.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/1470_大統新創.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/1470_大統新創.json",
+  "ticker": "1470",
+  "company_name": "大統新創",
+  "title": "# 1470 - 大統新創",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,917 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,610 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "大統新創"
+            },
+            {
+              "type": "text",
+              "text": " (Evertex Fabrinology，原大統染整) 為專業機能性布料供應商，以精湛的染整技術著稱。產品專注於戶外運動、休閒服飾用之機能性針織與平織布料，如吸濕排汗、抗菌防臭、"
+            },
+            {
+              "type": "wikilink",
+              "text": "防水透氣"
+            },
+            {
+              "type": "text",
+              "text": "等。公司亦積極發展"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "發電業務，於廠區屋頂建置太陽能板售電，創造穩定業外收益。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "採購紗線、胚布"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "染整加工、織造 (部分)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "供應給成衣廠及國際戶外運動品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "戶外/運動品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "The North Face"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Columbia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Patagonia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銷售區域:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣、越南、孟加拉 (交貨給成衣廠)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 紗線廠如"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、染料助劑廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $22.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "28.65",
+                  "N/A",
+                  "2.39",
+                  "1.93",
+                  "12.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "803.71",
+                  "788.04",
+                  "655.22"
+                ],
+                [
+                  "Gross Profit",
+                  "194.40",
+                  "199.38",
+                  "129.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.19",
+                  "25.30",
+                  "19.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "79.16",
+                  "79.47",
+                  "67.19"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.60",
+                  "32.12",
+                  "29.42"
+                ],
+                [
+                  "Operating Income",
+                  "83.66",
+                  "88.31",
+                  "34.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.41",
+                  "11.21",
+                  "5.23"
+                ],
+                [
+                  "Net Income",
+                  "67.27",
+                  "97.31",
+                  "49.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.37",
+                  "12.35",
+                  "7.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "101.19",
+                  "111.35",
+                  "144.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-64.11",
+                  "33.65",
+                  "-90.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-95.53",
+                  "-58.89",
+                  "-42.22"
+                ],
+                [
+                  "CAPEX",
+                  "-39.14",
+                  "-26.39",
+                  "-34.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "211.32",
+                  "179.76",
+                  "198.69",
+                  "213.94"
+                ],
+                [
+                  "Gross Profit",
+                  "64.03",
+                  "34.70",
+                  "50.63",
+                  "45.04"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.30",
+                  "19.30",
+                  "25.48",
+                  "21.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.81",
+                  "19.94",
+                  "21.51",
+                  "20.89"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9.35",
+                  "8.41",
+                  "5.83",
+                  "8.01"
+                ],
+                [
+                  "Operating Income",
+                  "37.87",
+                  "6.36",
+                  "23.29",
+                  "16.14"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.92",
+                  "3.54",
+                  "11.72",
+                  "7.54"
+                ],
+                [
+                  "Net Income",
+                  "39.76",
+                  "21.50",
+                  "-13.65",
+                  "19.65"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.81",
+                  "11.96",
+                  "-6.87",
+                  "9.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "55.24",
+                  "21.52",
+                  "-12.22",
+                  "36.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-98.48",
+                  "78.93",
+                  "-31.79",
+                  "-12.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.98",
+                  "-87.60",
+                  "-0.98",
+                  "-0.98"
+                ],
+                [
+                  "CAPEX",
+                  "-19.17",
+                  "-3.69",
+                  "-9.41",
+                  "-6.86"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "大統新創",
+    "防水透氣",
+    "太陽能",
+    "The North Face",
+    "Columbia",
+    "Patagonia",
+    "南亞",
+    "遠東新"
+  ]
+}

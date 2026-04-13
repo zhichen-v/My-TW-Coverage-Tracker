@@ -1,0 +1,534 @@
+{
+  "report_id": "Pilot_Reports/Farm Products/8345_超秦.md",
+  "source_path": "Pilot_Reports/Farm Products/8345_超秦.md",
+  "json_path": "Pilot_Reports_JSON/Farm Products/8345_超秦.json",
+  "ticker": "8345",
+  "company_name": "超秦",
+  "title": "# 8345 - 超秦",
+  "sector_folder": "Farm Products",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Defensive"
+      },
+      {
+        "label": "產業:",
+        "value": "Farm Products"
+      },
+      {
+        "label": "市值:",
+        "value": "2,688 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,967 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "超秦 (8345，Super Qin) 創立於 1985 年，為北台灣最大家禽電宰場，2025 年 6 月登錄興櫃。公司打造國產生鮮雞肉供應鏈整合平台，串聯上游種雞場、飼料廠與契作農場，中游專業電宰與肉品加工，直達下游各大零售及餐飲通路。主力產品為白肉雞生鮮雞肉及加工製品，旗下品牌「秦肉 Qin Meat」。2024 年白肉雞年屠宰量達 1,865 萬羽。為連鎖餐飲品牌如"
+            },
+            {
+              "type": "wikilink",
+              "text": "麥當勞"
+            },
+            {
+              "type": "text",
+              "text": "提供風味開發及客製化肉品加工服務。供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "全聯"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "大潤發"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一超商"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "全家便利商店"
+            },
+            {
+              "type": "text",
+              "text": "等主要通路。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (種雞、飼料與契作)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飼料廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大成長城"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "卜蜂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 禽類飼料供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "契作農場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 合作契養農場 — 白肉雞飼養"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (電宰與加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超秦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 北台灣最大家禽電宰場，涵蓋屠宰、分切、包裝及調理肉品加工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (通路與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連鎖餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "麥當勞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等連鎖速食"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "量販超市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大潤發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連鎖餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "麥當勞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 客製化雞肉產品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "量販超市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大潤發"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精緻包裝生鮮雞肉"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鮮食用雞肉原料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飼料廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大成長城"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "卜蜂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 禽類飼料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "契作農場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台契約飼養農場"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $51.70 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.39",
+                  "N/A",
+                  "0.70",
+                  "1.70",
+                  "8.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3590.24",
+                  "3762.53"
+                ],
+                [
+                  "Gross Profit",
+                  "524.36",
+                  "551.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.61",
+                  "14.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "223.50",
+                  "204.88"
+                ],
+                [
+                  "R&D Exp",
+                  "3.60",
+                  "2.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "143.63",
+                  "185.00"
+                ],
+                [
+                  "Operating Income",
+                  "153.62",
+                  "158.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.28",
+                  "4.20"
+                ],
+                [
+                  "Net Income",
+                  "129.74",
+                  "140.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.61",
+                  "3.74"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-117.44",
+                  "187.02"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-155.27",
+                  "-65.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "178.85",
+                  "5.35"
+                ],
+                [
+                  "CAPEX",
+                  "-46.10",
+                  "-66.57"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "麥當勞",
+    "全聯",
+    "大潤發",
+    "統一超商",
+    "全家便利商店",
+    "大成長城",
+    "卜蜂",
+    "麥當勞",
+    "全聯",
+    "大潤發",
+    "統一超商",
+    "全家便利商店",
+    "麥當勞",
+    "全聯",
+    "大潤發",
+    "統一超商",
+    "全家便利商店",
+    "大成長城",
+    "卜蜂"
+  ]
+}

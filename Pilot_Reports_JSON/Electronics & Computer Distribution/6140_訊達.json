@@ -1,0 +1,464 @@
+{
+  "report_id": "Pilot_Reports/Electronics & Computer Distribution/6140_訊達.md",
+  "source_path": "Pilot_Reports/Electronics & Computer Distribution/6140_訊達.md",
+  "json_path": "Pilot_Reports_JSON/Electronics & Computer Distribution/6140_訊達.json",
+  "ticker": "6140",
+  "company_name": "訊達",
+  "title": "# 6140_訊達",
+  "sector_folder": "Electronics & Computer Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronics & Computer Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "1,112 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,376 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "訊達電腦股份有限公司 (6140) 是一家深耕多年的資訊系統整合服務商(SI)。公司從早期的個人電腦與週邊設備代理銷售，成功轉型為專注於企業私有雲、網路資安、虛擬化及儲存方案的全方位IT建置顧問。看準"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "與大數據趨勢，訊達積極為許多台灣高科技製造業及政府機關建構"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "訓練與推論的IT基礎架構，在"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈中負責『最後一哩路』的硬體與應用整合服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 全球知名資訊設備原廠("
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、儲存設備、網路設備)及企業級軟體開發商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "訊達電腦"
+            },
+            {
+              "type": "text",
+              "text": " (企業IT系統建置、雲端資安架構規劃與軟硬體系統整合服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 各產業之大型企業用戶、高科技製造廠及政府公家機關。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台積電"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯發科"
+                },
+                {
+                  "type": "text",
+                  "text": "等指標性高科技廠，以及行政院、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "中油"
+                },
+                {
+                  "type": "text",
+                  "text": "、台灣大哥大等超過3000家政商客戶。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   HPE(白金級經銷夥伴)、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dell"
+                },
+                {
+                  "type": "text",
+                  "text": "、IBM、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "HP"
+                },
+                {
+                  "type": "text",
+                  "text": "及"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Cisco"
+                },
+                {
+                  "type": "text",
+                  "text": "等國際知名資訊科技原廠。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.47",
+                  "2.23",
+                  "-10.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1853.92",
+                  "1864.61",
+                  "2297.93"
+                ],
+                [
+                  "Gross Profit",
+                  "167.96",
+                  "172.12",
+                  "180.57"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.06",
+                  "9.23",
+                  "7.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "79.00",
+                  "96.77",
+                  "103.00"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "63.14",
+                  "60.69",
+                  "62.92"
+                ],
+                [
+                  "Operating Income",
+                  "25.83",
+                  "14.66",
+                  "14.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.39",
+                  "0.79",
+                  "0.64"
+                ],
+                [
+                  "Net Income",
+                  "51.27",
+                  "5.17",
+                  "49.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.77",
+                  "0.28",
+                  "2.16"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-761.68",
+                  "567.15",
+                  "159.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "789.02",
+                  "-529.27",
+                  "-482.49"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-96.37",
+                  "22.63",
+                  "297.15"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-0.06",
+                  "-1.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "695.82",
+                  "690.53",
+                  "495.07",
+                  "634.89"
+                ],
+                [
+                  "Gross Profit",
+                  "54.01",
+                  "51.57",
+                  "42.91",
+                  "45.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.76",
+                  "7.47",
+                  "8.67",
+                  "7.24"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17.05",
+                  "19.26",
+                  "18.35",
+                  "22.66"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.28",
+                  "15.60",
+                  "16.64",
+                  "15.81"
+                ],
+                [
+                  "Operating Income",
+                  "22.68",
+                  "16.71",
+                  "7.92",
+                  "7.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.26",
+                  "2.42",
+                  "1.60",
+                  "1.18"
+                ],
+                [
+                  "Net Income",
+                  "-19.19",
+                  "-61.69",
+                  "17.28",
+                  "5.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.76",
+                  "-8.93",
+                  "3.49",
+                  "0.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "16.20",
+                  "-21.95",
+                  "-0.23",
+                  "-87.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "13.24",
+                  "10.88",
+                  "-30.32",
+                  "2.69"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-58.10",
+                  "34.70",
+                  "52.96",
+                  "70.61"
+                ],
+                [
+                  "CAPEX",
+                  "-1.96",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AI",
+    "AI",
+    "AI",
+    "伺服器",
+    "台積電",
+    "聯發科",
+    "中油",
+    "Dell",
+    "HP",
+    "Cisco"
+  ]
+}

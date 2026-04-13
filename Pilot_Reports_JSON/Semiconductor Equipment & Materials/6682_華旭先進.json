@@ -1,0 +1,460 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/6682_華旭先進.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/6682_華旭先進.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/6682_華旭先進.json",
+  "ticker": "6682",
+  "company_name": "華旭先進",
+  "title": "# 6682_華旭先進",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "5,171 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,035 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華旭先進 (6682，又稱華旭矽材) 是一家專業的"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "材料供應商，主要從事半導體用"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽材料"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "研磨液"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "製程化學品"
+            },
+            {
+              "type": "text",
+              "text": "相關產品之銷售與技術服務。公司產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "晶圓製造"
+            },
+            {
+              "type": "text",
+              "text": "及半導體製程，服務台灣及亞太地區晶圓代工及 IDM 客戶。競爭同業包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "崇越科技"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際矽材料原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體耗材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製程用消耗品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (材料銷售)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽材料通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華旭"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (半導體用矽材料銷售及技術服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (晶圓製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等晶圓廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IDM 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體 IDM 製造客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IDM 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體 IDM 製造廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際矽材料原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體耗材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製程消耗品供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $35.15 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "14.68",
+                  "6.19",
+                  "-31.30"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "215.72",
+                  "369.11",
+                  "1686.15"
+                ],
+                [
+                  "Gross Profit",
+                  "-167.38",
+                  "-165.15",
+                  "150.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-77.59",
+                  "-44.74",
+                  "8.94"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.55",
+                  "24.16",
+                  "27.07"
+                ],
+                [
+                  "R&D Exp",
+                  "46.59",
+                  "53.72",
+                  "63.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "79.35",
+                  "79.23",
+                  "87.02"
+                ],
+                [
+                  "Operating Income",
+                  "-309.88",
+                  "-322.26",
+                  "-26.58"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-143.65",
+                  "-87.31",
+                  "-1.58"
+                ],
+                [
+                  "Net Income",
+                  "-369.26",
+                  "-381.25",
+                  "-37.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-171.18",
+                  "-103.29",
+                  "-2.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-109.95",
+                  "-138.48",
+                  "-101.88"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "2.03",
+                  "-226.42",
+                  "-303.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-51.88",
+                  "358.98",
+                  "331.35"
+                ],
+                [
+                  "CAPEX",
+                  "-81.35",
+                  "-164.58",
+                  "-250.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "半導體",
+    "矽材料",
+    "研磨液",
+    "製程化學品",
+    "晶圓製造",
+    "崇越科技",
+    "台積電",
+    "聯華電子",
+    "台積電",
+    "聯華電子"
+  ]
+}

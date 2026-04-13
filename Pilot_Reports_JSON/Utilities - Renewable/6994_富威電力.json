@@ -1,0 +1,631 @@
+{
+  "report_id": "Pilot_Reports/Utilities - Renewable/6994_富威電力.md",
+  "source_path": "Pilot_Reports/Utilities - Renewable/6994_富威電力.md",
+  "json_path": "Pilot_Reports_JSON/Utilities - Renewable/6994_富威電力.json",
+  "ticker": "6994",
+  "company_name": "富威電力",
+  "title": "# 6994_富威電力",
+  "sector_folder": "Utilities - Renewable",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Utilities"
+      },
+      {
+        "label": "產業:",
+        "value": "Utilities - Renewable"
+      },
+      {
+        "label": "市值:",
+        "value": "5,470 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,984 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "富威電力 (6994，FWP) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "森崴能源"
+            },
+            {
+              "type": "text",
+              "text": " (6806) 旗下子公司，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "正崴精密"
+            },
+            {
+              "type": "text",
+              "text": "集團。公司定位為全方位綠能售電與永續服務平台。三大業務支柱：(1) 綠電轉供 — 整合再生能源裝置容量 164MW，超過 300 個綠電轉供據點，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nvidia"
+            },
+            {
+              "type": "text",
+              "text": " 台灣高雄南軟 AI 機房之唯一綠電供應商；(2) 儲能系統 — 已上線運轉 57MW 自持案場，新開發 200MW/750MWh 儲能案場；(3) 節能服務。2025 年 1 月正式於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣證券交易所"
+            },
+            {
+              "type": "text",
+              "text": "掛牌。2024 年營收 18.7 億元，年增 112%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電力來源與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再生能源電廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森崴能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及中小型太陽能/風電場 — 綠電收購來源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型鋰電池儲能櫃 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BESS"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、智慧電網監控系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (綠電交易與儲能)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "富威電力"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 綠電轉供承購與憑證移轉、大型儲能系統投資營運、節能診斷顧問"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 需取得綠電憑證以符合 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RE100"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 之半導體與電子業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力調度:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 儲能系統參與調頻備轉"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 機房綠電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nvidia"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高雄南軟 AI 機房唯一綠電供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技龍頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 綠電轉供"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 綠電採購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能調度:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — dReg/E-dReg 調頻備轉"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森崴能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 再生能源電力來源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋰電池芯與儲能櫃 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BESS"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $75.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.32",
+                  "N/A",
+                  "1.10",
+                  "2.14",
+                  "6.85"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4990.06",
+                  "1886.59",
+                  "879.89"
+                ],
+                [
+                  "Gross Profit",
+                  "1212.19",
+                  "297.98",
+                  "111.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.29",
+                  "15.79",
+                  "12.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.03",
+                  "0.00",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "20.00",
+                  "10.29",
+                  "7.59"
+                ],
+                [
+                  "General & Admin Exp",
+                  "222.75",
+                  "111.90",
+                  "57.63"
+                ],
+                [
+                  "Operating Income",
+                  "963.41",
+                  "175.79",
+                  "46.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.31",
+                  "9.32",
+                  "5.24"
+                ],
+                [
+                  "Net Income",
+                  "449.89",
+                  "84.93",
+                  "56.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.02",
+                  "4.50",
+                  "6.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "56.63",
+                  "-33.66",
+                  "-5.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-620.45",
+                  "-504.94",
+                  "-690.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "973.86",
+                  "493.92",
+                  "747.29"
+                ],
+                [
+                  "CAPEX",
+                  "-63.87",
+                  "-339.77",
+                  "-611.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3460.08",
+                  "441.03",
+                  "414.05",
+                  "622.11"
+                ],
+                [
+                  "Gross Profit",
+                  "928.50",
+                  "62.61",
+                  "86.66",
+                  "104.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.83",
+                  "14.20",
+                  "20.93",
+                  "16.72"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3.90",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "11.80",
+                  "-",
+                  "-",
+                  "7.79"
+                ],
+                [
+                  "General & Admin Exp",
+                  "115.74",
+                  "30.10",
+                  "31.36",
+                  "33.05"
+                ],
+                [
+                  "Operating Income",
+                  "797.07",
+                  "32.51",
+                  "55.30",
+                  "63.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "23.04",
+                  "7.37",
+                  "13.36",
+                  "10.16"
+                ],
+                [
+                  "Net Income",
+                  "370.16",
+                  "18.01",
+                  "30.52",
+                  "40.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.70",
+                  "4.08",
+                  "7.37",
+                  "6.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-625.67",
+                  "-43.02",
+                  "92.93",
+                  "-50.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-22.75",
+                  "-80.81",
+                  "-103.28",
+                  "-105.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "115.39",
+                  "-56.91",
+                  "299.65",
+                  "94.44"
+                ],
+                [
+                  "CAPEX",
+                  "-23.62",
+                  "7.27",
+                  "-80.03",
+                  "-63.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "森崴能源",
+    "正崴精密",
+    "Nvidia",
+    "台灣證券交易所",
+    "森崴能源",
+    "BESS",
+    "RE100",
+    "台電",
+    "Nvidia",
+    "鴻海",
+    "日月光投控",
+    "台達電",
+    "中華電信",
+    "台電",
+    "森崴能源",
+    "BESS"
+  ]
+}

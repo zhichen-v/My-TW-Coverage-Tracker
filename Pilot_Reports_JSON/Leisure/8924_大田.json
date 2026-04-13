@@ -1,0 +1,603 @@
+{
+  "report_id": "Pilot_Reports/Leisure/8924_大田.md",
+  "source_path": "Pilot_Reports/Leisure/8924_大田.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/8924_大田.json",
+  "ticker": "8924",
+  "company_name": "大田",
+  "title": "# 8924 - 大田",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "5,698 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,071 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "大田精密工業股份有限公司 (8924，O-TA Precision) 成立於 1988 年，專精於高爾夫球桿頭之精密鑄造與鍛造製造，為全球主要高爾夫球桿頭代工廠之一。核心技術涵蓋失蠟精密鑄造、鍛造及"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳纖維"
+            },
+            {
+              "type": "text",
+              "text": "複合材料加工。主要客戶為全球頂級高爾夫球品牌，包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "Callaway"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TaylorMade"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Titleist"
+            },
+            {
+              "type": "text",
+              "text": "等。近年亦將精密鑄造技術延伸至自行車零組件及水暖五金零件領域，並投入碳纖維複合材料產品開發。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鈦合金、不鏽鋼、碳鋼等鑄造用金屬"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[碳纖維]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳纖維複合材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑄造材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 蠟模、陶殼等精密鑄造耗材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密鑄造與鍛造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大田精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高爾夫球桿頭失蠟精密鑄造、鍛造加工及碳纖維複合材料加工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際高爾夫品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高爾夫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Callaway"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TaylorMade"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Titleist"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 球桿頭代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自行車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳纖維自行車零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水暖五金零件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高爾夫球品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Callaway"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TaylorMade"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Titleist"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 球桿頭精密鑄造代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自行車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳纖維自行車零組件客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水暖五金零件客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鈦合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際鈦合金供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不鏽鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊合金鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[碳纖維]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳纖維原料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $68.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.14",
+                  "10.56",
+                  "1.23",
+                  "1.37",
+                  "7.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4632.26",
+                  "4637.47",
+                  "4367.64"
+                ],
+                [
+                  "Gross Profit",
+                  "855.15",
+                  "738.63",
+                  "724.09"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.46",
+                  "15.93",
+                  "16.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "83.68",
+                  "77.70",
+                  "76.10"
+                ],
+                [
+                  "R&D Exp",
+                  "27.72",
+                  "25.11",
+                  "25.90"
+                ],
+                [
+                  "General & Admin Exp",
+                  "285.95",
+                  "235.97",
+                  "237.96"
+                ],
+                [
+                  "Operating Income",
+                  "457.80",
+                  "399.84",
+                  "384.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.88",
+                  "8.62",
+                  "8.79"
+                ],
+                [
+                  "Net Income",
+                  "472.15",
+                  "474.28",
+                  "406.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.19",
+                  "10.23",
+                  "9.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "317.59",
+                  "691.02",
+                  "1097.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-501.16",
+                  "-257.58",
+                  "-284.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-72.12",
+                  "-527.37",
+                  "-1116.49"
+                ],
+                [
+                  "CAPEX",
+                  "-555.51",
+                  "-257.52",
+                  "-271.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1388.33",
+                  "1009.32",
+                  "875.72",
+                  "978.91"
+                ],
+                [
+                  "Gross Profit",
+                  "278.27",
+                  "162.87",
+                  "152.62",
+                  "146.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.04",
+                  "16.14",
+                  "17.43",
+                  "14.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "23.50",
+                  "18.76",
+                  "16.79",
+                  "19.99"
+                ],
+                [
+                  "R&D Exp",
+                  "8.43",
+                  "6.60",
+                  "5.91",
+                  "6.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "69.83",
+                  "67.38",
+                  "77.10",
+                  "56.62"
+                ],
+                [
+                  "Operating Income",
+                  "176.52",
+                  "70.12",
+                  "52.82",
+                  "63.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.71",
+                  "6.95",
+                  "6.03",
+                  "6.46"
+                ],
+                [
+                  "Net Income",
+                  "136.35",
+                  "136.49",
+                  "57.04",
+                  "112.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.82",
+                  "13.52",
+                  "6.51",
+                  "11.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "126.53",
+                  "4.38",
+                  "97.89",
+                  "230.71"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-65.25",
+                  "-142.78",
+                  "-120.80",
+                  "-36.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-253.87",
+                  "-62.49",
+                  "1.93",
+                  "-13.12"
+                ],
+                [
+                  "CAPEX",
+                  "-153.00",
+                  "-104.26",
+                  "-109.80",
+                  "-26.17"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "碳纖維",
+    "Callaway",
+    "TaylorMade",
+    "Titleist",
+    "碳纖維",
+    "Callaway",
+    "TaylorMade",
+    "Titleist",
+    "Callaway",
+    "TaylorMade",
+    "Titleist",
+    "碳纖維"
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/4401_東隆興.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/4401_東隆興.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/4401_東隆興.json",
+  "ticker": "4401",
+  "company_name": "東隆興",
+  "title": "# 4401 - 東隆興",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,834 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,349 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "東隆興業"
+            },
+            {
+              "type": "text",
+              "text": " (4401) 為亞洲最大之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "尼龍 66"
+            },
+            {
+              "type": "text",
+              "text": " 線紗供應商，亦是台灣 "
+            },
+            {
+              "type": "wikilink",
+              "text": "機能性加工絲"
+            },
+            {
+              "type": "text",
+              "text": " 領導廠商。公司專注於高階 "
+            },
+            {
+              "type": "wikilink",
+              "text": "紡織"
+            },
+            {
+              "type": "text",
+              "text": " 原料之研發與製造，產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "空氣假撚紗"
+            },
+            {
+              "type": "text",
+              "text": " (ATY)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "延伸假撚紗"
+            },
+            {
+              "type": "text",
+              "text": " (DTY)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "複合紗"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "色紗"
+            },
+            {
+              "type": "text",
+              "text": "。東隆興與國際運動品牌採取 \"Design-in\" 合作模式，共同開發機能性布料，成為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lululemon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Nike"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌之核心供應商。近年亦積極開發 "
+            },
+            {
+              "type": "wikilink",
+              "text": "環保回收紗"
+            },
+            {
+              "type": "text",
+              "text": " 及單一材質易回收產品，以符合永續時尚趨勢。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東隆興位於紡織產業鏈的"
+            },
+            {
+              "type": "strong",
+              "text": "中上游加工絲與紡紗端"
+            },
+            {
+              "type": "text",
+              "text": "：\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": "：採購 "
+            },
+            {
+              "type": "wikilink",
+              "text": "POY"
+            },
+            {
+              "type": "text",
+              "text": " (預取向絲) 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "FDY"
+            },
+            {
+              "type": "text",
+              "text": " (全延伸絲) 原絲，主要供應商為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "遠東新"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "力鵬"
+            },
+            {
+              "type": "text",
+              "text": "。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": "：進行 "
+            },
+            {
+              "type": "wikilink",
+              "text": "假撚"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "空氣變形"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "複合"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "染色"
+            },
+            {
+              "type": "text",
+              "text": " 加工，生產高附加價值之色紗與機能紗。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": "：供應給 "
+            },
+            {
+              "type": "wikilink",
+              "text": "織布廠"
+            },
+            {
+              "type": "text",
+              "text": " (如 "
+            },
+            {
+              "type": "wikilink",
+              "text": "儒鴻"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "福懋"
+            },
+            {
+              "type": "text",
+              "text": ") 織造成布，再由成衣廠代工製成 "
+            },
+            {
+              "type": "wikilink",
+              "text": "運動服"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "瑜珈服"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "內衣"
+            },
+            {
+              "type": "text",
+              "text": "，最終交貨予國際品牌 (如 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lululemon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Nike"
+            },
+            {
+              "type": "text",
+              "text": ")。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "financials": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lululemon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (核心供應商)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nike"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Adidas"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Under Armour"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "織布廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "儒鴻"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福懋"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力鵬"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "POY"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FDY"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原絲)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "尼龍 66",
+    "機能性加工絲",
+    "紡織",
+    "空氣假撚紗",
+    "延伸假撚紗",
+    "複合紗",
+    "色紗",
+    "Lululemon",
+    "Nike",
+    "環保回收紗",
+    "POY",
+    "FDY",
+    "遠東新",
+    "力鵬",
+    "假撚",
+    "空氣變形",
+    "複合",
+    "染色",
+    "織布廠",
+    "儒鴻",
+    "福懋",
+    "運動服",
+    "瑜珈服",
+    "內衣",
+    "Lululemon",
+    "Nike",
+    "Lululemon",
+    "Nike",
+    "Adidas",
+    "Under Armour",
+    "儒鴻",
+    "福懋",
+    "遠東新",
+    "力鵬",
+    "POY",
+    "FDY"
+  ]
+}

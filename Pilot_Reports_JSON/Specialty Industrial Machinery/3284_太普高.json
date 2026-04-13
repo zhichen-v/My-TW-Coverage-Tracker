@@ -1,0 +1,563 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/3284_太普高.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/3284_太普高.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/3284_太普高.json",
+  "ticker": "3284",
+  "company_name": "太普高",
+  "title": "# 3284 - 太普高",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "2,185 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,000 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "太普高實業 (3284) 為印刷版材及營建雙主軸。印刷事業以"
+            },
+            {
+              "type": "wikilink",
+              "text": "CTP"
+            },
+            {
+              "type": "text",
+              "text": "熱敏版為主力，為台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "印刷"
+            },
+            {
+              "type": "text",
+              "text": "市場領導者，上游鋁基版材來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋁"
+            },
+            {
+              "type": "text",
+              "text": "等鋁材廠，感光材料來自日本化學品廠。營建事業受惠熊本"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "擴廠帶動之日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "不動產"
+            },
+            {
+              "type": "text",
+              "text": "開發投資效益。另代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "Fujifilm"
+            },
+            {
+              "type": "text",
+              "text": "印刷相關設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋁"
+            },
+            {
+              "type": "text",
+              "text": "鋁基版材; 日本感光材料; "
+            },
+            {
+              "type": "wikilink",
+              "text": "Fujifilm"
+            },
+            {
+              "type": "text",
+              "text": "設備代理\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "太普高"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CTP"
+            },
+            {
+              "type": "text",
+              "text": "熱敏版/營建)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[印刷]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣印刷廠 — CTP版"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[不動產]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本熊本 (受惠"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "擴廠)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "台灣"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "印刷"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CTP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "熱敏版"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "日本"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "不動產"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "熊本效應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鋁基版材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "日本感光材料; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fujifilm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $19.95 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "8.45",
+                  "N/A",
+                  "2.52",
+                  "1.42",
+                  "21.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "868.72",
+                  "1057.12",
+                  "769.89"
+                ],
+                [
+                  "Gross Profit",
+                  "233.50",
+                  "344.51",
+                  "162.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.88",
+                  "32.59",
+                  "21.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.98",
+                  "32.14",
+                  "27.95"
+                ],
+                [
+                  "R&D Exp",
+                  "1.72",
+                  "2.58",
+                  "0.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "75.73",
+                  "73.61",
+                  "55.85"
+                ],
+                [
+                  "Operating Income",
+                  "126.07",
+                  "236.18",
+                  "78.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.51",
+                  "22.34",
+                  "10.13"
+                ],
+                [
+                  "Net Income",
+                  "243.24",
+                  "235.64",
+                  "67.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "28.00",
+                  "22.29",
+                  "8.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-8.65",
+                  "124.10",
+                  "-74.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-81.98",
+                  "-377.68",
+                  "-149.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-39.80",
+                  "544.37",
+                  "273.92"
+                ],
+                [
+                  "CAPEX",
+                  "-11.61",
+                  "-6.69",
+                  "-8.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "239.75",
+                  "192.89",
+                  "201.52",
+                  "234.56"
+                ],
+                [
+                  "Gross Profit",
+                  "60.33",
+                  "39.01",
+                  "50.08",
+                  "84.08"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.16",
+                  "20.22",
+                  "24.85",
+                  "35.85"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7.52",
+                  "7.97",
+                  "7.39",
+                  "7.10"
+                ],
+                [
+                  "R&D Exp",
+                  "0.10",
+                  "0.88",
+                  "0.58",
+                  "0.15"
+                ],
+                [
+                  "General & Admin Exp",
+                  "20.70",
+                  "19.63",
+                  "16.43",
+                  "18.98"
+                ],
+                [
+                  "Operating Income",
+                  "32.01",
+                  "10.52",
+                  "25.69",
+                  "57.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.35",
+                  "5.46",
+                  "12.75",
+                  "24.67"
+                ],
+                [
+                  "Net Income",
+                  "117.45",
+                  "67.01",
+                  "7.36",
+                  "51.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "48.99",
+                  "34.74",
+                  "3.65",
+                  "21.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-6.73",
+                  "-76.12",
+                  "25.20",
+                  "49.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "98.35",
+                  "2.65",
+                  "-159.74",
+                  "-23.23"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-228.72",
+                  "247.81",
+                  "-59.21",
+                  "0.31"
+                ],
+                [
+                  "CAPEX",
+                  "-6.72",
+                  "-4.40",
+                  "-0.11",
+                  "-0.38"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "CTP",
+    "印刷",
+    "中鋁",
+    "台積電",
+    "不動產",
+    "Fujifilm",
+    "中鋁",
+    "Fujifilm",
+    "CTP",
+    "印刷",
+    "不動產",
+    "台積電",
+    "印刷",
+    "CTP",
+    "不動產",
+    "台積電",
+    "中鋁",
+    "Fujifilm"
+  ]
+}

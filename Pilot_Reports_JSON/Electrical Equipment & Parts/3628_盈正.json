@@ -1,0 +1,557 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3628_盈正.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3628_盈正.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3628_盈正.json",
+  "ticker": "3628",
+  "company_name": "盈正",
+  "title": "# 3628 - 盈正",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "3,020 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,078 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "盈正豫順 (Ablerex) 為專業的 "
+            },
+            {
+              "type": "strong",
+              "text": "電力品質"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "能源管理"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案供應商。\n核心業務聚焦於不斷電系統 (UPS) 以及近年蓬勃發展的 "
+            },
+            {
+              "type": "strong",
+              "text": "儲能系統 (ESS)"
+            },
+            {
+              "type": "text",
+              "text": " 與太陽能逆變器。\n主要技術與應用：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "不斷電系統 (UPS)"
+            },
+            {
+              "type": "text",
+              "text": ": 提供工業級與"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "等級 UPS，並引進 "
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": " (碳化矽) 技術提升效率並縮小體積。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "儲能系統 (ESS)"
+            },
+            {
+              "type": "text",
+              "text": ": 參與台電輔助服務市場，與中華電信等大廠合作建置大型儲能案場。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "電力品質改善"
+            },
+            {
+              "type": "text",
+              "text": ": 生產主動式電力濾波器 (APF)，解決產業電力諧波問題。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "綠能佈局"
+            },
+            {
+              "type": "text",
+              "text": ": 研發太陽能變流器與混合型 UPS (整合儲能功能)，實現削峰填谷。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 電池芯 (儲能用途), 功率"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "IGBT"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "), "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": ", 電子元件.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "盈正 (3628)"
+            },
+            {
+              "type": "text",
+              "text": " - UPS、儲能系統、電力品質設備之研發製造與自有品牌經營.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "工業/資料中心"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "製造廠, "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "中心.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "公用事業"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": " (輔助服務).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "綠能用戶"
+            },
+            {
+              "type": "text",
+              "text": ": 太陽能電站, 企業級用電大戶."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "龍頭供應鏈廠商.\n*   電信業者 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "中華電信"
+                },
+                {
+                  "type": "text",
+                  "text": ").\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "資料中心"
+                },
+                {
+                  "type": "text",
+                  "text": "營運商."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $67.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.61",
+                  "N/A",
+                  "0.90",
+                  "1.79",
+                  "9.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3355.28",
+                  "3024.13",
+                  "2925.18"
+                ],
+                [
+                  "Gross Profit",
+                  "997.91",
+                  "799.08",
+                  "747.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.74",
+                  "26.42",
+                  "25.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "418.37",
+                  "381.23",
+                  "340.82"
+                ],
+                [
+                  "R&D Exp",
+                  "196.59",
+                  "188.97",
+                  "170.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "128.64",
+                  "128.24",
+                  "120.39"
+                ],
+                [
+                  "Operating Income",
+                  "254.31",
+                  "100.64",
+                  "115.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.58",
+                  "3.33",
+                  "3.94"
+                ],
+                [
+                  "Net Income",
+                  "180.90",
+                  "96.64",
+                  "87.69"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.39",
+                  "3.20",
+                  "3.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "390.17",
+                  "67.84",
+                  "373.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-72.88",
+                  "-37.59",
+                  "-79.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-297.60",
+                  "-23.09",
+                  "-246.43"
+                ],
+                [
+                  "CAPEX",
+                  "-27.02",
+                  "-29.70",
+                  "-42.18"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "850.47",
+                  "997.34",
+                  "809.35",
+                  "698.13"
+                ],
+                [
+                  "Gross Profit",
+                  "243.77",
+                  "309.29",
+                  "262.45",
+                  "182.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.66",
+                  "31.01",
+                  "32.43",
+                  "26.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "114.57",
+                  "102.02",
+                  "105.28",
+                  "96.50"
+                ],
+                [
+                  "R&D Exp",
+                  "52.22",
+                  "52.99",
+                  "46.13",
+                  "45.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "33.24",
+                  "33.57",
+                  "29.10",
+                  "32.74"
+                ],
+                [
+                  "Operating Income",
+                  "43.74",
+                  "120.72",
+                  "81.95",
+                  "7.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.14",
+                  "12.10",
+                  "10.13",
+                  "1.13"
+                ],
+                [
+                  "Net Income",
+                  "45.42",
+                  "96.79",
+                  "30.17",
+                  "8.53"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.34",
+                  "9.70",
+                  "3.73",
+                  "1.22"
+                ],
+                [
+                  "Op Cash Flow",
+                  "175.07",
+                  "-79.50",
+                  "88.26",
+                  "206.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-16.94",
+                  "-34.66",
+                  "10.51",
+                  "-31.80"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-159.22",
+                  "84.17",
+                  "-140.23",
+                  "-82.32"
+                ],
+                [
+                  "CAPEX",
+                  "-12.82",
+                  "-3.18",
+                  "-5.11",
+                  "-5.91"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "資料中心",
+    "碳化矽",
+    "半導體",
+    "IGBT",
+    "碳化矽",
+    "PCB",
+    "半導體",
+    "伺服器",
+    "中華電信",
+    "台電",
+    "半導體",
+    "中華電信",
+    "資料中心"
+  ]
+}

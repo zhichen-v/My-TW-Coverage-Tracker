@@ -1,0 +1,552 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/2233_宇隆.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/2233_宇隆.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/2233_宇隆.json",
+  "ticker": "2233",
+  "company_name": "宇隆",
+  "title": "# 2233 - 宇隆",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "14,017 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "14,228 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宇隆科技 (2233，TURVO) 為精密金屬零件廠，具"
+            },
+            {
+              "type": "wikilink",
+              "text": "IATF 16949"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ISO 13485"
+            },
+            {
+              "type": "text",
+              "text": "認證。最大客戶"
+            },
+            {
+              "type": "wikilink",
+              "text": "Robert Bosch"
+            },
+            {
+              "type": "text",
+              "text": " (佔約 72%)。近年開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "人形機器人"
+            },
+            {
+              "type": "text",
+              "text": "用"
+            },
+            {
+              "type": "wikilink",
+              "text": "減速機"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "諧波減速機"
+            },
+            {
+              "type": "text",
+              "text": "，品牌「TUF ONE」目標 2028 佔營收 30-40%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊鋼棒材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "宇隆"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CNC 加工/齒輪/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "減速機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "諧波減速機"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Robert Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "人形機器人"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "減速機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (TUF ONE)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Robert Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (佔 72%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "人形機器人"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (TUF ONE)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊鋼/合金鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $232.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "33.89",
+                  "23.99",
+                  "4.28",
+                  "3.53",
+                  "19.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3274.94",
+                  "3658.70",
+                  "3337.49"
+                ],
+                [
+                  "Gross Profit",
+                  "1015.02",
+                  "1360.23",
+                  "1091.19"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.99",
+                  "37.18",
+                  "32.70"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "59.81",
+                  "64.33",
+                  "57.47"
+                ],
+                [
+                  "R&D Exp",
+                  "249.25",
+                  "257.98",
+                  "224.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "289.77",
+                  "347.58",
+                  "276.69"
+                ],
+                [
+                  "Operating Income",
+                  "416.19",
+                  "690.34",
+                  "532.33"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.71",
+                  "18.87",
+                  "15.95"
+                ],
+                [
+                  "Net Income",
+                  "403.76",
+                  "661.03",
+                  "533.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.33",
+                  "18.07",
+                  "16.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "648.38",
+                  "818.09",
+                  "894.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-248.14",
+                  "-1399.97",
+                  "-495.82"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "236.29",
+                  "-44.01",
+                  "-311.35"
+                ],
+                [
+                  "CAPEX",
+                  "-238.31",
+                  "-359.22",
+                  "-51.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "765.92",
+                  "793.68",
+                  "836.63",
+                  "878.71"
+                ],
+                [
+                  "Gross Profit",
+                  "234.56",
+                  "244.95",
+                  "269.23",
+                  "266.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.63",
+                  "30.86",
+                  "32.18",
+                  "30.30"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.55",
+                  "12.57",
+                  "14.52",
+                  "16.18"
+                ],
+                [
+                  "R&D Exp",
+                  "61.94",
+                  "62.41",
+                  "67.12",
+                  "57.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "72.51",
+                  "70.11",
+                  "72.87",
+                  "74.28"
+                ],
+                [
+                  "Operating Income",
+                  "83.57",
+                  "99.86",
+                  "114.71",
+                  "118.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.91",
+                  "12.58",
+                  "13.71",
+                  "13.43"
+                ],
+                [
+                  "Net Income",
+                  "101.25",
+                  "103.37",
+                  "77.44",
+                  "121.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.22",
+                  "13.02",
+                  "9.26",
+                  "13.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "267.77",
+                  "111.57",
+                  "177.10",
+                  "91.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-178.15",
+                  "-27.05",
+                  "164.19",
+                  "-207.14"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "26.08",
+                  "97.82",
+                  "31.82",
+                  "80.57"
+                ],
+                [
+                  "CAPEX",
+                  "-74.86",
+                  "-93.53",
+                  "-29.37",
+                  "-40.55"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IATF 16949",
+    "ISO 13485",
+    "Robert Bosch",
+    "人形機器人",
+    "減速機",
+    "諧波減速機",
+    "減速機",
+    "諧波減速機",
+    "Robert Bosch",
+    "人形機器人",
+    "減速機",
+    "Robert Bosch",
+    "人形機器人"
+  ]
+}

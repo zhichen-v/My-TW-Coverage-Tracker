@@ -1,0 +1,657 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/4967_十銓.md",
+  "source_path": "Pilot_Reports/Computer Hardware/4967_十銓.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/4967_十銓.json",
+  "ticker": "4967",
+  "company_name": "十銓",
+  "title": "# 4967 - 十銓",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "21,623 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "23,996 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "十銓科技 (Team Group Inc.) 主要從事 "
+            },
+            {
+              "type": "strong",
+              "text": "記憶體模組"
+            },
+            {
+              "type": "text",
+              "text": " (DRAM Module) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "NAND Flash"
+            },
+            {
+              "type": "text",
+              "text": " 應用產品之研發、製造與銷售。\n擁有自有品牌 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Team]]"
+            },
+            {
+              "type": "text",
+              "text": " (一般消費)、"
+            },
+            {
+              "type": "strong",
+              "text": "[[T-FORCE]]"
+            },
+            {
+              "type": "text",
+              "text": " (電競高效能)、"
+            },
+            {
+              "type": "strong",
+              "text": "[[T-CREATE]]"
+            },
+            {
+              "type": "text",
+              "text": " (創作者應用) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Team Group Industrial]]"
+            },
+            {
+              "type": "text",
+              "text": " (工控)。\n主要產品線：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "記憶體模組"
+            },
+            {
+              "type": "text",
+              "text": ": 桌機/筆電用 RAM、電競超頻記憶體、伺服器記憶體。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "快閃記憶體產品"
+            },
+            {
+              "type": "text",
+              "text": ": 固態硬碟 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SSD"
+            },
+            {
+              "type": "text",
+              "text": "), 記憶卡 (SD/MicroSD/CFexpress), USB 隨身碟。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "工控儲存解決方案"
+            },
+            {
+              "type": "text",
+              "text": ": 應用於博弈、車用、醫療、自動化設備之高耐用度儲存產品。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "行動週邊"
+            },
+            {
+              "type": "text",
+              "text": ": 散熱模組 (SSD Cooler), 充電線材, 集線器。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "十銓 (4967)"
+            },
+            {
+              "type": "text",
+              "text": " - 記憶體/SSD 模組設計、測試與組裝.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "DRAM/NAND 顆粒"
+            },
+            {
+              "type": "text",
+              "text": ": 原廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "SK Hynix"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Micron"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "南亞科"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "控制晶片 (Controller)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "群聯"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "慧榮"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "通路 (B2C)"
+            },
+            {
+              "type": "text",
+              "text": ": 電商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": ", Newegg), 3C 零售通路 (服務電競玩家, 創作者).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "專案 (B2B)"
+            },
+            {
+              "type": "text",
+              "text": ": 工業電腦 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": "), 系統整合商 (SI), OEM 代工客戶."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通路客戶"
+                },
+                {
+                  "type": "text",
+                  "text": ": 全球據點超過 300 家代理商 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Amazon"
+                },
+                {
+                  "type": "text",
+                  "text": ", Newegg 等電商平台).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "工控/OEM"
+                },
+                {
+                  "type": "text",
+                  "text": ": 研華, 樺漢 (推測 - 針對 IPC 領域)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "DRAM/NAND 原廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Samsung]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (韓系), "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Micron]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (美系), "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[SK Hynix]]"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "控制 IC"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[群聯]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (Phison), "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[慧榮]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (SMI)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $254.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.38",
+                  "N/A",
+                  "1.06",
+                  "4.46",
+                  "16.49"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "20428.45",
+                  "19938.46",
+                  "16566.28"
+                ],
+                [
+                  "Gross Profit",
+                  "2914.42",
+                  "2226.05",
+                  "1297.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.27",
+                  "11.16",
+                  "7.83"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1138.69",
+                  "1434.17",
+                  "809.28"
+                ],
+                [
+                  "R&D Exp",
+                  "83.27",
+                  "67.47",
+                  "54.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "258.78",
+                  "187.64",
+                  "123.85"
+                ],
+                [
+                  "Operating Income",
+                  "1433.68",
+                  "536.77",
+                  "309.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.02",
+                  "2.69",
+                  "1.87"
+                ],
+                [
+                  "Net Income",
+                  "1109.87",
+                  "527.36",
+                  "236.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.43",
+                  "2.64",
+                  "1.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-3520.70",
+                  "925.79",
+                  "-428.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-144.56",
+                  "31.82",
+                  "-163.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1909.63",
+                  "562.23",
+                  "976.27"
+                ],
+                [
+                  "CAPEX",
+                  "-104.82",
+                  "-35.93",
+                  "-8.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6348.95",
+                  "4163.41",
+                  "4565.80",
+                  "5350.30"
+                ],
+                [
+                  "Gross Profit",
+                  "1427.54",
+                  "552.93",
+                  "456.11",
+                  "477.83"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.48",
+                  "13.28",
+                  "9.99",
+                  "8.93"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "230.00",
+                  "214.91",
+                  "339.87",
+                  "353.91"
+                ],
+                [
+                  "R&D Exp",
+                  "32.80",
+                  "20.71",
+                  "14.83",
+                  "14.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.16",
+                  "54.77",
+                  "51.38",
+                  "38.47"
+                ],
+                [
+                  "Operating Income",
+                  "1050.58",
+                  "262.54",
+                  "50.04",
+                  "70.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.55",
+                  "6.31",
+                  "1.10",
+                  "1.32"
+                ],
+                [
+                  "Net Income",
+                  "814.81",
+                  "199.62",
+                  "10.88",
+                  "84.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.83",
+                  "4.79",
+                  "0.24",
+                  "1.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-3300.47",
+                  "1410.74",
+                  "-2787.32",
+                  "1156.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.26",
+                  "-54.88",
+                  "-68.01",
+                  "-12.42"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1752.95",
+                  "-333.69",
+                  "388.24",
+                  "102.13"
+                ],
+                [
+                  "CAPEX",
+                  "-5.80",
+                  "-15.06",
+                  "-73.61",
+                  "-10.34"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Team",
+    "T-FORCE",
+    "T-CREATE",
+    "Team Group Industrial",
+    "SSD",
+    "Samsung",
+    "SK Hynix",
+    "Micron",
+    "南亞科",
+    "群聯",
+    "慧榮",
+    "Amazon",
+    "IPC",
+    "Amazon",
+    "Samsung",
+    "Micron",
+    "SK Hynix",
+    "群聯",
+    "慧榮"
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "report_id": "Pilot_Reports/Consulting Services/6754_匯僑設計.md",
+  "source_path": "Pilot_Reports/Consulting Services/6754_匯僑設計.md",
+  "json_path": "Pilot_Reports_JSON/Consulting Services/6754_匯僑設計.json",
+  "ticker": "6754",
+  "company_name": "匯僑設計",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Consulting Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Consulting Services"
+      },
+      {
+        "label": "市值:",
+        "value": "3,010 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "960 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "匯僑室內裝修設計 (6754，Rich Honour Design Group) 成立於 1977 年，是台灣首家掛牌上市的室內裝修設計公司，專攻高門檻商業空間設計與裝修統包工程。核心客戶群包括：(1) 國際精品 — 長期服務 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LVMH"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Kering"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Richemont"
+            },
+            {
+              "type": "text",
+              "text": " 旗下品牌在亞太區專櫃與旗艦店裝修，台灣精品零售空間市佔率逾 80%；(2) 高科技企業 — 承攬"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "廠辦裝修、"
+            },
+            {
+              "type": "wikilink",
+              "text": "慧榮科技"
+            },
+            {
+              "type": "text",
+              "text": "總部設計；(3) 國際飯店 — 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "洲際酒店集團"
+            },
+            {
+              "type": "text",
+              "text": " (IHG) 合作；(4) 金融商辦 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大金融"
+            },
+            {
+              "type": "text",
+              "text": "廣場、"
+            },
+            {
+              "type": "wikilink",
+              "text": "富邦人壽"
+            },
+            {
+              "type": "text",
+              "text": "辦公空間及"
+            },
+            {
+              "type": "wikilink",
+              "text": "富邦美術館"
+            },
+            {
+              "type": "text",
+              "text": "。服務版圖涵蓋美洲、歐洲、中東、亞洲。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (建材與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球特殊石材與進口大理石供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日建設計"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Nikken Sekkei) — 建築規劃合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (設計與裝修)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "匯僑設計"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國際精品旗艦店、星級飯店、企業總部之室內設計與裝修統包工程)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精品零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LVMH"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kering"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Richemont"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 旗下品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "慧榮科技"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "洲際酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (IHG)；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福容大飯店"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融商辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大金融"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廣場、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦美術館"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "百貨商場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北101"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際精品 (主力):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LVMH"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kering"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Richemont"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 亞太區專櫃與旗艦店裝修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "慧榮科技"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "洲際酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (IHG)；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福容大飯店"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大金融"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廣場；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦美術館"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北101"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日建設計"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Nikken Sekkei)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球各地高級石材、木材進口商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.41",
+                  "N/A",
+                  "0.85",
+                  "1.30",
+                  "3.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5107.94",
+                  "4653.17",
+                  "5096.24"
+                ],
+                [
+                  "Gross Profit",
+                  "1205.04",
+                  "1039.85",
+                  "1035.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.59",
+                  "22.35",
+                  "20.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "417.12",
+                  "389.02",
+                  "374.45"
+                ],
+                [
+                  "R&D Exp",
+                  "13.05",
+                  "6.82",
+                  "0.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "247.35",
+                  "235.76",
+                  "215.62"
+                ],
+                [
+                  "Operating Income",
+                  "527.52",
+                  "408.25",
+                  "444.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.33",
+                  "8.77",
+                  "8.73"
+                ],
+                [
+                  "Net Income",
+                  "422.55",
+                  "280.45",
+                  "345.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.27",
+                  "6.03",
+                  "6.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "256.48",
+                  "565.61",
+                  "85.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "119.03",
+                  "-162.20",
+                  "-113.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-252.39",
+                  "-230.49",
+                  "-238.16"
+                ],
+                [
+                  "CAPEX",
+                  "-20.95",
+                  "-15.38",
+                  "-22.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1030.40",
+                  "980.15",
+                  "721.04",
+                  "1177.33"
+                ],
+                [
+                  "Gross Profit",
+                  "249.66",
+                  "205.15",
+                  "152.82",
+                  "301.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.23",
+                  "20.93",
+                  "21.19",
+                  "25.61"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "102.84",
+                  "89.43",
+                  "80.89",
+                  "125.56"
+                ],
+                [
+                  "R&D Exp",
+                  "-5.13",
+                  "2.55",
+                  "2.58",
+                  "5.04"
+                ],
+                [
+                  "General & Admin Exp",
+                  "54.69",
+                  "57.00",
+                  "54.41",
+                  "59.46"
+                ],
+                [
+                  "Operating Income",
+                  "97.27",
+                  "56.16",
+                  "14.93",
+                  "111.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.44",
+                  "5.73",
+                  "2.07",
+                  "9.47"
+                ],
+                [
+                  "Net Income",
+                  "98.44",
+                  "33.10",
+                  "19.42",
+                  "92.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.55",
+                  "3.38",
+                  "2.69",
+                  "7.86"
+                ],
+                [
+                  "Op Cash Flow",
+                  "349.78",
+                  "-2.00",
+                  "174.65",
+                  "58.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "12.73",
+                  "13.40",
+                  "-12.01",
+                  "-96.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-266.22",
+                  "-8.22",
+                  "-13.69",
+                  "-2.17"
+                ],
+                [
+                  "CAPEX",
+                  "-13.10",
+                  "-5.62",
+                  "-12.52",
+                  "-2.93"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LVMH",
+    "Kering",
+    "Richemont",
+    "台積電",
+    "慧榮科技",
+    "洲際酒店集團",
+    "元大金融",
+    "富邦人壽",
+    "富邦美術館",
+    "日建設計",
+    "LVMH",
+    "Kering",
+    "Richemont",
+    "台積電",
+    "慧榮科技",
+    "洲際酒店集團",
+    "福容大飯店",
+    "元大金融",
+    "富邦人壽",
+    "富邦美術館",
+    "台北101",
+    "LVMH",
+    "Kering",
+    "Richemont",
+    "台積電",
+    "慧榮科技",
+    "洲際酒店集團",
+    "福容大飯店",
+    "元大金融",
+    "富邦人壽",
+    "富邦美術館",
+    "台北101",
+    "日建設計"
+  ]
+}

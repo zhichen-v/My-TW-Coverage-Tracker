@@ -1,0 +1,748 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/6152_百一.md",
+  "source_path": "Pilot_Reports/Communication Equipment/6152_百一.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/6152_百一.json",
+  "ticker": "6152",
+  "company_name": "百一",
+  "title": "# 6152_百一",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "3,145 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,937 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "百一電子 (6152，Prime Electronics) 為通訊網路與微波器材 ODM 製造商，主力營收來源為數位機上盒 (STB)，並延伸至寬頻網通產品 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "GPON"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": ") 及多軌道衛星降頻器 (LNB)。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司近年積極推動產品高階化轉型：成為台灣首家取得 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Netflix"
+            },
+            {
+              "type": "text",
+              "text": " Self-Serve 資格廠商，並獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google TV"
+            },
+            {
+              "type": "text",
+              "text": " 授權。戰略聚焦邊緣 AI 終端領域，與晶錡微電子策略結盟，將 AI 模組 (AISOM) 整合至 STB 平台，發展智慧安防與健康應用。同時大舉跨入"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "通訊供應鏈，拓展 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi 7"
+            },
+            {
+              "type": "text",
+              "text": " 高階寬頻設備，已取得義大利大型電信商之 Wi-Fi 7 標案訂單。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (影音解碼與通訊晶片)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "STB SoC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 數位機上盒影音解碼系統單晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Wi-Fi 6/7 射頻通訊模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶錡微電子 — AISOM 邊緣 AI 模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "微波元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 衛星 LNB 高頻微波元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (機上盒與寬頻設備 ODM)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "STB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "百一"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TV/Netflix 認證機上盒)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寬頻設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "百一"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GPON + Wi-Fi 7 整合終端)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星 LNB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "百一"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (多軌道衛星降頻器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電信營運商與衛星廣播商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GPON + Wi-Fi 影音整合機種"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 義大利大型電信商 — Wi-Fi 7 高階標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星廣播:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球衛星電視營運商 — STB 及 LNB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "串流平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Netflix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google TV"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 認證生態系"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GPON + Wi-Fi 影音整合高單價訂單"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 義大利大型電信商 — Wi-Fi 7 高階標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星廣播:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DirecTV"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等全球衛星電視營運商 — STB/LNB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "串流生態:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Netflix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google TV"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 認證合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "STB 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 影音解碼 SoC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶錡微電子 — AISOM 邊緣 AI 晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Wi-Fi 7 射頻通訊模組供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.00",
+                  "2.51",
+                  "-13.25"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1571.40",
+                  "2268.56",
+                  "2189.25"
+                ],
+                [
+                  "Gross Profit",
+                  "207.42",
+                  "375.20",
+                  "408.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.20",
+                  "16.54",
+                  "18.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "105.37",
+                  "128.66",
+                  "125.89"
+                ],
+                [
+                  "R&D Exp",
+                  "214.69",
+                  "229.70",
+                  "218.05"
+                ],
+                [
+                  "General & Admin Exp",
+                  "193.73",
+                  "191.46",
+                  "191.25"
+                ],
+                [
+                  "Operating Income",
+                  "-306.37",
+                  "-174.61",
+                  "-126.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-19.50",
+                  "-7.70",
+                  "-5.79"
+                ],
+                [
+                  "Net Income",
+                  "-246.49",
+                  "-39.23",
+                  "-20.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-15.69",
+                  "-1.73",
+                  "-0.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-359.80",
+                  "35.80",
+                  "558.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-15.54",
+                  "-55.29",
+                  "-41.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "255.46",
+                  "-16.47",
+                  "-258.88"
+                ],
+                [
+                  "CAPEX",
+                  "-14.45",
+                  "-71.61",
+                  "-35.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "457.77",
+                  "368.29",
+                  "366.46",
+                  "378.88"
+                ],
+                [
+                  "Gross Profit",
+                  "49.65",
+                  "46.59",
+                  "50.75",
+                  "60.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.85",
+                  "12.65",
+                  "13.85",
+                  "15.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.64",
+                  "27.11",
+                  "22.17",
+                  "26.45"
+                ],
+                [
+                  "R&D Exp",
+                  "51.51",
+                  "55.14",
+                  "55.07",
+                  "52.96"
+                ],
+                [
+                  "General & Admin Exp",
+                  "45.74",
+                  "48.94",
+                  "51.17",
+                  "47.88"
+                ],
+                [
+                  "Operating Income",
+                  "-77.23",
+                  "-84.61",
+                  "-77.66",
+                  "-66.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-16.87",
+                  "-22.97",
+                  "-21.19",
+                  "-17.65"
+                ],
+                [
+                  "Net Income",
+                  "-42.45",
+                  "-31.87",
+                  "-147.16",
+                  "-25.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-9.27",
+                  "-8.65",
+                  "-40.16",
+                  "-6.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-304.13",
+                  "-38.84",
+                  "7.76",
+                  "-24.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-18.39",
+                  "51.26",
+                  "-55.27",
+                  "6.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "116.22",
+                  "105.44",
+                  "-18.48",
+                  "52.28"
+                ],
+                [
+                  "CAPEX",
+                  "-4.72",
+                  "-3.23",
+                  "-2.91",
+                  "-3.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "GPON",
+    "Wi-Fi",
+    "Netflix",
+    "Google TV",
+    "低軌衛星",
+    "Wi-Fi 7",
+    "聯發科",
+    "Google",
+    "中華電信",
+    "Netflix",
+    "Google TV",
+    "中華電信",
+    "DirecTV",
+    "Netflix",
+    "Google TV",
+    "聯發科"
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6786_芯測.md",
+  "source_path": "Pilot_Reports/Semiconductors/6786_芯測.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6786_芯測.json",
+  "ticker": "6786",
+  "company_name": "芯測",
+  "title": "# 6786_芯測",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "3,038 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,413 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "芯測科技 (6786，iSTART-TEK) 為專業記憶體測試與修復解決方案供應商，產品包括 EZ-BIST 學術工具、START v2 記憶體測試修復 "
+            },
+            {
+              "type": "wikilink",
+              "text": "EDA"
+            },
+            {
+              "type": "text",
+              "text": " 工具及 NVM 可配置測試修復平台。產品已取得 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ISO 26262"
+            },
+            {
+              "type": "text",
+              "text": " TCL1 車規認證，支援 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SRAM"
+            },
+            {
+              "type": "text",
+              "text": "、OTP 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "eFlash"
+            },
+            {
+              "type": "text",
+              "text": " 等記憶體技術之測試與修復 IP 授權。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (EDA 工具)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EDA 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自主開發 BIST/測試修復工具"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IP 授權)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體測試 IP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "芯測"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (BIST/修復 IP，車規認證)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凌陽科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "M31"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、ASIC LAND (韓國)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sequans"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (法國)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凌陽科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "M31"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、ASIC LAND (韓國)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sequans"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (法國)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EDA 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自主開發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Synopsys"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens EDA"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $98.50 as of 2026-04-12 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "54.73",
+                  "16.97",
+                  "-37.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "24.27",
+                  "35.91",
+                  "24.26"
+                ],
+                [
+                  "Gross Profit",
+                  "24.24",
+                  "35.91",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "99.87",
+                  "100.00",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "20.07",
+                  "13.96",
+                  "11.58"
+                ],
+                [
+                  "R&D Exp",
+                  "43.74",
+                  "42.98",
+                  "30.88"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.33",
+                  "48.65",
+                  "29.92"
+                ],
+                [
+                  "Operating Income",
+                  "-83.89",
+                  "-69.68",
+                  "-48.12"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-345.61",
+                  "-194.01",
+                  "-198.35"
+                ],
+                [
+                  "Net Income",
+                  "-79.26",
+                  "-66.91",
+                  "-43.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-326.53",
+                  "-186.30",
+                  "-181.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-49.31",
+                  "-71.09",
+                  "-43.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "83.06",
+                  "41.47",
+                  "-109.17"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.19",
+                  "23.53",
+                  "119.23"
+                ],
+                [
+                  "CAPEX",
+                  "-14.42",
+                  "-1.89",
+                  "-4.08"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "EDA",
+    "ISO 26262",
+    "SRAM",
+    "eFlash",
+    "凌陽科技",
+    "M31",
+    "Sequans",
+    "凌陽科技",
+    "M31",
+    "Sequans",
+    "Synopsys",
+    "Siemens EDA"
+  ]
+}

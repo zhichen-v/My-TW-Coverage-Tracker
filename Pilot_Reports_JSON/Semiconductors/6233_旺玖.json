@@ -1,0 +1,563 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6233_旺玖.md",
+  "source_path": "Pilot_Reports/Semiconductors/6233_旺玖.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6233_旺玖.json",
+  "ticker": "6233",
+  "company_name": "旺玖",
+  "title": "# 6233_旺玖",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "2,023 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,466 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "旺玖科技股份有限公司 (6233) 是一家專注於USB控制晶片設計的老字號IC設計公司。除了傳統的晶片設計業務外，旺玖也積極發展與生產各類「高速與高頻"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "」，應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、車用電子("
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": ")、工控醫療及"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "。近期，旺玖亦投入微機電系統(MEMS)領域以及"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "風扇馬達IC的開發，並成功打入"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]的"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "解決方案供應鏈，藉由多角化產品線(控制晶片+"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "+馬達IC)尋求營運突破。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 晶圓代工廠(Foundry)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "封裝測試廠(OSAT)，以及銅材/塑膠等"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "原料供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "旺玖科技"
+            },
+            {
+              "type": "text",
+              "text": " (USB控制晶片、無刷馬達"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "控制IC之設計，以及高頻高速"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "之研發製造)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 電腦周邊設備廠、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "系統組裝廠、汽車電子模組廠及"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "交換器製造商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   宣昶、亞矽等國內外"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "通路商，並間接切入國際一線"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "與"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "資料中心"
+                },
+                {
+                  "type": "text",
+                  "text": "品牌之"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "散熱"
+                },
+                {
+                  "type": "text",
+                  "text": "與"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "連接器"
+                },
+                {
+                  "type": "text",
+                  "text": "供應鏈。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台積電"
+                },
+                {
+                  "type": "text",
+                  "text": "、格羅方德(GlobalFoundries)等晶圓代工大廠。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.60 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "5.22",
+                  "1.49",
+                  "-49.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "387.50",
+                  "417.23",
+                  "360.52"
+                ],
+                [
+                  "Gross Profit",
+                  "148.10",
+                  "167.72",
+                  "138.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.22",
+                  "40.20",
+                  "38.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17.23",
+                  "17.83",
+                  "15.59"
+                ],
+                [
+                  "R&D Exp",
+                  "112.89",
+                  "105.10",
+                  "97.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "62.90",
+                  "58.51",
+                  "57.82"
+                ],
+                [
+                  "Operating Income",
+                  "-44.92",
+                  "-13.73",
+                  "-32.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.59",
+                  "-3.29",
+                  "-9.04"
+                ],
+                [
+                  "Net Income",
+                  "-12.42",
+                  "28.66",
+                  "2.89"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.21",
+                  "6.87",
+                  "0.80"
+                ],
+                [
+                  "Op Cash Flow",
+                  "43.68",
+                  "39.03",
+                  "6.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "37.47",
+                  "-44.34",
+                  "-33.17"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-65.53",
+                  "-4.25",
+                  "-35.03"
+                ],
+                [
+                  "CAPEX",
+                  "-8.95",
+                  "-19.34",
+                  "-2.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "95.89",
+                  "102.80",
+                  "93.62",
+                  "107.41"
+                ],
+                [
+                  "Gross Profit",
+                  "39.32",
+                  "41.42",
+                  "37.19",
+                  "40.29"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.01",
+                  "40.29",
+                  "39.72",
+                  "37.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4.38",
+                  "4.12",
+                  "4.43",
+                  "4.26"
+                ],
+                [
+                  "R&D Exp",
+                  "28.46",
+                  "28.25",
+                  "28.70",
+                  "27.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.31",
+                  "16.33",
+                  "15.92",
+                  "13.76"
+                ],
+                [
+                  "Operating Income",
+                  "-8.84",
+                  "-7.29",
+                  "-11.87",
+                  "-5.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-9.22",
+                  "-7.09",
+                  "-12.68",
+                  "-4.82"
+                ],
+                [
+                  "Net Income",
+                  "-5.99",
+                  "-7.13",
+                  "-5.18",
+                  "0.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.24",
+                  "-6.94",
+                  "-5.54",
+                  "0.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "14.25",
+                  "-6.44",
+                  "0.06",
+                  "-8.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "58.42",
+                  "-0.64",
+                  "0.00",
+                  "-10.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-35.63",
+                  "-0.26",
+                  "-0.26",
+                  "-0.27"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-0.64",
+                  "0.00",
+                  "-10.31"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "連接器",
+    "伺服器",
+    "ADAS",
+    "消費性電子",
+    "散熱",
+    "資料中心",
+    "AI[[伺服器",
+    "散熱",
+    "連接器",
+    "半導體",
+    "連接器",
+    "散熱",
+    "連接器",
+    "伺服器",
+    "網通",
+    "半導體",
+    "伺服器",
+    "資料中心",
+    "散熱",
+    "連接器",
+    "台積電"
+  ]
+}

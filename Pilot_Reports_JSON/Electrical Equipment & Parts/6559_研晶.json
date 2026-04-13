@@ -1,0 +1,381 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/6559_研晶.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/6559_研晶.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/6559_研晶.json",
+  "ticker": "6559",
+  "company_name": "研晶",
+  "title": "# 6559 - 研晶",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "691 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "494 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "研晶光電 (6559) 為高功率特殊波段LED封裝廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "UVA"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "UVC"
+            },
+            {
+              "type": "text",
+              "text": "/IR/"
+            },
+            {
+              "type": "wikilink",
+              "text": "SWIR"
+            },
+            {
+              "type": "text",
+              "text": ")。與"
+            },
+            {
+              "type": "wikilink",
+              "text": "光鋐"
+            },
+            {
+              "type": "text",
+              "text": "合資百鴻生醫佈局"
+            },
+            {
+              "type": "wikilink",
+              "text": "UVC LED"
+            },
+            {
+              "type": "text",
+              "text": "殺菌。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": "磊晶 (含"
+            },
+            {
+              "type": "wikilink",
+              "text": "光鋐"
+            },
+            {
+              "type": "text",
+              "text": ")\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "研晶"
+            },
+            {
+              "type": "text",
+              "text": " (UV/IR LED封裝)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " UV固化設備、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "曝光、"
+            },
+            {
+              "type": "wikilink",
+              "text": "UVC LED"
+            },
+            {
+              "type": "text",
+              "text": "殺菌"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "UV固化/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "曝光設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "磊晶 (含"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光鋐"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.80 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "7.52",
+                  "2.93",
+                  "109.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "81.50",
+                  "65.67",
+                  "88.66"
+                ],
+                [
+                  "Gross Profit",
+                  "28.07",
+                  "15.77",
+                  "23.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.44",
+                  "24.01",
+                  "26.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.82",
+                  "7.00",
+                  "7.73"
+                ],
+                [
+                  "R&D Exp",
+                  "10.62",
+                  "10.54",
+                  "12.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.35",
+                  "14.56",
+                  "14.84"
+                ],
+                [
+                  "Operating Income",
+                  "-4.71",
+                  "-16.33",
+                  "-11.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.78",
+                  "-24.87",
+                  "-12.63"
+                ],
+                [
+                  "Net Income",
+                  "12.83",
+                  "-8.01",
+                  "2.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.75",
+                  "-12.20",
+                  "2.79"
+                ],
+                [
+                  "Op Cash Flow",
+                  "27.78",
+                  "8.22",
+                  "14.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1.62",
+                  "0.15",
+                  "-2.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.55",
+                  "-6.05",
+                  "-6.06"
+                ],
+                [
+                  "CAPEX",
+                  "-1.62",
+                  "-0.88",
+                  "-2.53"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "UVA",
+    "UVC",
+    "SWIR",
+    "光鋐",
+    "UVC LED",
+    "LED",
+    "光鋐",
+    "PCB",
+    "UVC LED",
+    "PCB",
+    "LED",
+    "光鋐"
+  ]
+}

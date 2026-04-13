@@ -1,0 +1,578 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3073_天方能源.md",
+  "source_path": "Pilot_Reports/Semiconductors/3073_天方能源.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3073_天方能源.json",
+  "ticker": "3073",
+  "company_name": "天方能源",
+  "title": "# 3073 - 天方能源",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "1,227 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,800 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "天方能源 (3073，前身為普格科技/凱柏實業) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "力麗集團"
+            },
+            {
+              "type": "text",
+              "text": "，已完全轉型為"
+            },
+            {
+              "type": "wikilink",
+              "text": "再生能源"
+            },
+            {
+              "type": "text",
+              "text": "開發商與營運商。公司專注於"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "電廠開發、建置與售電，並跨足"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能系統"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "綠電"
+            },
+            {
+              "type": "text",
+              "text": "憑證銷售。前身為消費性 IC "
+            },
+            {
+              "type": "wikilink",
+              "text": "韌體設計"
+            },
+            {
+              "type": "text",
+              "text": "公司，後再轉型並更名為天方能源，切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "售電及"
+            },
+            {
+              "type": "wikilink",
+              "text": "分散式能源"
+            },
+            {
+              "type": "text",
+              "text": "商機。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合再生能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元晶太陽能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等模組供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "逆變器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能逆變器供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與建置)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電廠開發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "天方能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (太陽能電廠開發、建置、運維)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (售電與憑證)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "購電方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (躉購)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠電憑證:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業綠電採購需求"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "躉購售電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (躉購電力)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠電企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業用戶綠電直供或轉供需求"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合再生能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元晶太陽能"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力麗集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團資源支持)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "88.09",
+                  "55.64",
+                  "42.63"
+                ],
+                [
+                  "Gross Profit",
+                  "29.33",
+                  "32.67",
+                  "20.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.29",
+                  "58.72",
+                  "47.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.71",
+                  "6.76",
+                  "6.28"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "50.86",
+                  "58.83",
+                  "44.48"
+                ],
+                [
+                  "Operating Income",
+                  "5.70",
+                  "33.13",
+                  "-17.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.47",
+                  "59.54",
+                  "-40.58"
+                ],
+                [
+                  "Net Income",
+                  "0.05",
+                  "24.20",
+                  "-31.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.06",
+                  "43.49",
+                  "-74.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-85.86",
+                  "-119.76",
+                  "37.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-475.98",
+                  "-323.64",
+                  "43.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "565.31",
+                  "301.48",
+                  "-15.68"
+                ],
+                [
+                  "CAPEX",
+                  "-430.34",
+                  "-429.00",
+                  "-164.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "26.60",
+                  "31.41",
+                  "18.28",
+                  "11.80"
+                ],
+                [
+                  "Gross Profit",
+                  "7.81",
+                  "5.86",
+                  "9.98",
+                  "5.69"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.35",
+                  "18.64",
+                  "54.58",
+                  "48.22"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1.91",
+                  "1.87",
+                  "1.44",
+                  "1.49"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.96",
+                  "11.76",
+                  "9.51",
+                  "14.63"
+                ],
+                [
+                  "Operating Income",
+                  "-9.06",
+                  "-7.78",
+                  "-0.97",
+                  "23.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-34.05",
+                  "-24.75",
+                  "-5.29",
+                  "199.11"
+                ],
+                [
+                  "Net Income",
+                  "-8.80",
+                  "-14.04",
+                  "-5.05",
+                  "27.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-33.09",
+                  "-44.70",
+                  "-27.60",
+                  "236.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-92.64",
+                  "45.73",
+                  "-8.37",
+                  "-30.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-55.09",
+                  "-171.78",
+                  "-6.39",
+                  "-242.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "85.13",
+                  "188.36",
+                  "-8.86",
+                  "300.69"
+                ],
+                [
+                  "CAPEX",
+                  "-42.32",
+                  "-145.40",
+                  "-4.54",
+                  "-238.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "力麗集團",
+    "再生能源",
+    "太陽能",
+    "儲能系統",
+    "綠電",
+    "韌體設計",
+    "台電",
+    "分散式能源",
+    "聯合再生能源",
+    "元晶太陽能",
+    "台電",
+    "台電",
+    "聯合再生能源",
+    "元晶太陽能",
+    "力麗集團"
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/3672_康聯訊.md",
+  "source_path": "Pilot_Reports/Communication Equipment/3672_康聯訊.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/3672_康聯訊.json",
+  "ticker": "3672",
+  "company_name": "康聯訊",
+  "title": "# 3672 - 康聯訊",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "457 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "497 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "康聯訊科技 (3672，"
+            },
+            {
+              "type": "wikilink",
+              "text": "CTS"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣專業光纖存取網路設備品牌廠商，以自有品牌「CTS」行銷全球。主要產品涵蓋光纖交換器 (Fiber Switch)、光纖轉換器、寬頻閘道器及工業級網管設備，產品設計強調在極端環境 (超高溫至極地嚴寒) 下之傳輸穩定性。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司刻意避開消費級網通紅海市場，專注高進入門檻之特種光纖存取 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FTTx"
+            },
+            {
+              "type": "text",
+              "text": ") 利基市場。主力市場為瑞典及北歐地區，具備主導規格能力；日本市場深耕逾 20 年，服務多家寬頻電信商。近期跨足"
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": "閘道器及能源管理軟體，整合高齡照護、保全及能源監控服務。生產採前段外包 SMT、後段於台灣汐止總部自行組裝測試之模式。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光通訊模組與晶片)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光纖模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SFP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光纖傳輸模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交換晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光網通交換控制晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特規電源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 極端氣候專用電源供應器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (光纖網路設備品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "康聯訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CTS 品牌，光纖交換器/寬頻閘道器/工業網管設備)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (特種區域電信與系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北歐電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瑞典及北歐地區 FTTx 電信營運商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本二線寬頻電信商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高齡照護/保全/能源監控系統整合商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北歐市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瑞典及北歐 FTTx 光纖電信營運商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本寬頻電信商 (深耕逾 20 年)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "垂直應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 長照居家照護、物業保全、新能源監控系統整合商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際光通訊模組及交換晶片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SMT 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣及中國 EMS 代工廠 (前段 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SMT"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康全電訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "正文"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $11.20 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.64",
+                  "1.29",
+                  "-7.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "294.43",
+                  "370.39",
+                  "686.53"
+                ],
+                [
+                  "Gross Profit",
+                  "97.19",
+                  "126.35",
+                  "201.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.01",
+                  "34.11",
+                  "29.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "82.13",
+                  "94.55",
+                  "102.32"
+                ],
+                [
+                  "R&D Exp",
+                  "64.73",
+                  "64.58",
+                  "83.16"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.47",
+                  "35.88",
+                  "42.10"
+                ],
+                [
+                  "Operating Income",
+                  "-92.15",
+                  "-68.66",
+                  "-25.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-31.30",
+                  "-18.54",
+                  "-3.75"
+                ],
+                [
+                  "Net Income",
+                  "-63.06",
+                  "-37.35",
+                  "-10.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-21.42",
+                  "-10.08",
+                  "-1.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-73.54",
+                  "-17.10",
+                  "73.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "25.99",
+                  "-14.94",
+                  "-13.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-24.79",
+                  "48.12",
+                  "-38.91"
+                ],
+                [
+                  "CAPEX",
+                  "-4.73",
+                  "-3.62",
+                  "-4.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "50.78",
+                  "30.67",
+                  "94.26",
+                  "103.18"
+                ],
+                [
+                  "Gross Profit",
+                  "24.39",
+                  "7.40",
+                  "31.10",
+                  "32.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.03",
+                  "24.12",
+                  "33.00",
+                  "31.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.38",
+                  "17.20",
+                  "16.95",
+                  "17.80"
+                ],
+                [
+                  "R&D Exp",
+                  "14.38",
+                  "16.14",
+                  "15.27",
+                  "15.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9.08",
+                  "9.18",
+                  "10.66",
+                  "10.04"
+                ],
+                [
+                  "Operating Income",
+                  "-11.45",
+                  "-35.12",
+                  "-11.77",
+                  "-11.12"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-22.56",
+                  "-114.51",
+                  "-12.49",
+                  "-10.78"
+                ],
+                [
+                  "Net Income",
+                  "-7.75",
+                  "-36.52",
+                  "-4.95",
+                  "-5.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-15.26",
+                  "-119.07",
+                  "-5.25",
+                  "-4.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-19.83",
+                  "-18.09",
+                  "13.71",
+                  "15.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "13.70",
+                  "-0.53",
+                  "-2.98",
+                  "0.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "0.74",
+                  "-36.36",
+                  "6.38",
+                  "25.61"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-2.31",
+                  "-2.21",
+                  "-1.52"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "CTS",
+    "FTTx",
+    "物聯網",
+    "SFP",
+    "瑞昱",
+    "SMT",
+    "康全電訊",
+    "正文"
+  ]
+}

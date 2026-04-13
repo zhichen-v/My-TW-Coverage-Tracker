@@ -1,0 +1,559 @@
+{
+  "report_id": "Pilot_Reports/Leisure/8928_鉅明.md",
+  "source_path": "Pilot_Reports/Leisure/8928_鉅明.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/8928_鉅明.json",
+  "ticker": "8928",
+  "company_name": "鉅明",
+  "title": "# 8928 - 鉅明",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "1,200 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,679 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鉅明精密工業股份有限公司 (8928，Dynamic Precision) 成立於 1973 年，專精於高爾夫球桿頭之精密鑄造製造，球桿頭佔營收比重高達 99%。公司以失蠟精密鑄造 (Investment Casting) 為核心技術，生產木桿、鐵桿、推桿及球道木等各類球桿頭，為全球主要高爾夫球品牌之重要代工夥伴。生產基地位於高雄，客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Callaway"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TaylorMade"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PING"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Titleist"
+            },
+            {
+              "type": "text",
+              "text": "等全球頂級高爾夫球品牌。近年積極導入自動化生產與智慧製造技術以提升良率與效率。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼、碳鋼、鈦合金等鑄造用金屬原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑄造材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 蠟模、陶殼及精密鑄造耗材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密鑄造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鉅明"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高爾夫球桿頭失蠟精密鑄造，涵蓋木桿、鐵桿、推桿等"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際高爾夫品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "球具品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Callaway"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TaylorMade"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PING"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Titleist"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 球桿頭代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高爾夫球品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Callaway"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TaylorMade"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PING"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Titleist"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 球桿頭精密鑄造代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不鏽鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊合金鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鈦合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際鈦合金供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑄造耗材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 蠟模與陶殼材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.74",
+                  "N/A",
+                  "0.35",
+                  "1.09",
+                  "13.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3419.87",
+                  "3167.32",
+                  "2597.11"
+                ],
+                [
+                  "Gross Profit",
+                  "406.45",
+                  "376.27",
+                  "204.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.89",
+                  "11.88",
+                  "7.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "112.60",
+                  "94.66",
+                  "90.79"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "123.16",
+                  "105.29",
+                  "-48.75"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.60",
+                  "3.32",
+                  "-1.88"
+                ],
+                [
+                  "Net Income",
+                  "72.04",
+                  "139.88",
+                  "-36.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.11",
+                  "4.42",
+                  "-1.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "183.88",
+                  "161.33",
+                  "407.13"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-179.24",
+                  "-83.27",
+                  "-201.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "85.21",
+                  "-61.92",
+                  "-176.52"
+                ],
+                [
+                  "CAPEX",
+                  "-192.94",
+                  "-88.15",
+                  "-201.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1031.99",
+                  "631.00",
+                  "718.55",
+                  "1038.34"
+                ],
+                [
+                  "Gross Profit",
+                  "108.47",
+                  "52.74",
+                  "84.88",
+                  "160.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.51",
+                  "8.36",
+                  "11.81",
+                  "15.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "24.62",
+                  "25.72",
+                  "28.58"
+                ],
+                [
+                  "R&D Exp",
+                  "26.73",
+                  "29.13",
+                  "37.95",
+                  "18.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "11.76",
+                  "1.65",
+                  "31.90"
+                ],
+                [
+                  "Operating Income",
+                  "35.26",
+                  "-12.78",
+                  "19.56",
+                  "81.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.42",
+                  "-2.02",
+                  "2.72",
+                  "7.81"
+                ],
+                [
+                  "Net Income",
+                  "64.62",
+                  "13.81",
+                  "-82.90",
+                  "76.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.26",
+                  "2.19",
+                  "-11.54",
+                  "7.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-273.93",
+                  "46.18",
+                  "314.49",
+                  "97.14"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-62.17",
+                  "-25.97",
+                  "-44.50",
+                  "-46.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "378.25",
+                  "-40.28",
+                  "-244.45",
+                  "-8.30"
+                ],
+                [
+                  "CAPEX",
+                  "-64.91",
+                  "-36.36",
+                  "-45.48",
+                  "-46.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Callaway",
+    "TaylorMade",
+    "PING",
+    "Titleist",
+    "Callaway",
+    "TaylorMade",
+    "PING",
+    "Titleist",
+    "Callaway",
+    "TaylorMade",
+    "PING",
+    "Titleist"
+  ]
+}

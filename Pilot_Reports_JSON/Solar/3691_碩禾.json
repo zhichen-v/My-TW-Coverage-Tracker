@@ -1,0 +1,718 @@
+{
+  "report_id": "Pilot_Reports/Solar/3691_碩禾.md",
+  "source_path": "Pilot_Reports/Solar/3691_碩禾.md",
+  "json_path": "Pilot_Reports_JSON/Solar/3691_碩禾.json",
+  "ticker": "3691",
+  "company_name": "碩禾",
+  "title": "# 3691 - [[碩禾]]",
+  "sector_folder": "Solar",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Solar"
+      },
+      {
+        "label": "市值:",
+        "value": "10,704 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "14,292 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "碩禾電子材料股份有限公司 (3691) 為全球領先的太陽能"
+            },
+            {
+              "type": "wikilink",
+              "text": "導電漿"
+            },
+            {
+              "type": "text",
+              "text": "製造商，核心產品涵蓋背面鋁漿、背面銀漿及正面銀漿。公司技術源自母公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "國碩"
+            },
+            {
+              "type": "text",
+              "text": " (2406)，目前積極從傳統漿料供應商轉型為多元化的綠能與"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "散熱材料服務商。主要業務與發展亮點："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "高階[[導電漿]]："
+            },
+            {
+              "type": "text",
+              "text": " 針對新世代高效N型太陽能電池（"
+            },
+            {
+              "type": "wikilink",
+              "text": "TOPCon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "HJT"
+            },
+            {
+              "type": "text",
+              "text": "）開發專用銀漿，並導入"
+            },
+            {
+              "type": "wikilink",
+              "text": "LECO"
+            },
+            {
+              "type": "text",
+              "text": "（激光增強接觸優化）技術，提升電池轉換效率。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "美國模組產線："
+            },
+            {
+              "type": "text",
+              "text": " 與大股東"
+            },
+            {
+              "type": "wikilink",
+              "text": "國碩"
+            },
+            {
+              "type": "text",
+              "text": "合作，於美國加州建立550MW模組生產基地，規避貿易壁壘。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]液冷散熱："
+            },
+            {
+              "type": "text",
+              "text": " 子公司碩通取得"
+            },
+            {
+              "type": "wikilink",
+              "text": "Parker Hannifin"
+            },
+            {
+              "type": "text",
+              "text": "水冷快接頭代理權，提供軟硬管、CDU等液冷散熱零組件，切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈。\n4. "
+            },
+            {
+              "type": "strong",
+              "text": "電池材料："
+            },
+            {
+              "type": "text",
+              "text": " 佈局矽碳負極材料，目標進入動力及"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "電池市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貴金屬："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀粉、鋁粉等國際金屬原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 化學添加劑、有機溶劑供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "碩禾 (3691)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導電漿"
+                    },
+                    {
+                      "type": "text",
+                      "text": "配方研發與精密混合加工、美國太陽能模組組裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "子公司碩通："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "液冷散熱零組件經銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能電池廠："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LONGi"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（隆基綠能）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶澳"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (JA Solar) 等國際一線電池大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[AI 伺服器]]："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣主要ODM廠及散熱廠，需要液冷零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自營電廠："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 菲律賓及台日太陽能電站"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能導電漿："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LONGi"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（隆基綠能，長期供貨協議）、兩岸與國際一線N型太陽能電池製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "液冷散熱（碩通）："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣主要"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ODM廠與散熱解決方案廠商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美國模組："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國本土太陽能系統商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貴金屬原料："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際銀粉、鋁粉供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "液冷零組件："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Parker Hannifin"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（水冷快接頭代理）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2406)（母公司，提供設備支援）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $116.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.39",
+                  "1.84",
+                  "-34.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6354.72",
+                  "2958.41",
+                  "5654.85"
+                ],
+                [
+                  "Gross Profit",
+                  "270.21",
+                  "-160.16",
+                  "493.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "4.25",
+                  "-5.41",
+                  "8.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "272.48",
+                  "226.70",
+                  "196.02"
+                ],
+                [
+                  "R&D Exp",
+                  "322.21",
+                  "314.16",
+                  "305.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "344.85",
+                  "317.02",
+                  "339.47"
+                ],
+                [
+                  "Operating Income",
+                  "-669.34",
+                  "-1018.05",
+                  "-347.68"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-10.53",
+                  "-34.41",
+                  "-6.15"
+                ],
+                [
+                  "Net Income",
+                  "-515.77",
+                  "-810.58",
+                  "-495.15"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-8.12",
+                  "-27.40",
+                  "-8.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-2382.31",
+                  "-477.88",
+                  "522.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "60.84",
+                  "-740.53",
+                  "-1253.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1893.89",
+                  "504.02",
+                  "617.13"
+                ],
+                [
+                  "CAPEX",
+                  "-295.33",
+                  "-507.99",
+                  "-1288.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1513.83",
+                  "1238.27",
+                  "891.45",
+                  "840.19"
+                ],
+                [
+                  "Gross Profit",
+                  "173.38",
+                  "53.98",
+                  "47.76",
+                  "-41.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.45",
+                  "4.36",
+                  "5.36",
+                  "-4.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "73.28",
+                  "60.13",
+                  "55.04",
+                  "68.65"
+                ],
+                [
+                  "R&D Exp",
+                  "71.92",
+                  "93.46",
+                  "66.32",
+                  "88.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "99.65",
+                  "80.58",
+                  "74.34",
+                  "91.46"
+                ],
+                [
+                  "Operating Income",
+                  "-71.47",
+                  "-180.19",
+                  "-147.94",
+                  "-290.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.72",
+                  "-14.55",
+                  "-16.60",
+                  "-34.59"
+                ],
+                [
+                  "Net Income",
+                  "-104.73",
+                  "-552.40",
+                  "-91.78",
+                  "-376.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.92",
+                  "-44.61",
+                  "-10.30",
+                  "-44.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-246.20",
+                  "-105.42",
+                  "662.05",
+                  "259.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-418.28",
+                  "-193.66",
+                  "-22.89",
+                  "943.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "479.77",
+                  "276.87",
+                  "-391.40",
+                  "-1385.97"
+                ],
+                [
+                  "CAPEX",
+                  "-210.83",
+                  "-70.18",
+                  "-34.87",
+                  "-42.05"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "碩禾",
+    "導電漿",
+    "國碩",
+    "AI 伺服器",
+    "導電漿",
+    "TOPCon",
+    "HJT",
+    "LECO",
+    "國碩",
+    "AI 伺服器",
+    "Parker Hannifin",
+    "AI 伺服器",
+    "儲能",
+    "導電漿",
+    "AI 伺服器",
+    "LONGi",
+    "晶澳",
+    "AI 伺服器",
+    "LONGi",
+    "AI 伺服器",
+    "Parker Hannifin",
+    "國碩"
+  ]
+}

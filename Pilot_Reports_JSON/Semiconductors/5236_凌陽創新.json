@@ -1,0 +1,532 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/5236_凌陽創新.md",
+  "source_path": "Pilot_Reports/Semiconductors/5236_凌陽創新.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/5236_凌陽創新.json",
+  "ticker": "5236",
+  "company_name": "凌陽創新",
+  "title": "# 5236 - 凌陽創新",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "8,371 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,841 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "凌陽創新 (Sunplus Innovation) 成立於 2006 年 (自凌陽科技分割)，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "人機介面 (HMI)"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "strong",
+              "text": "影像處理 (ISP)"
+            },
+            {
+              "type": "text",
+              "text": " 晶片設計。主力產品為 "
+            },
+            {
+              "type": "strong",
+              "text": "Webcam Controller (網路攝影機控制晶片)"
+            },
+            {
+              "type": "text",
+              "text": " (全球市佔率領先) 及 "
+            },
+            {
+              "type": "strong",
+              "text": "Mouse/Keyboard Controller (滑鼠/鍵盤控制晶片)"
+            },
+            {
+              "type": "text",
+              "text": "。產品廣泛應用於筆記型電腦 (NB)、外接式 Webcam 及電腦週邊。近期受惠於 "
+            },
+            {
+              "type": "strong",
+              "text": "AI PC"
+            },
+            {
+              "type": "text",
+              "text": " 搭載高階鏡頭趨勢，高階 ISP 出貨佔比提升。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " PC 週邊 IC 設計 (ISP / HID)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 晶圓代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": ")、封測廠。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " NB 代工廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "等)、Webcam 品牌 (Logitech)、滑鼠鍵盤廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", ASUS, Acer (透過 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ODM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 出貨)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Webcam:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 羅技 (Logitech)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ISP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、松翰 (Sonix)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "HID:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 義隆 (Elan)、原相 (Pixart)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $139.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.26",
+                  "15.23",
+                  "4.19",
+                  "3.15",
+                  "10.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1999.75",
+                  "1817.93",
+                  "1650.05"
+                ],
+                [
+                  "Gross Profit",
+                  "1155.77",
+                  "1086.63",
+                  "1016.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "57.80",
+                  "59.77",
+                  "61.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "90.62",
+                  "89.29",
+                  "79.25"
+                ],
+                [
+                  "R&D Exp",
+                  "393.79",
+                  "371.09",
+                  "358.95"
+                ],
+                [
+                  "General & Admin Exp",
+                  "108.62",
+                  "106.42",
+                  "103.98"
+                ],
+                [
+                  "Operating Income",
+                  "562.73",
+                  "519.83",
+                  "474.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "28.14",
+                  "28.59",
+                  "28.74"
+                ],
+                [
+                  "Net Income",
+                  "515.18",
+                  "482.07",
+                  "427.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "25.76",
+                  "26.52",
+                  "25.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "544.78",
+                  "466.53",
+                  "559.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-112.06",
+                  "122.85",
+                  "-257.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-457.57",
+                  "-414.53",
+                  "-415.53"
+                ],
+                [
+                  "CAPEX",
+                  "-7.61",
+                  "-16.33",
+                  "-28.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "463.88",
+                  "485.70",
+                  "505.53",
+                  "496.86"
+                ],
+                [
+                  "Gross Profit",
+                  "274.40",
+                  "273.78",
+                  "296.21",
+                  "276.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "59.15",
+                  "56.37",
+                  "58.59",
+                  "55.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "23.93",
+                  "21.48",
+                  "22.33",
+                  "26.52"
+                ],
+                [
+                  "R&D Exp",
+                  "98.31",
+                  "75.43",
+                  "110.36",
+                  "105.57"
+                ],
+                [
+                  "General & Admin Exp",
+                  "28.75",
+                  "26.16",
+                  "26.74",
+                  "26.66"
+                ],
+                [
+                  "Operating Income",
+                  "123.41",
+                  "150.71",
+                  "136.79",
+                  "118.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "26.60",
+                  "31.03",
+                  "27.06",
+                  "23.78"
+                ],
+                [
+                  "Net Income",
+                  "126.70",
+                  "128.92",
+                  "121.34",
+                  "117.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "27.31",
+                  "26.54",
+                  "24.00",
+                  "23.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "206.24",
+                  "74.46",
+                  "47.45",
+                  "273.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-139.98",
+                  "-91.69",
+                  "-140.59",
+                  "-41.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.40",
+                  "-1.47",
+                  "-1.37",
+                  "-1.36"
+                ],
+                [
+                  "CAPEX",
+                  "-2.98",
+                  "-1.70",
+                  "-0.59",
+                  "-11.10"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹",
+    "台積電",
+    "聯電",
+    "廣達",
+    "仁寶",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "ODM",
+    "瑞昱"
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2385_群光.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2385_群光.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2385_群光.json",
+  "ticker": "2385",
+  "company_name": "群光",
+  "title": "# 2385 - 群光",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "85,525 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "78,240 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "群光電子 (2385，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Chicony Electronics"
+            },
+            {
+              "type": "text",
+              "text": ") 成立於 1983 年，總部位於新北市，為全球筆電鍵盤、攝影機模組及電源供應器領導廠商，三大產品線連續多年全球市佔第一。公司累積逾 30 年製造品質聲譽，與國際下游品牌客戶維持高度穩定之長期合作關係。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三大事業群：(1) 輸入裝置：筆電鍵盤 (全球市佔第一)、桌機鍵盤、滑鼠；(2) 影像模組：攝影機模組 (全球市佔第一)、行車紀錄器、戶外 IP Cam、穿戴式攝影機、車用影像系統及 LED 車燈；(3) 電源事業：透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "群光電能"
+            },
+            {
+              "type": "text",
+              "text": " (Chicony Power) 製造伺服器電源、交換式電源供應器及 LED 照明。製造基地涵蓋台灣、中國重慶/東莞及越南。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電子元件與光學模組)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍵盤零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 薄膜開關、剪刀腳結構件、背光 LED 模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CMOS 影像感測晶片及鏡頭模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、變壓器、電容等功率元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 塑膠射出件及金屬沖壓件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鍵盤/攝影機/電源製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "輸入裝置:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "群光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (筆電鍵盤全球第一、桌機鍵盤/滑鼠)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "群光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (攝影機模組、行車紀錄器、車用影像/LED 車燈)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群光電能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Chicony Power，伺服器電源/交換式電源/LED 照明)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際 PC 品牌與車廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 筆電鍵盤/攝影機模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際伺服器品牌 — 伺服器電源供應器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — 車用影像系統及 LED 車燈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 筆電鍵盤及攝影機模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際伺服器品牌 — 伺服器電源供應器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — 車用影像系統及 LED 車燈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防/穿戴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防及穿戴設備品牌 — IP Cam 及穿戴攝影機"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CMOS 影像感測晶片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及電源管理 IC 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 晶片及背光模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 塑膠射出及金屬沖壓件廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $123.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.44",
+                  "10.25",
+                  "0.89",
+                  "2.02",
+                  "7.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "95660.61",
+                  "101478.26",
+                  "98322.54"
+                ],
+                [
+                  "Gross Profit",
+                  "17244.44",
+                  "20469.58",
+                  "19028.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.03",
+                  "20.17",
+                  "19.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2787.83",
+                  "2927.84",
+                  "2623.76"
+                ],
+                [
+                  "R&D Exp",
+                  "3304.58",
+                  "3858.99",
+                  "3631.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "3163.73",
+                  "3404.85",
+                  "3325.56"
+                ],
+                [
+                  "Operating Income",
+                  "7988.31",
+                  "10277.90",
+                  "9447.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.35",
+                  "10.13",
+                  "9.61"
+                ],
+                [
+                  "Net Income",
+                  "6584.78",
+                  "9045.41",
+                  "7463.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.88",
+                  "8.91",
+                  "7.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "6504.19",
+                  "10091.05",
+                  "18732.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4714.27",
+                  "-3286.74",
+                  "-3475.55"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6112.14",
+                  "-1481.81",
+                  "-7977.07"
+                ],
+                [
+                  "CAPEX",
+                  "-2559.08",
+                  "-1567.34",
+                  "-3206.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "23076.72",
+                  "24808.33",
+                  "24494.27",
+                  "23281.28"
+                ],
+                [
+                  "Gross Profit",
+                  "3867.05",
+                  "4726.99",
+                  "4342.86",
+                  "4307.55"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.76",
+                  "19.05",
+                  "17.73",
+                  "18.50"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "715.51",
+                  "757.69",
+                  "772.03",
+                  "542.59"
+                ],
+                [
+                  "R&D Exp",
+                  "753.54",
+                  "835.72",
+                  "875.05",
+                  "840.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "860.97",
+                  "752.22",
+                  "773.11",
+                  "777.44"
+                ],
+                [
+                  "Operating Income",
+                  "1537.02",
+                  "2381.35",
+                  "1922.67",
+                  "2147.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.66",
+                  "9.60",
+                  "7.85",
+                  "9.22"
+                ],
+                [
+                  "Net Income",
+                  "753.91",
+                  "2085.61",
+                  "2152.82",
+                  "1592.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.27",
+                  "8.41",
+                  "8.79",
+                  "6.84"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1928.38",
+                  "1043.45",
+                  "1318.77",
+                  "2213.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-562.53",
+                  "-2666.94",
+                  "-321.22",
+                  "-1163.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-620.86",
+                  "-2174.04",
+                  "-3126.87",
+                  "-190.37"
+                ],
+                [
+                  "CAPEX",
+                  "-262.54",
+                  "-1650.49",
+                  "-400.03",
+                  "-246.01"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Chicony Electronics",
+    "群光電能",
+    "MOSFET",
+    "群光電能",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "Apple",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "Apple",
+    "MOSFET"
+  ]
+}

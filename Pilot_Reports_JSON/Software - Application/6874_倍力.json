@@ -1,0 +1,744 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/6874_倍力.md",
+  "source_path": "Pilot_Reports/Software - Application/6874_倍力.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/6874_倍力.json",
+  "ticker": "6874",
+  "company_name": "倍力",
+  "title": "# 6874_倍力",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "1,966 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,799 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "倍力資訊 (6874，M-Power) 專注於企業級軟體代理與自主研發 ESG 數位轉型解決方案。公司代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Oracle"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SAP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Cisco"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "IBM"
+            },
+            {
+              "type": "text",
+              "text": " 等國際頂級商用軟體品牌，掌握極佳之企業客戶覆蓋率。近年成功轉型，自主研發「集團合併報表系統 (GCRS)」及「財務附註揭露系統 (FNDS)」協助上市櫃公司快速產出 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IFRS"
+            },
+            {
+              "type": "text",
+              "text": " 合併報表，以及「碳管家 (CarbonKeeper)」企業碳盤查與減碳模擬系統。倍力精準切入台灣數千家上市櫃公司必須強制接軌國際永續準則與財報合規的剛性需求，累計服務超過 400 家上市櫃企業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (國際軟體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料庫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (甲骨文)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ERP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SAP"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通/資安:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IBM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟體代理與自研)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體代理/ESG:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "倍力資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國際商用軟體代理、IFRS 合併報表系統、CarbonKeeper 碳管家)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端企業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠傳電信"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技/製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "旺宏電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等半導體與製造業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元富證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等金融機構"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空/交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠傳電信"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技/製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "旺宏電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、力麗科技等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元富證券"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 立法院、交通部"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料庫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (甲骨文)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ERP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SAP"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通/IT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IBM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $91.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "29.32",
+                  "N/A",
+                  "1.43",
+                  "4.23",
+                  "16.49"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1370.47",
+                  "1773.32",
+                  "1598.78"
+                ],
+                [
+                  "Gross Profit",
+                  "226.97",
+                  "246.96",
+                  "230.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.56",
+                  "13.93",
+                  "14.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.69",
+                  "57.74",
+                  "57.84"
+                ],
+                [
+                  "R&D Exp",
+                  "24.75",
+                  "23.14",
+                  "20.39"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.27",
+                  "39.61",
+                  "37.18"
+                ],
+                [
+                  "Operating Income",
+                  "96.27",
+                  "126.47",
+                  "115.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.02",
+                  "7.13",
+                  "7.22"
+                ],
+                [
+                  "Net Income",
+                  "69.09",
+                  "98.16",
+                  "89.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.04",
+                  "5.54",
+                  "5.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "80.14",
+                  "83.06",
+                  "90.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-25.93",
+                  "-8.16",
+                  "-1.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-128.82",
+                  "89.36",
+                  "-122.42"
+                ],
+                [
+                  "CAPEX",
+                  "-18.58",
+                  "-0.09",
+                  "-0.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "259.82",
+                  "219.60",
+                  "370.14",
+                  "520.90"
+                ],
+                [
+                  "Gross Profit",
+                  "60.55",
+                  "41.62",
+                  "63.26",
+                  "61.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.30",
+                  "18.95",
+                  "17.09",
+                  "11.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.12",
+                  "14.40",
+                  "15.25",
+                  "13.92"
+                ],
+                [
+                  "R&D Exp",
+                  "6.75",
+                  "5.78",
+                  "6.25",
+                  "5.95"
+                ],
+                [
+                  "General & Admin Exp",
+                  "11.87",
+                  "11.23",
+                  "10.74",
+                  "10.41"
+                ],
+                [
+                  "Operating Income",
+                  "23.80",
+                  "10.20",
+                  "31.01",
+                  "31.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.16",
+                  "4.64",
+                  "8.38",
+                  "6.00"
+                ],
+                [
+                  "Net Income",
+                  "17.56",
+                  "6.87",
+                  "20.80",
+                  "23.86"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.76",
+                  "3.13",
+                  "5.62",
+                  "4.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "105.47",
+                  "69.27",
+                  "139.18",
+                  "-233.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.66",
+                  "-16.95",
+                  "-2.90",
+                  "-1.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-17.93",
+                  "-214.78",
+                  "-14.49",
+                  "118.37"
+                ],
+                [
+                  "CAPEX",
+                  "-4.48",
+                  "-13.85",
+                  "-0.00",
+                  "-0.26"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Oracle",
+    "SAP",
+    "Cisco",
+    "IBM",
+    "IFRS",
+    "Oracle",
+    "SAP",
+    "Cisco",
+    "IBM",
+    "中華電信",
+    "遠傳電信",
+    "旺宏電子",
+    "元大金控",
+    "元富證券",
+    "中華航空",
+    "中華電信",
+    "遠傳電信",
+    "旺宏電子",
+    "元大金控",
+    "元富證券",
+    "中華航空",
+    "Oracle",
+    "SAP",
+    "Cisco",
+    "IBM"
+  ]
+}

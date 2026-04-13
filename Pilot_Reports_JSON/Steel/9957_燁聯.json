@@ -1,0 +1,511 @@
+{
+  "report_id": "Pilot_Reports/Steel/9957_燁聯.md",
+  "source_path": "Pilot_Reports/Steel/9957_燁聯.md",
+  "json_path": "Pilot_Reports_JSON/Steel/9957_燁聯.json",
+  "ticker": "9957",
+  "company_name": "燁聯",
+  "title": "# 9957 - 燁聯",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "15,565 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "53,361 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "燁聯鋼鐵 (9957，YUSCO) 隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "義聯集團"
+            },
+            {
+              "type": "text",
+              "text": " (創辦人"
+            },
+            {
+              "type": "wikilink",
+              "text": "林義守"
+            },
+            {
+              "type": "text",
+              "text": ")，為台灣最大且唯一擁有煉鋼/熱軋/冷軋完整一貫作業之"
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "廠。廠址高雄岡山 (56公頃，總投資480億)。產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "熱軋鋼捲、冷軋鋼捲、鋼胚及鎳合金，應用於建築裝潢、家電、汽車、綠能及醫療。集團關係企業含"
+            },
+            {
+              "type": "wikilink",
+              "text": "燁輝"
+            },
+            {
+              "type": "text",
+              "text": " (2023，鍍面鋼) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "燁興"
+            },
+            {
+              "type": "text",
+              "text": "。上游鎳礦自國際採購，鉻鐵自南非/印度進口，另回收廢"
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "。下游客戶含裁剪加工中心如"
+            },
+            {
+              "type": "wikilink",
+              "text": "新鋼"
+            },
+            {
+              "type": "text",
+              "text": " (2032)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "有益"
+            },
+            {
+              "type": "text",
+              "text": " (9962)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 國際鎳礦/南非印度鉻鐵/廢"
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "回收\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "燁聯"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "一貫作業: 電爐→AOD→連鑄→熱軋→冷軋)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "加工中心: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "有益"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 裁剪加工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "建材/家電/汽車/綠能/醫療"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "關係: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燁輝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燁興"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "新鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2032)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "有益"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (9962) — 裁剪加工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "建材商/家電廠/汽車零件/化工設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "國際鎳礦/南非印度鉻鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "廢"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "不鏽鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "回收商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "關係企業",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "燁輝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燁興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "義聯集團"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $5.94 as of 2026-04-12 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.37",
+                  "1.12",
+                  "-22.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "46520.12",
+                  "43389.12",
+                  "53758.18"
+                ],
+                [
+                  "Gross Profit",
+                  "-537.63",
+                  "-1878.87",
+                  "2337.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-1.16",
+                  "-4.33",
+                  "4.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "809.78",
+                  "721.85",
+                  "1038.62"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "953.72",
+                  "723.76",
+                  "759.21"
+                ],
+                [
+                  "Operating Income",
+                  "-2301.14",
+                  "-3324.48",
+                  "539.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.95",
+                  "-7.66",
+                  "1.00"
+                ],
+                [
+                  "Net Income",
+                  "-3093.20",
+                  "-3389.06",
+                  "-2.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.65",
+                  "-7.81",
+                  "-0.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-927.04",
+                  "-3768.78",
+                  "1596.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2382.26",
+                  "-1721.99",
+                  "-1640.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3866.18",
+                  "5175.18",
+                  "-458.08"
+                ],
+                [
+                  "CAPEX",
+                  "-1678.72",
+                  "-1693.83",
+                  "-686.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "義聯集團",
+    "林義守",
+    "不鏽鋼",
+    "不鏽鋼",
+    "燁輝",
+    "燁興",
+    "不鏽鋼",
+    "新鋼",
+    "有益",
+    "不鏽鋼",
+    "不鏽鋼",
+    "新鋼",
+    "有益",
+    "燁輝",
+    "燁興",
+    "新鋼",
+    "有益",
+    "不鏽鋼",
+    "燁輝",
+    "燁興",
+    "義聯集團"
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/3081_聯亞.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/3081_聯亞.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/3081_聯亞.json",
+  "ticker": "3081",
+  "company_name": "聯亞",
+  "title": "# 3081 - 聯亞",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "142,483 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "140,799 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "聯亞光電 (3081) 是全球領先的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "III-V 族"
+            },
+            {
+              "type": "wikilink",
+              "text": "化合物半導體"
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "與雷射光源製造商，核心技術為在"
+            },
+            {
+              "type": "wikilink",
+              "text": "磷化銦"
+            },
+            {
+              "type": "text",
+              "text": " (InP) 基板上進行原子級精密"
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "。公司產品包括 InP 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "砷化鎵"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "片、"
+            },
+            {
+              "type": "wikilink",
+              "text": "雷射二極體"
+            },
+            {
+              "type": "text",
+              "text": " (LD) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": "，主要應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽光子"
+            },
+            {
+              "type": "text",
+              "text": " (SiPho)/"
+            },
+            {
+              "type": "wikilink",
+              "text": "CPO"
+            },
+            {
+              "type": "text",
+              "text": " 及工業醫療感測。聯亞站在"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽光子"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "CPO"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈中價值密度最高的關鍵上游位置。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "InP 基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國及日本 InP 基板供應 (分散風險)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GaAs 基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 砷化鎵晶圓供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MO[[CVD]] 設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 ([[磊晶]]與雷射製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "III-V [[磊晶]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "聯亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (InP/GaAs "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "片、雷射二極體、LED)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (光模組與系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光收發模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光通訊模組廠 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EML"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VCSEL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "客戶)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超大規模"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資料中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽光子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 趨勢受惠)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業/醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感測及醫療光源應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光收發模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球光通訊模組製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超大規模雲端業者 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽光子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應鏈)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業/醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感測及醫療光源客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "InP 基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國及日本 InP 基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MO[[CVD]] 設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "II-VI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Coherent)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lumentum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,540.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "303.15",
+                  "66.28",
+                  "64.68",
+                  "34.00",
+                  "174.48"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2202.82",
+                  "1208.42",
+                  "1056.04"
+                ],
+                [
+                  "Gross Profit",
+                  "940.55",
+                  "238.89",
+                  "138.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "42.70",
+                  "19.77",
+                  "13.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "46.26",
+                  "39.01",
+                  "35.58"
+                ],
+                [
+                  "R&D Exp",
+                  "271.71",
+                  "220.43",
+                  "292.01"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.47",
+                  "91.24",
+                  "90.65"
+                ],
+                [
+                  "Operating Income",
+                  "508.10",
+                  "-111.79",
+                  "-280.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "23.07",
+                  "-9.25",
+                  "-26.53"
+                ],
+                [
+                  "Net Income",
+                  "428.40",
+                  "-54.53",
+                  "-211.50"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.45",
+                  "-4.51",
+                  "-20.03"
+                ],
+                [
+                  "Op Cash Flow",
+                  "713.90",
+                  "376.54",
+                  "239.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-487.20",
+                  "-381.99",
+                  "-969.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-53.07",
+                  "-47.58",
+                  "-329.61"
+                ],
+                [
+                  "CAPEX",
+                  "-87.08",
+                  "-70.44",
+                  "-151.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "642.42",
+                  "553.09",
+                  "454.50",
+                  "288.81"
+                ],
+                [
+                  "Gross Profit",
+                  "312.66",
+                  "239.66",
+                  "147.01",
+                  "90.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.67",
+                  "43.33",
+                  "32.35",
+                  "31.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.14",
+                  "12.07",
+                  "11.63",
+                  "11.84"
+                ],
+                [
+                  "R&D Exp",
+                  "59.51",
+                  "46.07",
+                  "67.65",
+                  "60.47"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.12",
+                  "31.93",
+                  "22.97",
+                  "23.76"
+                ],
+                [
+                  "Operating Income",
+                  "208.89",
+                  "149.60",
+                  "44.77",
+                  "-5.98"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "32.52",
+                  "27.05",
+                  "9.85",
+                  "-2.07"
+                ],
+                [
+                  "Net Income",
+                  "190.33",
+                  "96.79",
+                  "42.27",
+                  "8.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "29.63",
+                  "17.50",
+                  "9.30",
+                  "2.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "207.73",
+                  "150.31",
+                  "203.84",
+                  "142.83"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-45.39",
+                  "-480.56",
+                  "75.26",
+                  "-177.98"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.72",
+                  "-1.70",
+                  "-1.70",
+                  "-1.74"
+                ],
+                [
+                  "CAPEX",
+                  "-36.81",
+                  "-30.79",
+                  "-23.22",
+                  "-48.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "III-V 族",
+    "化合物半導體",
+    "磊晶",
+    "磷化銦",
+    "磊晶",
+    "砷化鎵",
+    "磊晶",
+    "雷射二極體",
+    "LED",
+    "光通訊",
+    "資料中心",
+    "矽光子",
+    "CPO",
+    "矽光子",
+    "CPO",
+    "CVD",
+    "磊晶",
+    "磊晶",
+    "磊晶",
+    "磊晶",
+    "EML",
+    "VCSEL",
+    "磊晶",
+    "資料中心",
+    "資料中心",
+    "矽光子",
+    "CPO",
+    "資料中心",
+    "矽光子",
+    "CPO",
+    "CVD",
+    "磊晶",
+    "II-VI",
+    "Lumentum"
+  ]
+}

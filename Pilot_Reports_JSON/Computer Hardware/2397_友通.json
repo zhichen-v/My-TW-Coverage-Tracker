@@ -1,0 +1,730 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2397_友通.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2397_友通.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2397_友通.json",
+  "ticker": "2397",
+  "company_name": "友通",
+  "title": "# 2397 - 友通",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "6,388 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,725 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "友通資訊 (2397，"
+            },
+            {
+              "type": "wikilink",
+              "text": "DFI"
+            },
+            {
+              "type": "text",
+              "text": ") 成立於 1981 年，總部位於新北市，為專業嵌入式主機板及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "系統設計製造商，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "佳世達"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "BenQ"
+            },
+            {
+              "type": "text",
+              "text": ") 集團。公司與佳世達集團協同提供嵌入式應用之完整解決方案。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品涵蓋工業主機板、電腦模組 (COM)、嵌入式無風扇電腦、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Edge AI"
+            },
+            {
+              "type": "text",
+              "text": " 推論/訓練系統、強固型嵌入式系統、工業觸控面板電腦及邊緣伺服器。應用領域橫跨工廠自動化、醫療、博弈娛樂、交通運輸、能源、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 網通及智慧零售等利基市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (嵌入式晶片與元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 嵌入式/工業級 CPU 及晶片組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Edge AI 推論加速卡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業級記憶體、連接器及被動元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (嵌入式主機板與 IPC 系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "友通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (工業級嵌入式主機板/COM 模組)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IPC 系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "友通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (無風扇嵌入式電腦/強固型系統)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Edge AI:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "友通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Edge AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 推論及訓練平台)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (各產業利基客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工廠自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造業 — 產線自動化嵌入式運算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療設備廠 — 醫療級嵌入式電腦"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "博弈娛樂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 博弈設備廠 — 娛樂機台核心運算平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通/能源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 交通及能源產業 — 邊緣運算方案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工廠自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球製造業 — 產線自動化嵌入式運算平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療設備廠 — 醫療級嵌入式電腦"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "博弈娛樂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 博弈設備廠 — 娛樂機台核心運算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交通/能源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 交通及能源產業 — 強固型邊緣運算"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 嵌入式 CPU 平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Edge AI 推論加速卡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Qisda) — 集團資源及方案協同"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業級記憶體及被動元件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $55.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "21.97",
+                  "11.53",
+                  "0.59",
+                  "1.88",
+                  "11.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10875.95",
+                  "9489.49",
+                  "9184.17"
+                ],
+                [
+                  "Gross Profit",
+                  "2829.53",
+                  "2674.71",
+                  "2435.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.02",
+                  "28.19",
+                  "26.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1061.73",
+                  "1001.84",
+                  "953.34"
+                ],
+                [
+                  "R&D Exp",
+                  "572.05",
+                  "501.80",
+                  "460.53"
+                ],
+                [
+                  "General & Admin Exp",
+                  "527.80",
+                  "504.58",
+                  "487.96"
+                ],
+                [
+                  "Operating Income",
+                  "667.94",
+                  "666.50",
+                  "533.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.14",
+                  "7.02",
+                  "5.81"
+                ],
+                [
+                  "Net Income",
+                  "285.37",
+                  "396.61",
+                  "361.69"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.62",
+                  "4.18",
+                  "3.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "711.75",
+                  "937.87",
+                  "1573.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-172.07",
+                  "-1152.46",
+                  "354.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-664.96",
+                  "1200.53",
+                  "-2151.15"
+                ],
+                [
+                  "CAPEX",
+                  "-40.86",
+                  "-47.78",
+                  "-33.39"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2604.26",
+                  "2900.32",
+                  "2598.90",
+                  "2985.13"
+                ],
+                [
+                  "Gross Profit",
+                  "660.38",
+                  "758.33",
+                  "738.95",
+                  "864.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.36",
+                  "26.15",
+                  "28.43",
+                  "28.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "267.25",
+                  "276.06",
+                  "262.70",
+                  "281.61"
+                ],
+                [
+                  "R&D Exp",
+                  "154.96",
+                  "143.79",
+                  "127.81",
+                  "144.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "128.31",
+                  "136.01",
+                  "132.67",
+                  "145.33"
+                ],
+                [
+                  "Operating Income",
+                  "109.87",
+                  "202.47",
+                  "215.76",
+                  "293.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.22",
+                  "6.98",
+                  "8.30",
+                  "9.84"
+                ],
+                [
+                  "Net Income",
+                  "1.95",
+                  "101.59",
+                  "106.56",
+                  "179.74"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.07",
+                  "3.50",
+                  "4.10",
+                  "6.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "217.77",
+                  "394.79",
+                  "60.89",
+                  "255.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-113.08",
+                  "-7.11",
+                  "-24.48",
+                  "-200.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "80.18",
+                  "-250.03",
+                  "-355.48",
+                  "6.82"
+                ],
+                [
+                  "CAPEX",
+                  "-6.93",
+                  "-16.74",
+                  "-12.28",
+                  "-23.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "DFI",
+    "工業電腦",
+    "佳世達",
+    "BenQ",
+    "Edge AI",
+    "5G",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "Edge AI",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "佳世達"
+  ]
+}

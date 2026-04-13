@@ -1,0 +1,834 @@
+{
+  "report_id": "Pilot_Reports/Aerospace & Defense/4541_晟田.md",
+  "source_path": "Pilot_Reports/Aerospace & Defense/4541_晟田.md",
+  "json_path": "Pilot_Reports_JSON/Aerospace & Defense/4541_晟田.json",
+  "ticker": "4541",
+  "company_name": "晟田",
+  "title": "# 4541 - 晟田",
+  "sector_folder": "Aerospace & Defense",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Aerospace & Defense"
+      },
+      {
+        "label": "市值:",
+        "value": "2,909 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,351 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晟田科技工業 (4541，Magnate Technology) 專注於高精密五軸 CNC 金屬加工，核心技術為超合金與難切削材料 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "鈦合金"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "鎳基合金"
+            },
+            {
+              "type": "text",
+              "text": "、Inconel) 之精密成型。業務結構：(1) 航太零組件 (佔營收約 75%) — 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "漢翔"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Safran Landing Systems"
+            },
+            {
+              "type": "text",
+              "text": "、住友精密 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SPP"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "MOOG"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "三菱重工"
+            },
+            {
+              "type": "text",
+              "text": "等供應起落架、發動機零件與機體結構件，終端客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "GE Aerospace"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rolls-Royce"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Boeing"
+            },
+            {
+              "type": "text",
+              "text": "；(2) 半導體設備 (佔約 15%) — 為設備廠供應關鍵次系統零組件；(3) 食品包裝設備 (佔約 10%) — 供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "三菱重工"
+            },
+            {
+              "type": "text",
+              "text": "等食品飲料充填設備零組件。公司持有 AS9100、AS13100 及 Nadcap 等航太認證，為台灣 A-Team 4.0 核心成員。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "榮剛"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鈦合金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鎳基合金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、Inconel 等航太級超合金"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晟田"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (五軸 CNC 高精密金屬加工、航太與半導體次系統組裝)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太 — 起落架:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Safran Landing Systems"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、住友精密 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SPP"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 起落架零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太 — 引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "漢翔"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 間接供應"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太 — 飛控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOOG"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 飛行致動系統零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太 — MRO:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、亞洲航空 — 維修零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際半導體設備廠 — 關鍵次系統零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "食品設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 食品飲料充填設備零件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太 (佔 75%):"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "漢翔"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 41% 營收，間接供應"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": "引擎與機體零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Safran Landing Systems"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 11%，起落架精密零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "住友精密 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SPP"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 7%，起落架零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "MOOG"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 4%，飛行致動系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "三菱重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 3%，航太與食品設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 3%，MRO 零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體設備 (佔 15%):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際設備廠 — 真空系統等次系統零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "食品設備 (佔 10%):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 食品飲料充填設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "榮剛"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鈦合金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鎳基合金"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等航太級超合金"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $43.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "20.57",
+                  "13.44",
+                  "1.86",
+                  "1.78",
+                  "11.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1644.01",
+                  "1416.51",
+                  "1199.74"
+                ],
+                [
+                  "Gross Profit",
+                  "375.89",
+                  "214.50",
+                  "40.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.86",
+                  "15.14",
+                  "3.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.33",
+                  "30.98",
+                  "29.02"
+                ],
+                [
+                  "R&D Exp",
+                  "55.93",
+                  "55.23",
+                  "59.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "68.93",
+                  "68.83",
+                  "61.88"
+                ],
+                [
+                  "Operating Income",
+                  "221.69",
+                  "59.46",
+                  "-110.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.49",
+                  "4.20",
+                  "-9.19"
+                ],
+                [
+                  "Net Income",
+                  "137.01",
+                  "84.91",
+                  "-75.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.33",
+                  "5.99",
+                  "-6.33"
+                ],
+                [
+                  "Op Cash Flow",
+                  "296.45",
+                  "109.34",
+                  "175.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "254.87",
+                  "-160.78",
+                  "10.71"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-364.16",
+                  "46.06",
+                  "-180.19"
+                ],
+                [
+                  "CAPEX",
+                  "-75.66",
+                  "-71.57",
+                  "-88.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "465.98",
+                  "427.36",
+                  "407.17",
+                  "343.51"
+                ],
+                [
+                  "Gross Profit",
+                  "118.80",
+                  "91.56",
+                  "100.53",
+                  "65.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.49",
+                  "21.42",
+                  "24.69",
+                  "18.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "7.79",
+                  "7.36",
+                  "5.85",
+                  "8.32"
+                ],
+                [
+                  "R&D Exp",
+                  "14.26",
+                  "13.59",
+                  "12.95",
+                  "15.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.03",
+                  "19.25",
+                  "15.16",
+                  "19.49"
+                ],
+                [
+                  "Operating Income",
+                  "81.72",
+                  "51.36",
+                  "66.57",
+                  "22.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.54",
+                  "12.02",
+                  "16.35",
+                  "6.42"
+                ],
+                [
+                  "Net Income",
+                  "70.11",
+                  "63.57",
+                  "-38.59",
+                  "41.91"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.05",
+                  "14.88",
+                  "-9.48",
+                  "12.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "196.25",
+                  "33.95",
+                  "4.55",
+                  "61.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "199.45",
+                  "107.33",
+                  "8.93",
+                  "-60.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-242.58",
+                  "-5.98",
+                  "-97.08",
+                  "-18.52"
+                ],
+                [
+                  "CAPEX",
+                  "-22.48",
+                  "-21.66",
+                  "-5.00",
+                  "-26.51"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鈦合金",
+    "鎳基合金",
+    "漢翔",
+    "Safran Landing Systems",
+    "SPP",
+    "MOOG",
+    "三菱重工",
+    "GE Aerospace",
+    "Rolls-Royce",
+    "Boeing",
+    "三菱重工",
+    "榮剛",
+    "鈦合金",
+    "鎳基合金",
+    "Safran Landing Systems",
+    "SPP",
+    "漢翔",
+    "GE Aerospace",
+    "Rolls-Royce",
+    "Boeing",
+    "MOOG",
+    "長榮航太",
+    "三菱重工",
+    "漢翔",
+    "Boeing",
+    "Airbus",
+    "Safran Landing Systems",
+    "SPP",
+    "MOOG",
+    "三菱重工",
+    "長榮航太",
+    "三菱重工",
+    "榮剛",
+    "鈦合金",
+    "鎳基合金"
+  ]
+}

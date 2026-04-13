@@ -1,0 +1,549 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6719_力智.md",
+  "source_path": "Pilot_Reports/Semiconductors/6719_力智.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6719_力智.json",
+  "ticker": "6719",
+  "company_name": "力智",
+  "title": "# 6719 - 力智",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "16,822 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,250 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "力智電子 (6719，"
+            },
+            {
+              "type": "wikilink",
+              "text": "uPI Semiconductor"
+            },
+            {
+              "type": "text",
+              "text": ") 擁有逾 20 年類比電源與分離式元件設計經驗，為高效能"
+            },
+            {
+              "type": "wikilink",
+              "text": "電源管理 IC"
+            },
+            {
+              "type": "text",
+              "text": "設計公司。核心產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PMIC"
+            },
+            {
+              "type": "text",
+              "text": "、電源級元件、電池保護 IC、Power "
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": " 驅動解決方案，應用於高效能運算、顯示卡、電競筆電、車用及工業領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PMIC/[[MOSFET]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "力智"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電源管理 IC、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、GaN 驅動)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (HPC 與電競)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "顯示卡:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 顯示卡電源方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電競筆電電源管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用及工業電源"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "顯示卡/電競:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 顯示卡及電競筆電品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用及工業電源客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MPS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Renesas"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Infineon"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $159.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.92",
+                  "17.73",
+                  "3.67",
+                  "1.19",
+                  "6.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4581.28",
+                  "3697.96",
+                  "3037.38"
+                ],
+                [
+                  "Gross Profit",
+                  "1595.62",
+                  "1119.42",
+                  "834.68"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.83",
+                  "30.27",
+                  "27.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "158.68",
+                  "253.00",
+                  "176.45"
+                ],
+                [
+                  "R&D Exp",
+                  "565.90",
+                  "523.27",
+                  "495.22"
+                ],
+                [
+                  "General & Admin Exp",
+                  "203.24",
+                  "208.73",
+                  "193.70"
+                ],
+                [
+                  "Operating Income",
+                  "667.80",
+                  "134.42",
+                  "-30.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.58",
+                  "3.64",
+                  "-1.01"
+                ],
+                [
+                  "Net Income",
+                  "692.69",
+                  "229.99",
+                  "50.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.12",
+                  "6.22",
+                  "1.67"
+                ],
+                [
+                  "Op Cash Flow",
+                  "971.92",
+                  "1275.07",
+                  "92.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-718.46",
+                  "-7886.46",
+                  "-1443.69"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-167.81",
+                  "6733.05",
+                  "-755.43"
+                ],
+                [
+                  "CAPEX",
+                  "-78.91",
+                  "-85.47",
+                  "-77.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1189.55",
+                  "1227.18",
+                  "979.04",
+                  "935.38"
+                ],
+                [
+                  "Gross Profit",
+                  "416.27",
+                  "433.70",
+                  "334.38",
+                  "315.87"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.99",
+                  "35.34",
+                  "34.15",
+                  "33.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "41.22",
+                  "40.49",
+                  "37.84",
+                  "128.30"
+                ],
+                [
+                  "R&D Exp",
+                  "142.50",
+                  "145.16",
+                  "134.10",
+                  "123.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.60",
+                  "48.79",
+                  "48.02",
+                  "53.23"
+                ],
+                [
+                  "Operating Income",
+                  "179.95",
+                  "199.26",
+                  "114.42",
+                  "10.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.13",
+                  "16.24",
+                  "11.69",
+                  "1.13"
+                ],
+                [
+                  "Net Income",
+                  "244.81",
+                  "42.81",
+                  "156.00",
+                  "-3.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.58",
+                  "3.49",
+                  "15.93",
+                  "-0.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "373.38",
+                  "35.67",
+                  "292.29",
+                  "427.97"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-455.80",
+                  "92.45",
+                  "-139.12",
+                  "-1449.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.39",
+                  "3.86",
+                  "12.59",
+                  "24.04"
+                ],
+                [
+                  "CAPEX",
+                  "-27.25",
+                  "-18.72",
+                  "-16.56",
+                  "-32.55"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "uPI Semiconductor",
+    "電源管理 IC",
+    "PMIC",
+    "MOSFET",
+    "氮化鎵",
+    "MOSFET",
+    "MOSFET",
+    "MPS",
+    "Renesas",
+    "Infineon"
+  ]
+}

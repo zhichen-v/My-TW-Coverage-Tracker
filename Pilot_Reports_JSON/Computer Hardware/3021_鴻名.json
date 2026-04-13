@@ -1,0 +1,735 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3021_鴻名.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3021_鴻名.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3021_鴻名.json",
+  "ticker": "3021",
+  "company_name": "鴻名",
+  "title": "# 3021 - 鴻名",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "1,547 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,380 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鴻名 (3021，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Welltend"
+            },
+            {
+              "type": "text",
+              "text": ") 為專業線材連接器 (Wire Harness) 製造商，同時擁有系統整合 (SI) 事業群。線材事業群佔營收大宗，深耕家電與事務機 (印表機) 領域，主要客戶均為日系大廠。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "近年積極拓展車用電子與"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "線束市場，如車載影音、電池管理系統 (BMS) 線束及"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 相關線材。系統整合事業群代理資訊設備與資安服務，提供穩定現金流。生產基地遍佈中國、菲律賓、泰國，具備東南亞製造優勢，有效分散地緣政治風險。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (線材原料與端子)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅材供應商 — 線束核心導體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PVC 膠料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 絕緣被覆材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "端子/連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Molex"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "JST"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等連接器供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (線束組裝製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線束代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "鴻名"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (家電/事務機/車用線束組裝)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外產能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國、菲律賓、泰國工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (日系品牌與車用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Daikin"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hitachi"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 空調/冰箱線束"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "事務機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Canon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Epson"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 印表機內部線材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車載系統 Tier 1 廠 — BMS/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線束"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業客戶 — 資訊設備與資安服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Daikin"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hitachi"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 空調、冰箱內部線束"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "事務機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Canon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Epson"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 印表機線材組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車載系統 Tier 1 廠 — BMS 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線束"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內企業客戶 — 資訊設備代理與資安服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅線與銅帶供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Molex"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "JST"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 端子與連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "被覆材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PVC 膠料及絕緣材料廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "49.39",
+                  "9.53",
+                  "0.46",
+                  "0.94",
+                  "7.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3335.95",
+                  "3470.40",
+                  "2978.38"
+                ],
+                [
+                  "Gross Profit",
+                  "518.97",
+                  "580.91",
+                  "566.70"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.56",
+                  "16.74",
+                  "19.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "159.19",
+                  "144.91",
+                  "152.42"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "254.25",
+                  "235.85",
+                  "206.67"
+                ],
+                [
+                  "Operating Income",
+                  "105.53",
+                  "200.15",
+                  "207.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.16",
+                  "5.77",
+                  "6.97"
+                ],
+                [
+                  "Net Income",
+                  "31.24",
+                  "55.48",
+                  "119.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.94",
+                  "1.60",
+                  "4.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "197.76",
+                  "207.25",
+                  "454.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-73.14",
+                  "-135.69",
+                  "-48.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-34.26",
+                  "-17.37",
+                  "-94.43"
+                ],
+                [
+                  "CAPEX",
+                  "-99.27",
+                  "-28.07",
+                  "-42.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "925.76",
+                  "883.90",
+                  "818.96",
+                  "707.32"
+                ],
+                [
+                  "Gross Profit",
+                  "125.38",
+                  "163.72",
+                  "128.25",
+                  "101.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.54",
+                  "18.52",
+                  "15.66",
+                  "14.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.36",
+                  "40.25",
+                  "38.42",
+                  "35.16"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "66.12",
+                  "70.16",
+                  "56.70",
+                  "61.28"
+                ],
+                [
+                  "Operating Income",
+                  "13.90",
+                  "53.31",
+                  "33.13",
+                  "5.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.50",
+                  "6.03",
+                  "4.05",
+                  "0.73"
+                ],
+                [
+                  "Net Income",
+                  "-13.29",
+                  "41.23",
+                  "9.02",
+                  "-5.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.44",
+                  "4.66",
+                  "1.10",
+                  "-0.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "92.85",
+                  "43.02",
+                  "93.40",
+                  "-31.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.84",
+                  "-16.90",
+                  "-21.75",
+                  "-1.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-41.72",
+                  "-25.90",
+                  "-62.06",
+                  "95.42"
+                ],
+                [
+                  "CAPEX",
+                  "-20.52",
+                  "-47.46",
+                  "-22.01",
+                  "-9.28"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Welltend",
+    "電動車",
+    "ADAS",
+    "Molex",
+    "JST",
+    "Panasonic",
+    "Daikin",
+    "Hitachi",
+    "Canon",
+    "Epson",
+    "ADAS",
+    "Panasonic",
+    "Daikin",
+    "Hitachi",
+    "Canon",
+    "Epson",
+    "ADAS",
+    "Molex",
+    "JST"
+  ]
+}

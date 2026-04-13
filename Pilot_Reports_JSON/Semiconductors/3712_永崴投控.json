@@ -1,0 +1,587 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3712_永崴投控.md",
+  "source_path": "Pilot_Reports/Semiconductors/3712_永崴投控.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3712_永崴投控.json",
+  "ticker": "3712",
+  "company_name": "永崴投控",
+  "title": "# 3712 - 永崴投控",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "4,260 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "38,381 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "永崴投控 (3712) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "正崴精密"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下投資控股公司 (正崴間接持股 38.19%)，業務涵蓋光學儀器零組件、3C 產品及潔淨能源。子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "森崴能源"
+            },
+            {
+              "type": "text",
+              "text": "主攻"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "電廠開發、"
+            },
+            {
+              "type": "wikilink",
+              "text": "風力發電"
+            },
+            {
+              "type": "text",
+              "text": "維運及"
+            },
+            {
+              "type": "wikilink",
+              "text": "綠電"
+            },
+            {
+              "type": "text",
+              "text": "服務，進軍"
+            },
+            {
+              "type": "wikilink",
+              "text": "離岸風電"
+            },
+            {
+              "type": "text",
+              "text": "維運市場。另有影像掃描器及多功能事務機等 3C 業務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與能源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能模組供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "風電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 風力發電設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (投控與能源服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "投資控股:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "永崴"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (正崴集團，光學/3C/潔淨能源)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "子公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森崴能源"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (太陽能/風電/綠電服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電力與客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "售電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 躉購及企業綠電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "正崴精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (持股 38.19%)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "售電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及企業綠電客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3C:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 事務機及掃描器品牌客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "正崴精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (持股 38.19%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "子公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森崴能源"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.30 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.13",
+                  "1.28",
+                  "-2.31"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "26903.86",
+                  "17423.00",
+                  "12069.25"
+                ],
+                [
+                  "Gross Profit",
+                  "3626.81",
+                  "2277.02",
+                  "1809.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.48",
+                  "13.07",
+                  "14.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "224.62",
+                  "179.90",
+                  "191.36"
+                ],
+                [
+                  "R&D Exp",
+                  "403.66",
+                  "309.92",
+                  "369.42"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1231.99",
+                  "888.93",
+                  "692.90"
+                ],
+                [
+                  "Operating Income",
+                  "1766.53",
+                  "1016.38",
+                  "555.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.57",
+                  "5.83",
+                  "4.61"
+                ],
+                [
+                  "Net Income",
+                  "1124.07",
+                  "567.92",
+                  "529.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.18",
+                  "3.26",
+                  "4.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-2651.58",
+                  "-5161.91",
+                  "-2351.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12226.48",
+                  "-1799.01",
+                  "-5578.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "15775.83",
+                  "8166.22",
+                  "8614.72"
+                ],
+                [
+                  "CAPEX",
+                  "-6139.04",
+                  "-949.11",
+                  "-1936.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10406.41",
+                  "8110.30",
+                  "7370.64",
+                  "11804.62"
+                ],
+                [
+                  "Gross Profit",
+                  "-8483.65",
+                  "-5813.72",
+                  "1360.62",
+                  "1263.11"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-81.52",
+                  "-71.68",
+                  "18.46",
+                  "10.70"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.93",
+                  "44.30",
+                  "68.11",
+                  "66.54"
+                ],
+                [
+                  "R&D Exp",
+                  "67.13",
+                  "80.77",
+                  "70.48",
+                  "143.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "328.79",
+                  "251.51",
+                  "446.53",
+                  "394.59"
+                ],
+                [
+                  "Operating Income",
+                  "-8909.50",
+                  "-6190.30",
+                  "775.51",
+                  "658.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-85.62",
+                  "-76.33",
+                  "10.52",
+                  "5.58"
+                ],
+                [
+                  "Net Income",
+                  "-3056.11",
+                  "-2042.75",
+                  "228.28",
+                  "302.17"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-29.37",
+                  "-25.19",
+                  "3.10",
+                  "2.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1997.24",
+                  "-9273.90",
+                  "176.74",
+                  "-3849.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-591.11",
+                  "712.23",
+                  "-6842.69",
+                  "1332.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "294.55",
+                  "8320.73",
+                  "7414.62",
+                  "3203.73"
+                ],
+                [
+                  "CAPEX",
+                  "-593.06",
+                  "-5285.44",
+                  "-980.73",
+                  "-524.81"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "正崴精密",
+    "森崴能源",
+    "太陽能",
+    "風力發電",
+    "綠電",
+    "離岸風電",
+    "森崴能源",
+    "台電",
+    "正崴精密",
+    "台電",
+    "正崴精密",
+    "森崴能源"
+  ]
+}

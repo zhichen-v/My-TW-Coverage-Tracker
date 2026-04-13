@@ -1,0 +1,719 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3272_東碩.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3272_東碩.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3272_東碩.json",
+  "ticker": "3272",
+  "company_name": "東碩",
+  "title": "# 3272 - 東碩",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "1,003 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,557 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東碩資訊 (3272，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Good Way Technology"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球最大擴充基座 (Docking Station) ODM 製造商，專注於 Thunderbolt 與 USB-C 高速傳輸技術。主要產品包括擴充基座、Hub、轉接器等 PC 周邊。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lenovo"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": " 等全球商用筆電品牌之核心供應商，在商用 Docking 市場佔有率居全球領先。近年積極拓展 AI 邊緣運算與智慧會議室解決方案，因應地緣政治已在越南設廠分散產能。核心技術為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": " Thunderbolt 與 USB4 高速傳輸控制器整合。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (高速傳輸晶片與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳輸晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Thunderbolt 控制器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB 控制器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB-C/USB4 控制 IC 設計廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Type-C/Thunderbolt 連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速傳輸 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (擴充基座 ODM 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Docking Station:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "東碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Thunderbolt/USB-C 擴充基座)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Hub/轉接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "東碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB Hub 與多功能轉接器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外產能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 越南廠 — 分散產能"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (PC 品牌商用市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ODM 擴充基座"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階 PC 配件通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業採購:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業大量採購商用 Docking 搭配筆電"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用筆電搭配 Docking ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階 PC 配件零售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業採購:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型企業 IT 採購 — 商用擴充基座"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳輸晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Thunderbolt 控制器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB-C/USB4 控制 IC 設計廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Type-C 連接器供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高速傳輸 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基板廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.75 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.33",
+                  "0.99",
+                  "-19.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2784.12",
+                  "3030.71",
+                  "6800.04"
+                ],
+                [
+                  "Gross Profit",
+                  "312.00",
+                  "70.59",
+                  "816.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.21",
+                  "2.33",
+                  "12.01"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "145.55",
+                  "145.81",
+                  "163.51"
+                ],
+                [
+                  "R&D Exp",
+                  "151.26",
+                  "140.85",
+                  "151.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "225.85",
+                  "206.06",
+                  "188.60"
+                ],
+                [
+                  "Operating Income",
+                  "-210.65",
+                  "-422.13",
+                  "313.07"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.57",
+                  "-13.93",
+                  "4.60"
+                ],
+                [
+                  "Net Income",
+                  "-192.69",
+                  "-372.88",
+                  "225.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.92",
+                  "-12.30",
+                  "3.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-129.17",
+                  "926.75",
+                  "-3.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-542.03",
+                  "-76.07",
+                  "-134.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "333.90",
+                  "-361.12",
+                  "354.16"
+                ],
+                [
+                  "CAPEX",
+                  "-327.83",
+                  "-21.46",
+                  "-126.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31",
+                "2024-09-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "778.16",
+                  "755.55",
+                  "776.05",
+                  "645.72"
+                ],
+                [
+                  "Gross Profit",
+                  "56.98",
+                  "113.02",
+                  "107.04",
+                  "61.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.32",
+                  "14.96",
+                  "13.79",
+                  "9.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "39.76",
+                  "37.82",
+                  "37.19",
+                  "33.16"
+                ],
+                [
+                  "R&D Exp",
+                  "42.46",
+                  "43.69",
+                  "38.29",
+                  "43.59"
+                ],
+                [
+                  "General & Admin Exp",
+                  "63.66",
+                  "64.22",
+                  "60.35",
+                  "55.90"
+                ],
+                [
+                  "Operating Income",
+                  "-88.90",
+                  "-32.70",
+                  "-28.79",
+                  "-71.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.42",
+                  "-4.33",
+                  "-3.71",
+                  "-11.03"
+                ],
+                [
+                  "Net Income",
+                  "-83.83",
+                  "-38.27",
+                  "-10.48",
+                  "-65.46"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-10.77",
+                  "-5.06",
+                  "-1.35",
+                  "-10.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "64.28",
+                  "111.80",
+                  "-198.12",
+                  "-53.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-389.32",
+                  "-56.31",
+                  "-317.82",
+                  "76.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "7.73",
+                  "311.94",
+                  "417.98",
+                  "-37.05"
+                ],
+                [
+                  "CAPEX",
+                  "-182.56",
+                  "-55.62",
+                  "-142.79",
+                  "-36.38"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Good Way Technology",
+    "Lenovo",
+    "HP",
+    "Dell",
+    "Intel",
+    "Intel",
+    "PCB",
+    "Lenovo",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "HP",
+    "Dell",
+    "Intel",
+    "PCB"
+  ]
+}

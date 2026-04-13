@@ -1,0 +1,599 @@
+{
+  "report_id": "Pilot_Reports/Security & Protection Services/2390_云辰.md",
+  "source_path": "Pilot_Reports/Security & Protection Services/2390_云辰.md",
+  "json_path": "Pilot_Reports_JSON/Security & Protection Services/2390_云辰.json",
+  "ticker": "2390",
+  "company_name": "云辰",
+  "title": "# 2390 - 云辰",
+  "sector_folder": "Security & Protection Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Security & Protection Services"
+      },
+      {
+        "label": "市值:",
+        "value": "2,013 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,446 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "云辰電子工業股份有限公司成立於1980年，總部位於新北市，為防盜警報及智慧安防設備製造商。核心業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "防災安全設備："
+            },
+            {
+              "type": "text",
+              "text": " 防盜警報系統、照明控制設備及配件之製造銷售；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "智慧安防設備："
+            },
+            {
+              "type": "text",
+              "text": " 智慧型安全監控設備之研發製造與貿易；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "不動產："
+            },
+            {
+              "type": "text",
+              "text": " 住宅大樓開發管理及不動產租賃。公司產品以外銷歐美市場為主，符合"
+            },
+            {
+              "type": "wikilink",
+              "text": "NDAA"
+            },
+            {
+              "type": "text",
+              "text": "（美國國防授權法案）合規要求，受惠於去中化安防設備轉單趨勢。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MCU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "微控制器、感測器、通訊模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠/金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外殼射出件、金屬結構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "照明元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "云辰電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 防盜警報系統、智慧安防設備、照明控制設備之製造與銷售"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐美安防市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美安防系統整合商與品牌商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內安防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 保全業者、建築商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 住宅大樓開發與租賃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐美安防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美安防品牌商與系統整合商（防盜警報設備"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ODM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OEM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內保全:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣保全業者（安防設備採購）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 住宅租戶與買方"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MCU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "微控制器、感測器、通訊模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠射出:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外殼結構件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[LED]]元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 照明控制設備用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "光源"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $10.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.96",
+                  "0.92",
+                  "1292.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "679.14",
+                  "701.51",
+                  "648.32"
+                ],
+                [
+                  "Gross Profit",
+                  "143.19",
+                  "170.72",
+                  "162.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.08",
+                  "24.34",
+                  "25.12"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "74.30",
+                  "68.26",
+                  "55.66"
+                ],
+                [
+                  "R&D Exp",
+                  "39.88",
+                  "46.48",
+                  "53.67"
+                ],
+                [
+                  "General & Admin Exp",
+                  "62.58",
+                  "65.49",
+                  "67.74"
+                ],
+                [
+                  "Operating Income",
+                  "-33.56",
+                  "-9.51",
+                  "-14.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.94",
+                  "-1.36",
+                  "-2.19"
+                ],
+                [
+                  "Net Income",
+                  "-27.40",
+                  "-241.38",
+                  "-80.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.04",
+                  "-34.41",
+                  "-12.41"
+                ],
+                [
+                  "Op Cash Flow",
+                  "20.45",
+                  "-41.11",
+                  "-11.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-31.24",
+                  "-192.28",
+                  "41.68"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-66.42",
+                  "14.27",
+                  "-73.52"
+                ],
+                [
+                  "CAPEX",
+                  "-18.47",
+                  "-13.59",
+                  "-16.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "169.51",
+                  "157.51",
+                  "161.05",
+                  "191.08"
+                ],
+                [
+                  "Gross Profit",
+                  "32.36",
+                  "34.33",
+                  "31.89",
+                  "44.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.09",
+                  "21.79",
+                  "19.80",
+                  "23.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "20.76",
+                  "18.12",
+                  "17.81",
+                  "17.61"
+                ],
+                [
+                  "R&D Exp",
+                  "9.15",
+                  "8.79",
+                  "11.08",
+                  "10.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.14",
+                  "14.93",
+                  "16.43",
+                  "16.08"
+                ],
+                [
+                  "Operating Income",
+                  "-12.69",
+                  "-7.51",
+                  "-13.42",
+                  "0.06"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.49",
+                  "-4.77",
+                  "-8.34",
+                  "0.03"
+                ],
+                [
+                  "Net Income",
+                  "-41.19",
+                  "-24.27",
+                  "-55.62",
+                  "93.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-24.30",
+                  "-15.41",
+                  "-34.53",
+                  "49.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4.57",
+                  "22.61",
+                  "23.30",
+                  "-30.02"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.09",
+                  "-51.19",
+                  "-29.29",
+                  "53.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "48.21",
+                  "18.55",
+                  "-81.89",
+                  "-51.29"
+                ],
+                [
+                  "CAPEX",
+                  "-4.06",
+                  "-5.05",
+                  "-7.34",
+                  "-2.02"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NDAA",
+    "MCU",
+    "LED",
+    "ODM",
+    "OEM",
+    "MCU",
+    "LED",
+    "LED"
+  ]
+}

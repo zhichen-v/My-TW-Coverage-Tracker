@@ -1,0 +1,675 @@
+{
+  "report_id": "Pilot_Reports/Capital Markets/2855_統一證.md",
+  "source_path": "Pilot_Reports/Capital Markets/2855_統一證.md",
+  "json_path": "Pilot_Reports_JSON/Capital Markets/2855_統一證.json",
+  "ticker": "2855",
+  "company_name": "統一證",
+  "title": "# 2855 - 統一證",
+  "sector_folder": "Capital Markets",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Capital Markets"
+      },
+      {
+        "label": "市值:",
+        "value": "51,566 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "88,505 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "統一綜合證券 (2855，President Securities) 成立於 1988 年，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "集團，為國內大型綜合券商。業務涵蓋證券經紀、承銷、自營、債券交易、衍生性金融商品及財富管理，全台設有約 30 個營業據點。經紀業務市占率穩定位居本土券商前十，電子下單比率高。承銷業務方面憑藉"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "集團資源具競爭優勢，亦擔任多家上市櫃公司之股務代理。子公司統一投顧提供投資研究與資產管理服務，統一期貨辦理國內外期貨選擇權經紀業務。行動下單 APP「"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": " e 指發」由"
+            },
+            {
+              "type": "wikilink",
+              "text": "三竹資訊"
+            },
+            {
+              "type": "text",
+              "text": "提供技術支援，強化線上交易體驗。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (交易基建與資訊系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "市場基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣期貨交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 交易撮合、結算交割"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融資訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉實資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三竹資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 看盤報價與下單系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (綜合證券服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "統一證券 (2855)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 證券經紀、自營、承銷、債券交易、財富管理、股務代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "統一期貨"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國內外期貨選擇權經紀"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "統一投顧"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 投資研究與資產管理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 散戶經紀交易、財富管理諮詢"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構法人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外資及投信法人委託交易"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IPO/SPO 承銷、股務代理服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "經紀業務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台約 30 據點之散戶投資人及法人機構 — 國內外股票、ETF 及衍生性商品交易"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "承銷業務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 委託辦理 IPO/SPO 上市櫃掛牌之企業法人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "股務代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 委託辦理股東會事務、除權息發放之上市櫃公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "財富管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高資產客戶 — 基金申購、複委託、結構型商品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源與品牌支援"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "市場基建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融資訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉實資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三竹資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 看盤報價與行動下單系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $32.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.35",
+                  "N/A",
+                  "4.31",
+                  "1.31",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "12417.43",
+                  "15939.84",
+                  "11125.09"
+                ],
+                [
+                  "Gross Profit",
+                  "11426.38",
+                  "14939.17",
+                  "10333.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "92.02",
+                  "93.72",
+                  "92.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "4859.02",
+                  "9368.77",
+                  "5425.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "39.13",
+                  "58.78",
+                  "48.77"
+                ],
+                [
+                  "Net Income",
+                  "4804.43",
+                  "4373.05",
+                  "2878.95"
+                ],
+                [
+                  "Net Margin (%)",
+                  "38.69",
+                  "27.43",
+                  "25.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-10079.03",
+                  "-7134.27",
+                  "-20879.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-492.46",
+                  "-553.50",
+                  "-269.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "10938.56",
+                  "10030.24",
+                  "20466.70"
+                ],
+                [
+                  "CAPEX",
+                  "-302.56",
+                  "-284.20",
+                  "-222.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5542.15",
+                  "5209.44",
+                  "298.23",
+                  "1367.61"
+                ],
+                [
+                  "Gross Profit",
+                  "5247.79",
+                  "4938.63",
+                  "93.68",
+                  "1146.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "94.69",
+                  "94.80",
+                  "31.41",
+                  "83.82"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "2978.01",
+                  "3069.86",
+                  "-1148.44",
+                  "-40.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "53.73",
+                  "58.93",
+                  "-385.09",
+                  "-2.95"
+                ],
+                [
+                  "Net Income",
+                  "2137.42",
+                  "2146.46",
+                  "587.79",
+                  "-67.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "38.57",
+                  "41.20",
+                  "197.09",
+                  "-4.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-22078.60",
+                  "-15219.95",
+                  "27832.78",
+                  "-613.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-39.70",
+                  "-56.76",
+                  "-86.80",
+                  "-309.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "21466.07",
+                  "16337.10",
+                  "-28901.31",
+                  "2036.70"
+                ],
+                [
+                  "CAPEX",
+                  "-93.04",
+                  "-85.89",
+                  "-72.46",
+                  "-51.17"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "統一",
+    "統一",
+    "統一",
+    "三竹資訊",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣期貨交易所",
+    "台灣集中保管結算所",
+    "嘉實資訊",
+    "三竹資訊",
+    "統一",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣集中保管結算所",
+    "嘉實資訊",
+    "三竹資訊"
+  ]
+}

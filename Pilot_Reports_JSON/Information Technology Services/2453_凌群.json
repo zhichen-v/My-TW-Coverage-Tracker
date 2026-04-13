@@ -1,0 +1,759 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/2453_凌群.md",
+  "source_path": "Pilot_Reports/Information Technology Services/2453_凌群.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/2453_凌群.json",
+  "ticker": "2453",
+  "company_name": "凌群",
+  "title": "# 2453 - 凌群",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "5,430 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,571 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "凌群電腦 (2453) 成立於 1975 年，為台灣老牌資訊系統整合商，提供從基礎建設、網路架構到應用軟體開發之全方位 ICT 解決方案。凌群深耕金融、政府、醫療及電信領域，主要產品與服務涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、儲存設備、網路通訊建置，以及自行研發之智慧服務機器人 Ayuda。近年積極佈局 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "雲端服務"
+            },
+            {
+              "type": "text",
+              "text": "及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 專網應用，協助企業進行數位轉型。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (軟硬體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "硬體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (網路設備)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HPE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (儲存設備)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VMware"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (虛擬化平台)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Cloud"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SI 服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "凌群電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (系統規劃、軟體開發、客製化整合、維運服務及 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機器人研發)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行、券商及證券交易所"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電信營運商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府機關與公營事業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臺灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自動化交易系統)、各大銀行及券商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電信系統整合)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 內政部、衛福部等中央機關"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型醫療院所資訊系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 核心網路通訊設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HPE"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 伺服器與儲存設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VMware"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用軟體與虛擬化平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Cloud — 公有雲服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $54.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.52",
+                  "N/A",
+                  "0.73",
+                  "2.42",
+                  "9.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7432.84",
+                  "6932.73",
+                  "6383.82"
+                ],
+                [
+                  "Gross Profit",
+                  "1870.21",
+                  "1788.96",
+                  "1660.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.16",
+                  "25.80",
+                  "26.02"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1332.44",
+                  "1232.97",
+                  "1126.07"
+                ],
+                [
+                  "R&D Exp",
+                  "184.98",
+                  "239.93",
+                  "242.59"
+                ],
+                [
+                  "General & Admin Exp",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ],
+                [
+                  "Operating Income",
+                  "352.78",
+                  "316.06",
+                  "292.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.75",
+                  "4.56",
+                  "4.58"
+                ],
+                [
+                  "Net Income",
+                  "311.82",
+                  "306.40",
+                  "278.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.20",
+                  "4.42",
+                  "4.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "387.82",
+                  "256.69",
+                  "653.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-34.52",
+                  "-111.09",
+                  "-108.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-480.26",
+                  "-305.31",
+                  "-261.26"
+                ],
+                [
+                  "CAPEX",
+                  "-59.74",
+                  "-69.05",
+                  "-59.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2400.94",
+                  "1850.22",
+                  "1708.71",
+                  "1472.97"
+                ],
+                [
+                  "Gross Profit",
+                  "585.65",
+                  "477.45",
+                  "439.12",
+                  "367.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.39",
+                  "25.81",
+                  "25.70",
+                  "24.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "431.04",
+                  "371.33",
+                  "322.92",
+                  "207.15"
+                ],
+                [
+                  "R&D Exp",
+                  "45.04",
+                  "43.83",
+                  "44.66",
+                  "51.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "0.00",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ],
+                [
+                  "Operating Income",
+                  "109.58",
+                  "62.29",
+                  "71.54",
+                  "109.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.56",
+                  "3.37",
+                  "4.19",
+                  "7.43"
+                ],
+                [
+                  "Net Income",
+                  "91.84",
+                  "71.56",
+                  "59.55",
+                  "88.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.83",
+                  "3.87",
+                  "3.49",
+                  "6.03"
+                ],
+                [
+                  "Op Cash Flow",
+                  "931.01",
+                  "-454.10",
+                  "28.99",
+                  "-118.08"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-59.65",
+                  "54.43",
+                  "-24.26",
+                  "-5.05"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-879.29",
+                  "293.19",
+                  "121.02",
+                  "-15.19"
+                ],
+                [
+                  "CAPEX",
+                  "-19.02",
+                  "-13.30",
+                  "-14.77",
+                  "-12.65"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "AI",
+    "雲端服務",
+    "5G",
+    "Cisco",
+    "HPE",
+    "伺服器",
+    "Dell",
+    "Microsoft",
+    "Oracle",
+    "VMware",
+    "AWS",
+    "Google",
+    "AI",
+    "臺灣證券交易所",
+    "中華電信",
+    "Cisco",
+    "HPE",
+    "Dell",
+    "Microsoft",
+    "Oracle",
+    "VMware",
+    "AWS",
+    "Google"
+  ]
+}

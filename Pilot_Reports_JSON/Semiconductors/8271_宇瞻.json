@@ -1,0 +1,546 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/8271_宇瞻.md",
+  "source_path": "Pilot_Reports/Semiconductors/8271_宇瞻.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/8271_宇瞻.json",
+  "ticker": "8271",
+  "company_name": "宇瞻",
+  "title": "# 8271 - 宇瞻",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "21,077 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "21,564 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宇瞻科技 (8271，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Apacer"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球記憶體模組及儲存裝置品牌廠商，產品涵蓋工業級及消費級 "
+            },
+            {
+              "type": "wikilink",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": " 模組 (DDR4/"
+            },
+            {
+              "type": "wikilink",
+              "text": "DDR5"
+            },
+            {
+              "type": "text",
+              "text": "、嵌入式記憶體、伺服器用) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SSD"
+            },
+            {
+              "type": "text",
+              "text": " 固態硬碟 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": "/SATA/工業用 USB)。應用於工廠自動化、博弈設備、醫療、交通監控及軍工航太。設有台灣總部及美國、荷蘭、中國、印度、日本辦公室。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (記憶體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DRAM/NAND:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kioxia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (模組製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體模組/SSD:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "宇瞻"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Apacer 品牌，工業/消費/軍工)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業/軍工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球設備製造商及系統整合商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球經銷商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業/軍工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球設備製造商及系統整合商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球經銷商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DRAM/NAND:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kioxia"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宜鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ATP Electronics"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $164.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.74",
+                  "N/A",
+                  "1.89",
+                  "4.19",
+                  "20.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11123.60",
+                  "7837.16",
+                  "7631.45"
+                ],
+                [
+                  "Gross Profit",
+                  "2307.58",
+                  "1301.20",
+                  "1778.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.74",
+                  "16.60",
+                  "23.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "727.55",
+                  "570.87",
+                  "616.83"
+                ],
+                [
+                  "R&D Exp",
+                  "234.75",
+                  "180.70",
+                  "188.77"
+                ],
+                [
+                  "General & Admin Exp",
+                  "327.10",
+                  "240.68",
+                  "262.91"
+                ],
+                [
+                  "Operating Income",
+                  "1018.19",
+                  "308.96",
+                  "710.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.15",
+                  "3.94",
+                  "9.31"
+                ],
+                [
+                  "Net Income",
+                  "859.88",
+                  "278.96",
+                  "553.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.73",
+                  "3.56",
+                  "7.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-2053.54",
+                  "-154.85",
+                  "381.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "873.79",
+                  "98.36",
+                  "-228.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "978.45",
+                  "39.46",
+                  "-507.34"
+                ],
+                [
+                  "CAPEX",
+                  "-40.54",
+                  "-30.43",
+                  "-36.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3137.50",
+                  "2712.37",
+                  "2049.20",
+                  "2108.68"
+                ],
+                [
+                  "Gross Profit",
+                  "958.80",
+                  "417.84",
+                  "337.75",
+                  "265.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.56",
+                  "15.40",
+                  "16.48",
+                  "12.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "231.32",
+                  "168.06",
+                  "142.15",
+                  "135.56"
+                ],
+                [
+                  "R&D Exp",
+                  "82.52",
+                  "50.36",
+                  "43.83",
+                  "46.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.91",
+                  "70.86",
+                  "60.00",
+                  "50.82"
+                ],
+                [
+                  "Operating Income",
+                  "530.04",
+                  "128.57",
+                  "91.77",
+                  "32.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.89",
+                  "4.74",
+                  "4.48",
+                  "1.55"
+                ],
+                [
+                  "Net Income",
+                  "417.31",
+                  "130.63",
+                  "92.87",
+                  "36.69"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.30",
+                  "4.82",
+                  "4.53",
+                  "1.74"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1353.43",
+                  "-794.35",
+                  "58.66",
+                  "331.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "4.20",
+                  "746.92",
+                  "-193.49",
+                  "-452.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1172.29",
+                  "17.04",
+                  "-11.25",
+                  "-2.03"
+                ],
+                [
+                  "CAPEX",
+                  "-22.53",
+                  "-12.22",
+                  "-3.99",
+                  "-5.95"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Apacer",
+    "DRAM",
+    "DDR5",
+    "SSD",
+    "PCIe",
+    "Samsung",
+    "Kioxia",
+    "Samsung",
+    "Kioxia",
+    "宜鼎",
+    "ATP Electronics"
+  ]
+}

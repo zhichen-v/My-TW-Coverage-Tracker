@@ -1,0 +1,514 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3543_州巧.md",
+  "source_path": "Pilot_Reports/Electronic Components/3543_州巧.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3543_州巧.json",
+  "ticker": "3543",
+  "company_name": "州巧",
+  "title": "# 3543 - 州巧",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,551 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,203 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "州巧科技 (Jochu) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "金屬沖壓機構件"
+            },
+            {
+              "type": "text",
+              "text": " 製造商。\n核心業務為 "
+            },
+            {
+              "type": "strong",
+              "text": "TFT-LCD 顯示器"
+            },
+            {
+              "type": "text",
+              "text": " 沖壓零組件 (前框/背板)，應用於電視與螢幕。\n近年積極轉型多元化：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "家居"
+            },
+            {
+              "type": "text",
+              "text": ": 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[IKEA]]"
+            },
+            {
+              "type": "text",
+              "text": " 等北歐家具商合作金屬製品 (抽屜/滑軌)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "醫療"
+            },
+            {
+              "type": "text",
+              "text": ": 開發電動輪椅與照護輔具 (與日本 WHILL 合作)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": ": 拓展"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "機櫃與機殼業務 (越南廠)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 鋼卷, 鋁卷.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "州巧 (3543)"
+            },
+            {
+              "type": "text",
+              "text": " - 模具設計, 沖壓, 塗裝.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "顯示器"
+            },
+            {
+              "type": "text",
+              "text": ": 面板廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": "), 系統廠.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "家居"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "IKEA"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "醫療"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "WHILL"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "友達"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群創"
+                },
+                {
+                  "type": "text",
+                  "text": " (光電金屬件).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "IKEA"
+                },
+                {
+                  "type": "text",
+                  "text": " (家居金屬件).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "WHILL"
+                },
+                {
+                  "type": "text",
+                  "text": " (醫療輔具)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $50.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.70",
+                  "1.81",
+                  "-59.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3264.02",
+                  "3228.54",
+                  "3252.30"
+                ],
+                [
+                  "Gross Profit",
+                  "328.69",
+                  "443.79",
+                  "572.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.07",
+                  "13.75",
+                  "17.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "155.10",
+                  "145.57",
+                  "114.06"
+                ],
+                [
+                  "R&D Exp",
+                  "66.89",
+                  "71.20",
+                  "58.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "368.88",
+                  "328.20",
+                  "318.94"
+                ],
+                [
+                  "Operating Income",
+                  "-262.18",
+                  "-101.18",
+                  "80.92"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.03",
+                  "-3.13",
+                  "2.49"
+                ],
+                [
+                  "Net Income",
+                  "-197.33",
+                  "-101.02",
+                  "78.62"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.05",
+                  "-3.13",
+                  "2.42"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-153.71",
+                  "146.39",
+                  "122.23"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-348.80",
+                  "-81.44",
+                  "-351.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "371.73",
+                  "-198.50",
+                  "-245.69"
+                ],
+                [
+                  "CAPEX",
+                  "-346.95",
+                  "-252.17",
+                  "-163.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "810.36",
+                  "741.69",
+                  "821.56",
+                  "890.41"
+                ],
+                [
+                  "Gross Profit",
+                  "45.57",
+                  "57.20",
+                  "101.12",
+                  "124.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.62",
+                  "7.71",
+                  "12.31",
+                  "14.01"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "33.45",
+                  "55.91",
+                  "33.26",
+                  "32.48"
+                ],
+                [
+                  "R&D Exp",
+                  "16.83",
+                  "16.31",
+                  "16.67",
+                  "17.07"
+                ],
+                [
+                  "General & Admin Exp",
+                  "121.93",
+                  "85.29",
+                  "81.49",
+                  "80.17"
+                ],
+                [
+                  "Operating Income",
+                  "-126.64",
+                  "-100.31",
+                  "-30.30",
+                  "-4.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.63",
+                  "-13.52",
+                  "-3.69",
+                  "-0.55"
+                ],
+                [
+                  "Net Income",
+                  "-95.09",
+                  "-65.56",
+                  "-44.65",
+                  "7.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-11.73",
+                  "-8.84",
+                  "-5.43",
+                  "0.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "6.02",
+                  "-105.64",
+                  "35.16",
+                  "-89.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-77.92",
+                  "-70.22",
+                  "-100.55",
+                  "-100.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "237.63",
+                  "211.80",
+                  "-60.96",
+                  "-16.73"
+                ],
+                [
+                  "CAPEX",
+                  "-73.68",
+                  "-77.90",
+                  "-103.60",
+                  "-91.76"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IKEA",
+    "伺服器",
+    "友達",
+    "群創",
+    "IKEA",
+    "WHILL",
+    "友達",
+    "群創",
+    "IKEA",
+    "WHILL"
+  ]
+}

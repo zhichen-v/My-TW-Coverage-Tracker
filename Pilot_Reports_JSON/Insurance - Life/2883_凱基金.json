@@ -1,0 +1,825 @@
+{
+  "report_id": "Pilot_Reports/Insurance - Life/2883_凱基金.md",
+  "source_path": "Pilot_Reports/Insurance - Life/2883_凱基金.md",
+  "json_path": "Pilot_Reports_JSON/Insurance - Life/2883_凱基金.json",
+  "ticker": "2883",
+  "company_name": "凱基金",
+  "title": "# 2883 - 凱基金",
+  "sector_folder": "Insurance - Life",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Insurance - Life"
+      },
+      {
+        "label": "市值:",
+        "value": "345,438 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "-96,429 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "凱基金控"
+            },
+            {
+              "type": "text",
+              "text": " (2883，原"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華開發金控"
+            },
+            {
+              "type": "text",
+              "text": "，2024 年更名) 為台灣唯一創投系金控轉型案例，具備深厚私募基金 (PE) 與創投 (VC) DNA。旗下主要子公司包括：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "凱基人壽"
+            },
+            {
+              "type": "text",
+              "text": " (原中國人壽) — 集團獲利主要引擎，全資持有後整合效益顯現；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "凱基證券"
+            },
+            {
+              "type": "text",
+              "text": " — 國內龍頭券商之一，投資銀行 (IB) 業務強勁，經紀、承銷與自營並重；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "凱基銀行"
+            },
+            {
+              "type": "text",
+              "text": " — 中型商業銀行，專注消費金融與財富管理利基市場；(4) "
+            },
+            {
+              "type": "wikilink",
+              "text": "中華開發資本"
+            },
+            {
+              "type": "text",
+              "text": " — 台灣創投領導品牌 (2017 年由中華開發工業銀行轉型)，管理多檔 PE/VC 基金，投資涵蓋半導體、生技、綠能等產業。集團策略以 ABCDE (加速數位化、最佳雇主、客戶至上、驅動成長、卓越執行) 為核心。受"
+            },
+            {
+              "type": "wikilink",
+              "text": "金管會"
+            },
+            {
+              "type": "text",
+              "text": "監理。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (資金供給與風險分散)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險保費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "保戶資金"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行存款:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "存款戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際再保險公司如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 壽險風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PE/VC 基金之有限合夥人 (LP)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金融本體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 保單設計與資產管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "證券:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 經紀、承銷、自營及投資銀行"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 消費金融與財富管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "創投:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華開發資本"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PE/VC 基金管理與直接投資"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (客戶與被投資企業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "個人及團體保戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "證券投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "經紀客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IPO 承銷企業、併購案主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "被投資企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華開發資本"
+                    },
+                    {
+                      "type": "text",
+                      "text": "輔導之新創與成長期企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "個人保戶與企業團險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "證券投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "經紀與財富管理客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IPO/承銷企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 尋求上市櫃或募資之公司 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "投資銀行服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "創投被投資企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體、生技、綠能等產業新創 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華開發資本"
+                    },
+                    {
+                      "type": "text",
+                      "text": "輔導"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "信用卡與個人信貸客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 壽險風險轉移"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PE/VC 資金來源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機構投資人 (LP) — 提供基金資金"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "監理機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金管會"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 金融監理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.37",
+                  "8.77",
+                  "0.98",
+                  "1.11",
+                  "-0.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "74818.32",
+                  "75195.67",
+                  "36359.76"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "10930.19",
+                  "10428.35",
+                  "8800.82"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "30057.61",
+                  "33552.46",
+                  "18942.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "40.17",
+                  "44.62",
+                  "52.10"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-22581.67",
+                  "-23232.91",
+                  "-59716.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2552.94",
+                  "-2000.31",
+                  "-4067.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "12776.70",
+                  "48028.21",
+                  "14857.10"
+                ],
+                [
+                  "CAPEX",
+                  "-1265.36",
+                  "-900.99",
+                  "-1110.15"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "40792.81",
+                  "36439.69",
+                  "-37448.09",
+                  "35033.91"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "3183.13",
+                  "2890.50",
+                  "2532.20",
+                  "2324.36"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "11007.16",
+                  "13576.32",
+                  "-3232.17",
+                  "8706.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.98",
+                  "37.26",
+                  "8.63",
+                  "24.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-60872.21",
+                  "-22551.26",
+                  "33713.96",
+                  "27127.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1689.85",
+                  "-100.97",
+                  "-437.26",
+                  "-324.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "55195.72",
+                  "-853.82",
+                  "-30489.56",
+                  "-11075.63"
+                ],
+                [
+                  "CAPEX",
+                  "-451.21",
+                  "-344.89",
+                  "-279.48",
+                  "-189.78"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "凱基金控",
+    "中華開發金控",
+    "凱基人壽",
+    "凱基證券",
+    "凱基銀行",
+    "中華開發資本",
+    "金管會",
+    "凱基人壽",
+    "凱基銀行",
+    "Swiss Re",
+    "Munich Re",
+    "凱基人壽",
+    "凱基證券",
+    "凱基銀行",
+    "中華開發資本",
+    "凱基人壽",
+    "凱基證券",
+    "中華開發資本",
+    "凱基人壽",
+    "凱基證券",
+    "凱基證券",
+    "中華開發資本",
+    "凱基銀行",
+    "Swiss Re",
+    "Munich Re",
+    "金管會"
+  ]
+}

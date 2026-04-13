@@ -1,0 +1,707 @@
+{
+  "report_id": "Pilot_Reports/Metal Fabrication/1785_光洋科.md",
+  "source_path": "Pilot_Reports/Metal Fabrication/1785_光洋科.md",
+  "json_path": "Pilot_Reports_JSON/Metal Fabrication/1785_光洋科.json",
+  "ticker": "1785",
+  "company_name": "光洋科",
+  "title": "# 1785 - 光洋科",
+  "sector_folder": "Metal Fabrication",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "[[Meta]]l Fabrication"
+      },
+      {
+        "label": "市值:",
+        "value": "54,711 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "66,030 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "光洋應用材料 (1785，Solar "
+            },
+            {
+              "type": "wikilink",
+              "text": "Applied Materials"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "濺鍍靶材"
+            },
+            {
+              "type": "text",
+              "text": "領導廠商，以貴稀金屬回收精煉為平台。全球最大硬碟儲存媒體靶材廠 (市佔35%)，唯一具硬碟全膜層靶材供應能力。已切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "3nm/5nm前段製程"
+            },
+            {
+              "type": "wikilink",
+              "text": "PVD"
+            },
+            {
+              "type": "text",
+              "text": "靶材 (台灣首家國產化)。另生產"
+            },
+            {
+              "type": "wikilink",
+              "text": "鍵合線"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "探針"
+            },
+            {
+              "type": "text",
+              "text": "材料及"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "特化品。VAS營收：儲存42%、半導體36%、顯示10%。靶材客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Seagate"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Western Digital"
+            },
+            {
+              "type": "text",
+              "text": "。面板含"
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": "。封裝含"
+            },
+            {
+              "type": "wikilink",
+              "text": "日月光投控"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 半導體/電子廢料貴金屬回收; 高純度金屬原料\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "光洋科"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "濺鍍靶材"
+            },
+            {
+              "type": "text",
+              "text": "/貴金屬精煉/"
+            },
+            {
+              "type": "wikilink",
+              "text": "鍵合線"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "探針"
+            },
+            {
+              "type": "text",
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "儲存: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Western Digital"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 硬碟靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "半導體: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PVD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "前段靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "面板: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "封裝: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鍵合線"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "探針"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Western Digital"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 硬碟靶材 (市佔35%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 前段"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PVD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 面板靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鍵合線"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "探針"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "半導體/電子廢料回收; 國際貴金屬"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $91.80 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "39.23",
+                  "33.14",
+                  "1.50",
+                  "3.99",
+                  "17.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "29769.96",
+                  "22629.19",
+                  "25790.59"
+                ],
+                [
+                  "Gross Profit",
+                  "3812.37",
+                  "2723.06",
+                  "3473.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.81",
+                  "12.03",
+                  "13.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "292.10",
+                  "230.05",
+                  "292.64"
+                ],
+                [
+                  "R&D Exp",
+                  "397.18",
+                  "371.39",
+                  "458.30"
+                ],
+                [
+                  "General & Admin Exp",
+                  "920.81",
+                  "745.29",
+                  "1107.69"
+                ],
+                [
+                  "Operating Income",
+                  "2202.28",
+                  "1376.32",
+                  "1614.40"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.40",
+                  "6.08",
+                  "6.26"
+                ],
+                [
+                  "Net Income",
+                  "1903.39",
+                  "1084.94",
+                  "1389.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.39",
+                  "4.79",
+                  "5.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "435.19",
+                  "1080.99",
+                  "1009.83"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1870.92",
+                  "-1045.85",
+                  "-885.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "706.17",
+                  "170.92",
+                  "-1108.17"
+                ],
+                [
+                  "CAPEX",
+                  "-557.00",
+                  "-841.39",
+                  "-1389.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10434.84",
+                  "9524.56",
+                  "8242.84",
+                  "8237.31"
+                ],
+                [
+                  "Gross Profit",
+                  "1404.28",
+                  "1163.46",
+                  "1219.01",
+                  "908.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.46",
+                  "12.22",
+                  "14.79",
+                  "11.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "68.89",
+                  "71.30",
+                  "76.05",
+                  "140.00"
+                ],
+                [
+                  "R&D Exp",
+                  "111.93",
+                  "102.86",
+                  "100.60",
+                  "110.22"
+                ],
+                [
+                  "General & Admin Exp",
+                  "262.94",
+                  "-18.34",
+                  "202.55",
+                  "242.73"
+                ],
+                [
+                  "Operating Income",
+                  "960.51",
+                  "1007.65",
+                  "839.81",
+                  "415.34"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.20",
+                  "10.58",
+                  "10.19",
+                  "5.04"
+                ],
+                [
+                  "Net Income",
+                  "694.31",
+                  "-299.68",
+                  "358.33",
+                  "647.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.65",
+                  "-3.15",
+                  "4.35",
+                  "7.86"
+                ],
+                [
+                  "Op Cash Flow",
+                  "47.76",
+                  "-929.46",
+                  "290.50",
+                  "238.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "442.94",
+                  "97.02",
+                  "555.04",
+                  "-2.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "160.18",
+                  "500.02",
+                  "205.01",
+                  "-363.70"
+                ],
+                [
+                  "CAPEX",
+                  "-91.13",
+                  "-82.10",
+                  "-130.37",
+                  "-127.17"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Meta",
+    "Applied Materials",
+    "濺鍍靶材",
+    "台積電",
+    "PVD",
+    "鍵合線",
+    "探針",
+    "電動車",
+    "Seagate",
+    "Western Digital",
+    "友達",
+    "群創",
+    "日月光投控",
+    "濺鍍靶材",
+    "鍵合線",
+    "探針",
+    "Seagate",
+    "Western Digital",
+    "台積電",
+    "PVD",
+    "友達",
+    "群創",
+    "日月光投控",
+    "鍵合線",
+    "探針",
+    "Seagate",
+    "Western Digital",
+    "台積電",
+    "PVD",
+    "友達",
+    "群創",
+    "日月光投控",
+    "鍵合線",
+    "探針"
+  ]
+}

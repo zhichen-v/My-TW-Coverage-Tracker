@@ -1,0 +1,560 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3259_鑫創.md",
+  "source_path": "Pilot_Reports/Semiconductors/3259_鑫創.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3259_鑫創.json",
+  "ticker": "3259",
+  "company_name": "鑫創",
+  "title": "# 3259 - 鑫創",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "1,244 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,056 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鑫創電子 (3259) 是 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 設計"
+            },
+            {
+              "type": "text",
+              "text": "公司，專注於"
+            },
+            {
+              "type": "wikilink",
+              "text": "快閃記憶體"
+            },
+            {
+              "type": "text",
+              "text": "控制器 IC 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "MEMS 麥克風"
+            },
+            {
+              "type": "text",
+              "text": "。公司為台灣首家推出 CMOS MEMS 麥克風的廠商，並與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Toshiba"
+            },
+            {
+              "type": "text",
+              "text": " (Kioxia) 簽訂交互授權合約。產品涵蓋 USB 3.1 快閃控制器及 eMMC 控制器。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工與 IP)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器 IP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶心科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Andes，AndesCore N9 處理器核心)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "控制器/MEMS:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "鑫創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (快閃記憶體控制器、CMOS MEMS 麥克風)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (儲存與音訊)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲存裝置:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB 隨身碟及儲存裝置品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機/穿戴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " MEMS 麥克風應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB 隨身碟及儲存裝置品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 手機及穿戴裝置 MEMS 麥克風客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toshiba"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Kioxia，快閃技術交互授權)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器 IP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶心科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AndesCore)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群聯"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.05 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "4.41",
+                  "2.94",
+                  "-6.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "281.88",
+                  "239.11",
+                  "275.64"
+                ],
+                [
+                  "Gross Profit",
+                  "35.60",
+                  "13.19",
+                  "15.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.63",
+                  "5.51",
+                  "5.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "50.43",
+                  "49.13",
+                  "57.14"
+                ],
+                [
+                  "R&D Exp",
+                  "124.39",
+                  "107.99",
+                  "123.01"
+                ],
+                [
+                  "General & Admin Exp",
+                  "37.18",
+                  "44.23",
+                  "43.12"
+                ],
+                [
+                  "Operating Income",
+                  "-176.39",
+                  "-188.16",
+                  "-207.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-62.58",
+                  "-78.69",
+                  "-75.44"
+                ],
+                [
+                  "Net Income",
+                  "-172.07",
+                  "-181.15",
+                  "-220.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-61.04",
+                  "-75.76",
+                  "-79.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-78.37",
+                  "-65.45",
+                  "-18.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-286.05",
+                  "-14.95",
+                  "-9.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "18.41",
+                  "369.34",
+                  "105.59"
+                ],
+                [
+                  "CAPEX",
+                  "-86.80",
+                  "-17.79",
+                  "-12.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "107.77",
+                  "69.33",
+                  "52.83",
+                  "51.95"
+                ],
+                [
+                  "Gross Profit",
+                  "16.40",
+                  "7.24",
+                  "3.47",
+                  "8.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.22",
+                  "10.45",
+                  "6.57",
+                  "16.34"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.03",
+                  "11.46",
+                  "12.11",
+                  "11.84"
+                ],
+                [
+                  "R&D Exp",
+                  "41.47",
+                  "29.32",
+                  "28.42",
+                  "25.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "8.45",
+                  "7.86",
+                  "10.24",
+                  "10.63"
+                ],
+                [
+                  "Operating Income",
+                  "-48.55",
+                  "-41.39",
+                  "-47.29",
+                  "-39.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-45.05",
+                  "-59.70",
+                  "-89.52",
+                  "-75.37"
+                ],
+                [
+                  "Net Income",
+                  "-47.11",
+                  "-39.31",
+                  "-48.36",
+                  "-37.28"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-43.71",
+                  "-56.70",
+                  "-91.54",
+                  "-71.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-31.19",
+                  "11.90",
+                  "-17.97",
+                  "-41.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "95.11",
+                  "-51.13",
+                  "-25.41",
+                  "-304.62"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-21.78",
+                  "46.92",
+                  "-10.02",
+                  "3.29"
+                ],
+                [
+                  "CAPEX",
+                  "-4.88",
+                  "-51.96",
+                  "-25.34",
+                  "-4.62"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IC 設計",
+    "快閃記憶體",
+    "CMOS",
+    "MEMS 麥克風",
+    "Toshiba",
+    "晶心科技",
+    "Toshiba",
+    "晶心科技",
+    "群聯"
+  ]
+}

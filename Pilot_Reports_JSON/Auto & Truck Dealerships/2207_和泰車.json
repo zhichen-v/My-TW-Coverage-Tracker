@@ -1,0 +1,852 @@
+{
+  "report_id": "Pilot_Reports/Auto & Truck Dealerships/2207_和泰車.md",
+  "source_path": "Pilot_Reports/Auto & Truck Dealerships/2207_和泰車.md",
+  "json_path": "Pilot_Reports_JSON/Auto & Truck Dealerships/2207_和泰車.json",
+  "ticker": "2207",
+  "company_name": "和泰車",
+  "title": "# 2207 - 和泰車",
+  "sector_folder": "Auto & Truck Dealerships",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto & Truck Dealerships"
+      },
+      {
+        "label": "市值:",
+        "value": "277,994 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "591,958 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "和泰汽車 (2207，Hotai Motor) 為台灣最大汽車經銷商，獨家代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "Toyota Motor Corporation"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Lexus"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "日野汽車"
+            },
+            {
+              "type": "text",
+              "text": " (Hino) 品牌，國內新車市佔率約 40%。在台製造夥伴為"
+            },
+            {
+              "type": "wikilink",
+              "text": "國瑞汽車"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Toyota"
+            },
+            {
+              "type": "text",
+              "text": "/Hino 台灣唯一組裝廠)。集團生態系完整，旗下涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "和潤"
+            },
+            {
+              "type": "text",
+              "text": " (9945，車輛融資)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "和泰產險"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "和運租車"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "和雲行動服務"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "iRent"
+            },
+            {
+              "type": "text",
+              "text": "汽機車共享)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "yoxi"
+            },
+            {
+              "type": "text",
+              "text": "叫車服務及"
+            },
+            {
+              "type": "wikilink",
+              "text": "車美仕"
+            },
+            {
+              "type": "text",
+              "text": " (汽車配件) 等，從新車銷售、保險、融資、租賃到共享移動形成完整汽車生態圈。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "乘用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toyota Motor Corporation"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lexus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 品牌授權與技術"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日野汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Hino) — 大型商用車品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "在台製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國瑞汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toyota"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/Hino 台灣唯一組裝廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌代理)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "和泰汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (品牌總代理、經銷體系管理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (集團生態系)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和潤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (9945) — 車輛融資"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "產物保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和泰產險"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和運租車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業與個人租賃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "共享移動:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和雲行動服務"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "iRent"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 汽機車共享"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "叫車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "yoxi"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 叫車平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "車美仕"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 汽車配件與改裝"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣新車買家 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toyota"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lexus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌市佔約 40%"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業車隊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業長期租賃與車隊管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "租賃用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "和運租車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "iRent"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 共享出行用戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "乘用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toyota Motor Corporation"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lexus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 品牌授權與整車/零件供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日野汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Hino) — 大型商用車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "在台製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國瑞汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 整車組裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "車美仕"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 汽車配件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $499.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.27",
+                  "15.13",
+                  "0.99",
+                  "3.23",
+                  "12.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "256979.51",
+                  "256747.85",
+                  "254758.82"
+                ],
+                [
+                  "Gross Profit",
+                  "38790.26",
+                  "39067.32",
+                  "46027.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.09",
+                  "15.22",
+                  "18.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10749.62",
+                  "11182.45",
+                  "10819.87"
+                ],
+                [
+                  "R&D Exp",
+                  "371.36",
+                  "260.69",
+                  "136.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "13116.99",
+                  "12509.22",
+                  "20365.35"
+                ],
+                [
+                  "Operating Income",
+                  "14552.30",
+                  "15114.96",
+                  "14706.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.66",
+                  "5.89",
+                  "5.77"
+                ],
+                [
+                  "Net Income",
+                  "18900.45",
+                  "20467.03",
+                  "22857.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.35",
+                  "7.97",
+                  "8.97"
+                ],
+                [
+                  "Op Cash Flow",
+                  "49241.94",
+                  "24474.85",
+                  "-19170.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-27905.42",
+                  "-23462.18",
+                  "-24639.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-16342.88",
+                  "-5859.68",
+                  "51672.85"
+                ],
+                [
+                  "CAPEX",
+                  "-25310.73",
+                  "-25972.84",
+                  "-25356.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "63871.18",
+                  "65517.00",
+                  "61230.69",
+                  "66360.64"
+                ],
+                [
+                  "Gross Profit",
+                  "9906.59",
+                  "10492.02",
+                  "9115.19",
+                  "9276.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.51",
+                  "16.01",
+                  "14.89",
+                  "13.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2902.76",
+                  "2515.00",
+                  "2726.85",
+                  "2605.01"
+                ],
+                [
+                  "R&D Exp",
+                  "105.33",
+                  "103.51",
+                  "75.36",
+                  "87.15"
+                ],
+                [
+                  "General & Admin Exp",
+                  "3599.78",
+                  "3389.96",
+                  "3086.27",
+                  "3040.98"
+                ],
+                [
+                  "Operating Income",
+                  "3298.72",
+                  "4483.55",
+                  "3226.72",
+                  "3543.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.16",
+                  "6.84",
+                  "5.27",
+                  "5.34"
+                ],
+                [
+                  "Net Income",
+                  "5053.12",
+                  "5583.02",
+                  "3956.53",
+                  "4307.78"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.91",
+                  "8.52",
+                  "6.46",
+                  "6.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8567.61",
+                  "12784.68",
+                  "10943.12",
+                  "16946.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8104.87",
+                  "-6302.11",
+                  "-6911.84",
+                  "-6586.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "245.63",
+                  "-6624.98",
+                  "-3279.19",
+                  "-6684.33"
+                ],
+                [
+                  "CAPEX",
+                  "-6013.04",
+                  "-5543.24",
+                  "-7455.54",
+                  "-6298.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Toyota Motor Corporation",
+    "Lexus",
+    "日野汽車",
+    "國瑞汽車",
+    "Toyota",
+    "和潤",
+    "和泰產險",
+    "和運租車",
+    "和雲行動服務",
+    "iRent",
+    "yoxi",
+    "車美仕",
+    "Toyota Motor Corporation",
+    "Lexus",
+    "日野汽車",
+    "國瑞汽車",
+    "Toyota",
+    "和潤",
+    "和泰產險",
+    "和運租車",
+    "和雲行動服務",
+    "iRent",
+    "yoxi",
+    "車美仕",
+    "Toyota",
+    "Lexus",
+    "和運租車",
+    "iRent",
+    "Toyota Motor Corporation",
+    "Lexus",
+    "日野汽車",
+    "國瑞汽車",
+    "車美仕"
+  ]
+}

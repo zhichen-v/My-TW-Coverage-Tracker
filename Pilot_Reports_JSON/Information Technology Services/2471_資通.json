@@ -1,0 +1,566 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/2471_資通.md",
+  "source_path": "Pilot_Reports/Information Technology Services/2471_資通.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/2471_資通.json",
+  "ticker": "2471",
+  "company_name": "資通",
+  "title": "# 2471 - 資通",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "2,476 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,545 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "資通電腦股份有限公司 (Ares International Corp.) 成立於 1980 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北"
+            },
+            {
+              "type": "text",
+              "text": "。公司為台灣首家上市軟體公司，專注於金融科技、智慧製造 (MES) 及 ERP 系統整合。資通以自有產品 (如 eAresBank, ciMes) 及代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Oracle"
+            },
+            {
+              "type": "text",
+              "text": "/Swift 產品聞名。近期積極發展資安及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "資通位於軟體服務產業鏈中游開發與整合端。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (平台):"
+            },
+            {
+              "type": "text",
+              "text": " 軟體平台商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Oracle"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Microsoft"
+            },
+            {
+              "type": "text",
+              "text": "), "
+            },
+            {
+              "type": "wikilink",
+              "text": "雲端服務"
+            },
+            {
+              "type": "text",
+              "text": "商.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (開發/整合):"
+            },
+            {
+              "type": "text",
+              "text": " 應用軟體開發、系統導入顧問、維護服務。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (應用):"
+            },
+            {
+              "type": "text",
+              "text": "\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "金融:"
+            },
+            {
+              "type": "text",
+              "text": " 海外分行系統 (eAresBank), 環球銀行金融電信協會 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SWIFT"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "製造:"
+            },
+            {
+              "type": "text",
+              "text": " MES 系統 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "日月光投控"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "政府:"
+            },
+            {
+              "type": "text",
+              "text": " 稅務系統、政府專案。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "金融:"
+                },
+                {
+                  "type": "text",
+                  "text": " 台灣各大銀行海外分行.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "半導體/製造:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台積電"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "日月光投控"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯電"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "欣興"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "政府:"
+                },
+                {
+                  "type": "text",
+                  "text": " 財政部財稅中心."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "原廠:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Oracle"
+                },
+                {
+                  "type": "text",
+                  "text": " (ERP/Database), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Microsoft"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $52.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.44",
+                  "17.41",
+                  "2.48",
+                  "2.62",
+                  "8.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "877.67",
+                  "841.83",
+                  "802.50"
+                ],
+                [
+                  "Gross Profit",
+                  "352.42",
+                  "343.79",
+                  "335.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.15",
+                  "40.84",
+                  "41.87"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "71.66",
+                  "72.08",
+                  "62.76"
+                ],
+                [
+                  "R&D Exp",
+                  "95.94",
+                  "106.42",
+                  "106.01"
+                ],
+                [
+                  "General & Admin Exp",
+                  "69.72",
+                  "67.23",
+                  "62.44"
+                ],
+                [
+                  "Operating Income",
+                  "115.11",
+                  "98.06",
+                  "104.78"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.12",
+                  "11.65",
+                  "13.06"
+                ],
+                [
+                  "Net Income",
+                  "157.38",
+                  "172.97",
+                  "143.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.93",
+                  "20.55",
+                  "17.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "127.32",
+                  "128.80",
+                  "172.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "92.19",
+                  "2.16",
+                  "-28.26"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-172.91",
+                  "-151.21",
+                  "-122.56"
+                ],
+                [
+                  "CAPEX",
+                  "-52.20",
+                  "-2.71",
+                  "-2.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "245.92",
+                  "235.03",
+                  "203.51",
+                  "283.23"
+                ],
+                [
+                  "Gross Profit",
+                  "120.16",
+                  "96.22",
+                  "62.50",
+                  "120.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.86",
+                  "40.94",
+                  "30.71",
+                  "42.59"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.19",
+                  "18.08",
+                  "19.11",
+                  "17.05"
+                ],
+                [
+                  "R&D Exp",
+                  "25.60",
+                  "27.22",
+                  "28.77",
+                  "15.47"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.87",
+                  "11.76",
+                  "13.69",
+                  "16.65"
+                ],
+                [
+                  "Operating Income",
+                  "49.50",
+                  "39.15",
+                  "0.93",
+                  "71.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "20.13",
+                  "16.66",
+                  "0.46",
+                  "25.22"
+                ],
+                [
+                  "Net Income",
+                  "61.94",
+                  "4.76",
+                  "13.90",
+                  "71.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "25.19",
+                  "2.02",
+                  "6.83",
+                  "25.41"
+                ],
+                [
+                  "Op Cash Flow",
+                  "68.43",
+                  "38.50",
+                  "-3.20",
+                  "110.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "17.53",
+                  "8.52",
+                  "-3.28",
+                  "-42.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-149.61",
+                  "-5.16",
+                  "-4.98",
+                  "-4.70"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-6.21",
+                  "-0.89",
+                  "-48.49"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台北",
+    "Oracle",
+    "AI",
+    "Oracle",
+    "Microsoft",
+    "雲端服務",
+    "SWIFT",
+    "台積電",
+    "日月光投控",
+    "聯電",
+    "台積電",
+    "日月光投控",
+    "聯電",
+    "欣興",
+    "Oracle",
+    "Microsoft"
+  ]
+}

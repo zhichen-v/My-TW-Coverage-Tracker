@@ -1,0 +1,496 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6199_天品.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6199_天品.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6199_天品.json",
+  "ticker": "6199",
+  "company_name": "天品",
+  "title": "# 6199_天品",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "6,701 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,981 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "天品聯合企業股份有限公司 (6199) 是一家業務雙軌並進的企業。天品前身為精威科技(製造讀卡機)，後轉型投入生命服務產業，以「天品山莊」等據點提供專業的殯葬服務(特別針對基督徒客群)。近年來，為尋求高成長動能，天品與欣偉科技合資成立「奈科潔淨科技」，強勢跨足「"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]潔淨科技」領域。憑藉深厚的"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "清洗經驗與高階無塵室設備，天品成功打入國際知名"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "晶片(如Rubin)"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "系統("
+            },
+            {
+              "type": "wikilink",
+              "text": "水冷"
+            },
+            {
+              "type": "text",
+              "text": "/液冷)的清洗服務供應鏈，打造出第二成長曲線。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 墓園土地/塔位硬體建置商、法事服務人員；以及無塵室設備商、化學清洗藥劑原廠。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "天品"
+            },
+            {
+              "type": "text",
+              "text": " (基督徒生命禮儀服務/塔位銷售，以及高階"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]"
+            },
+            {
+              "type": "wikilink",
+              "text": "水冷"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "系統之專業清洗服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 有殯葬/塔位需求之家族與個人；以及全球大型雲端"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": ")與"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]代工廠("
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ")。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   高資產家族/企業主(生命服務)；多家主流液冷"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "散熱"
+                },
+                {
+                  "type": "text",
+                  "text": "製造商及國際高效能運算(HPC)大廠(潔淨科技)。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   關聯企業欣偉科技(提供深厚"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "清洗技術與經驗)、特種化學藥劑供應商及殯葬用品批發商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $108.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "350.00",
+                  "N/A",
+                  "25.39",
+                  "7.11",
+                  "98.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "263.88",
+                  "94.77",
+                  "100.68"
+                ],
+                [
+                  "Gross Profit",
+                  "120.43",
+                  "74.40",
+                  "81.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.64",
+                  "78.51",
+                  "80.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.07",
+                  "15.39",
+                  "18.05"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "53.79",
+                  "53.39",
+                  "47.17"
+                ],
+                [
+                  "Operating Income",
+                  "48.57",
+                  "5.62",
+                  "16.14"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.41",
+                  "5.93",
+                  "16.03"
+                ],
+                [
+                  "Net Income",
+                  "18.87",
+                  "37.18",
+                  "28.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.15",
+                  "39.23",
+                  "28.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "18.85",
+                  "34.97",
+                  "65.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "64.18",
+                  "-3.29",
+                  "8.17"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "12.96",
+                  "-4.81",
+                  "-34.00"
+                ],
+                [
+                  "CAPEX",
+                  "-3.67",
+                  "-2.08",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "126.73",
+                  "83.95",
+                  "31.46",
+                  "21.74"
+                ],
+                [
+                  "Gross Profit",
+                  "44.74",
+                  "33.17",
+                  "24.73",
+                  "17.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.30",
+                  "39.51",
+                  "78.61",
+                  "81.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.81",
+                  "3.26",
+                  "4.19",
+                  "3.82"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.57",
+                  "12.18",
+                  "13.31",
+                  "13.73"
+                ],
+                [
+                  "Operating Income",
+                  "23.36",
+                  "17.73",
+                  "7.24",
+                  "0.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.44",
+                  "21.13",
+                  "23.00",
+                  "1.09"
+                ],
+                [
+                  "Net Income",
+                  "-9.09",
+                  "49.27",
+                  "-10.05",
+                  "-11.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-7.17",
+                  "58.69",
+                  "-31.95",
+                  "-51.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-7.75",
+                  "-24.08",
+                  "7.43",
+                  "43.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "3.77",
+                  "-7.25",
+                  "6.42",
+                  "61.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1.87",
+                  "9.33",
+                  "2.36",
+                  "-0.61"
+                ],
+                [
+                  "CAPEX",
+                  "-1.81",
+                  "-1.31",
+                  "15.70",
+                  "-16.25"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AI[[伺服器",
+    "半導體",
+    "AI",
+    "散熱",
+    "水冷",
+    "AI[[伺服器",
+    "水冷",
+    "散熱",
+    "資料中心",
+    "CSP",
+    "AI[[伺服器",
+    "ODM",
+    "散熱",
+    "半導體"
+  ]
+}

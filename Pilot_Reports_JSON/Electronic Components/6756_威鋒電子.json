@@ -1,0 +1,758 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6756_威鋒電子.md",
+  "source_path": "Pilot_Reports/Electronic Components/6756_威鋒電子.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6756_威鋒電子.json",
+  "ticker": "6756",
+  "company_name": "威鋒電子",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,323 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,576 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "威鋒電子 (6756，"
+            },
+            {
+              "type": "wikilink",
+              "text": "VIA Labs"
+            },
+            {
+              "type": "text",
+              "text": ") 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "威盛電子"
+            },
+            {
+              "type": "text",
+              "text": "集團，為全球領先的 USB 控制晶片 Fabless IC 設計公司。公司深度參與 USB-IF 協會標準制定，專注於高速傳輸介面與 USB Type-C 相關技術。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務結構與動能：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "USB4"
+            },
+            {
+              "type": "text",
+              "text": " 控制晶片 — 主機端 (Host) 與裝置端 (Device) USB4 控制器，支援 40Gbps 高速傳輸，受惠於歐盟 Type-C 統一規格法案與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI PC"
+            },
+            {
+              "type": "text",
+              "text": " 對高速傳輸的需求；(2) USB PD 控制器 — USB Power Delivery 電力傳輸控制晶片，支援最高 240W EPR 快充；(3) USB Hub 控制器 — USB 3.2 集線器晶片。產品廣泛應用於筆電、擴充基座 (Docking)、顯示器及車用電子。主要客戶包含 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lenovo"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": " 等筆電品牌及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Plugable"
+            },
+            {
+              "type": "text",
+              "text": " 等周邊配件廠。晶圓製造主要委託 "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (IP 與晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — USB 控制晶片晶圓製造"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型半導體封測廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EDA:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子設計自動化軟體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體矽智財授權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[USB4]] 控制器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威鋒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB4 Host/Device 控制晶片)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB PD:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威鋒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB Power Delivery 電力傳輸控制器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB Hub:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "威鋒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB 3.2 集線器控制晶片)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (品牌與周邊廠商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — USB4/Type-C 控制晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "擴充基座:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Plugable"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — USB4 Docking Station 方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 主機板廠 — USB 控制晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車聯網設備 — USB 介面控制"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — USB4/Type-C 控制晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "擴充基座:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Plugable"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — USB4 Docking Station 整合方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板/周邊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球主機板廠與電腦周邊製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車聯網與車載設備廠 — USB 介面方案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 晶圓製造"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型半導體封測廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "威盛電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 技術與 IP 支援"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $76.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "69.18",
+                  "N/A",
+                  "3.43",
+                  "1.86",
+                  "77.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1550.11",
+                  "1700.31",
+                  "2035.10"
+                ],
+                [
+                  "Gross Profit",
+                  "751.78",
+                  "850.96",
+                  "931.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.50",
+                  "50.05",
+                  "45.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "48.54",
+                  "66.93",
+                  "53.34"
+                ],
+                [
+                  "R&D Exp",
+                  "694.48",
+                  "678.38",
+                  "645.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "118.35",
+                  "91.01",
+                  "76.25"
+                ],
+                [
+                  "Operating Income",
+                  "-109.60",
+                  "14.63",
+                  "156.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.07",
+                  "0.86",
+                  "7.67"
+                ],
+                [
+                  "Net Income",
+                  "77.64",
+                  "157.25",
+                  "180.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.01",
+                  "9.25",
+                  "8.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "75.34",
+                  "434.22",
+                  "992.17"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-251.21",
+                  "-750.10",
+                  "-596.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-36.64",
+                  "135.91",
+                  "-519.59"
+                ],
+                [
+                  "CAPEX",
+                  "-252.85",
+                  "-150.17",
+                  "-165.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "408.38",
+                  "326.93",
+                  "424.73",
+                  "390.08"
+                ],
+                [
+                  "Gross Profit",
+                  "192.56",
+                  "160.57",
+                  "188.15",
+                  "210.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "47.15",
+                  "49.11",
+                  "44.30",
+                  "53.96"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10.34",
+                  "12.62",
+                  "10.99",
+                  "14.59"
+                ],
+                [
+                  "R&D Exp",
+                  "190.65",
+                  "162.91",
+                  "163.93",
+                  "176.99"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.08",
+                  "31.00",
+                  "29.14",
+                  "27.14"
+                ],
+                [
+                  "Operating Income",
+                  "-39.50",
+                  "-45.97",
+                  "-15.91",
+                  "-8.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-9.67",
+                  "-14.06",
+                  "-3.75",
+                  "-2.11"
+                ],
+                [
+                  "Net Income",
+                  "27.82",
+                  "9.98",
+                  "23.81",
+                  "16.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.81",
+                  "3.05",
+                  "5.61",
+                  "4.11"
+                ],
+                [
+                  "Op Cash Flow",
+                  "71.77",
+                  "-104.23",
+                  "112.41",
+                  "-4.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "201.01",
+                  "-382.88",
+                  "122.98",
+                  "-192.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "26.12",
+                  "70.64",
+                  "-132.31",
+                  "-1.10"
+                ],
+                [
+                  "CAPEX",
+                  "-22.65",
+                  "-117.70",
+                  "-69.61",
+                  "-42.89"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "VIA Labs",
+    "威盛電子",
+    "USB4",
+    "AI PC",
+    "Lenovo",
+    "Dell",
+    "Plugable",
+    "台積電",
+    "台積電",
+    "USB4",
+    "Lenovo",
+    "Dell",
+    "Plugable",
+    "Lenovo",
+    "Dell",
+    "Plugable",
+    "台積電",
+    "威盛電子"
+  ]
+}

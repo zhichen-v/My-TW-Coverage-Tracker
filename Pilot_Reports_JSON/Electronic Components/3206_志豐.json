@@ -1,0 +1,705 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3206_志豐.md",
+  "source_path": "Pilot_Reports/Electronic Components/3206_志豐.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3206_志豐.json",
+  "ticker": "3206",
+  "company_name": "志豐",
+  "title": "# 3206 - 志豐",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "2,327 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,273 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "志豐電子 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Kingstate Electronics"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣老牌電聲元件製造商，成立於 1977 年。核心產品包括蜂鳴器 (Buzzer)、微型麥克風 (Mic)、揚聲器 (Speaker) 與輔聽器/助聽器。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "產品廣泛應用於汽車電子 (倒車雷達、警示音)、醫療器材 (助聽器)、智慧家庭與消費性電子。近期積極切入 TWS 耳機與會議系統代工，並發展 MEMS 麥克風封裝測試業務。車用電聲元件為重要成長動能，公司為亞洲領先電聲元件製造商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電聲元件材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磁鐵:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 永久磁鐵供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "振膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 揚聲器振膜材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線圈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 音圈與線圈材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 助聽器 DSP 晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (電聲元件設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "蜂鳴器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "志豐"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (壓電式/磁性蜂鳴器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "麥克風:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "志豐"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (駐極體/MEMS 麥克風)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "揚聲器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "志豐"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (微型揚聲器/TWS 耳機代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "助聽器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "志豐"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (PSAP 輔聽器產品)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用/消費/醫療)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 倒車雷達警示音"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電聲元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 助聽器品牌 — PSAP 輔聽器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧家庭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧音箱與家電品牌 — 蜂鳴器/麥克風"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車用警示音蜂鳴器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電聲元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際助聽器品牌 — PSAP 輔聽器產品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧家庭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧音箱與家電品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "磁鐵:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 永久磁鐵供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "振膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 揚聲器振膜材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 助聽器 DSP 晶片供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $39.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.12",
+                  "N/A",
+                  "0.73",
+                  "1.50",
+                  "6.70"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3190.46",
+                  "3675.97",
+                  "3552.98"
+                ],
+                [
+                  "Gross Profit",
+                  "662.53",
+                  "792.13",
+                  "777.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.77",
+                  "21.55",
+                  "21.87"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "139.97",
+                  "158.63",
+                  "141.57"
+                ],
+                [
+                  "R&D Exp",
+                  "121.11",
+                  "129.96",
+                  "93.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "257.75",
+                  "274.42",
+                  "226.58"
+                ],
+                [
+                  "Operating Income",
+                  "143.71",
+                  "229.12",
+                  "315.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.50",
+                  "6.23",
+                  "8.89"
+                ],
+                [
+                  "Net Income",
+                  "119.14",
+                  "241.74",
+                  "284.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.73",
+                  "6.58",
+                  "8.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "272.71",
+                  "301.73",
+                  "539.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-421.67",
+                  "-108.37",
+                  "22.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-254.97",
+                  "-236.06",
+                  "-143.78"
+                ],
+                [
+                  "CAPEX",
+                  "-39.55",
+                  "-33.35",
+                  "-34.42"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "688.00",
+                  "908.54",
+                  "830.31",
+                  "815.40"
+                ],
+                [
+                  "Gross Profit",
+                  "147.39",
+                  "191.73",
+                  "175.78",
+                  "164.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.42",
+                  "21.10",
+                  "21.17",
+                  "20.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "32.23",
+                  "39.88",
+                  "35.54",
+                  "49.52"
+                ],
+                [
+                  "R&D Exp",
+                  "28.54",
+                  "30.09",
+                  "33.10",
+                  "37.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "58.74",
+                  "65.93",
+                  "67.67",
+                  "76.92"
+                ],
+                [
+                  "Operating Income",
+                  "27.88",
+                  "55.84",
+                  "39.46",
+                  "0.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.05",
+                  "6.15",
+                  "4.75",
+                  "0.08"
+                ],
+                [
+                  "Net Income",
+                  "31.34",
+                  "28.99",
+                  "36.62",
+                  "33.82"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.55",
+                  "3.19",
+                  "4.41",
+                  "4.15"
+                ],
+                [
+                  "Op Cash Flow",
+                  "49.34",
+                  "147.06",
+                  "92.30",
+                  "98.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-233.56",
+                  "-7.96",
+                  "-1.83",
+                  "-96.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-33.45",
+                  "-3.42",
+                  "-97.83",
+                  "-1.33"
+                ],
+                [
+                  "CAPEX",
+                  "-7.39",
+                  "-9.34",
+                  "-3.86",
+                  "-4.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Kingstate Electronics",
+    "Bosch",
+    "Continental",
+    "Samsung",
+    "Sony",
+    "Bosch",
+    "Continental",
+    "Samsung",
+    "Sony"
+  ]
+}

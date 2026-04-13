@@ -1,0 +1,621 @@
+{
+  "report_id": "Pilot_Reports/Steel/5009_榮剛.md",
+  "source_path": "Pilot_Reports/Steel/5009_榮剛.md",
+  "json_path": "Pilot_Reports_JSON/Steel/5009_榮剛.json",
+  "ticker": "5009",
+  "company_name": "榮剛",
+  "title": "# 5009 - 榮剛",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "17,840 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "30,432 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "榮剛材料 (Gloria Material) 隸屬於 "
+            },
+            {
+              "type": "strong",
+              "text": "台灣鋼鐵集團 (TSG)"
+            },
+            {
+              "type": "text",
+              "text": "，為台灣唯一具備全製程之 "
+            },
+            {
+              "type": "strong",
+              "text": "特殊合金鋼 (Specialty Steel)"
+            },
+            {
+              "type": "text",
+              "text": " 廠。\n專注於高階應用材料，擁有 "
+            },
+            {
+              "type": "strong",
+              "text": "VAR (真空電弧重熔)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "ESR (電渣重熔)"
+            },
+            {
+              "type": "text",
+              "text": " 等高階煉鋼設備。\n三大高毛利產品線：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "航太 (Aerospace)"
+            },
+            {
+              "type": "text",
+              "text": ": 起落架、發動機材料，獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Boeing"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Safran"
+            },
+            {
+              "type": "text",
+              "text": " 認證。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "能源 (Energy)"
+            },
+            {
+              "type": "text",
+              "text": ": 發電機葉片、油氣鑽探材料。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "軍工 (Defense)"
+            },
+            {
+              "type": "text",
+              "text": ": 飛彈彈體、槍砲管材料。\n亦切入 "
+            },
+            {
+              "type": "strong",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " 液冷模組 (CDU/CDM) 之關鍵不鏽鋼材與工具鋼市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "榮剛 (5009)"
+            },
+            {
+              "type": "text",
+              "text": " - 特殊鋼冶煉與加工 (棒材/板材/鍛件).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 廢鋼, 鐵合金 (鎳/鉻/鉬).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "航太"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "漢翔"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Boeing"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Safran"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "能源"
+            },
+            {
+              "type": "text",
+              "text": ": 奇異 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "GE"
+            },
+            {
+              "type": "text",
+              "text": "), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Siemens"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "機械/模具"
+            },
+            {
+              "type": "text",
+              "text": ": 工具機廠, 模具廠."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "航太"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Boeing"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Airbus"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Safran"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "GE Aviation"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "國內"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "漢翔"
+                },
+                {
+                  "type": "text",
+                  "text": " (軍工/航太合作)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "原料"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際合金原料貿易商, 台鋼集團內部廢鋼整合 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台鋼環保"
+                },
+                {
+                  "type": "text",
+                  "text": ")."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.95 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.66",
+                  "13.12",
+                  "1.54",
+                  "1.02",
+                  "20.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11560.47",
+                  "12864.44",
+                  "13525.25"
+                ],
+                [
+                  "Gross Profit",
+                  "2515.70",
+                  "3370.43",
+                  "3644.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.76",
+                  "26.20",
+                  "26.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "990.91",
+                  "774.21",
+                  "709.76"
+                ],
+                [
+                  "R&D Exp",
+                  "48.72",
+                  "70.56",
+                  "26.30"
+                ],
+                [
+                  "General & Admin Exp",
+                  "515.92",
+                  "566.74",
+                  "529.44"
+                ],
+                [
+                  "Operating Income",
+                  "960.14",
+                  "1958.92",
+                  "2379.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.31",
+                  "15.23",
+                  "17.59"
+                ],
+                [
+                  "Net Income",
+                  "1296.18",
+                  "2592.39",
+                  "2339.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.21",
+                  "20.15",
+                  "17.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1025.29",
+                  "876.13",
+                  "2018.82"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2829.43",
+                  "-656.72",
+                  "-661.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2819.60",
+                  "-274.14",
+                  "2658.71"
+                ],
+                [
+                  "CAPEX",
+                  "-2643.96",
+                  "-2348.50",
+                  "-1403.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2806.32",
+                  "2658.49",
+                  "3059.46",
+                  "3036.19"
+                ],
+                [
+                  "Gross Profit",
+                  "650.77",
+                  "507.38",
+                  "627.06",
+                  "730.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.19",
+                  "19.09",
+                  "20.50",
+                  "24.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "299.61",
+                  "304.80",
+                  "200.91",
+                  "185.59"
+                ],
+                [
+                  "R&D Exp",
+                  "11.23",
+                  "8.95",
+                  "11.74",
+                  "16.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "127.67",
+                  "123.88",
+                  "123.30",
+                  "141.08"
+                ],
+                [
+                  "Operating Income",
+                  "212.26",
+                  "69.75",
+                  "291.12",
+                  "387.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.56",
+                  "2.62",
+                  "9.52",
+                  "12.75"
+                ],
+                [
+                  "Net Income",
+                  "526.56",
+                  "177.63",
+                  "219.47",
+                  "372.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.76",
+                  "6.68",
+                  "7.17",
+                  "12.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "405.68",
+                  "-26.40",
+                  "746.16",
+                  "-100.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-715.99",
+                  "-587.18",
+                  "-923.42",
+                  "-602.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-628.58",
+                  "-2078.69",
+                  "16.12",
+                  "-128.44"
+                ],
+                [
+                  "CAPEX",
+                  "-787.57",
+                  "-654.24",
+                  "-601.08",
+                  "-601.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Boeing",
+    "Airbus",
+    "Safran",
+    "漢翔",
+    "Boeing",
+    "Airbus",
+    "Safran",
+    "GE",
+    "Siemens",
+    "Boeing",
+    "Airbus",
+    "Safran",
+    "GE Aviation",
+    "漢翔",
+    "台鋼環保"
+  ]
+}

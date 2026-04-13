@@ -1,0 +1,609 @@
+{
+  "report_id": "Pilot_Reports/Consumer Electronics/3040_遠見.md",
+  "source_path": "Pilot_Reports/Consumer Electronics/3040_遠見.md",
+  "json_path": "Pilot_Reports_JSON/Consumer Electronics/3040_遠見.json",
+  "ticker": "3040",
+  "company_name": "遠見",
+  "title": "# 3040 - 遠見",
+  "sector_folder": "Consumer Electronics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Consumer Electronics"
+      },
+      {
+        "label": "市值:",
+        "value": "3,040 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,598 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "遠見科技股份有限公司 (3040) 成立於 1986 年，早期以電子字典品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "哈電族"
+            },
+            {
+              "type": "text",
+              "text": "」與「"
+            },
+            {
+              "type": "wikilink",
+              "text": "文曲星"
+            },
+            {
+              "type": "text",
+              "text": "」聞名兩岸，曾與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "無敵"
+            },
+            {
+              "type": "text",
+              "text": " (8201)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "快譯通"
+            },
+            {
+              "type": "text",
+              "text": " 並列台灣三大電子辭典品牌。隨著"
+            },
+            {
+              "type": "wikilink",
+              "text": "智慧型手機"
+            },
+            {
+              "type": "text",
+              "text": "普及，電子字典業務萎縮，目前轉型為中國商辦租賃與育成中心營運。主要資產位於北京，透過子公司「"
+            },
+            {
+              "type": "wikilink",
+              "text": "北京金遠見"
+            },
+            {
+              "type": "text",
+              "text": "電腦技術」提供新創孵化服務與租賃業務。本業轉為資產管理與品牌 IP 授權（"
+            },
+            {
+              "type": "wikilink",
+              "text": "文曲星"
+            },
+            {
+              "type": "text",
+              "text": "品牌）。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "無特定原料採購（主要為自有資產營運）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (資產管理與品牌授權)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "遠見"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (北京商辦物業管理與租賃)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "育成服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "遠見"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (新創公司孵化與加值服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "遠見"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "文曲星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌 IP 授權)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北京中小企業與新創公司 — 商辦空間"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "授權對象:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 教育電子產品製造商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "文曲星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌授權"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 教育學習產品終端使用者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北京商辦物業承租企業 — 辦公空間租賃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "授權客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 教育電子產品製造商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "文曲星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌授權"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "育成客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北京新創公司 — 育成加值服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物業管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 物業維護與管理服務供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築維護:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商辦設施維修與保養廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $50.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "153.94",
+                  "N/A",
+                  "23.04",
+                  "2.17",
+                  "118.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "131.95",
+                  "138.22",
+                  "158.65"
+                ],
+                [
+                  "Gross Profit",
+                  "76.46",
+                  "83.75",
+                  "112.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "57.95",
+                  "60.60",
+                  "70.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.66",
+                  "8.40",
+                  "10.79"
+                ],
+                [
+                  "R&D Exp",
+                  "4.76",
+                  "2.71",
+                  "2.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "54.49",
+                  "31.45",
+                  "24.54"
+                ],
+                [
+                  "Operating Income",
+                  "4.54",
+                  "41.20",
+                  "73.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.44",
+                  "29.81",
+                  "46.47"
+                ],
+                [
+                  "Net Income",
+                  "20.43",
+                  "46.13",
+                  "64.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.48",
+                  "33.37",
+                  "40.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19.18",
+                  "26.83",
+                  "107.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "449.81",
+                  "60.37",
+                  "-211.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "430.55",
+                  "-62.90",
+                  "-132.15"
+                ],
+                [
+                  "CAPEX",
+                  "-119.22",
+                  "-1.96",
+                  "-0.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "36.83",
+                  "31.21",
+                  "31.68",
+                  "32.22"
+                ],
+                [
+                  "Gross Profit",
+                  "21.39",
+                  "17.46",
+                  "20.57",
+                  "17.04"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "58.07",
+                  "55.93",
+                  "64.94",
+                  "52.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4.35",
+                  "2.81",
+                  "2.77",
+                  "2.73"
+                ],
+                [
+                  "R&D Exp",
+                  "1.77",
+                  "1.22",
+                  "1.13",
+                  "0.65"
+                ],
+                [
+                  "General & Admin Exp",
+                  "16.46",
+                  "12.45",
+                  "13.43",
+                  "12.15"
+                ],
+                [
+                  "Operating Income",
+                  "-1.20",
+                  "0.98",
+                  "3.25",
+                  "1.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.25",
+                  "3.14",
+                  "10.24",
+                  "4.70"
+                ],
+                [
+                  "Net Income",
+                  "1.03",
+                  "-5.14",
+                  "-6.16",
+                  "30.69"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.79",
+                  "-16.45",
+                  "-19.43",
+                  "95.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-4.89",
+                  "-6.69",
+                  "15.93",
+                  "14.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-84.36",
+                  "487.59",
+                  "-198.99",
+                  "245.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1.74",
+                  "-62.20",
+                  "490.70",
+                  "0.31"
+                ],
+                [
+                  "CAPEX",
+                  "-0.23",
+                  "-100.84",
+                  "-17.41",
+                  "-0.72"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "哈電族",
+    "文曲星",
+    "無敵",
+    "快譯通",
+    "智慧型手機",
+    "北京金遠見",
+    "文曲星",
+    "文曲星",
+    "文曲星",
+    "文曲星"
+  ]
+}

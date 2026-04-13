@@ -1,0 +1,708 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/1580_新麥.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/1580_新麥.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/1580_新麥.json",
+  "ticker": "1580",
+  "company_name": "新麥",
+  "title": "# 1580 - 新麥",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "6,389 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,512 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "新麥企業 (1580，Sinmag) 為亞洲最大"
+            },
+            {
+              "type": "wikilink",
+              "text": "烘焙設備"
+            },
+            {
+              "type": "text",
+              "text": "製造商，品牌「SINMAG」客戶逾 3,000 家。連鎖客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "85度C"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Paris Baguette"
+            },
+            {
+              "type": "text",
+              "text": "。超市含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Walmart"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Publix"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Carrefour"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "全聯"
+            },
+            {
+              "type": "text",
+              "text": "。餐飲含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Pizza Hut"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Domino's"
+            },
+            {
+              "type": "text",
+              "text": "。茶飲含"
+            },
+            {
+              "type": "wikilink",
+              "text": "奈雪的茶"
+            },
+            {
+              "type": "text",
+              "text": "。中國佔營收 56%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材/壓縮機/馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 關鍵零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新麥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SINMAG "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "烘焙設備"
+                    },
+                    {
+                      "type": "text",
+                      "text": "，全球 5 座工廠)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "烘焙:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "85度C"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Paris Baguette"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Publix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Carrefour"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Pizza Hut"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Domino's"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "茶飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奈雪的茶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "烘焙:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "85度C"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Paris Baguette"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Publix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Carrefour"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Pizza Hut"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Domino's"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奈雪的茶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼/壓縮機/馬達"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $129.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.06",
+                  "N/A",
+                  "1.27",
+                  "2.18",
+                  "4.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4792.06",
+                  "4498.69",
+                  "3936.52"
+                ],
+                [
+                  "Gross Profit",
+                  "2082.01",
+                  "1905.45",
+                  "1467.11"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.45",
+                  "42.36",
+                  "37.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "605.47",
+                  "540.54",
+                  "485.30"
+                ],
+                [
+                  "R&D Exp",
+                  "166.09",
+                  "156.04",
+                  "143.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "334.84",
+                  "332.84",
+                  "289.92"
+                ],
+                [
+                  "Operating Income",
+                  "975.61",
+                  "876.04",
+                  "548.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "20.36",
+                  "19.47",
+                  "13.92"
+                ],
+                [
+                  "Net Income",
+                  "682.66",
+                  "603.04",
+                  "336.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.25",
+                  "13.40",
+                  "8.55"
+                ],
+                [
+                  "Op Cash Flow",
+                  "712.51",
+                  "817.59",
+                  "595.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.19",
+                  "-152.80",
+                  "-44.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-498.18",
+                  "-416.73",
+                  "-458.34"
+                ],
+                [
+                  "CAPEX",
+                  "-183.03",
+                  "-147.84",
+                  "-88.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1309.92",
+                  "1249.64",
+                  "1089.04",
+                  "1378.05"
+                ],
+                [
+                  "Gross Profit",
+                  "535.74",
+                  "516.71",
+                  "484.98",
+                  "591.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.90",
+                  "41.35",
+                  "44.53",
+                  "42.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "161.49",
+                  "161.39",
+                  "147.06",
+                  "163.67"
+                ],
+                [
+                  "R&D Exp",
+                  "43.59",
+                  "32.20",
+                  "32.35",
+                  "37.90"
+                ],
+                [
+                  "General & Admin Exp",
+                  "85.80",
+                  "78.62",
+                  "83.98",
+                  "90.95"
+                ],
+                [
+                  "Operating Income",
+                  "244.87",
+                  "244.50",
+                  "221.59",
+                  "299.33"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.69",
+                  "19.57",
+                  "20.35",
+                  "21.72"
+                ],
+                [
+                  "Net Income",
+                  "181.69",
+                  "148.68",
+                  "135.83",
+                  "177.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.87",
+                  "11.90",
+                  "12.47",
+                  "12.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "98.11",
+                  "234.82",
+                  "97.74",
+                  "318.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-30.65",
+                  "-29.41",
+                  "-62.76",
+                  "-46.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-490.94",
+                  "-89.30",
+                  "-5.74",
+                  "-3.49"
+                ],
+                [
+                  "CAPEX",
+                  "-33.00",
+                  "-38.64",
+                  "-65.63",
+                  "-81.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "烘焙設備",
+    "85度C",
+    "Paris Baguette",
+    "Walmart",
+    "Publix",
+    "Carrefour",
+    "全聯",
+    "Pizza Hut",
+    "Domino's",
+    "奈雪的茶",
+    "烘焙設備",
+    "85度C",
+    "Paris Baguette",
+    "Walmart",
+    "Publix",
+    "Carrefour",
+    "全聯",
+    "Pizza Hut",
+    "Domino's",
+    "奈雪的茶",
+    "85度C",
+    "Paris Baguette",
+    "Walmart",
+    "Publix",
+    "Carrefour",
+    "全聯",
+    "Pizza Hut",
+    "Domino's",
+    "奈雪的茶"
+  ]
+}

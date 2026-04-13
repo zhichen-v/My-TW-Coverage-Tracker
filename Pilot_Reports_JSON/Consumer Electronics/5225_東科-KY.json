@@ -1,0 +1,579 @@
+{
+  "report_id": "Pilot_Reports/Consumer Electronics/5225_東科-KY.md",
+  "source_path": "Pilot_Reports/Consumer Electronics/5225_東科-KY.md",
+  "json_path": "Pilot_Reports_JSON/Consumer Electronics/5225_東科-KY.json",
+  "ticker": "5225",
+  "company_name": "東科-KY",
+  "title": "# 5225 - 東科-KY",
+  "sector_folder": "Consumer Electronics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Consumer Electronics"
+      },
+      {
+        "label": "市值:",
+        "value": "7,143 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,637 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東科-KY (Eastech) 為全球最大 "
+            },
+            {
+              "type": "strong",
+              "text": "影音揚聲器 (Audio/Speaker)"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 代工廠。\n專注於聲學產品之設計與製造，生產基地主要位於越南 (海防) 與中國 (惠州)。\n主要產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "Sound Bar (聲霸)"
+            },
+            {
+              "type": "text",
+              "text": ": 全球市佔率極高，為主要營收成長動能。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "家用音響"
+            },
+            {
+              "type": "text",
+              "text": ": 家庭劇院系統、藍牙喇叭。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "耳機"
+            },
+            {
+              "type": "text",
+              "text": ": 積極拓展輔聽器及高階耳機代工。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "會議系統"
+            },
+            {
+              "type": "text",
+              "text": ": 視訊會議音訊設備。\n客戶涵蓋韓系、日系與歐美一線家電與音響品牌。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "東科 (5225)"
+            },
+            {
+              "type": "text",
+              "text": " - 音響系統組裝代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "零件"
+            },
+            {
+              "type": "text",
+              "text": ": 喇叭單體 (自製/外購), 塑膠機殼, 木箱, 電子零組件 (IC, "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "品牌"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "LG"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Sony"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "韓系"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Samsung"
+                },
+                {
+                  "type": "text",
+                  "text": " (最大客戶), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "LG"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "日系"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Sony"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Panasonic"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "歐美"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Philips"
+                },
+                {
+                  "type": "text",
+                  "text": ", 以及各類新創音響品牌."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "零件"
+                },
+                {
+                  "type": "text",
+                  "text": ": 被動元件, 機構件供應商. (關鍵喇叭單體具備自製能力)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $90.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "8.90",
+                  "12.40",
+                  "0.65",
+                  "2.03",
+                  "6.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11039.42",
+                  "12405.47",
+                  "10640.52"
+                ],
+                [
+                  "Gross Profit",
+                  "1813.97",
+                  "2136.04",
+                  "1653.25"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.43",
+                  "17.22",
+                  "15.54"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "190.99",
+                  "227.39",
+                  "191.12"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "878.89",
+                  "1028.84",
+                  "890.56"
+                ],
+                [
+                  "Operating Income",
+                  "744.09",
+                  "879.81",
+                  "571.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.74",
+                  "7.09",
+                  "5.37"
+                ],
+                [
+                  "Net Income",
+                  "799.81",
+                  "952.62",
+                  "533.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.24",
+                  "7.68",
+                  "5.01"
+                ],
+                [
+                  "Op Cash Flow",
+                  "382.24",
+                  "974.88",
+                  "1174.67"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-252.16",
+                  "-171.48",
+                  "-38.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-829.12",
+                  "-533.85",
+                  "-169.16"
+                ],
+                [
+                  "CAPEX",
+                  "-273.44",
+                  "-188.92",
+                  "-66.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2185.73",
+                  "2544.72",
+                  "2691.78",
+                  "2767.18"
+                ],
+                [
+                  "Gross Profit",
+                  "270.34",
+                  "454.50",
+                  "405.99",
+                  "391.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.37",
+                  "17.86",
+                  "15.08",
+                  "14.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "65.53",
+                  "14.95",
+                  "44.93",
+                  "64.95"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "201.71",
+                  "204.04",
+                  "191.04",
+                  "232.48"
+                ],
+                [
+                  "Operating Income",
+                  "3.10",
+                  "235.51",
+                  "170.02",
+                  "93.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.14",
+                  "9.25",
+                  "6.32",
+                  "3.38"
+                ],
+                [
+                  "Net Income",
+                  "47.88",
+                  "235.59",
+                  "193.25",
+                  "160.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.19",
+                  "9.26",
+                  "7.18",
+                  "5.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-180.22",
+                  "237.77",
+                  "183.83",
+                  "170.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-79.64",
+                  "-46.44",
+                  "-74.95",
+                  "-24.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "13.93",
+                  "-825.21",
+                  "1.24",
+                  "-14.58"
+                ],
+                [
+                  "CAPEX",
+                  "-93.98",
+                  "-50.16",
+                  "-76.90",
+                  "-37.35"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OEM",
+    "ODM",
+    "OEM",
+    "ODM",
+    "PCB",
+    "Samsung",
+    "LG",
+    "Sony",
+    "Samsung",
+    "LG",
+    "Sony",
+    "Panasonic",
+    "Philips"
+  ]
+}

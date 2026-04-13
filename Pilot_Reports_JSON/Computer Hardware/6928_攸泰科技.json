@@ -1,0 +1,733 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6928_攸泰科技.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6928_攸泰科技.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6928_攸泰科技.json",
+  "ticker": "6928",
+  "company_name": "攸泰科技",
+  "title": "# 6928_攸泰科技",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "3,965 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,604 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "攸泰科技股份有限公司 (6928) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "大眾控"
+            },
+            {
+              "type": "text",
+              "text": " (3701，大眾國際控股) 集團旗下子公司，成立於 2011 年，以打造「無所不在的連接」為核心理念，透過子公司睿剛電訊經營自有品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "RuggON"
+            },
+            {
+              "type": "text",
+              "text": "」，專注於強固型移動解決方案。產品必須能在烈日暴雨、極端震動與粉塵環境 (如礦場、南極破冰船或戰場) 中穩定運作。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司精準卡位「"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": " (LEO)」及「國防無人機」市場，與國家太空中心 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "TASA"
+            },
+            {
+              "type": "text",
+              "text": ") 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工研院"
+            },
+            {
+              "type": "text",
+              "text": " (ITRI) 緊密合作，參與低軌衛星地面設備通訊技術開發。成功打入烏茲別克全球最大露天金礦開採商等指標客戶。長期聚焦衛星通訊、農業、物流、海事、交通與政府專案等六大垂直領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (工業級核心零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 工業級 CPU/SoC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "顯示面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 戶外高亮度防眩光防刮顯示面板模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RF 模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 射頻通訊模組及衛星天線元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "強固機殼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 防水防摔金屬機構件及特殊電池芯"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (強固型移動解決方案)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "強固平板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "攸泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RuggON"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌強固型移動載具平板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星終端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "攸泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (衛星通訊接收控制終端)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無人機控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "攸泰"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (無人機地面控制系統)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (垂直應用市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "低軌衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際低軌衛星通訊營運商及地面設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海事/農業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 跨國海事船舶營運商、精準農業無人機操作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防軍工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國軍警消及國安政府部門"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流/礦業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球大型物流倉儲集團、露天礦場"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "低軌衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際低軌衛星系統商 — 地面移動終端設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海事/漁探:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際海事漁探器品牌商 — 強固型航海設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國各大警消及國安政府部門"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "礦業/物流:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球最大露天金礦開採商 — 強固平板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 工業級 CPU/SoC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RF 模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 射頻通訊及衛星天線模組原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大眾控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3701) — 供應鏈策略與議價協同"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "研發合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TASA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國家太空中心)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工研院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 衛星通訊技術開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $46.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.01",
+                  "1.89",
+                  "-71.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1970.09",
+                  "2021.42",
+                  "3721.34"
+                ],
+                [
+                  "Gross Profit",
+                  "519.80",
+                  "464.72",
+                  "794.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.38",
+                  "22.99",
+                  "21.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "240.99",
+                  "252.14",
+                  "200.91"
+                ],
+                [
+                  "R&D Exp",
+                  "231.46",
+                  "240.79",
+                  "197.16"
+                ],
+                [
+                  "General & Admin Exp",
+                  "160.06",
+                  "118.64",
+                  "95.99"
+                ],
+                [
+                  "Operating Income",
+                  "-112.72",
+                  "-146.84",
+                  "300.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.72",
+                  "-7.26",
+                  "8.08"
+                ],
+                [
+                  "Net Income",
+                  "-62.37",
+                  "-67.16",
+                  "257.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.17",
+                  "-3.32",
+                  "6.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "129.16",
+                  "13.20",
+                  "667.39"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "348.74",
+                  "-896.13",
+                  "-51.30"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-93.85",
+                  "748.84",
+                  "-164.51"
+                ],
+                [
+                  "CAPEX",
+                  "-28.18",
+                  "-28.79",
+                  "-35.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "340.68",
+                  "482.26",
+                  "536.04",
+                  "611.11"
+                ],
+                [
+                  "Gross Profit",
+                  "107.63",
+                  "127.36",
+                  "124.79",
+                  "160.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.59",
+                  "26.41",
+                  "23.28",
+                  "26.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "70.31",
+                  "58.03",
+                  "54.31",
+                  "58.35"
+                ],
+                [
+                  "R&D Exp",
+                  "61.31",
+                  "60.06",
+                  "53.09",
+                  "57.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "53.74",
+                  "46.24",
+                  "31.15",
+                  "28.93"
+                ],
+                [
+                  "Operating Income",
+                  "-77.73",
+                  "-36.97",
+                  "-13.76",
+                  "15.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-22.82",
+                  "-7.67",
+                  "-2.57",
+                  "2.57"
+                ],
+                [
+                  "Net Income",
+                  "-54.19",
+                  "-19.62",
+                  "-8.32",
+                  "19.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-15.91",
+                  "-4.07",
+                  "-1.55",
+                  "3.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "30.54",
+                  "-4.37",
+                  "-56.70",
+                  "159.69"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-193.11",
+                  "66.03",
+                  "92.45",
+                  "383.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.89",
+                  "-62.48",
+                  "-9.80",
+                  "-9.69"
+                ],
+                [
+                  "CAPEX",
+                  "-8.14",
+                  "-7.04",
+                  "-7.05",
+                  "-5.96"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "大眾控",
+    "RuggON",
+    "低軌衛星",
+    "TASA",
+    "工研院",
+    "Intel",
+    "Qualcomm",
+    "RuggON",
+    "Intel",
+    "Qualcomm",
+    "大眾控",
+    "TASA",
+    "工研院"
+  ]
+}

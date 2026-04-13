@@ -1,0 +1,758 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5328_華容.md",
+  "source_path": "Pilot_Reports/Electronic Components/5328_華容.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5328_華容.json",
+  "ticker": "5328",
+  "company_name": "華容",
+  "title": "# 5328 - 華容",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,447 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,253 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華容 (5328，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Hua Jung"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣 "
+            },
+            {
+              "type": "strong",
+              "text": "塑膠薄膜電容器 (Film Capacitor)"
+            },
+            {
+              "type": "text",
+              "text": " 製造龍頭，產品具備耐高壓、低耗損及長壽命優點。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要產品為金屬化聚酯/聚丙烯膜電容器，傳統應用於電源供應器、照明、家電。近年積極布局六大高附加價值領域：(1) "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]"
+            },
+            {
+              "type": "text",
+              "text": " — BBU (備援電池單元) 用薄膜電容；(2) "
+            },
+            {
+              "type": "strong",
+              "text": "綠能"
+            },
+            {
+              "type": "text",
+              "text": " — 太陽能逆變器 (PV Inverter) 用電容，原有客戶訂單回溫；(3) "
+            },
+            {
+              "type": "strong",
+              "text": "[[電動車]]"
+            },
+            {
+              "type": "text",
+              "text": " — 充電樁電容 (已打入中國車廠供應鏈)；(4) "
+            },
+            {
+              "type": "strong",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": " — 儲能系統用大容量電容；(5) "
+            },
+            {
+              "type": "strong",
+              "text": "智慧電表"
+            },
+            {
+              "type": "text",
+              "text": " — 高可靠性電容新品；(6) "
+            },
+            {
+              "type": "strong",
+              "text": "電網升級"
+            },
+            {
+              "type": "text",
+              "text": " — 國家電網基礎設施電容。工廠位於高雄及中國東莞，電源模組相關應用佔營收約 60%，綠能約佔 10%，工控約佔 7%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (薄膜與金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠薄膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PP (聚丙烯)/PET (聚酯) 金屬化薄膜 — 國際薄膜大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁箔/鋅箔 — 電極材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "引線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 引線端子材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (薄膜電容製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安規電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華容"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AC 安規薄膜電容)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華容"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (DC-Link/緩衝/濾波電容)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新應用電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華容"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " BBU、充電樁、儲能系統)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電源與綠能終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源供應器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PC/NB/伺服器電源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能/充電樁:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能逆變器廠、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "充電樁製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " BBU 備援電池模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電網/電表:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧電表與電網升級設備商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源供應器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PC/NB/伺服器電源用薄膜電容"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能逆變器客戶 — PV Inverter 用電容 (訂單回溫中)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "充電樁:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國車廠充電樁供應鏈 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "充電樁電容"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI/資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " BBU 備援電池模組客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "薄膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際塑膠薄膜大廠 — PP/PET 金屬化薄膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁箔/鋅箔電極材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "引線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 端子與引線材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "64.38",
+                  "N/A",
+                  "5.03",
+                  "2.37",
+                  "58.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "883.72",
+                  "866.51",
+                  "1017.79"
+                ],
+                [
+                  "Gross Profit",
+                  "241.44",
+                  "213.66",
+                  "261.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.32",
+                  "24.66",
+                  "25.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "55.59",
+                  "55.79",
+                  "54.95"
+                ],
+                [
+                  "R&D Exp",
+                  "8.24",
+                  "7.95",
+                  "7.58"
+                ],
+                [
+                  "General & Admin Exp",
+                  "142.72",
+                  "142.49",
+                  "125.71"
+                ],
+                [
+                  "Operating Income",
+                  "34.90",
+                  "7.43",
+                  "73.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.95",
+                  "0.86",
+                  "7.19"
+                ],
+                [
+                  "Net Income",
+                  "67.07",
+                  "67.72",
+                  "78.93"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.59",
+                  "7.82",
+                  "7.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-157.28",
+                  "7.55",
+                  "506.04"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "90.69",
+                  "-297.51",
+                  "39.14"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "187.10",
+                  "-7.42",
+                  "-328.94"
+                ],
+                [
+                  "CAPEX",
+                  "-4.44",
+                  "-2.64",
+                  "-10.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "227.22",
+                  "227.87",
+                  "220.91",
+                  "207.72"
+                ],
+                [
+                  "Gross Profit",
+                  "66.19",
+                  "58.26",
+                  "63.66",
+                  "53.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.13",
+                  "25.57",
+                  "28.82",
+                  "25.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.98",
+                  "14.05",
+                  "13.56",
+                  "14.00"
+                ],
+                [
+                  "R&D Exp",
+                  "2.13",
+                  "1.95",
+                  "2.03",
+                  "2.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.98",
+                  "36.03",
+                  "32.66",
+                  "33.04"
+                ],
+                [
+                  "Operating Income",
+                  "9.09",
+                  "6.23",
+                  "15.40",
+                  "4.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.00",
+                  "2.74",
+                  "6.97",
+                  "2.01"
+                ],
+                [
+                  "Net Income",
+                  "30.55",
+                  "22.42",
+                  "5.32",
+                  "8.78"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.45",
+                  "9.84",
+                  "2.41",
+                  "4.22"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-444.07",
+                  "275.25",
+                  "-352.49",
+                  "364.02"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "91.72",
+                  "-150.99",
+                  "120.91",
+                  "29.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "420.19",
+                  "-350.55",
+                  "313.88",
+                  "-196.42"
+                ],
+                [
+                  "CAPEX",
+                  "-0.14",
+                  "0.00",
+                  "0.00",
+                  "-4.30"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Hua Jung",
+    "AI 伺服器",
+    "電動車",
+    "AI 伺服器",
+    "台達電",
+    "光寶科",
+    "群光",
+    "電動車",
+    "AI 伺服器",
+    "台達電",
+    "光寶科",
+    "群光",
+    "電動車",
+    "AI 伺服器"
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/1597_直得.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/1597_直得.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/1597_直得.json",
+  "ticker": "1597",
+  "company_name": "直得",
+  "title": "# 1597 - 直得",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "7,731 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,263 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "直得科技 (1597，Chieftek Precision) 為全球微型"
+            },
+            {
+              "type": "wikilink",
+              "text": "線性滑軌"
+            },
+            {
+              "type": "text",
+              "text": "領導廠商，自有品牌「cpc」。產品涵蓋微型至大型"
+            },
+            {
+              "type": "wikilink",
+              "text": "線性滑軌"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "滾珠螺桿"
+            },
+            {
+              "type": "text",
+              "text": "、線性模組、"
+            },
+            {
+              "type": "wikilink",
+              "text": "線性馬達"
+            },
+            {
+              "type": "text",
+              "text": "及驅動器。主要應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "製程設備 (最大領域)、醫療精密儀器及自動化設備。半導體設備客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Applied Materials"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ASML"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "KLA"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tokyo Electron"
+            },
+            {
+              "type": "text",
+              "text": "。醫療客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Siemens Healthineers"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GE Healthcare"
+            },
+            {
+              "type": "text",
+              "text": "。上游特殊鋼材來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "日本製鐵"
+            },
+            {
+              "type": "text",
+              "text": "及歐洲鋼廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本製鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及歐洲特殊鋼廠 — 軸承鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "直得"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (cpc 品牌微型"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "線性滑軌"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "滾珠螺桿"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "線性馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KLA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tokyo Electron"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 微型滑軌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens Healthineers"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Healthcare"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精密儀器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工具機/電子組裝設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KLA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tokyo Electron"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens Healthineers"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Healthcare"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工具機/組裝設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本製鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及歐洲鋼廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $88.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "97.36",
+                  "97.36",
+                  "6.79",
+                  "3.21",
+                  "44.05"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1138.32",
+                  "1036.58",
+                  "1074.75"
+                ],
+                [
+                  "Gross Profit",
+                  "466.55",
+                  "424.16",
+                  "468.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.99",
+                  "40.92",
+                  "43.61"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "117.74",
+                  "105.06",
+                  "121.82"
+                ],
+                [
+                  "R&D Exp",
+                  "84.84",
+                  "75.83",
+                  "72.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "156.68",
+                  "147.94",
+                  "152.67"
+                ],
+                [
+                  "Operating Income",
+                  "107.29",
+                  "95.33",
+                  "121.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.43",
+                  "9.20",
+                  "11.32"
+                ],
+                [
+                  "Net Income",
+                  "79.42",
+                  "93.81",
+                  "98.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.98",
+                  "9.05",
+                  "9.12"
+                ],
+                [
+                  "Op Cash Flow",
+                  "123.75",
+                  "205.80",
+                  "-21.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-125.72",
+                  "-247.15",
+                  "-174.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-163.59",
+                  "52.71",
+                  "105.92"
+                ],
+                [
+                  "CAPEX",
+                  "-60.25",
+                  "-109.14",
+                  "-156.68"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "333.59",
+                  "271.63",
+                  "253.36",
+                  "252.21"
+                ],
+                [
+                  "Gross Profit",
+                  "129.54",
+                  "114.31",
+                  "112.56",
+                  "105.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.83",
+                  "42.08",
+                  "44.43",
+                  "42.01"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "35.28",
+                  "27.52",
+                  "26.72",
+                  "24.42"
+                ],
+                [
+                  "R&D Exp",
+                  "20.42",
+                  "20.65",
+                  "19.54",
+                  "17.82"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.13",
+                  "33.41",
+                  "41.26",
+                  "33.99"
+                ],
+                [
+                  "Operating Income",
+                  "31.72",
+                  "32.72",
+                  "25.05",
+                  "29.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.51",
+                  "12.05",
+                  "9.89",
+                  "11.78"
+                ],
+                [
+                  "Net Income",
+                  "35.36",
+                  "1.12",
+                  "13.63",
+                  "25.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.60",
+                  "0.41",
+                  "5.38",
+                  "10.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "21.67",
+                  "50.90",
+                  "2.69",
+                  "48.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-65.13",
+                  "-66.85",
+                  "24.42",
+                  "-73.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-154.74",
+                  "0.59",
+                  "-82.50",
+                  "-94.22"
+                ],
+                [
+                  "CAPEX",
+                  "-28.46",
+                  "-9.07",
+                  "-6.96",
+                  "-38.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "線性滑軌",
+    "線性滑軌",
+    "滾珠螺桿",
+    "線性馬達",
+    "半導體",
+    "Applied Materials",
+    "ASML",
+    "KLA",
+    "Tokyo Electron",
+    "Siemens Healthineers",
+    "GE Healthcare",
+    "日本製鐵",
+    "日本製鐵",
+    "線性滑軌",
+    "滾珠螺桿",
+    "線性馬達",
+    "Applied Materials",
+    "ASML",
+    "KLA",
+    "Tokyo Electron",
+    "Siemens Healthineers",
+    "GE Healthcare",
+    "Applied Materials",
+    "ASML",
+    "KLA",
+    "Tokyo Electron",
+    "Siemens Healthineers",
+    "GE Healthcare",
+    "日本製鐵"
+  ]
+}

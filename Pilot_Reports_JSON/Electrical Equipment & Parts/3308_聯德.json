@@ -1,0 +1,443 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3308_聯德.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3308_聯德.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3308_聯德.json",
+  "ticker": "3308",
+  "company_name": "聯德",
+  "title": "# 3308 - 聯德",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,278 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "988 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "聯德電子 (3308，Bestec) 為交換式電源廠，長期替"
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": "代工桌機/筆電電源。轉型"
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": "伺服器電源及電競電源。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 被動元件、"
+            },
+            {
+              "type": "wikilink",
+              "text": "MOSFET"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "聯德"
+            },
+            {
+              "type": "text",
+              "text": " (電源設計組裝)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "被動元件/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $21.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "31.32",
+                  "N/A",
+                  "162.04",
+                  "1.15",
+                  "-38.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7.89",
+                  "67.77",
+                  "538.65"
+                ],
+                [
+                  "Gross Profit",
+                  "3.68",
+                  "16.11",
+                  "174.13"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "46.62",
+                  "23.77",
+                  "32.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.01",
+                  "0.53",
+                  "7.98"
+                ],
+                [
+                  "R&D Exp",
+                  "2.91",
+                  "5.34",
+                  "15.21"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.92",
+                  "54.70",
+                  "110.43"
+                ],
+                [
+                  "Operating Income",
+                  "-32.16",
+                  "-44.45",
+                  "40.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-407.81",
+                  "-65.59",
+                  "7.52"
+                ],
+                [
+                  "Net Income",
+                  "40.91",
+                  "59.70",
+                  "416.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "518.70",
+                  "88.09",
+                  "77.33"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-146.46",
+                  "65.23",
+                  "212.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-117.25",
+                  "-466.02",
+                  "-41.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-60.09",
+                  "161.83",
+                  "94.95"
+                ],
+                [
+                  "CAPEX",
+                  "-27.64",
+                  "-8.69",
+                  "-5.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2.95",
+                  "1.65",
+                  "1.65",
+                  "1.64"
+                ],
+                [
+                  "Gross Profit",
+                  "0.69",
+                  "1.02",
+                  "0.95",
+                  "1.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.48",
+                  "61.65",
+                  "58.02",
+                  "61.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.01",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ],
+                [
+                  "R&D Exp",
+                  "1.37",
+                  "0.64",
+                  "0.05",
+                  "0.85"
+                ],
+                [
+                  "General & Admin Exp",
+                  "10.03",
+                  "10.52",
+                  "0.86",
+                  "11.51"
+                ],
+                [
+                  "Operating Income",
+                  "-10.71",
+                  "-10.14",
+                  "0.04",
+                  "-11.35"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-362.94",
+                  "-613.37",
+                  "2.49",
+                  "-693.89"
+                ],
+                [
+                  "Net Income",
+                  "27.31",
+                  "37.09",
+                  "-58.23",
+                  "34.74"
+                ],
+                [
+                  "Net Margin (%)",
+                  "925.20",
+                  "2243.86",
+                  "-3537.91",
+                  "2123.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-33.23",
+                  "-24.49",
+                  "-73.90",
+                  "-14.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-104.86",
+                  "-53.36",
+                  "22.22",
+                  "18.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-21.79",
+                  "-10.13",
+                  "-1.52",
+                  "-26.65"
+                ],
+                [
+                  "CAPEX",
+                  "-1.13",
+                  "-21.32",
+                  "-5.06",
+                  "-0.13"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "HP",
+    "Dell",
+    "物聯網",
+    "MOSFET",
+    "HP",
+    "Dell",
+    "HP",
+    "Dell",
+    "MOSFET"
+  ]
+}

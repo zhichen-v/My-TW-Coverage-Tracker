@@ -1,0 +1,668 @@
+{
+  "report_id": "Pilot_Reports/Security & Protection Services/9917_中保科.md",
+  "source_path": "Pilot_Reports/Security & Protection Services/9917_中保科.md",
+  "json_path": "Pilot_Reports_JSON/Security & Protection Services/9917_中保科.json",
+  "ticker": "9917",
+  "company_name": "中保科",
+  "title": "# 9917 - 中保科",
+  "sector_folder": "Security & Protection Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Security & Protection Services"
+      },
+      {
+        "label": "市值:",
+        "value": "50,622 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "53,596 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中興保全科技股份有限公司（Taiwan Secom）成立於1977年，為台灣最大保全集團，與日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "SECOM"
+            },
+            {
+              "type": "text",
+              "text": "技術合作，總部位於台北市。核心業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "電子保全："
+            },
+            {
+              "type": "text",
+              "text": " 電子系統安全監控設備製造與安裝，為主要營收來源；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "駐衛保全："
+            },
+            {
+              "type": "text",
+              "text": " 企業及大樓駐衛警衛服務；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "現金運送："
+            },
+            {
+              "type": "text",
+              "text": " ATM現金補鈔及貴重物品運送；（4）"
+            },
+            {
+              "type": "strong",
+              "text": "物流服務："
+            },
+            {
+              "type": "text",
+              "text": " 航空貨物運輸服務；（5）"
+            },
+            {
+              "type": "strong",
+              "text": "餐飲："
+            },
+            {
+              "type": "text",
+              "text": " 空廚及餐飲服務（"
+            },
+            {
+              "type": "wikilink",
+              "text": "華膳空廚"
+            },
+            {
+              "type": "text",
+              "text": "）。此外亦跨足迷你倉庫租賃（"
+            },
+            {
+              "type": "wikilink",
+              "text": "中保迷你倉"
+            },
+            {
+              "type": "text",
+              "text": "）、停車場管理（"
+            },
+            {
+              "type": "wikilink",
+              "text": "中興保全停車場"
+            },
+            {
+              "type": "text",
+              "text": "）、資安服務及節能解決方案等多元事業。子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "國興保全"
+            },
+            {
+              "type": "text",
+              "text": "負責駐衛保全業務，"
+            },
+            {
+              "type": "wikilink",
+              "text": "立保保全"
+            },
+            {
+              "type": "text",
+              "text": "經營現金運送。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與技術)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 監控攝影機、門禁系統、防盜/防火設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊網路設備與資安系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 現金運送專用車輛"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (保全服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中保科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電子保全系統監控、駐衛保全、現金運送、物流、空廚餐飲、迷你倉庫（"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中保迷你倉"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金融機構（ATM補鈔）、商辦大樓、零售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 社區大樓與住宅保全"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 公共場域安防標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 航空公司（空廚服務）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行ATM現金補鈔與金庫運送（如"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "兆豐銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商辦大樓、零售通路之電子保全與駐衛警衛"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅社區:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 社區大樓保全監控系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 公共場域安防專案標案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 航空公司空廚服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 監控攝影機、門禁及防盜/防火設備供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊/資安:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊網路及資安系統設備供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 現金運送與物流專用車輛供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $114.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.86",
+                  "13.87",
+                  "2.67",
+                  "3.72",
+                  "10.72"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "18982.49",
+                  "17859.31",
+                  "17073.98"
+                ],
+                [
+                  "Gross Profit",
+                  "6179.05",
+                  "5815.76",
+                  "5578.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.55",
+                  "32.56",
+                  "32.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1010.04",
+                  "956.01",
+                  "1043.01"
+                ],
+                [
+                  "R&D Exp",
+                  "110.97",
+                  "124.71",
+                  "118.89"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1975.24",
+                  "1797.18",
+                  "1770.87"
+                ],
+                [
+                  "Operating Income",
+                  "3082.81",
+                  "2937.85",
+                  "2645.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.24",
+                  "16.45",
+                  "15.49"
+                ],
+                [
+                  "Net Income",
+                  "3007.40",
+                  "2845.31",
+                  "2591.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.84",
+                  "15.93",
+                  "15.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4319.53",
+                  "3362.46",
+                  "3327.41"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1644.39",
+                  "-1067.09",
+                  "-1300.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2287.58",
+                  "-1525.96",
+                  "-2490.34"
+                ],
+                [
+                  "CAPEX",
+                  "-1852.34",
+                  "-1494.06",
+                  "-1738.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4898.83",
+                  "4695.46",
+                  "4750.20",
+                  "4637.99"
+                ],
+                [
+                  "Gross Profit",
+                  "1505.79",
+                  "1538.94",
+                  "1573.05",
+                  "1561.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.74",
+                  "32.77",
+                  "33.12",
+                  "33.66"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "247.87",
+                  "263.96",
+                  "249.26",
+                  "248.95"
+                ],
+                [
+                  "R&D Exp",
+                  "30.89",
+                  "26.26",
+                  "27.43",
+                  "26.39"
+                ],
+                [
+                  "General & Admin Exp",
+                  "491.62",
+                  "501.04",
+                  "528.26",
+                  "454.32"
+                ],
+                [
+                  "Operating Income",
+                  "735.41",
+                  "747.68",
+                  "768.11",
+                  "831.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.01",
+                  "15.92",
+                  "16.17",
+                  "17.93"
+                ],
+                [
+                  "Net Income",
+                  "793.43",
+                  "768.91",
+                  "739.35",
+                  "705.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.20",
+                  "16.38",
+                  "15.56",
+                  "15.22"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1467.62",
+                  "1026.17",
+                  "1054.41",
+                  "771.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-527.27",
+                  "186.22",
+                  "-591.65",
+                  "-711.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-404.29",
+                  "-1772.98",
+                  "-508.91",
+                  "398.61"
+                ],
+                [
+                  "CAPEX",
+                  "-385.06",
+                  "-394.50",
+                  "-465.70",
+                  "-607.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "SECOM",
+    "華膳空廚",
+    "中保迷你倉",
+    "中興保全停車場",
+    "國興保全",
+    "立保保全",
+    "中保迷你倉",
+    "台灣銀行",
+    "兆豐銀行"
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "report_id": "Pilot_Reports/Building Products & Equipment/9924_福興.md",
+  "source_path": "Pilot_Reports/Building Products & Equipment/9924_福興.md",
+  "json_path": "Pilot_Reports_JSON/Building Products & Equipment/9924_福興.json",
+  "ticker": "9924",
+  "company_name": "福興",
+  "title": "# 9924 - 福興",
+  "sector_folder": "Building Products & Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Products & Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "7,508 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,406 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "福興工業股份有限公司 (9924) 創立於 1957 年，總部位於台灣高雄，為全球最大的門鎖 ODM 代工大廠之一暨門控安全科技領導企業。公司主要生產商用及家用門鎖、電子鎖、關門器、防火門推版鎖及天地鉸鏈等門用五金配件。除了以深厚的模具開發、鋅合金壓鑄與表面處理技術提供國際大廠代工服務外，亦經營自有品牌如「加安牌 (FAVOUR)」、「Livello」及「"
+            },
+            {
+              "type": "wikilink",
+              "text": "Faultless"
+            },
+            {
+              "type": "text",
+              "text": "」等。北美市場為核心獲利來源 (佔營收逾七成)，公司近年更斥資於泰國建廠以強化國際產銷彈性並分散地緣貿易風險。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬原物料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大量採購鋅、鎳、銅、鐵等基本金屬原物料 (佔門鎖製造成本比例高達 60% 以上)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購電子鎖所需之晶片模組及感測元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (核心製造與組裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "門鎖製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "福興工業 (9924)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 透過台灣岡山/合興廠區、中國廠區及泰國春武里府新廠，進行門鎖模具設計、鋅壓鑄、加工電鍍至成品組裝"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銷售版圖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 出貨至北美 (約佔美國終端市佔 20%)、歐洲、亞洲等全球居家修繕、建築專案與五金經銷市場"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美大賣場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Home Depot"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (家得寶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lowe's"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (勞氏) — 美國兩大居家修繕零售巨頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際門鎖品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Schlage"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (西勒奇，"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Allegion"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團旗下)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kwikset"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Spectrum Brands"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團旗下) 等大型 ODM 代工客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬原物料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外大型鋅錠、銅錠與不鏽鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "義隆電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等半導體廠 (供應電子鎖用晶片模組)\\n- "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "精密五金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密五金加工與電鍍化工原料廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $49.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.44",
+                  "N/A",
+                  "1.02",
+                  "1.06",
+                  "5.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7384.02",
+                  "8039.38",
+                  "9073.44"
+                ],
+                [
+                  "Gross Profit",
+                  "1623.35",
+                  "1909.79",
+                  "2064.87"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.98",
+                  "23.76",
+                  "22.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "271.55",
+                  "282.93",
+                  "282.24"
+                ],
+                [
+                  "R&D Exp",
+                  "198.48",
+                  "194.64",
+                  "194.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "429.97",
+                  "469.08",
+                  "440.13"
+                ],
+                [
+                  "Operating Income",
+                  "723.35",
+                  "963.14",
+                  "1148.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.80",
+                  "11.98",
+                  "12.65"
+                ],
+                [
+                  "Net Income",
+                  "533.49",
+                  "909.51",
+                  "947.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.22",
+                  "11.31",
+                  "10.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "303.61",
+                  "1440.62",
+                  "842.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-301.33",
+                  "-568.60",
+                  "-470.23"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-857.88",
+                  "-644.03",
+                  "-572.58"
+                ],
+                [
+                  "CAPEX",
+                  "-576.83",
+                  "-284.45",
+                  "-449.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1710.40",
+                  "1977.26",
+                  "1927.05",
+                  "1769.32"
+                ],
+                [
+                  "Gross Profit",
+                  "367.86",
+                  "402.74",
+                  "430.40",
+                  "422.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.51",
+                  "20.37",
+                  "22.33",
+                  "23.87"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "71.10",
+                  "65.87",
+                  "65.21",
+                  "69.38"
+                ],
+                [
+                  "R&D Exp",
+                  "52.74",
+                  "49.05",
+                  "49.15",
+                  "47.55"
+                ],
+                [
+                  "General & Admin Exp",
+                  "125.58",
+                  "103.70",
+                  "91.93",
+                  "108.76"
+                ],
+                [
+                  "Operating Income",
+                  "118.45",
+                  "184.12",
+                  "224.11",
+                  "196.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.93",
+                  "9.31",
+                  "11.63",
+                  "11.12"
+                ],
+                [
+                  "Net Income",
+                  "146.05",
+                  "236.52",
+                  "-48.02",
+                  "198.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.54",
+                  "11.96",
+                  "-2.49",
+                  "11.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "386.62",
+                  "60.25",
+                  "-625.16",
+                  "481.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-272.90",
+                  "4.13",
+                  "304.59",
+                  "-337.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-222.03",
+                  "-35.03",
+                  "-616.31",
+                  "15.49"
+                ],
+                [
+                  "CAPEX",
+                  "-318.95",
+                  "-150.34",
+                  "-45.56",
+                  "-61.99"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Faultless",
+    "Home Depot",
+    "Lowe's",
+    "Schlage",
+    "Allegion",
+    "Kwikset",
+    "Spectrum Brands",
+    "義隆電子"
+  ]
+}

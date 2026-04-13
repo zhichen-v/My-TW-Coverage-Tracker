@@ -1,0 +1,736 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4585_達明.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4585_達明.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4585_達明.json",
+  "ticker": "4585",
+  "company_name": "達明",
+  "title": "# 4585 - 達明",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "31,906 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "27,063 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "達明機器人 (4585，Techman Robot) 為全球第二大"
+            },
+            {
+              "type": "wikilink",
+              "text": "協作機器人"
+            },
+            {
+              "type": "text",
+              "text": " (cobot) 品牌 (僅次於"
+            },
+            {
+              "type": "wikilink",
+              "text": "Universal Robots"
+            },
+            {
+              "type": "text",
+              "text": ")，台灣唯一協作機器人製造商。2015 年自"
+            },
+            {
+              "type": "wikilink",
+              "text": "廣明光電"
+            },
+            {
+              "type": "text",
+              "text": " (6188，"
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下) 內部創業獨立。核心特色為內建"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "視覺系統，降低系統整合門檻。全球逾 100 家經銷商。"
+            },
+            {
+              "type": "wikilink",
+              "text": "Omron"
+            },
+            {
+              "type": "text",
+              "text": "為策略合作夥伴 (2018 年簽署合作備忘錄，共同推廣至全球市場)。下游應用涵蓋半導體 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "晶圓搬運)、電子組裝 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": ")、汽車零組件 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": ")。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服馬達/減速機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "減速機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、編碼器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "視覺:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鏡頭模組/控制器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "達明"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "協作機器人"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設計/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "視覺軟體/系統整合)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Omron"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球經銷合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 晶圓搬運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電子組裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 零組件自動化"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "經銷夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Omron"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球策略合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 晶圓搬運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電子組裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣明光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司) / "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "減速機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、光學模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $305.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "208.90",
+                  "91.87",
+                  "17.51",
+                  "4.56",
+                  "143.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1822.10",
+                  "1481.04",
+                  "1260.01"
+                ],
+                [
+                  "Gross Profit",
+                  "929.00",
+                  "761.22",
+                  "583.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.99",
+                  "51.40",
+                  "46.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "332.44",
+                  "305.23",
+                  "260.31"
+                ],
+                [
+                  "R&D Exp",
+                  "384.50",
+                  "346.58",
+                  "285.65"
+                ],
+                [
+                  "General & Admin Exp",
+                  "100.94",
+                  "87.77",
+                  "78.25"
+                ],
+                [
+                  "Operating Income",
+                  "111.12",
+                  "21.64",
+                  "-40.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.10",
+                  "1.46",
+                  "-3.21"
+                ],
+                [
+                  "Net Income",
+                  "136.37",
+                  "93.78",
+                  "11.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.48",
+                  "6.33",
+                  "0.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "271.64",
+                  "131.37",
+                  "107.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5198.98",
+                  "-88.25",
+                  "-104.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "4956.18",
+                  "-34.35",
+                  "-32.33"
+                ],
+                [
+                  "CAPEX",
+                  "-35.48",
+                  "-34.95",
+                  "-33.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "475.35",
+                  "455.41",
+                  "395.84",
+                  "495.49"
+                ],
+                [
+                  "Gross Profit",
+                  "240.64",
+                  "228.37",
+                  "205.54",
+                  "254.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.62",
+                  "50.15",
+                  "51.93",
+                  "51.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "85.31",
+                  "88.99",
+                  "76.21",
+                  "81.92"
+                ],
+                [
+                  "R&D Exp",
+                  "101.96",
+                  "102.62",
+                  "84.18",
+                  "95.74"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.96",
+                  "26.85",
+                  "20.99",
+                  "27.14"
+                ],
+                [
+                  "Operating Income",
+                  "27.42",
+                  "9.90",
+                  "24.16",
+                  "49.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.77",
+                  "2.17",
+                  "6.10",
+                  "10.02"
+                ],
+                [
+                  "Net Income",
+                  "63.17",
+                  "36.92",
+                  "-29.48",
+                  "65.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.29",
+                  "8.11",
+                  "-7.45",
+                  "13.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "244.19",
+                  "-58.66",
+                  "63.67",
+                  "22.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1222.54",
+                  "-4533.95",
+                  "493.05",
+                  "64.45"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "36.73",
+                  "4867.46",
+                  "61.14",
+                  "-9.15"
+                ],
+                [
+                  "CAPEX",
+                  "-9.73",
+                  "-11.10",
+                  "-8.48",
+                  "-6.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "協作機器人",
+    "Universal Robots",
+    "廣明光電",
+    "廣達",
+    "AI",
+    "Omron",
+    "台積電",
+    "廣達",
+    "Continental",
+    "伺服馬達",
+    "減速機",
+    "協作機器人",
+    "AI",
+    "Omron",
+    "台積電",
+    "廣達",
+    "Continental",
+    "Omron",
+    "台積電",
+    "廣達",
+    "Continental",
+    "廣明光電",
+    "廣達",
+    "伺服馬達",
+    "減速機"
+  ]
+}

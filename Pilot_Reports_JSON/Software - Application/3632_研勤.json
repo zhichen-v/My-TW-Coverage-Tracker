@@ -1,0 +1,633 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/3632_研勤.md",
+  "source_path": "Pilot_Reports/Software - Application/3632_研勤.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/3632_研勤.json",
+  "ticker": "3632",
+  "company_name": "研勤",
+  "title": "# 3632 - 研勤",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "387 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "488 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "研勤科技 (3632，PAPAGO!) 以衛星導航品牌「PAPAGO!」奠定市場地位，目前已轉型為 AI 影像與人臉辨識領導廠商。核心業務：(1) "
+            },
+            {
+              "type": "strong",
+              "text": "FACE8 臉霸"
+            },
+            {
+              "type": "text",
+              "text": " — 自主研發人臉辨識引擎，為台灣落地量最大之人臉辨識系統，累計超過一萬家客戶採用，每日辨識量逾百萬次，應用於考勤、校園管理、健身房會員識別及金融機構身份驗證；(2) "
+            },
+            {
+              "type": "strong",
+              "text": "車載電子"
+            },
+            {
+              "type": "text",
+              "text": " — 維持「PAPAGO!」"
+            },
+            {
+              "type": "wikilink",
+              "text": "行車記錄器"
+            },
+            {
+              "type": "text",
+              "text": "、胎壓偵測及電子後視鏡優勢，整合 AI 影像演算法；(3) "
+            },
+            {
+              "type": "strong",
+              "text": "智慧監控"
+            },
+            {
+              "type": "text",
+              "text": " — AI Guard 智慧工安防護雲端平台，偵測施工安全合規性；(4) "
+            },
+            {
+              "type": "strong",
+              "text": "多角化經營"
+            },
+            {
+              "type": "text",
+              "text": " — FarBar 廣告機佈局大型商圈，並跨足餐飲品牌掌門精釀。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件與平台)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像感測晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 影像感測器 IC 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器/模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GPS 模組、AI 運算晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Azure、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟體與產品開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 人臉辨識:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "研勤"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (FACE8 臉霸引擎開發/車載產品設計/智慧工安平台)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "柏文"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (健身工廠會員識別)、金融機構、長照中心"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各縣市政府考勤專案、校園安全系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車百貨、電商平台 (行車記錄器銷售)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "柏文"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (健身工廠)、大型金融機構、長照中心"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各縣市政府考勤系統、校園管理系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車百貨、電商平台 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "行車記錄器"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Azure、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶片模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GPS 模組、影像感測 IC 廠商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代工製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內電子代工廠 (車載硬體)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $9.46 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.46",
+                  "3.27",
+                  "66.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "264.91",
+                  "371.64",
+                  "393.41"
+                ],
+                [
+                  "Gross Profit",
+                  "146.34",
+                  "214.79",
+                  "230.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "55.24",
+                  "57.79",
+                  "58.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "49.52",
+                  "106.81",
+                  "112.60"
+                ],
+                [
+                  "R&D Exp",
+                  "33.15",
+                  "38.47",
+                  "31.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "77.83",
+                  "86.32",
+                  "79.28"
+                ],
+                [
+                  "Operating Income",
+                  "-14.15",
+                  "-16.82",
+                  "6.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.34",
+                  "-4.53",
+                  "1.75"
+                ],
+                [
+                  "Net Income",
+                  "-15.59",
+                  "-11.98",
+                  "4.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.88",
+                  "-3.22",
+                  "1.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "18.34",
+                  "1.86",
+                  "28.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7.94",
+                  "-39.13",
+                  "0.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.48",
+                  "-13.77",
+                  "-33.87"
+                ],
+                [
+                  "CAPEX",
+                  "-7.66",
+                  "-7.60",
+                  "-3.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "80.86",
+                  "59.60",
+                  "60.40",
+                  "64.05"
+                ],
+                [
+                  "Gross Profit",
+                  "44.15",
+                  "32.99",
+                  "34.71",
+                  "34.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "54.59",
+                  "55.36",
+                  "57.46",
+                  "53.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.40",
+                  "11.83",
+                  "11.88",
+                  "13.41"
+                ],
+                [
+                  "R&D Exp",
+                  "8.54",
+                  "9.46",
+                  "7.58",
+                  "7.57"
+                ],
+                [
+                  "General & Admin Exp",
+                  "20.09",
+                  "20.06",
+                  "18.99",
+                  "18.68"
+                ],
+                [
+                  "Operating Income",
+                  "3.12",
+                  "-8.36",
+                  "-3.74",
+                  "-5.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.85",
+                  "-14.03",
+                  "-6.19",
+                  "-8.06"
+                ],
+                [
+                  "Net Income",
+                  "2.08",
+                  "-6.58",
+                  "-7.87",
+                  "-3.23"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.58",
+                  "-11.04",
+                  "-13.02",
+                  "-5.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "12.39",
+                  "-3.50",
+                  "9.05",
+                  "0.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3.84",
+                  "1.03",
+                  "-1.04",
+                  "-4.09"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.24",
+                  "1.66",
+                  "-6.81",
+                  "2.91"
+                ],
+                [
+                  "CAPEX",
+                  "-3.70",
+                  "-0.63",
+                  "-1.97",
+                  "-1.36"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "行車記錄器",
+    "聯發科",
+    "Microsoft",
+    "AWS",
+    "柏文",
+    "柏文",
+    "行車記錄器",
+    "Microsoft",
+    "AWS",
+    "聯發科"
+  ]
+}

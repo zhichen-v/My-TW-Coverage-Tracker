@@ -1,0 +1,662 @@
+{
+  "report_id": "Pilot_Reports/Electronics & Computer Distribution/2450_神腦.md",
+  "source_path": "Pilot_Reports/Electronics & Computer Distribution/2450_神腦.md",
+  "json_path": "Pilot_Reports_JSON/Electronics & Computer Distribution/2450_神腦.json",
+  "ticker": "2450",
+  "company_name": "神腦",
+  "title": "# 2450 - 神腦",
+  "sector_folder": "Electronics & Computer Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronics & Computer Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "7,580 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,581 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "神腦國際企業 (2450，Senao International) 成立於 1979 年，總部位於新北市，為台灣最大通訊通路代理商，隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": "集團。公司代理銷售各大品牌手機、平板、資訊家電及保健食品，並建構「神腦生活」O2O 零售平台，擁有全台最廣泛之通訊門市及維修服務網絡。主要銷售品牌包含 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " iPhone/iPad、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": " 等，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": "為獨家合作夥伴。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌/代理)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 智慧型手機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dyson"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 生活家電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保健品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " sakuyo — 保健食品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (通路營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "神腦國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (物流倉儲管理、全台門市據點、維修中心、O2O 平台)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "B2C:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "行動通訊用戶 (續約/購機)、一般消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "B2B:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關、學校、企業福委會"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "行動通訊用戶 (續約/購機)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台門市與線上平台消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關、學校、企業福委會"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司/獨家合作夥伴)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (iPhone/iPad)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dyson"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.97",
+                  "8.53",
+                  "0.23",
+                  "1.18",
+                  "16.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "33124.78",
+                  "32307.09",
+                  "31269.13"
+                ],
+                [
+                  "Gross Profit",
+                  "3463.78",
+                  "3495.92",
+                  "3409.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.46",
+                  "10.82",
+                  "10.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2752.63",
+                  "2753.09",
+                  "2629.76"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "377.07",
+                  "341.97",
+                  "354.31"
+                ],
+                [
+                  "Operating Income",
+                  "334.50",
+                  "401.14",
+                  "425.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.01",
+                  "1.24",
+                  "1.36"
+                ],
+                [
+                  "Net Income",
+                  "445.29",
+                  "478.31",
+                  "705.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.34",
+                  "1.48",
+                  "2.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "391.17",
+                  "903.51",
+                  "1145.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-14.22",
+                  "-355.87",
+                  "37.01"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-388.53",
+                  "-818.54",
+                  "-873.25"
+                ],
+                [
+                  "CAPEX",
+                  "-80.04",
+                  "-60.63",
+                  "-63.43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10333.19",
+                  "7297.72",
+                  "7571.94",
+                  "8942.02"
+                ],
+                [
+                  "Gross Profit",
+                  "1011.77",
+                  "811.15",
+                  "803.63",
+                  "932.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.79",
+                  "11.12",
+                  "10.61",
+                  "10.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "735.31",
+                  "671.55",
+                  "657.13",
+                  "744.04"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "99.83",
+                  "92.39",
+                  "86.44",
+                  "84.69"
+                ],
+                [
+                  "Operating Income",
+                  "176.57",
+                  "47.31",
+                  "60.40",
+                  "103.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.71",
+                  "0.65",
+                  "0.80",
+                  "1.16"
+                ],
+                [
+                  "Net Income",
+                  "171.17",
+                  "83.89",
+                  "115.57",
+                  "138.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.66",
+                  "1.15",
+                  "1.53",
+                  "1.55"
+                ],
+                [
+                  "Op Cash Flow",
+                  "279.21",
+                  "836.44",
+                  "-326.75",
+                  "-112.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-19.06",
+                  "-6.39",
+                  "-14.73",
+                  "-319.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-270.02",
+                  "-75.99",
+                  "-75.82",
+                  "-75.61"
+                ],
+                [
+                  "CAPEX",
+                  "-17.74",
+                  "-9.94",
+                  "-17.17",
+                  "-13.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中華電信",
+    "Apple",
+    "Samsung",
+    "華碩",
+    "中華電信",
+    "Apple",
+    "Samsung",
+    "OPPO",
+    "Sony",
+    "Panasonic",
+    "Dyson",
+    "中華電信",
+    "中華電信",
+    "中華電信",
+    "Apple",
+    "Samsung",
+    "華碩",
+    "Panasonic",
+    "Dyson"
+  ]
+}

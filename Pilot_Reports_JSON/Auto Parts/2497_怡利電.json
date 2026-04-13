@@ -1,0 +1,802 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/2497_怡利電.md",
+  "source_path": "Pilot_Reports/Auto Parts/2497_怡利電.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/2497_怡利電.json",
+  "ticker": "2497",
+  "company_name": "怡利電",
+  "title": "# 2497 - 怡利電",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "5,851 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,207 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "怡利電子 (2497，E-Lead Electronic) 為車用抬頭顯示器 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "HUD"
+            },
+            {
+              "type": "text",
+              "text": ") 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AR-HUD"
+            },
+            {
+              "type": "text",
+              "text": "之 Tier 1 供應商，中國 HUD 市場排名前三。核心產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "HUD"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AR-HUD"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "3D HUD"
+            },
+            {
+              "type": "text",
+              "text": "及車載資通訊系統。主要 OEM 客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "吉利汽車"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "一汽紅旗"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "長城汽車"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "奇瑞汽車"
+            },
+            {
+              "type": "text",
+              "text": "。印度市場拓展中，已取得"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tata Motors"
+            },
+            {
+              "type": "text",
+              "text": " C-HUD 訂單。正與歐系"
+            },
+            {
+              "type": "wikilink",
+              "text": "Volkswagen"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Mercedes-Benz"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BMW"
+            },
+            {
+              "type": "text",
+              "text": "洽談 3D HUD 專案。2024 年出貨約 50 萬台 HUD (年增 67%)。泰國設有工廠服務非中國市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學投影:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學投影模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 顯示面板元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載運算晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "怡利電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HUD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AR-HUD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D HUD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造，中國/泰國工廠)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (OEM 客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "吉利汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "一汽紅旗"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長城汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奇瑞汽車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印度:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tata Motors"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — C-HUD"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐系洽談:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volkswagen"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mercedes-Benz"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 3D HUD"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "吉利汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "一汽紅旗"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長城汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奇瑞汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HUD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AR-HUD"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印度:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tata Motors"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — C-HUD 訂單"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐系洽談:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volkswagen"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mercedes-Benz"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D HUD"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學投影:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 顯示面板及車用運算晶片"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $44.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.24",
+                  "12.81",
+                  "1.31",
+                  "2.23",
+                  "8.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4467.31",
+                  "4623.40",
+                  "3766.29"
+                ],
+                [
+                  "Gross Profit",
+                  "1143.05",
+                  "1197.43",
+                  "899.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.59",
+                  "25.90",
+                  "23.87"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "161.16",
+                  "174.17",
+                  "121.17"
+                ],
+                [
+                  "R&D Exp",
+                  "324.71",
+                  "346.80",
+                  "316.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "222.32",
+                  "217.55",
+                  "197.15"
+                ],
+                [
+                  "Operating Income",
+                  "434.86",
+                  "458.91",
+                  "264.12"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.73",
+                  "9.93",
+                  "7.01"
+                ],
+                [
+                  "Net Income",
+                  "287.25",
+                  "379.50",
+                  "232.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.43",
+                  "8.21",
+                  "6.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "811.89",
+                  "485.34",
+                  "469.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-54.83",
+                  "-303.86",
+                  "-166.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-789.48",
+                  "-340.15",
+                  "89.62"
+                ],
+                [
+                  "CAPEX",
+                  "-117.91",
+                  "-265.16",
+                  "-178.94"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1128.88",
+                  "1208.95",
+                  "1053.49",
+                  "1075.98"
+                ],
+                [
+                  "Gross Profit",
+                  "290.85",
+                  "296.59",
+                  "293.47",
+                  "262.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.76",
+                  "24.53",
+                  "27.86",
+                  "24.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "40.54",
+                  "43.54",
+                  "36.58",
+                  "40.50"
+                ],
+                [
+                  "R&D Exp",
+                  "72.72",
+                  "81.01",
+                  "90.17",
+                  "80.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "58.45",
+                  "56.28",
+                  "51.79",
+                  "55.80"
+                ],
+                [
+                  "Operating Income",
+                  "119.15",
+                  "115.76",
+                  "114.92",
+                  "85.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.55",
+                  "9.58",
+                  "10.91",
+                  "7.90"
+                ],
+                [
+                  "Net Income",
+                  "104.56",
+                  "109.75",
+                  "-19.05",
+                  "91.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.26",
+                  "9.08",
+                  "-1.81",
+                  "8.55"
+                ],
+                [
+                  "Op Cash Flow",
+                  "262.06",
+                  "403.47",
+                  "-69.79",
+                  "216.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "32.79",
+                  "-33.34",
+                  "-26.71",
+                  "-27.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-287.94",
+                  "-615.58",
+                  "72.63",
+                  "41.41"
+                ],
+                [
+                  "CAPEX",
+                  "-43.01",
+                  "-35.22",
+                  "-19.88",
+                  "-19.80"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "HUD",
+    "AR-HUD",
+    "HUD",
+    "AR-HUD",
+    "3D HUD",
+    "吉利汽車",
+    "一汽紅旗",
+    "長城汽車",
+    "奇瑞汽車",
+    "Tata Motors",
+    "Volkswagen",
+    "Mercedes-Benz",
+    "BMW",
+    "HUD",
+    "AR-HUD",
+    "3D HUD",
+    "吉利汽車",
+    "一汽紅旗",
+    "長城汽車",
+    "奇瑞汽車",
+    "Tata Motors",
+    "Volkswagen",
+    "Mercedes-Benz",
+    "BMW",
+    "吉利汽車",
+    "一汽紅旗",
+    "長城汽車",
+    "奇瑞汽車",
+    "HUD",
+    "AR-HUD",
+    "Tata Motors",
+    "Volkswagen",
+    "Mercedes-Benz",
+    "BMW",
+    "3D HUD"
+  ]
+}

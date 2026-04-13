@@ -1,0 +1,662 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/8291_尚茂.md",
+  "source_path": "Pilot_Reports/Electronic Components/8291_尚茂.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/8291_尚茂.json",
+  "ticker": "8291",
+  "company_name": "尚茂",
+  "title": "# 8291 - 尚茂",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "265 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "384 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "尚茂科技材料 (8291，ShineMore Technology Materials) 為日本大都美 (Daito Me) 集團子公司，成立於 1997 年，專注於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CCL"
+            },
+            {
+              "type": "text",
+              "text": " (銅箔基板) 與膠片之製造加工銷售。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品為 FR-4 等級 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CCL"
+            },
+            {
+              "type": "text",
+              "text": " (銅箔基板)、半固化片 (Prepreg/Bonding Sheet) 及金屬基 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CCL"
+            },
+            {
+              "type": "text",
+              "text": " 產品。"
+            },
+            {
+              "type": "wikilink",
+              "text": "CCL"
+            },
+            {
+              "type": "text",
+              "text": " 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 製造之最核心基材，公司產品主要供應中低階多層板 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 廠使用。營收以日本與台灣市場為主。公司規模較小 (市值約 3 億元)，屬銅箔基板產業之利基型廠商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅箔供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[玻纖布]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃纖維布供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環氧樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 環氧樹脂等熱固性樹脂供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (CCL 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[CCL]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "尚茂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (FR-4 銅箔基板、半固化片、金屬基 CCL 製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多層板 PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商 — 採用 FR-4 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 作為多層板基材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廠 — 母公司大都美集團客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣與日本 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商 — FR-4 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與半固化片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本大都美 (Daito Me) 集團客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多層板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中低階多層 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅箔供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[玻纖布]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃纖維布製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環氧樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 熱固性樹脂供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大都美 (Daito Me) — 技術支援與原料協調"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $15.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "91.85",
+                  "3.58",
+                  "-16.72"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2.88",
+                  "10.14",
+                  "37.03"
+                ],
+                [
+                  "Gross Profit",
+                  "-12.95",
+                  "-45.45",
+                  "-45.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-449.15",
+                  "-448.38",
+                  "-123.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1.23",
+                  "2.61",
+                  "2.67"
+                ],
+                [
+                  "R&D Exp",
+                  "0.00",
+                  "0.61",
+                  "0.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.95",
+                  "17.46",
+                  "16.69"
+                ],
+                [
+                  "Operating Income",
+                  "-30.13",
+                  "-66.14",
+                  "-65.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1045.02",
+                  "-652.53",
+                  "-177.16"
+                ],
+                [
+                  "Net Income",
+                  "-34.08",
+                  "-70.37",
+                  "-70.93"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1182.14",
+                  "-694.22",
+                  "-191.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-22.25",
+                  "-28.69",
+                  "-31.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.14",
+                  "1.18",
+                  "0.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-7.16",
+                  "25.37",
+                  "21.30"
+                ],
+                [
+                  "CAPEX",
+                  "-0.14",
+                  "-1.00",
+                  "-0.94"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1.08",
+                  "0.93",
+                  "0.50",
+                  "0.38"
+                ],
+                [
+                  "Gross Profit",
+                  "-2.68",
+                  "-2.89",
+                  "-3.04",
+                  "-4.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-249.26",
+                  "-311.97",
+                  "-607.40",
+                  "-1141.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.18",
+                  "0.34",
+                  "0.48",
+                  "0.23"
+                ],
+                [
+                  "R&D Exp",
+                  "0.00",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "3.63",
+                  "3.64",
+                  "3.98",
+                  "4.71"
+                ],
+                [
+                  "Operating Income",
+                  "-6.49",
+                  "-6.87",
+                  "-7.49",
+                  "-9.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-603.35",
+                  "-741.53",
+                  "-1498.20",
+                  "-2439.74"
+                ],
+                [
+                  "Net Income",
+                  "-7.22",
+                  "-8.09",
+                  "-8.38",
+                  "-10.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-671.38",
+                  "-872.28",
+                  "-1676.00",
+                  "-2734.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-0.80",
+                  "-4.77",
+                  "-3.65",
+                  "-13.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "0.00",
+                  "0.00",
+                  "0.00",
+                  "-0.14"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "5.45",
+                  "-0.23",
+                  "-5.12",
+                  "-7.26"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "0.00",
+                  "0.00",
+                  "-0.14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "CCL",
+    "CCL",
+    "CCL",
+    "CCL",
+    "PCB",
+    "PCB",
+    "銅箔",
+    "玻纖布",
+    "CCL",
+    "PCB",
+    "CCL",
+    "PCB",
+    "PCB",
+    "PCB",
+    "CCL",
+    "PCB",
+    "銅箔",
+    "玻纖布"
+  ]
+}

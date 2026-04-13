@@ -1,0 +1,968 @@
+{
+  "report_id": "Pilot_Reports/Advertising Agencies/6136_富爾特.md",
+  "source_path": "Pilot_Reports/Advertising Agencies/6136_富爾特.md",
+  "json_path": "Pilot_Reports_JSON/Advertising Agencies/6136_富爾特.json",
+  "ticker": "6136",
+  "company_name": "富爾特",
+  "title": "# 6136_富爾特",
+  "sector_folder": "Advertising Agencies",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Advertising Agencies"
+      },
+      {
+        "label": "市值:",
+        "value": "2,802 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,499 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "富爾特科技 (6136) 是一家以電信加值服務與數位娛樂為核心的平台營運商。公司為"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": "代理商，經營"
+            },
+            {
+              "type": "wikilink",
+              "text": "預付卡"
+            },
+            {
+              "type": "text",
+              "text": "申辦、儲值及入境觀光卡服務，並以 S2B2C 模式拓展"
+            },
+            {
+              "type": "wikilink",
+              "text": "國際漫遊"
+            },
+            {
+              "type": "text",
+              "text": "業務，覆蓋全球 95% 國人出遊目的地。集團旗下"
+            },
+            {
+              "type": "wikilink",
+              "text": "格帝控股"
+            },
+            {
+              "type": "text",
+              "text": " (GRANDI) 負責影視娛樂與"
+            },
+            {
+              "type": "wikilink",
+              "text": "整合行銷"
+            },
+            {
+              "type": "text",
+              "text": "，"
+            },
+            {
+              "type": "wikilink",
+              "text": "IMAGEMORE"
+            },
+            {
+              "type": "text",
+              "text": " 品牌經營東方風格原創"
+            },
+            {
+              "type": "wikilink",
+              "text": "數位圖庫"
+            },
+            {
+              "type": "text",
+              "text": "。公司另持有"
+            },
+            {
+              "type": "wikilink",
+              "text": "大聯大控股"
+            },
+            {
+              "type": "text",
+              "text": " (WPG)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "萬里雲"
+            },
+            {
+              "type": "text",
+              "text": " (CloudMile) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "曙客"
+            },
+            {
+              "type": "text",
+              "text": " (funNow) 等策略性投資。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (內容與技術供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信基礎建設:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電信網路與漫遊服務授權)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "，IoT 產品代理)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資安與軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際資安及商用軟體供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運與服務整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信加值:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "富爾特"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (預付卡代理、國際漫遊 S2B2C 平台)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影視娛樂與行銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "格帝控股"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (旗下"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "思索柏"
+                    },
+                    {
+                      "type": "text",
+                      "text": "數位廣告、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱思"
+                    },
+                    {
+                      "type": "text",
+                      "text": "數位公關、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "紅杉娛樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "影視開發、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "意起娛樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "動漫製作)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位影像:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IMAGEMORE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (原創圖庫與文創設計)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (通路與終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "超商通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "7-ELEVEN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線上旅遊平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KKday"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Klook"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Trip.com"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "旅行社:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "雄獅旅遊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "可樂旅遊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mastercard"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "街口支付"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信漫遊通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "7-ELEVEN"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (預付卡銷售)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線上旅遊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "KKday"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Klook"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Trip.com"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (漫遊服務合作)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "旅行社:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "雄獅旅遊"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "可樂旅遊"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mastercard"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "街口支付"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影音代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hami Video"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 影音服務代理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信網路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (核心電信服務與漫遊授權)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端與 AI:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萬里雲"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (CloudMile，雲端及 AI 服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位媒體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "利達數位影音"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Lihda，數位後製)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "27.25",
+                  "N/A",
+                  "4.38",
+                  "0.90",
+                  "497.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "639.46",
+                  "492.53",
+                  "506.23"
+                ],
+                [
+                  "Gross Profit",
+                  "164.18",
+                  "104.26",
+                  "96.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.68",
+                  "21.17",
+                  "19.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "82.46",
+                  "37.34",
+                  "38.62"
+                ],
+                [
+                  "R&D Exp",
+                  "2.25",
+                  "0.00",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "126.33",
+                  "99.81",
+                  "93.14"
+                ],
+                [
+                  "Operating Income",
+                  "-46.86",
+                  "-32.89",
+                  "-35.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.33",
+                  "-6.68",
+                  "-6.92"
+                ],
+                [
+                  "Net Income",
+                  "103.36",
+                  "103.50",
+                  "103.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.16",
+                  "21.01",
+                  "20.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "203.84",
+                  "127.31",
+                  "127.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-86.89",
+                  "73.83",
+                  "41.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6.58",
+                  "-141.54",
+                  "-134.91"
+                ],
+                [
+                  "CAPEX",
+                  "-13.81",
+                  "-3.30",
+                  "-6.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "180.99",
+                  "166.30",
+                  "158.59",
+                  "133.59"
+                ],
+                [
+                  "Gross Profit",
+                  "34.35",
+                  "43.13",
+                  "50.95",
+                  "35.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.98",
+                  "25.93",
+                  "32.13",
+                  "26.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.86",
+                  "26.75",
+                  "19.84",
+                  "11.02"
+                ],
+                [
+                  "R&D Exp",
+                  "0.81",
+                  "0.62",
+                  "0.82",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "35.84",
+                  "39.01",
+                  "30.07",
+                  "21.41"
+                ],
+                [
+                  "Operating Income",
+                  "-27.15",
+                  "-23.24",
+                  "0.22",
+                  "3.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.00",
+                  "-13.98",
+                  "0.14",
+                  "2.48"
+                ],
+                [
+                  "Net Income",
+                  "-5.96",
+                  "96.26",
+                  "9.56",
+                  "3.50"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.29",
+                  "57.89",
+                  "6.03",
+                  "2.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23.26",
+                  "124.76",
+                  "24.90",
+                  "30.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-6.61",
+                  "33.47",
+                  "-51.68",
+                  "-62.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "71.36",
+                  "-75.57",
+                  "-2.15",
+                  "-0.22"
+                ],
+                [
+                  "CAPEX",
+                  "-4.72",
+                  "-0.95",
+                  "-8.05",
+                  "-0.09"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "中華電信",
+    "預付卡",
+    "國際漫遊",
+    "格帝控股",
+    "整合行銷",
+    "IMAGEMORE",
+    "數位圖庫",
+    "大聯大控股",
+    "萬里雲",
+    "曙客",
+    "中華電信",
+    "瑞昱",
+    "瑞昱",
+    "格帝控股",
+    "思索柏",
+    "凱思",
+    "紅杉娛樂",
+    "意起娛樂",
+    "IMAGEMORE",
+    "7-ELEVEN",
+    "全家便利商店",
+    "萊爾富",
+    "KKday",
+    "Klook",
+    "Trip.com",
+    "雄獅旅遊",
+    "可樂旅遊",
+    "Mastercard",
+    "街口支付",
+    "7-ELEVEN",
+    "全家便利商店",
+    "萊爾富",
+    "KKday",
+    "Klook",
+    "Trip.com",
+    "雄獅旅遊",
+    "可樂旅遊",
+    "Mastercard",
+    "街口支付",
+    "中華電信",
+    "Hami Video",
+    "中華電信",
+    "瑞昱",
+    "萬里雲",
+    "利達數位影音"
+  ]
+}

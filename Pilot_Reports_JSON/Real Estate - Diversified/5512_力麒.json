@@ -1,0 +1,654 @@
+{
+  "report_id": "Pilot_Reports/Real Estate - Diversified/5512_力麒.md",
+  "source_path": "Pilot_Reports/Real Estate - Diversified/5512_力麒.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate - Diversified/5512_力麒.json",
+  "ticker": "5512",
+  "company_name": "力麒",
+  "title": "# 5512 - 力麒",
+  "sector_folder": "Real Estate - Diversified",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate - Diversified"
+      },
+      {
+        "label": "市值:",
+        "value": "6,094 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "29,771 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "力麒建設"
+            },
+            {
+              "type": "text",
+              "text": " (5512，Rich Development) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "力麗集團"
+            },
+            {
+              "type": "text",
+              "text": "成員，業務涵蓋營建、環工與觀光三大支柱。主要業務：(1) 營建本業 — 深耕台北市精華區"
+            },
+            {
+              "type": "wikilink",
+              "text": "都市更新"
+            },
+            {
+              "type": "text",
+              "text": "/合建，代表作為「力麒博御」、「力麒天沐」；(2) 環境工程 — 轉投資"
+            },
+            {
+              "type": "wikilink",
+              "text": "山林水"
+            },
+            {
+              "type": "text",
+              "text": " (8473)，專注污水處理與再生水廠 (楠梓再生水廠供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "高雄廠)；(3) 觀光飯店 — 轉投資力麗酒店 (5364)，經營力麗哲園系列及日月潭力麗溫德姆溫泉酒店 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "溫德姆酒店集團"
+            },
+            {
+              "type": "text",
+              "text": "品牌)。營收結構已轉型，環工與水資源業務佔比顯著提升，提供穩定現金流。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (土地與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "土地取得:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北市精華區"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "都市更新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及合建"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造施工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 關係企業與外部營造廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (多角化經營)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 力麒建設 — 住宅開發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "山林水"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (8473) — 污水處理、再生水"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "觀光:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 力麗酒店 (5364) — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "溫德姆酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "購屋族群:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雙北換屋族及置產客"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再生水客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄廠 (楠梓再生水廠)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高雄市政府、宜蘭縣政府 (污水 BOT)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雙北購屋客群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環工客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄廠 — 楠梓再生水；高雄市政府、宜蘭縣政府 — 污水 BOT"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "觀光旅客:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 力麗哲園系列及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "溫德姆酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌飯店住客"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力麗集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環工子公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "山林水"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (8473) — 環工設備與營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "溫德姆酒店集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 飯店品牌授權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $8.02 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "72.91",
+                  "N/A",
+                  "0.88",
+                  "0.45",
+                  "27.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5951.69",
+                  "7705.54",
+                  "6305.19"
+                ],
+                [
+                  "Gross Profit",
+                  "1036.35",
+                  "1180.68",
+                  "714.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.41",
+                  "15.32",
+                  "11.34"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "119.92",
+                  "131.78",
+                  "79.23"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "0.00",
+                  "0.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "466.56",
+                  "439.61",
+                  "442.27"
+                ],
+                [
+                  "Operating Income",
+                  "449.88",
+                  "609.29",
+                  "192.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.56",
+                  "7.91",
+                  "3.06"
+                ],
+                [
+                  "Net Income",
+                  "128.23",
+                  "240.60",
+                  "43.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.15",
+                  "3.12",
+                  "0.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "901.60",
+                  "1811.69",
+                  "574.83"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1359.63",
+                  "-876.03",
+                  "-372.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1557.40",
+                  "-560.37",
+                  "-1076.30"
+                ],
+                [
+                  "CAPEX",
+                  "-878.51",
+                  "-764.31",
+                  "-437.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1769.59",
+                  "1437.76",
+                  "1703.30",
+                  "2034.72"
+                ],
+                [
+                  "Gross Profit",
+                  "267.57",
+                  "322.17",
+                  "407.68",
+                  "359.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.12",
+                  "22.41",
+                  "23.93",
+                  "17.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "22.97",
+                  "25.63",
+                  "30.77",
+                  "45.34"
+                ],
+                [
+                  "R&D Exp",
+                  "2.17",
+                  "1.10",
+                  "1.89",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "108.35",
+                  "126.35",
+                  "109.54",
+                  "139.56"
+                ],
+                [
+                  "Operating Income",
+                  "134.07",
+                  "169.10",
+                  "265.48",
+                  "174.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.58",
+                  "11.76",
+                  "15.59",
+                  "8.56"
+                ],
+                [
+                  "Net Income",
+                  "-31.04",
+                  "4.36",
+                  "51.41",
+                  "68.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.75",
+                  "0.30",
+                  "3.02",
+                  "3.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "40.15",
+                  "-1667.96",
+                  "-1378.64",
+                  "907.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-255.71",
+                  "-246.53",
+                  "-40.67",
+                  "-689.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "337.45",
+                  "1913.89",
+                  "1160.97",
+                  "777.82"
+                ],
+                [
+                  "CAPEX",
+                  "-13.43",
+                  "-138.87",
+                  "-38.55",
+                  "-107.87"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "力麒建設",
+    "力麗集團",
+    "都市更新",
+    "山林水",
+    "台積電",
+    "溫德姆酒店集團",
+    "都市更新",
+    "山林水",
+    "溫德姆酒店集團",
+    "台積電",
+    "台積電",
+    "溫德姆酒店集團",
+    "力麗集團",
+    "山林水",
+    "溫德姆酒店集團"
+  ]
+}

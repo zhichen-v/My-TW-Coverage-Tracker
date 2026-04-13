@@ -1,0 +1,594 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/3498_陽程.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/3498_陽程.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/3498_陽程.json",
+  "ticker": "3498",
+  "company_name": "陽程",
+  "title": "# 3498 - 陽程",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "4,766 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,204 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "陽程科技 (Usun Technology) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "自動化設備"
+            },
+            {
+              "type": "text",
+              "text": " 製造商。\n核心應用領域為 "
+            },
+            {
+              "type": "strong",
+              "text": "銅箔基板 (CCL)"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "strong",
+              "text": "印刷電路板 (PCB)"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "strong",
+              "text": "平面顯示器 (FPD)"
+            },
+            {
+              "type": "text",
+              "text": " 之製程設備。\n近年積極布局 "
+            },
+            {
+              "type": "strong",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "市場。\n"
+            },
+            {
+              "type": "strong",
+              "text": "[[鴻海]]"
+            },
+            {
+              "type": "text",
+              "text": " 為重要策略合作夥伴 (曾參與私募)，共同開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "機器人"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "產線。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "線性滑軌"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "馬達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "感測器"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "控制器"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "陽程 (3498)"
+            },
+            {
+              "type": "text",
+              "text": " - "
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "設備整合設計與製造.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "CCL/PCB"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "南亞"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "聯茂"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台光電"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "EMS/組裝"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "面板"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "鴻海"
+                },
+                {
+                  "type": "text",
+                  "text": " - 策略夥伴/客戶.\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "南亞"
+                },
+                {
+                  "type": "text",
+                  "text": " (Nan Ya Plastics).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "聯茂"
+                },
+                {
+                  "type": "text",
+                  "text": " (ITEQ)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $78.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "148.87",
+                  "N/A",
+                  "3.51",
+                  "2.16",
+                  "18.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1358.07",
+                  "946.87",
+                  "1199.18"
+                ],
+                [
+                  "Gross Profit",
+                  "516.93",
+                  "275.21",
+                  "333.29"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.06",
+                  "29.07",
+                  "27.79"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "89.59",
+                  "79.58",
+                  "76.98"
+                ],
+                [
+                  "R&D Exp",
+                  "225.99",
+                  "203.61",
+                  "239.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "151.69",
+                  "180.97",
+                  "153.77"
+                ],
+                [
+                  "Operating Income",
+                  "49.66",
+                  "-188.95",
+                  "-137.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.66",
+                  "-19.96",
+                  "-11.46"
+                ],
+                [
+                  "Net Income",
+                  "29.12",
+                  "-151.12",
+                  "-146.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.14",
+                  "-15.96",
+                  "-12.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "199.81",
+                  "3.69",
+                  "13.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-285.17",
+                  "-208.64",
+                  "309.73"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-53.31",
+                  "31.40",
+                  "-218.54"
+                ],
+                [
+                  "CAPEX",
+                  "-6.32",
+                  "-7.40",
+                  "-14.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "510.93",
+                  "237.81",
+                  "465.79",
+                  "143.53"
+                ],
+                [
+                  "Gross Profit",
+                  "210.22",
+                  "107.64",
+                  "182.67",
+                  "16.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.15",
+                  "45.26",
+                  "39.22",
+                  "11.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "34.05",
+                  "19.76",
+                  "17.52",
+                  "18.27"
+                ],
+                [
+                  "R&D Exp",
+                  "48.33",
+                  "62.03",
+                  "52.73",
+                  "62.89"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.62",
+                  "38.08",
+                  "35.89",
+                  "37.10"
+                ],
+                [
+                  "Operating Income",
+                  "87.22",
+                  "-12.22",
+                  "76.52",
+                  "-101.87"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.07",
+                  "-5.14",
+                  "16.43",
+                  "-70.97"
+                ],
+                [
+                  "Net Income",
+                  "83.40",
+                  "-11.72",
+                  "20.66",
+                  "-63.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.32",
+                  "-4.93",
+                  "4.43",
+                  "-44.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "131.14",
+                  "83.13",
+                  "105.66",
+                  "-120.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-208.50",
+                  "-352.91",
+                  "126.65",
+                  "149.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.00",
+                  "9.26",
+                  "-0.88",
+                  "-60.69"
+                ],
+                [
+                  "CAPEX",
+                  "-2.40",
+                  "-1.83",
+                  "-1.15",
+                  "-0.94"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "自動化",
+    "鴻海",
+    "機器人",
+    "自動化",
+    "線性滑軌",
+    "馬達",
+    "感測器",
+    "控制器",
+    "自動化",
+    "南亞",
+    "聯茂",
+    "台光電",
+    "鴻海",
+    "友達",
+    "群創",
+    "鴻海",
+    "南亞",
+    "聯茂"
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/8155_博智.md",
+  "source_path": "Pilot_Reports/Electronic Components/8155_博智.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/8155_博智.json",
+  "ticker": "8155",
+  "company_name": "博智",
+  "title": "# 8155 - 博智",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "15,376 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "14,829 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "博智電子 (8155，Allied Circuit，ACCL) 為金"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "集團轉投資之利基型印刷電路板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": ") 製造商，成立於 1995 年，專注於高階、高層數多層板與厚銅板。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品為高可靠度剛性多層 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "HDI"
+            },
+            {
+              "type": "text",
+              "text": " 產品，主要應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、網通設備、"
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": " (工業電腦) 及半導體測試用負載板/探針卡 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "。近年積極布局 AI 伺服器市場，已切入美系 AI/ASIC 客戶供應鏈，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Supermicro"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": " 等伺服器品牌之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 供應商，並曾為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": " 伺服器 GPU (Max Series) 提供 PCB。公司亦為 UBB (通用背板) 主要供應商之一。2025 年前二月累計營收年增逾 55%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (PCB 原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應商如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅箔供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學藥水:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 製程化學品供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑽針:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 鑽孔用鑽針"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "多層板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "博智"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高層數多層 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HDI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、厚銅板製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI/GPU 伺服器用高階 PCB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 交換器與路由器 — 高速網通板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電腦主板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 負載板與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "探針卡"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI/GPU 伺服器 PCB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ASIC 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系 AI ASIC 客戶 — 客製化 PCB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 交換器與路由器品牌商 — 高速網通 PCB"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 探針卡與負載板廠 — 測試用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高頻高速 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CCL"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電解銅箔供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 製程化學藥水供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團 — 轉投資支援"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $268.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "44.22",
+                  "12.46",
+                  "3.11",
+                  "4.80",
+                  "24.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3615.76",
+                  "2892.41",
+                  "3445.82"
+                ],
+                [
+                  "Gross Profit",
+                  "580.00",
+                  "506.59",
+                  "975.63"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.04",
+                  "17.51",
+                  "28.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "83.36",
+                  "37.83",
+                  "50.12"
+                ],
+                [
+                  "R&D Exp",
+                  "111.98",
+                  "101.59",
+                  "98.19"
+                ],
+                [
+                  "General & Admin Exp",
+                  "134.58",
+                  "150.44",
+                  "168.03"
+                ],
+                [
+                  "Operating Income",
+                  "250.08",
+                  "216.74",
+                  "659.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.92",
+                  "7.49",
+                  "19.13"
+                ],
+                [
+                  "Net Income",
+                  "236.36",
+                  "204.12",
+                  "555.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.54",
+                  "7.06",
+                  "16.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "399.31",
+                  "495.64",
+                  "677.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-277.76",
+                  "-243.16",
+                  "-216.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-227.28",
+                  "-436.39",
+                  "-313.48"
+                ],
+                [
+                  "CAPEX",
+                  "-277.10",
+                  "-246.12",
+                  "-216.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1213.01",
+                  "1223.65",
+                  "1127.76",
+                  "978.30"
+                ],
+                [
+                  "Gross Profit",
+                  "250.35",
+                  "87.28",
+                  "176.17",
+                  "154.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.64",
+                  "7.13",
+                  "15.62",
+                  "15.82"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.37",
+                  "35.50",
+                  "33.07",
+                  "23.50"
+                ],
+                [
+                  "R&D Exp",
+                  "37.51",
+                  "29.02",
+                  "34.12",
+                  "28.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.77",
+                  "31.70",
+                  "37.53",
+                  "34.24"
+                ],
+                [
+                  "Operating Income",
+                  "141.70",
+                  "-8.95",
+                  "71.45",
+                  "68.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.68",
+                  "-0.73",
+                  "6.34",
+                  "6.98"
+                ],
+                [
+                  "Net Income",
+                  "126.02",
+                  "-10.72",
+                  "66.46",
+                  "73.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.39",
+                  "-0.88",
+                  "5.89",
+                  "7.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-46.60",
+                  "100.33",
+                  "-47.29",
+                  "187.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-192.73",
+                  "-66.40",
+                  "-140.48",
+                  "-58.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-172.83",
+                  "14.63",
+                  "1580.70",
+                  "-90.18"
+                ],
+                [
+                  "CAPEX",
+                  "-193.07",
+                  "-66.57",
+                  "-140.50",
+                  "-54.63"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "仁寶",
+    "PCB",
+    "PCB",
+    "HDI",
+    "AI 伺服器",
+    "IPC",
+    "PCB",
+    "Supermicro",
+    "Dell",
+    "PCB",
+    "Intel",
+    "CCL",
+    "台光電",
+    "聯茂",
+    "銅箔",
+    "PCB",
+    "HDI",
+    "Supermicro",
+    "Dell",
+    "IPC",
+    "探針卡",
+    "Supermicro",
+    "Dell",
+    "PCB",
+    "台光電",
+    "聯茂",
+    "CCL",
+    "銅箔",
+    "仁寶"
+  ]
+}

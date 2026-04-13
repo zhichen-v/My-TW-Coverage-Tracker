@@ -1,0 +1,770 @@
+{
+  "report_id": "Pilot_Reports/Software - Infrastructure/7749_意騰-KY.md",
+  "source_path": "Pilot_Reports/Software - Infrastructure/7749_意騰-KY.md",
+  "json_path": "Pilot_Reports_JSON/Software - Infrastructure/7749_意騰-KY.json",
+  "ticker": "7749",
+  "company_name": "意騰-KY",
+  "title": "# 7749 - 意騰-KY",
+  "sector_folder": "Software - Infrastructure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Infrastructure"
+      },
+      {
+        "label": "市值:",
+        "value": "18,385 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "15,264 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "意騰科技股份有限公司 (7749，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": "ligo) 為台灣 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 邊緣運算聲學技術領導者，由"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯發科"
+            },
+            {
+              "type": "text",
+              "text": "於 2016 年分拆成立，"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯發科"
+            },
+            {
+              "type": "text",
+              "text": "持股約 20%。公司專攻極低功耗之「邊緣 AI 類神經網路聲學演算法」與專用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ASIC"
+            },
+            {
+              "type": "text",
+              "text": " 晶片設計，核心產品 IG2200 AI 聲學晶片可在極有限算力之終端設備中執行即時語音降噪、聲紋辨識與回音消除。應用範圍涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nintendo Switch 2"
+            },
+            {
+              "type": "text",
+              "text": " GameChat 語音通訊系統、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI PC"
+            },
+            {
+              "type": "text",
+              "text": "、TWS 藍牙耳機及車載通訊系統。公司已成為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯發科"
+            },
+            {
+              "type": "text",
+              "text": "在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI PC"
+            },
+            {
+              "type": "text",
+              "text": " 晶片計畫中指定之「聲學大腦」供應商，2025 年營收受惠於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nintendo Switch 2"
+            },
+            {
+              "type": "text",
+              "text": " 出貨強勁成長。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工與 IP)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ASIC 晶片製造 (擬採 12 奈米)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽智財:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 第三方 IP 授權商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音訊元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型麥克風陣列感測廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 ([[AI]] 聲學設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "意騰科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 邊緣運算聲學 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASIC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶片設計、語音辨識演算法 IP 授權、技術服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲主機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "任天堂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nintendo Switch 2"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GameChat 聲學處理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI PC 聲學供應鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TWS 藍牙耳機與智慧音箱品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DENSO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車載語音通訊"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲主機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "任天堂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nintendo Switch 2"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GameChat IG2200 晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI PC 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI PC 聲學方案整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 Tier-1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DENSO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 日本車載語音通訊系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TWS 藍牙耳機品牌廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ASIC 晶片製造"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略股東:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (持股約 20%) — 通訊主晶片戰略適配"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 後段封測廠 — 晶片封裝與測試"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $395.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "34.85",
+                  "N/A",
+                  "11.56",
+                  "4.91",
+                  "24.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1590.53",
+                  "858.73",
+                  "600.39"
+                ],
+                [
+                  "Gross Profit",
+                  "1210.82",
+                  "738.58",
+                  "570.25"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "76.13",
+                  "86.01",
+                  "94.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "80.39",
+                  "62.47",
+                  "49.17"
+                ],
+                [
+                  "R&D Exp",
+                  "457.69",
+                  "368.74",
+                  "316.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "96.42",
+                  "76.81",
+                  "43.06"
+                ],
+                [
+                  "Operating Income",
+                  "576.32",
+                  "230.56",
+                  "161.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "36.23",
+                  "26.85",
+                  "26.91"
+                ],
+                [
+                  "Net Income",
+                  "517.53",
+                  "265.61",
+                  "93.98"
+                ],
+                [
+                  "Net Margin (%)",
+                  "32.54",
+                  "30.93",
+                  "15.65"
+                ],
+                [
+                  "Op Cash Flow",
+                  "638.06",
+                  "391.70",
+                  "208.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1260.61",
+                  "74.12",
+                  "-575.39"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1853.54",
+                  "-226.82",
+                  "34.97"
+                ],
+                [
+                  "CAPEX",
+                  "-11.72",
+                  "-14.25",
+                  "-12.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "447.81",
+                  "481.58",
+                  "349.83",
+                  "311.30"
+                ],
+                [
+                  "Gross Profit",
+                  "320.08",
+                  "364.07",
+                  "274.81",
+                  "251.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "71.48",
+                  "75.60",
+                  "78.55",
+                  "80.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.33",
+                  "21.12",
+                  "18.05",
+                  "16.89"
+                ],
+                [
+                  "R&D Exp",
+                  "138.87",
+                  "141.08",
+                  "87.03",
+                  "90.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.47",
+                  "25.97",
+                  "22.73",
+                  "22.26"
+                ],
+                [
+                  "Operating Income",
+                  "131.41",
+                  "175.91",
+                  "147.00",
+                  "122.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "29.34",
+                  "36.53",
+                  "42.02",
+                  "39.19"
+                ],
+                [
+                  "Net Income",
+                  "124.07",
+                  "196.26",
+                  "93.33",
+                  "103.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "27.71",
+                  "40.75",
+                  "26.68",
+                  "33.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "300.98",
+                  "93.68",
+                  "49.58",
+                  "193.83"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-519.72",
+                  "-932.63",
+                  "36.45",
+                  "155.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4.42",
+                  "-4.00",
+                  "1865.57",
+                  "-3.61"
+                ],
+                [
+                  "CAPEX",
+                  "54.92",
+                  "-63.63",
+                  "-2.30",
+                  "-0.71"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Intel",
+    "AI",
+    "聯發科",
+    "聯發科",
+    "ASIC",
+    "Nintendo Switch 2",
+    "AI PC",
+    "NVIDIA",
+    "聯發科",
+    "AI PC",
+    "Nintendo Switch 2",
+    "台積電",
+    "AI",
+    "AI",
+    "ASIC",
+    "任天堂",
+    "Nintendo Switch 2",
+    "NVIDIA",
+    "聯發科",
+    "DENSO",
+    "任天堂",
+    "Nintendo Switch 2",
+    "NVIDIA",
+    "聯發科",
+    "DENSO",
+    "台積電",
+    "聯發科"
+  ]
+}

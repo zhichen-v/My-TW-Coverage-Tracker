@@ -1,0 +1,646 @@
+{
+  "report_id": "Pilot_Reports/Waste Management/8390_金益鼎.md",
+  "source_path": "Pilot_Reports/Waste Management/8390_金益鼎.md",
+  "json_path": "Pilot_Reports_JSON/Waste Management/8390_金益鼎.json",
+  "ticker": "8390",
+  "company_name": "金益鼎",
+  "title": "# 8390 - [[金益鼎]]",
+  "sector_folder": "Waste Management",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Waste Management"
+      },
+      {
+        "label": "市值:",
+        "value": "8,958 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,696 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "金益鼎企業股份有限公司 (8390) 設立於1997年，為台灣專業電子廢棄物回收處理與貴金屬精煉企業，總部位於新竹。主要業務包括："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "電子廢棄物處理："
+            },
+            {
+              "type": "text",
+              "text": " 提供"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "、電腦零組件、光電、化工及石化等產業之廢棄物清除與處理。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "貴金屬精煉："
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "精煉金、銀、鉑、鈀等高純度貴金屬，受惠國際金價與銅價上漲。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "太陽能板回收："
+            },
+            {
+              "type": "text",
+              "text": " 上市櫃唯一取得台灣廢太陽能板回收處理代碼之公司，回收率近98%。新竹二廠即將投產。\n4. "
+            },
+            {
+              "type": "strong",
+              "text": "半導體設備清洗："
+            },
+            {
+              "type": "text",
+              "text": " 提供半導體設備清洗服務。\n5. "
+            },
+            {
+              "type": "strong",
+              "text": "電鍍材料："
+            },
+            {
+              "type": "text",
+              "text": " 因"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "與記憶體產業對鍍金需求增加，帶動高純度貴金屬精煉與電鍍材料訂單成長。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (廢棄物來源)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[半導體]]產業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶圓廠與封測廠之電子廢料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]]產業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廢印刷電路板與銅料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 退役廢太陽能板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (回收與精煉)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金益鼎 (8390)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子廢棄物回收、貴金屬"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OEM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "精煉、廢太陽能板回收處理、半導體設備清洗"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (產品銷售)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貴金屬交易："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金、銀、鉑、鈀等高純度貴金屬銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電鍍材料："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與記憶體產業之鍍金材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再生金屬："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廢鐵、銅、鋁、錫等混合金屬與單一金屬銷售"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體產業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等晶圓廠之電子廢料處理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]]產業："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等PCB廠之廢電路板回收"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[AI 伺服器]]："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 因鍍金需求增加之記憶體與伺服器廠商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 退役太陽能板處理需求業者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廢棄物來源："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內半導體、PCB、光電等產業之電子廢料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學藥劑："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精煉製程所需之化學藥劑供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $93.20 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.21",
+                  "N/A",
+                  "1.93",
+                  "2.58",
+                  "11.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4936.00",
+                  "3658.47",
+                  "3625.35"
+                ],
+                [
+                  "Gross Profit",
+                  "826.97",
+                  "472.45",
+                  "504.59"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.75",
+                  "12.91",
+                  "13.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "57.20",
+                  "38.55",
+                  "39.57"
+                ],
+                [
+                  "R&D Exp",
+                  "4.17",
+                  "2.83",
+                  "2.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "177.32",
+                  "150.92",
+                  "154.56"
+                ],
+                [
+                  "Operating Income",
+                  "588.28",
+                  "280.15",
+                  "308.21"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.92",
+                  "7.66",
+                  "8.50"
+                ],
+                [
+                  "Net Income",
+                  "465.43",
+                  "534.75",
+                  "316.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.43",
+                  "14.62",
+                  "8.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "419.60",
+                  "212.15",
+                  "332.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-81.42",
+                  "-143.24",
+                  "-102.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-161.23",
+                  "-183.06",
+                  "-454.44"
+                ],
+                [
+                  "CAPEX",
+                  "-263.27",
+                  "-102.68",
+                  "-99.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "990.31",
+                  "1301.60",
+                  "1105.64",
+                  "1235.59"
+                ],
+                [
+                  "Gross Profit",
+                  "193.59",
+                  "259.29",
+                  "188.10",
+                  "229.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.55",
+                  "19.92",
+                  "17.01",
+                  "18.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.12",
+                  "12.79",
+                  "10.17",
+                  "18.95"
+                ],
+                [
+                  "R&D Exp",
+                  "2.40",
+                  "1.39",
+                  "1.00",
+                  "1.22"
+                ],
+                [
+                  "General & Admin Exp",
+                  "41.27",
+                  "58.77",
+                  "51.29",
+                  "41.81"
+                ],
+                [
+                  "Operating Income",
+                  "136.80",
+                  "186.34",
+                  "125.64",
+                  "167.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.81",
+                  "14.32",
+                  "11.36",
+                  "13.54"
+                ],
+                [
+                  "Net Income",
+                  "227.54",
+                  "146.18",
+                  "117.27",
+                  "104.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "22.98",
+                  "11.23",
+                  "10.61",
+                  "8.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "123.32",
+                  "187.68",
+                  "319.91",
+                  "399.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-42.73",
+                  "-21.09",
+                  "-124.99",
+                  "-102.59"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-429.73",
+                  "176.35",
+                  "19.56",
+                  "-64.37"
+                ],
+                [
+                  "CAPEX",
+                  "-14.69",
+                  "-30.73",
+                  "-125.15",
+                  "-182.54"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "金益鼎",
+    "半導體",
+    "PCB",
+    "OEM",
+    "AI 伺服器",
+    "半導體",
+    "PCB",
+    "OEM",
+    "AI 伺服器",
+    "台積電",
+    "聯電",
+    "PCB",
+    "欣興",
+    "AI 伺服器"
+  ]
+}

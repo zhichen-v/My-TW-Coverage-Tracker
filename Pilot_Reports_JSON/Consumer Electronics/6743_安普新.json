@@ -1,0 +1,763 @@
+{
+  "report_id": "Pilot_Reports/Consumer Electronics/6743_安普新.md",
+  "source_path": "Pilot_Reports/Consumer Electronics/6743_安普新.md",
+  "json_path": "Pilot_Reports_JSON/Consumer Electronics/6743_安普新.json",
+  "ticker": "6743",
+  "company_name": "安普新",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Consumer Electronics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Consumer Electronics"
+      },
+      {
+        "label": "市值:",
+        "value": "3,503 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,079 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "安普新股份有限公司 (6743) 是一家專注於消費性電子聲學產品及塑膠機構零組件設計製造的全球大廠。公司營運主力為聲學產品代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ")，超過九成營收來自頭戴式"
+            },
+            {
+              "type": "wikilink",
+              "text": "電競耳機"
+            },
+            {
+              "type": "text",
+              "text": "與真無線藍牙耳機 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "TWS"
+            },
+            {
+              "type": "text",
+              "text": ")。公司擁有堅強的聲學調音技術與高度垂直整合的塑膠射出成型廠，能有效控制成本並縮短產品上市週期。安普新與全球電競耳機品牌廠廣泛合作，覆蓋全球約九成品牌，主要生產基地涵蓋中國及越南廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (聲學與電子零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動單體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聲學驅動單體供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音訊晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高通) — 藍牙/音訊 SoC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "麥克風:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 麥克風收音模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ABS/PC 工程塑膠原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶海綿:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 耳罩用記憶海綿"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電路板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印刷電路板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (耳機設計與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安普新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (頭戴式"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電競耳機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ODM)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TWS 耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安普新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 真無線藍牙耳機代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "安普新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (消費電子塑膠零組件)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (國際品牌客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SteelSeries"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Turtle Beach"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corsair"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HyperX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等全球電競周邊品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國與印度跨國藍牙耳機消費品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電競品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SteelSeries"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Turtle Beach"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corsair"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HyperX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電競耳機 ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國與印度跨國藍牙耳機品牌 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球覆蓋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球約九成電競耳機品牌廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音訊晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高通) — 藍牙/音訊 SoC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ABS/PC 工程塑膠粒供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動單體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聲學驅動單體供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.75 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "98.96",
+                  "10.80",
+                  "0.62",
+                  "1.35",
+                  "10.01"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6881.44",
+                  "3861.30",
+                  "5051.97"
+                ],
+                [
+                  "Gross Profit",
+                  "1263.95",
+                  "729.61",
+                  "685.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.37",
+                  "18.90",
+                  "13.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "95.19",
+                  "78.48",
+                  "86.00"
+                ],
+                [
+                  "R&D Exp",
+                  "172.84",
+                  "174.94",
+                  "217.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "401.32",
+                  "300.61",
+                  "288.64"
+                ],
+                [
+                  "Operating Income",
+                  "594.60",
+                  "175.57",
+                  "94.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.64",
+                  "4.55",
+                  "1.86"
+                ],
+                [
+                  "Net Income",
+                  "309.73",
+                  "-6.82",
+                  "73.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.50",
+                  "-0.18",
+                  "1.45"
+                ],
+                [
+                  "Op Cash Flow",
+                  "392.05",
+                  "33.41",
+                  "1136.05"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-416.09",
+                  "-441.91",
+                  "-328.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "237.50",
+                  "302.79",
+                  "-751.28"
+                ],
+                [
+                  "CAPEX",
+                  "-343.74",
+                  "-194.64",
+                  "-364.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1733.17",
+                  "1241.89",
+                  "1162.00",
+                  "1482.51"
+                ],
+                [
+                  "Gross Profit",
+                  "374.55",
+                  "256.12",
+                  "146.23",
+                  "243.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.61",
+                  "20.62",
+                  "12.58",
+                  "16.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "25.01",
+                  "17.03",
+                  "20.72",
+                  "26.10"
+                ],
+                [
+                  "R&D Exp",
+                  "52.13",
+                  "52.68",
+                  "36.59",
+                  "43.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "84.50",
+                  "57.98",
+                  "101.01",
+                  "95.59"
+                ],
+                [
+                  "Operating Income",
+                  "212.92",
+                  "128.43",
+                  "-12.08",
+                  "78.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.28",
+                  "10.34",
+                  "-1.04",
+                  "5.27"
+                ],
+                [
+                  "Net Income",
+                  "116.64",
+                  "-15.18",
+                  "-43.90",
+                  "-22.41"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.73",
+                  "-1.22",
+                  "-3.78",
+                  "-1.51"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-292.58",
+                  "63.43",
+                  "165.63",
+                  "527.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-176.47",
+                  "-41.22",
+                  "-91.26",
+                  "20.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "514.22",
+                  "-331.91",
+                  "-44.92",
+                  "-464.97"
+                ],
+                [
+                  "CAPEX",
+                  "-97.12",
+                  "-63.24",
+                  "-86.50",
+                  "-24.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OEM",
+    "ODM",
+    "電競耳機",
+    "TWS",
+    "瑞昱",
+    "Qualcomm",
+    "PCB",
+    "電競耳機",
+    "TWS",
+    "SteelSeries",
+    "Turtle Beach",
+    "Corsair",
+    "HyperX",
+    "SteelSeries",
+    "Turtle Beach",
+    "Corsair",
+    "HyperX",
+    "TWS",
+    "瑞昱",
+    "Qualcomm"
+  ]
+}

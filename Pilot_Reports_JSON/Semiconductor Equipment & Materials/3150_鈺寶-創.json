@@ -1,0 +1,555 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/3150_鈺寶-創.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/3150_鈺寶-創.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/3150_鈺寶-創.json",
+  "ticker": "3150",
+  "company_name": "鈺寶-創",
+  "title": "# 3150 - 鈺寶-創",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "859 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "554 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "鈺寶科技 (3150) 是一家專業的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 設計"
+            },
+            {
+              "type": "text",
+              "text": "公司，專注於高效能低功耗"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線音訊傳輸"
+            },
+            {
+              "type": "text",
+              "text": "晶片及模組設計。公司核心技術為無線數位音視訊傳輸，採用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS"
+            },
+            {
+              "type": "text",
+              "text": " 製程。競爭同業包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Qualcomm"
+            },
+            {
+              "type": "text",
+              "text": " (aptX) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Airoha"
+            },
+            {
+              "type": "text",
+              "text": "，產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線耳機"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線音響"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "無線麥克風"
+            },
+            {
+              "type": "text",
+              "text": "及家電音響設備。公司為全球無線音訊傳輸技術的領導廠商之一。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無線音訊 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "鈺寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (低延遲無線音訊傳輸晶片及模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音響設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球家用及專業音響品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無線耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無線耳機及麥克風品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧家電音訊模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音響品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球家用及專業音響設備品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無線耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無線耳機及麥克風品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧家電製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $19.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "2.85",
+                  "1.53",
+                  "122.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "301.81",
+                  "345.26",
+                  "219.39"
+                ],
+                [
+                  "Gross Profit",
+                  "134.61",
+                  "164.38",
+                  "103.08"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "44.60",
+                  "47.61",
+                  "46.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.29",
+                  "28.89",
+                  "24.36"
+                ],
+                [
+                  "R&D Exp",
+                  "92.12",
+                  "79.99",
+                  "73.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "34.88",
+                  "36.28",
+                  "32.35"
+                ],
+                [
+                  "Operating Income",
+                  "-16.68",
+                  "19.22",
+                  "-27.36"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.53",
+                  "5.57",
+                  "-12.47"
+                ],
+                [
+                  "Net Income",
+                  "-9.93",
+                  "30.77",
+                  "-22.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.29",
+                  "8.91",
+                  "-10.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "121.35",
+                  "87.49",
+                  "-24.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-37.73",
+                  "-296.29",
+                  "-23.11"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-50.94",
+                  "51.91",
+                  "205.79"
+                ],
+                [
+                  "CAPEX",
+                  "-21.91",
+                  "-136.25",
+                  "-12.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "50.34",
+                  "82.15",
+                  "83.40",
+                  "85.92"
+                ],
+                [
+                  "Gross Profit",
+                  "20.17",
+                  "38.01",
+                  "35.12",
+                  "41.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.07",
+                  "46.27",
+                  "42.11",
+                  "48.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.00",
+                  "6.21",
+                  "5.81",
+                  "6.27"
+                ],
+                [
+                  "R&D Exp",
+                  "26.13",
+                  "23.46",
+                  "20.82",
+                  "21.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9.49",
+                  "9.02",
+                  "7.89",
+                  "8.48"
+                ],
+                [
+                  "Operating Income",
+                  "-21.45",
+                  "-0.68",
+                  "0.59",
+                  "4.85"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-42.61",
+                  "-0.83",
+                  "0.71",
+                  "5.64"
+                ],
+                [
+                  "Net Income",
+                  "-18.43",
+                  "3.81",
+                  "-3.12",
+                  "7.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-36.60",
+                  "4.64",
+                  "-3.74",
+                  "9.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8.07",
+                  "71.75",
+                  "6.06",
+                  "35.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.40",
+                  "8.97",
+                  "-11.12",
+                  "-35.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.80",
+                  "-46.17",
+                  "-1.49",
+                  "-1.49"
+                ],
+                [
+                  "CAPEX",
+                  "-0.40",
+                  "-0.21",
+                  "-11.12",
+                  "-10.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IC 設計",
+    "無線音訊傳輸",
+    "CMOS",
+    "Qualcomm",
+    "Airoha",
+    "無線耳機",
+    "無線音響",
+    "無線麥克風"
+  ]
+}

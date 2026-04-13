@@ -1,0 +1,712 @@
+{
+  "report_id": "Pilot_Reports/Financial Conglomerates/2885_元大金.md",
+  "source_path": "Pilot_Reports/Financial Conglomerates/2885_元大金.md",
+  "json_path": "Pilot_Reports_JSON/Financial Conglomerates/2885_元大金.json",
+  "ticker": "2885",
+  "company_name": "元大金",
+  "title": "# 2885 - [[元大金]]",
+  "sector_folder": "Financial Conglomerates",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Financial Conglomerates"
+      },
+      {
+        "label": "市值:",
+        "value": "611,233 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,611 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "元大金控 (2885，Yuanta Financial Holdings) 為台灣首家以證券業務為核心的金融控股公司，旗下擁有五大子公司：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大證券"
+            },
+            {
+              "type": "text",
+              "text": " — 台灣證券業龍頭，經紀市占率約 13.5%，全台 146 家分公司；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大銀行"
+            },
+            {
+              "type": "text",
+              "text": " — 全台 149 家分行；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大投信"
+            },
+            {
+              "type": "text",
+              "text": " — 台灣 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ETF"
+            },
+            {
+              "type": "text",
+              "text": " 發行龍頭，管理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "0050"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "0056"
+            },
+            {
+              "type": "text",
+              "text": " 等指標性 ETF；(4) "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大期貨"
+            },
+            {
+              "type": "text",
+              "text": " (6023) — 國內期貨選擇權市占率第一；(5) "
+            },
+            {
+              "type": "wikilink",
+              "text": "元大人壽"
+            },
+            {
+              "type": "text",
+              "text": "。集團以「證券帶動銀行」策略推動雙引擎轉型。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金融基礎設施)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交易所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣期貨交易所"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "指數授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FTSE Russell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 授權編製台灣 50 指數供發行 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "0050"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MSCI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國際指數授權"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集保結算:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金融中介)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "元大金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (證券經紀/自營/承銷、商業銀行、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ETF"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 發行與管理、期貨經紀、壽險)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 證券經紀戶、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ETF"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 受益人、期貨交易人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構法人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外資機構、國內投信、保險公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 上市櫃公司 — IPO 承銷、公司債發行"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人投資人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 證券經紀戶與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ETF"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 受益人 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "0050"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "0056"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機構法人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外資機構、國內投信 — 證券交易執行"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 上市櫃公司 — IPO 承銷、增資、公司債"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交易所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣期貨交易所"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "指數編製:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FTSE Russell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MSCI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 授權指數供發行 ETF"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集保結算:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.85 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.43",
+                  "14.17",
+                  "4.56",
+                  "1.79",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "128508.03",
+                  "120783.20",
+                  "98102.70"
+                ],
+                [
+                  "Gross Profit",
+                  "122530.74",
+                  "114872.68",
+                  "94360.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "95.35",
+                  "95.11",
+                  "96.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22545.39",
+                  "20307.17",
+                  "16131.67"
+                ],
+                [
+                  "Operating Income",
+                  "47203.14",
+                  "45835.64",
+                  "33998.47"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "36.73",
+                  "37.95",
+                  "34.66"
+                ],
+                [
+                  "Net Income",
+                  "39362.72",
+                  "38312.40",
+                  "28528.23"
+                ],
+                [
+                  "Net Margin (%)",
+                  "30.63",
+                  "31.72",
+                  "29.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-50175.01",
+                  "-107366.21",
+                  "-35466.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8935.93",
+                  "-3731.88",
+                  "-4231.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "44388.79",
+                  "97864.50",
+                  "52917.43"
+                ],
+                [
+                  "CAPEX",
+                  "-4104.43",
+                  "-5803.72",
+                  "-3307.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "38708.25",
+                  "34832.45",
+                  "23739.12",
+                  "31228.21"
+                ],
+                [
+                  "Gross Profit",
+                  "36773.23",
+                  "33351.99",
+                  "22642.67",
+                  "29762.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "95.00",
+                  "95.75",
+                  "95.38",
+                  "95.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6653.02",
+                  "5681.77",
+                  "5209.09",
+                  "5001.51"
+                ],
+                [
+                  "Operating Income",
+                  "12847.36",
+                  "13364.91",
+                  "10921.93",
+                  "10068.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "33.19",
+                  "38.37",
+                  "46.01",
+                  "32.24"
+                ],
+                [
+                  "Net Income",
+                  "10632.21",
+                  "11223.15",
+                  "9306.59",
+                  "8200.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "27.47",
+                  "32.22",
+                  "39.20",
+                  "26.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-124426.65",
+                  "-20827.85",
+                  "105195.36",
+                  "-10115.88"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3814.65",
+                  "-3130.40",
+                  "-1344.44",
+                  "-646.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "114898.08",
+                  "15385.49",
+                  "-83757.07",
+                  "-2137.71"
+                ],
+                [
+                  "CAPEX",
+                  "-1296.45",
+                  "-875.64",
+                  "-1449.84",
+                  "-482.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "元大金",
+    "元大證券",
+    "元大銀行",
+    "元大投信",
+    "ETF",
+    "0050",
+    "0056",
+    "元大期貨",
+    "元大人壽",
+    "台灣證券交易所",
+    "台灣期貨交易所",
+    "FTSE Russell",
+    "0050",
+    "MSCI",
+    "台灣集中保管結算所",
+    "ETF",
+    "ETF",
+    "ETF",
+    "0050",
+    "0056",
+    "台灣證券交易所",
+    "台灣期貨交易所",
+    "FTSE Russell",
+    "MSCI",
+    "台灣集中保管結算所"
+  ]
+}

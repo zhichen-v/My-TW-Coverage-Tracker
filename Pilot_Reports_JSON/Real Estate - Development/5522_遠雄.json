@@ -1,0 +1,588 @@
+{
+  "report_id": "Pilot_Reports/Real Estate - Development/5522_遠雄.md",
+  "source_path": "Pilot_Reports/Real Estate - Development/5522_遠雄.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate - Development/5522_遠雄.json",
+  "ticker": "5522",
+  "company_name": "遠雄",
+  "title": "# 5522 - 遠雄",
+  "sector_folder": "Real Estate - Development",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate - Development"
+      },
+      {
+        "label": "市值:",
+        "value": "56,978 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "83,786 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "遠雄建設"
+            },
+            {
+              "type": "text",
+              "text": " (5522，Farglory Land) 為台灣大型建商，推案遍及全台，具備高度垂直整合能力。主要業務包括：(1) 住宅開發 — 大型造鎮計畫 (三峽北大、林口 A7、台中港市鎮)；(2) 廠辦開發 — 為國內廠辦先驅 (遠雄 U-Town)；(3) BOT 開發 — 台北大巨蛋等指標性公共建設。擁有自有營造體系「"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄營造"
+            },
+            {
+              "type": "text",
+              "text": "」(200 餘名專任營造工程師、138 張專業證照)，成本控管與工期掌握度高。2022 年採購金額 100% 來自台灣在地供應商。集團關聯企業涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄人壽"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄海洋公園"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄自貿港區"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄流通"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄巨蛋"
+            },
+            {
+              "type": "text",
+              "text": " 等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (土地與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "土地取得:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台都會區及重劃區"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造施工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團子公司，200+ 專任工程師)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 100% 台灣在地採購 — 水泥、鋼筋、機電設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與經營)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遠雄建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅造鎮、廠辦商辦開發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共建設:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北大巨蛋 BOT 開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 首購族及換屋族 (造鎮案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廠辦企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汐止/內湖科技業及物流業進駐企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台首購及換屋族群 — 大型造鎮社區"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廠辦企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汐止/內湖地區科技業及物流業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "BOT 營運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北大巨蛋場館使用者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團子公司) — 垂直整合施工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣在地供應商 (100% 國內採購)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外建築師事務所"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $72.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "9.80",
+                  "11.55",
+                  "1.83",
+                  "1.13",
+                  "10.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "31153.37",
+                  "22399.06",
+                  "21843.38"
+                ],
+                [
+                  "Gross Profit",
+                  "10638.68",
+                  "7086.46",
+                  "6574.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.15",
+                  "31.64",
+                  "30.10"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1758.39",
+                  "1285.24",
+                  "1020.46"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1174.60",
+                  "972.22",
+                  "895.20"
+                ],
+                [
+                  "Operating Income",
+                  "7705.69",
+                  "4829.00",
+                  "4693.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "24.73",
+                  "21.56",
+                  "21.49"
+                ],
+                [
+                  "Net Income",
+                  "5825.09",
+                  "3372.81",
+                  "3717.63"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.70",
+                  "15.06",
+                  "17.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "7243.31",
+                  "-3323.41",
+                  "1632.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-504.91",
+                  "1331.61",
+                  "-2954.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1127.41",
+                  "333.30",
+                  "-3105.29"
+                ],
+                [
+                  "CAPEX",
+                  "-95.61",
+                  "-90.45",
+                  "-81.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "21500.65",
+                  "8697.10",
+                  "325.11",
+                  "630.50"
+                ],
+                [
+                  "Gross Profit",
+                  "7282.34",
+                  "3131.72",
+                  "78.75",
+                  "145.87"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.87",
+                  "36.01",
+                  "24.22",
+                  "23.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1212.58",
+                  "508.02",
+                  "19.96",
+                  "17.82"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "400.19",
+                  "293.29",
+                  "247.14",
+                  "233.99"
+                ],
+                [
+                  "Operating Income",
+                  "5669.57",
+                  "2330.41",
+                  "-188.34",
+                  "-105.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "26.37",
+                  "26.80",
+                  "-57.93",
+                  "-16.80"
+                ],
+                [
+                  "Net Income",
+                  "4468.64",
+                  "1815.55",
+                  "-268.79",
+                  "-190.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.78",
+                  "20.88",
+                  "-82.68",
+                  "-30.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "10738.93",
+                  "2597.53",
+                  "-1639.77",
+                  "-4453.38"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-835.97",
+                  "-322.45",
+                  "165.54",
+                  "487.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1687.24",
+                  "-2886.61",
+                  "1553.03",
+                  "1893.41"
+                ],
+                [
+                  "CAPEX",
+                  "-35.76",
+                  "-26.49",
+                  "-21.34",
+                  "-12.02"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "遠雄建設",
+    "遠雄營造",
+    "遠雄人壽",
+    "遠雄海洋公園",
+    "遠雄自貿港區",
+    "遠雄流通",
+    "遠雄巨蛋",
+    "遠雄營造",
+    "遠雄營造"
+  ]
+}

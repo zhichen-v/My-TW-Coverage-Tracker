@@ -1,0 +1,665 @@
+{
+  "report_id": "Pilot_Reports/Tools & Accessories/8021_尖點.md",
+  "source_path": "Pilot_Reports/Tools & Accessories/8021_尖點.md",
+  "json_path": "Pilot_Reports_JSON/Tools & Accessories/8021_尖點.json",
+  "ticker": "8021",
+  "company_name": "尖點",
+  "title": "# 8021 - 尖點",
+  "sector_folder": "Tools & Accessories",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Tools & Accessories"
+      },
+      {
+        "label": "市值:",
+        "value": "35,898 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "33,978 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "尖點科技 (8021，Topoint Technology) 總部位於台灣，以自有品牌「Topoint」行銷全球，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 精密微型鑽針及銑刀之領導製造商，並提供專業 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 機械鑽孔及雷射鑽孔代工服務。產品廣泛應用於高階 "
+            },
+            {
+              "type": "wikilink",
+              "text": "HDI"
+            },
+            {
+              "type": "text",
+              "text": " 板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 載板"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "主機板，在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 通訊及高效運算 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "HPC"
+            },
+            {
+              "type": "text",
+              "text": ") 設備所需之高階多層板製程中扮演關鍵耗材角色。高階鍍膜鑽針佔比持續提升，已達 45% 以上，與日廠分庭抗禮。近年與"
+            },
+            {
+              "type": "wikilink",
+              "text": "臻鼎"
+            },
+            {
+              "type": "text",
+              "text": " (4958) 達成策略合作。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鎢鋼材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳化鎢鋼 (鑽針主原料)，採購自跨國金屬原物料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瑞士及日本高精密度自動化生產設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造與服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "尖點科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密鑽針/銑刀製造、機械鑽孔/雷射鑽孔代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (PCB/IC 載板廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 載板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "景碩"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及各大台/陸系 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 載板三雄:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "景碩"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 龍頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (策略合作夥伴)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高效運算"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鎢鋼原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 跨國金屬原物料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本及瑞士高精密度自動化生產設備原廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $247.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "90.99",
+                  "56.00",
+                  "8.14",
+                  "7.29",
+                  "35.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4410.10",
+                  "3541.10",
+                  "2748.49"
+                ],
+                [
+                  "Gross Profit",
+                  "1360.52",
+                  "927.33",
+                  "616.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.85",
+                  "26.19",
+                  "22.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "173.30",
+                  "149.73",
+                  "125.96"
+                ],
+                [
+                  "R&D Exp",
+                  "162.94",
+                  "140.71",
+                  "126.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "381.77",
+                  "342.37",
+                  "288.68"
+                ],
+                [
+                  "Operating Income",
+                  "656.93",
+                  "291.24",
+                  "81.80"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.90",
+                  "8.22",
+                  "2.98"
+                ],
+                [
+                  "Net Income",
+                  "389.33",
+                  "206.02",
+                  "-36.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.83",
+                  "5.82",
+                  "-1.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "676.84",
+                  "190.38",
+                  "417.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-708.83",
+                  "190.66",
+                  "-1219.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-136.06",
+                  "-97.44",
+                  "-329.77"
+                ],
+                [
+                  "CAPEX",
+                  "-408.52",
+                  "-590.59",
+                  "-376.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1341.28",
+                  "1168.68",
+                  "1012.78",
+                  "887.37"
+                ],
+                [
+                  "Gross Profit",
+                  "467.28",
+                  "366.09",
+                  "298.14",
+                  "229.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.84",
+                  "31.32",
+                  "29.44",
+                  "25.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "49.53",
+                  "44.04",
+                  "40.76",
+                  "38.98"
+                ],
+                [
+                  "R&D Exp",
+                  "45.22",
+                  "41.57",
+                  "39.25",
+                  "36.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.13",
+                  "96.98",
+                  "86.36",
+                  "84.31"
+                ],
+                [
+                  "Operating Income",
+                  "257.62",
+                  "186.16",
+                  "140.84",
+                  "72.32"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.21",
+                  "15.93",
+                  "13.91",
+                  "8.15"
+                ],
+                [
+                  "Net Income",
+                  "149.73",
+                  "109.35",
+                  "78.35",
+                  "51.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.16",
+                  "9.36",
+                  "7.74",
+                  "5.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "259.76",
+                  "115.76",
+                  "264.05",
+                  "37.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-267.38",
+                  "-88.23",
+                  "-92.30",
+                  "-260.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-46.81",
+                  "-162.14",
+                  "62.53",
+                  "10.36"
+                ],
+                [
+                  "CAPEX",
+                  "-146.64",
+                  "-89.20",
+                  "-57.56",
+                  "-115.12"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "PCB",
+    "PCB",
+    "HDI",
+    "IC 載板",
+    "AI 伺服器",
+    "AI 伺服器",
+    "5G",
+    "HPC",
+    "臻鼎",
+    "PCB",
+    "南電",
+    "欣興",
+    "景碩",
+    "臻鼎",
+    "PCB",
+    "南電",
+    "欣興",
+    "景碩",
+    "臻鼎",
+    "AI 伺服器",
+    "5G",
+    "HPC"
+  ]
+}

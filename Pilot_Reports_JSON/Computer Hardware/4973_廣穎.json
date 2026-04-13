@@ -1,0 +1,718 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/4973_廣穎.md",
+  "source_path": "Pilot_Reports/Computer Hardware/4973_廣穎.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/4973_廣穎.json",
+  "ticker": "4973",
+  "company_name": "廣穎",
+  "title": "# 4973 - 廣穎",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "4,636 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,231 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "廣穎電通 (Silicon Power, SP) 為全球知名的 "
+            },
+            {
+              "type": "strong",
+              "text": "記憶體模組與儲存裝置"
+            },
+            {
+              "type": "text",
+              "text": " 品牌商。\n主要產品涵蓋：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "快閃記憶體 (NAND Flash)"
+            },
+            {
+              "type": "text",
+              "text": ": SSD 固態硬碟、隨身碟 (USB Drive)、記憶卡 (Memory Card)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "DRAM 模組"
+            },
+            {
+              "type": "text",
+              "text": ": 電競"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "、工業用"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "外接式硬碟 (HDD)"
+            },
+            {
+              "type": "text",
+              "text": ": 軍規防震外接硬碟為其特色產品。\n近年積極布局 "
+            },
+            {
+              "type": "strong",
+              "text": "工控 (Industrial)"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "strong",
+              "text": "醫療"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "AI Edge"
+            },
+            {
+              "type": "text",
+              "text": " 儲存解決方案，以提升毛利率，降低消費性市場波動影響。\n銷售通路遍及全球 100 多國，透過代理商、電商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": ") 與零售通路銷售。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "廣穎 (4973)"
+            },
+            {
+              "type": "text",
+              "text": " - "
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "模組品牌 (Module House).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "NAND Flash"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Kioxia"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Micron"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "SK Hynix"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "DRAM 顆粒"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Micron"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "SK Hynix"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "南亞科"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "控制 IC"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "群聯"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "慧榮"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "消費通路"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "PChome"
+            },
+            {
+              "type": "text",
+              "text": ", 3C 賣場.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "B2B"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": "), 醫療設備, 車載系統."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通路"
+                },
+                {
+                  "type": "text",
+                  "text": ": 全球各大電商與 3C 通路 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Amazon"
+                },
+                {
+                  "type": "text",
+                  "text": " 為重要通路).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "工控"
+                },
+                {
+                  "type": "text",
+                  "text": ": 嵌入式系統客戶."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "NAND/DRAM"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "記憶體"
+                },
+                {
+                  "type": "text",
+                  "text": "原廠 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Samsung"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Micron"
+                },
+                {
+                  "type": "text",
+                  "text": " 等).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "Controller"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群聯"
+                },
+                {
+                  "type": "text",
+                  "text": " (Phison), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "慧榮"
+                },
+                {
+                  "type": "text",
+                  "text": " (SMI)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $70.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "34.42",
+                  "N/A",
+                  "1.09",
+                  "2.19",
+                  "33.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4258.38",
+                  "4398.66",
+                  "4490.48"
+                ],
+                [
+                  "Gross Profit",
+                  "1008.90",
+                  "881.57",
+                  "947.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.69",
+                  "20.04",
+                  "21.09"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "724.34",
+                  "660.44",
+                  "659.78"
+                ],
+                [
+                  "R&D Exp",
+                  "59.13",
+                  "46.93",
+                  "43.43"
+                ],
+                [
+                  "General & Admin Exp",
+                  "108.01",
+                  "100.66",
+                  "101.68"
+                ],
+                [
+                  "Operating Income",
+                  "117.42",
+                  "73.54",
+                  "142.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.76",
+                  "1.67",
+                  "3.17"
+                ],
+                [
+                  "Net Income",
+                  "134.36",
+                  "113.26",
+                  "197.60"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.16",
+                  "2.57",
+                  "4.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-507.20",
+                  "260.84",
+                  "-15.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-18.99",
+                  "-24.95",
+                  "-27.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "447.33",
+                  "-282.85",
+                  "-25.50"
+                ],
+                [
+                  "CAPEX",
+                  "-17.20",
+                  "-14.47",
+                  "-27.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1142.80",
+                  "982.46",
+                  "944.03",
+                  "1189.09"
+                ],
+                [
+                  "Gross Profit",
+                  "369.26",
+                  "174.48",
+                  "250.79",
+                  "214.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.31",
+                  "17.76",
+                  "26.57",
+                  "18.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "166.81",
+                  "163.70",
+                  "193.35",
+                  "200.48"
+                ],
+                [
+                  "R&D Exp",
+                  "17.61",
+                  "16.62",
+                  "13.25",
+                  "11.64"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.06",
+                  "26.04",
+                  "25.74",
+                  "24.17"
+                ],
+                [
+                  "Operating Income",
+                  "152.78",
+                  "-31.88",
+                  "18.46",
+                  "-21.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.37",
+                  "-3.24",
+                  "1.96",
+                  "-1.84"
+                ],
+                [
+                  "Net Income",
+                  "145.33",
+                  "31.97",
+                  "-41.11",
+                  "-1.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.72",
+                  "3.25",
+                  "-4.35",
+                  "-0.15"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-271.98",
+                  "55.41",
+                  "-100.52",
+                  "-190.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-6.02",
+                  "-6.52",
+                  "-3.51",
+                  "-2.94"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "232.79",
+                  "32.74",
+                  "27.54",
+                  "154.25"
+                ],
+                [
+                  "CAPEX",
+                  "-5.40",
+                  "-6.33",
+                  "-2.62",
+                  "-2.84"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "記憶體",
+    "記憶體",
+    "Amazon",
+    "記憶體",
+    "Samsung",
+    "Kioxia",
+    "Micron",
+    "SK Hynix",
+    "Samsung",
+    "Micron",
+    "SK Hynix",
+    "南亞科",
+    "群聯",
+    "慧榮",
+    "Amazon",
+    "PChome",
+    "工業電腦",
+    "IPC",
+    "Amazon",
+    "記憶體",
+    "Samsung",
+    "Micron",
+    "群聯",
+    "慧榮"
+  ]
+}

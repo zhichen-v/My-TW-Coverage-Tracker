@@ -1,0 +1,729 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/5452_佶優.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/5452_佶優.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/5452_佶優.json",
+  "ticker": "5452",
+  "company_name": "佶優",
+  "title": "# 5452 - 佶優",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "5,294 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,452 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "佶優科技 (5452，UNIC Technology) 為工程塑膠原料代理與改質加工平台，代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "LOTTE"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "三菱工程塑膠"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Mitsubishi"
+            },
+            {
+              "type": "text",
+              "text": " Engineering Plastics)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SABIC"
+            },
+            {
+              "type": "text",
+              "text": "等品牌之"
+            },
+            {
+              "type": "wikilink",
+              "text": "ABS"
+            },
+            {
+              "type": "text",
+              "text": "、HIPS、PC/ABS 等塑膠粒，並提供染色造粒 (Compounding) 加工服務。下游客戶涵蓋 EMS/ODM 大廠如"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "緯創"
+            },
+            {
+              "type": "text",
+              "text": "，終端品牌為"
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Lenovo"
+            },
+            {
+              "type": "text",
+              "text": "。近年拓展 PCR 環保回收料及"
+            },
+            {
+              "type": "wikilink",
+              "text": "PLA"
+            },
+            {
+              "type": "text",
+              "text": "生分解材料。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌代理)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LOTTE"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱工程塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SABIC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ABS/HIPS/PC/ABS 代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "佶優"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (工程塑膠代理/染色造粒 Compounding/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PLA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "生分解材料)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EMS/ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電子機殼用塑膠粒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EMS/ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電子機殼塑膠粒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商 (代理品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "LOTTE"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱工程塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SABIC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 工程塑膠原料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $35.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "105.59",
+                  "N/A",
+                  "1.09",
+                  "2.41",
+                  "31.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4854.74",
+                  "5641.61",
+                  "5406.24"
+                ],
+                [
+                  "Gross Profit",
+                  "601.36",
+                  "611.02",
+                  "549.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.39",
+                  "10.83",
+                  "10.16"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "262.16",
+                  "271.62",
+                  "241.41"
+                ],
+                [
+                  "R&D Exp",
+                  "13.65",
+                  "12.14",
+                  "13.32"
+                ],
+                [
+                  "General & Admin Exp",
+                  "188.12",
+                  "186.84",
+                  "193.39"
+                ],
+                [
+                  "Operating Income",
+                  "137.44",
+                  "140.41",
+                  "101.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.83",
+                  "2.49",
+                  "1.87"
+                ],
+                [
+                  "Net Income",
+                  "48.59",
+                  "59.24",
+                  "44.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.00",
+                  "1.05",
+                  "0.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "386.76",
+                  "128.32",
+                  "244.94"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-36.13",
+                  "-66.89",
+                  "-181.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-177.11",
+                  "47.66",
+                  "-181.79"
+                ],
+                [
+                  "CAPEX",
+                  "-177.81",
+                  "-28.24",
+                  "-118.90"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1110.20",
+                  "1181.53",
+                  "1207.89",
+                  "1355.13"
+                ],
+                [
+                  "Gross Profit",
+                  "150.27",
+                  "157.25",
+                  "149.40",
+                  "144.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.54",
+                  "13.31",
+                  "12.37",
+                  "10.66"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "73.56",
+                  "66.61",
+                  "60.53",
+                  "61.45"
+                ],
+                [
+                  "R&D Exp",
+                  "2.21",
+                  "3.11",
+                  "2.98",
+                  "5.34"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.01",
+                  "47.81",
+                  "43.32",
+                  "44.97"
+                ],
+                [
+                  "Operating Income",
+                  "22.48",
+                  "39.71",
+                  "42.58",
+                  "32.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.03",
+                  "3.36",
+                  "3.52",
+                  "2.41"
+                ],
+                [
+                  "Net Income",
+                  "4.49",
+                  "19.42",
+                  "11.97",
+                  "12.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.40",
+                  "1.64",
+                  "0.99",
+                  "0.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "153.25",
+                  "47.66",
+                  "69.49",
+                  "116.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "99.18",
+                  "-27.88",
+                  "-72.22",
+                  "-35.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-53.64",
+                  "8.07",
+                  "28.63",
+                  "-160.17"
+                ],
+                [
+                  "CAPEX",
+                  "-54.91",
+                  "-12.36",
+                  "-83.12",
+                  "-27.42"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LOTTE",
+    "三菱工程塑膠",
+    "Mitsubishi",
+    "SABIC",
+    "ABS",
+    "鴻海",
+    "仁寶",
+    "廣達",
+    "緯創",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "PLA",
+    "LOTTE",
+    "三菱工程塑膠",
+    "SABIC",
+    "PLA",
+    "鴻海",
+    "仁寶",
+    "廣達",
+    "緯創",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "鴻海",
+    "仁寶",
+    "廣達",
+    "緯創",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "LOTTE",
+    "三菱工程塑膠",
+    "SABIC"
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "report_id": "Pilot_Reports/Electronic Gaming & Multimedia/5478_智冠.md",
+  "source_path": "Pilot_Reports/Electronic Gaming & Multimedia/5478_智冠.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Gaming & Multimedia/5478_智冠.json",
+  "ticker": "5478",
+  "company_name": "智冠",
+  "title": "# 5478 - 智冠",
+  "sector_folder": "Electronic Gaming & Multimedia",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Gaming & Multimedia"
+      },
+      {
+        "label": "市值:",
+        "value": "14,848 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,609 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "智冠科技 (5478，Soft-World) 為台灣遊戲產業龍頭，擁有業界最完整的垂直整合產業鏈佈局，涵蓋研發、代理、營運、通路與金融科技。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要業務支柱：(1) 遊戲點數通路 — 旗下 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MyCard"
+            },
+            {
+              "type": "text",
+              "text": " 為台灣市佔率最高的遊戲點數卡 (約 60% 市佔)，與數千款遊戲及數位娛樂服務合作，可於全台四大便利商店及各大連鎖通路購買，並拓展至港澳、東南亞等海外市場；(2) 遊戲代理營運 — 透過子公司 "
+            },
+            {
+              "type": "wikilink",
+              "text": "遊戲新幹線"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "智凡迪"
+            },
+            {
+              "type": "text",
+              "text": " 營運多款知名遊戲，"
+            },
+            {
+              "type": "wikilink",
+              "text": "智凡迪"
+            },
+            {
+              "type": "text",
+              "text": " 曾代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Blizzard"
+            },
+            {
+              "type": "text",
+              "text": " 旗下《魔獸世界》等遊戲；(3) 遊戲研發 — 子公司 "
+            },
+            {
+              "type": "wikilink",
+              "text": "中華網龍"
+            },
+            {
+              "type": "text",
+              "text": " (3083) 專注 MMORPG 研發，智樂堂亦為旗下研發團隊；(4) 金融科技 — 子公司 "
+            },
+            {
+              "type": "wikilink",
+              "text": "藍新科技"
+            },
+            {
+              "type": "text",
+              "text": " 專攻第三方支付與電子支付，為台灣支付代收付龍頭之一；(5) 數位行銷 — 子公司一帆數位與智酷媒體提供網路廣告及大數據整合行銷。2024 年營收約 79% 來自台灣、10% 來自中國大陸、11% 來自其他地區。主要競爭對手為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "橘子"
+            },
+            {
+              "type": "text",
+              "text": " (遊戲通路)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (遊戲內容與 IP)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲研發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華網龍"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3083)、智樂堂 — 自有 MMORPG 研發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外遊戲原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Blizzard"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Gravity"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 — 遊戲授權代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "點數卡製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 博冠 — CD/卡片製造"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運與通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲點數:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MyCard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣最大遊戲點數通路，60% 市佔)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲營運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遊戲新幹線"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "智凡迪"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 遊戲代理營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位銷售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " e-PLAY — 實體/虛擬遊戲商品零售平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "數位行銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一帆數位、智酷媒體 — 網路廣告與大數據行銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (支付與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融科技:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍新科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 第三方支付與電子支付"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "便利商店:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MyCard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 點數卡實體銷售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲玩家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 終端遊戲消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商商家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 使用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍新科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 支付服務之商家"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外遊戲開發商 — 使用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MyCard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 點數通路進行變現"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商商家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 線上及實體商家 — 使用 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍新科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 支付代收付服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端玩家:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廣大遊戲消費者 — 購買 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MyCard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 點數與遊戲內容"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廣告主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌與遊戲廣告主 — 委託一帆數位投放數位廣告"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲內容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Blizzard"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Gravity"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等海外遊戲開發商 — 遊戲授權"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊戲研發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華網龍"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3083) — 自有遊戲研發"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "點數卡製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 博冠 — CD 與卡片印製"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "紙品材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 平誠、志豐 — 紙品供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $99.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.56",
+                  "12.80",
+                  "2.28",
+                  "1.66",
+                  "3.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6518.56",
+                  "6774.34",
+                  "6249.39"
+                ],
+                [
+                  "Gross Profit",
+                  "3481.59",
+                  "3598.29",
+                  "3216.11"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "53.41",
+                  "53.12",
+                  "51.46"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1596.66",
+                  "1664.58",
+                  "1537.59"
+                ],
+                [
+                  "R&D Exp",
+                  "305.47",
+                  "312.37",
+                  "284.20"
+                ],
+                [
+                  "General & Admin Exp",
+                  "403.78",
+                  "419.43",
+                  "365.44"
+                ],
+                [
+                  "Operating Income",
+                  "1175.68",
+                  "1201.92",
+                  "1028.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.04",
+                  "17.74",
+                  "16.46"
+                ],
+                [
+                  "Net Income",
+                  "1188.20",
+                  "1139.43",
+                  "859.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "18.23",
+                  "16.82",
+                  "13.76"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2136.29",
+                  "1327.44",
+                  "676.63"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-300.67",
+                  "-1070.38",
+                  "-9.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1186.26",
+                  "-1458.97",
+                  "-1002.70"
+                ],
+                [
+                  "CAPEX",
+                  "-40.00",
+                  "-31.80",
+                  "-40.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1749.59",
+                  "1600.50",
+                  "1556.42",
+                  "1612.05"
+                ],
+                [
+                  "Gross Profit",
+                  "941.39",
+                  "838.14",
+                  "855.89",
+                  "846.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "53.81",
+                  "52.37",
+                  "54.99",
+                  "52.49"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "410.21",
+                  "378.69",
+                  "400.19",
+                  "407.58"
+                ],
+                [
+                  "R&D Exp",
+                  "78.06",
+                  "76.47",
+                  "74.73",
+                  "76.21"
+                ],
+                [
+                  "General & Admin Exp",
+                  "104.19",
+                  "101.88",
+                  "98.35",
+                  "99.36"
+                ],
+                [
+                  "Operating Income",
+                  "348.93",
+                  "281.10",
+                  "282.62",
+                  "263.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.94",
+                  "17.56",
+                  "18.16",
+                  "16.32"
+                ],
+                [
+                  "Net Income",
+                  "312.49",
+                  "253.85",
+                  "401.32",
+                  "220.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.86",
+                  "15.86",
+                  "25.78",
+                  "13.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1183.15",
+                  "-101.34",
+                  "664.63",
+                  "389.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-259.66",
+                  "-281.75",
+                  "312.57",
+                  "-71.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-13.16",
+                  "-18.00",
+                  "-1138.22",
+                  "-16.87"
+                ],
+                [
+                  "CAPEX",
+                  "-8.67",
+                  "-24.30",
+                  "-2.46",
+                  "-4.58"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MyCard",
+    "遊戲新幹線",
+    "智凡迪",
+    "智凡迪",
+    "Blizzard",
+    "中華網龍",
+    "藍新科技",
+    "橘子",
+    "中華網龍",
+    "Blizzard",
+    "Gravity",
+    "MyCard",
+    "遊戲新幹線",
+    "智凡迪",
+    "藍新科技",
+    "統一超商",
+    "全家便利商店",
+    "MyCard",
+    "藍新科技",
+    "MyCard",
+    "藍新科技",
+    "MyCard",
+    "Blizzard",
+    "Gravity",
+    "中華網龍"
+  ]
+}

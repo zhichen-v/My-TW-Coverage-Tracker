@@ -1,0 +1,418 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/6648_斯其大.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/6648_斯其大.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/6648_斯其大.json",
+  "ticker": "6648",
+  "company_name": "斯其大",
+  "title": "# 6648_斯其大",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "955 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,000 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "豐祥-KY (6648，斯其大) 為越南精密金屬加工廠 (20年+)。機車客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Honda"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Yamaha"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Piaggio"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "三陽工業"
+            },
+            {
+              "type": "text",
+              "text": "。休閒車含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Polaris"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Harley-Davidson"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鋼/鋁/鋅\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "豐祥"
+            },
+            {
+              "type": "text",
+              "text": " (沖壓/鍛造/壓鑄/CNC)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Honda"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Yamaha"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Piaggio"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Polaris"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Harley-Davidson"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Honda"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Yamaha"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Piaggio"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三陽工業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Polaris"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Harley-Davidson"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "越南/台日韓鋼鋁"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.10 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "3.12",
+                  "1.48",
+                  "-7.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "437.46",
+                  "511.38",
+                  "883.58"
+                ],
+                [
+                  "Gross Profit",
+                  "-104.76",
+                  "-7.56",
+                  "132.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-23.95",
+                  "-1.48",
+                  "15.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.00",
+                  "0.00",
+                  "0.10"
+                ],
+                [
+                  "R&D Exp",
+                  "24.42",
+                  "29.31",
+                  "36.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.15",
+                  "51.33",
+                  "49.08"
+                ],
+                [
+                  "Operating Income",
+                  "-173.33",
+                  "-88.21",
+                  "47.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-39.62",
+                  "-17.25",
+                  "5.38"
+                ],
+                [
+                  "Net Income",
+                  "-161.26",
+                  "-96.13",
+                  "26.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-36.86",
+                  "-18.80",
+                  "3.04"
+                ],
+                [
+                  "Op Cash Flow",
+                  "107.89",
+                  "-5.36",
+                  "465.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.60",
+                  "49.44",
+                  "-54.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "28.77",
+                  "-222.45",
+                  "-37.94"
+                ],
+                [
+                  "CAPEX",
+                  "-1.28",
+                  "-1.46",
+                  "-36.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Honda",
+    "Yamaha",
+    "Piaggio",
+    "三陽工業",
+    "Polaris",
+    "Harley-Davidson",
+    "Honda",
+    "Yamaha",
+    "Piaggio",
+    "Polaris",
+    "Harley-Davidson",
+    "Honda",
+    "Yamaha",
+    "Piaggio",
+    "三陽工業",
+    "Polaris",
+    "Harley-Davidson"
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "report_id": "Pilot_Reports/Integrated Freight & Logistics/2642_宅配通.md",
+  "source_path": "Pilot_Reports/Integrated Freight & Logistics/2642_宅配通.md",
+  "json_path": "Pilot_Reports_JSON/Integrated Freight & Logistics/2642_宅配通.json",
+  "ticker": "2642",
+  "company_name": "宅配通",
+  "title": "# 2642 - 宅配通",
+  "sector_folder": "Integrated Freight & Logistics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Integrated Freight & Logistics"
+      },
+      {
+        "label": "市值:",
+        "value": "2,239 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,906 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台灣宅配通股份有限公司（Taiwan Pelican Express）為台灣第一家提供戶對戶（Door-to-Door）宅配服務之業者，由"
+            },
+            {
+              "type": "wikilink",
+              "text": "東元集團"
+            },
+            {
+              "type": "text",
+              "text": "與日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "日本通運"
+            },
+            {
+              "type": "text",
+              "text": "（Nippon Express）技術合作成立。主要股東包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "全家便利商店"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "東元電機"
+            },
+            {
+              "type": "text",
+              "text": "等。業務涵蓋C2C（個人對個人）、B2C（企業對個人）之常溫/低溫宅配、物流倉儲解決方案及機場行李配送。"
+            },
+            {
+              "type": "wikilink",
+              "text": "全家便利商店"
+            },
+            {
+              "type": "text",
+              "text": "既是股東亦為最核心之收件通路與合作夥伴，提供店到宅、宅轉店服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (車輛與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運輸車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fuso"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hino"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CMC）商用車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "油品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（燃料供應）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 籠車、手持掃描裝置"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (宅配服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "宅配通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 擁有轉運中心、衛星站所與配送車隊，提供常溫/低溫宅配物流平台"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (客戶與通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代收通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（主要策略夥伴與股東）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PChome"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等B2C電商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電視購物:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東森購物"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " C2C寄件消費者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "便利商店通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（最核心合作夥伴與股東，店到宅/宅轉店服務）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PChome"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等B2C電商（宅配外包需求）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電視購物:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東森購物"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等電視/直銷業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " C2C個人寄件用戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用車輛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fuso"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hino"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華汽車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（配送車隊車輛）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "燃料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（柴油/汽油）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本通運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（Nippon Express，物流技術支援）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "32.57",
+                  "0.59",
+                  "1.10",
+                  "12.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3809.18",
+                  "4051.17",
+                  "4188.46"
+                ],
+                [
+                  "Gross Profit",
+                  "263.02",
+                  "383.24",
+                  "555.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.91",
+                  "9.46",
+                  "13.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.51",
+                  "14.76",
+                  "20.19"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "396.36",
+                  "406.84",
+                  "428.20"
+                ],
+                [
+                  "Operating Income",
+                  "-148.85",
+                  "-38.36",
+                  "107.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.91",
+                  "-0.95",
+                  "2.56"
+                ],
+                [
+                  "Net Income",
+                  "-99.48",
+                  "-9.30",
+                  "94.50"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.61",
+                  "-0.23",
+                  "2.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "290.44",
+                  "238.78",
+                  "295.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "18.28",
+                  "-153.18",
+                  "-64.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-329.85",
+                  "-294.57",
+                  "-353.56"
+                ],
+                [
+                  "CAPEX",
+                  "-61.91",
+                  "-138.25",
+                  "-66.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "912.83",
+                  "944.30",
+                  "976.55",
+                  "975.50"
+                ],
+                [
+                  "Gross Profit",
+                  "54.35",
+                  "78.34",
+                  "80.87",
+                  "49.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.95",
+                  "8.30",
+                  "8.28",
+                  "5.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4.33",
+                  "3.67",
+                  "3.26",
+                  "4.25"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "101.50",
+                  "96.35",
+                  "97.38",
+                  "101.14"
+                ],
+                [
+                  "Operating Income",
+                  "-51.48",
+                  "-21.68",
+                  "-19.77",
+                  "-55.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.64",
+                  "-2.30",
+                  "-2.02",
+                  "-5.73"
+                ],
+                [
+                  "Net Income",
+                  "-38.54",
+                  "-24.13",
+                  "10.53",
+                  "-47.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.22",
+                  "-2.56",
+                  "1.08",
+                  "-4.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "118.32",
+                  "55.09",
+                  "13.35",
+                  "103.67"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "68.80",
+                  "-15.49",
+                  "-9.46",
+                  "-25.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-75.35",
+                  "-70.37",
+                  "-116.95",
+                  "-67.18"
+                ],
+                [
+                  "CAPEX",
+                  "-10.47",
+                  "-15.59",
+                  "-10.12",
+                  "-25.74"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "東元集團",
+    "日本通運",
+    "全家便利商店",
+    "東元電機",
+    "全家便利商店",
+    "Fuso",
+    "Hino",
+    "中華汽車",
+    "台灣中油",
+    "全家便利商店",
+    "momo購物網",
+    "PChome",
+    "東森購物",
+    "全家便利商店",
+    "momo購物網",
+    "PChome",
+    "東森購物",
+    "Fuso",
+    "Hino",
+    "中華汽車",
+    "台灣中油",
+    "日本通運"
+  ]
+}

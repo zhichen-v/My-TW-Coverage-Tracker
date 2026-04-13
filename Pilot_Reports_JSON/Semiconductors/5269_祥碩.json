@@ -1,0 +1,597 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/5269_祥碩.md",
+  "source_path": "Pilot_Reports/Semiconductors/5269_祥碩.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/5269_祥碩.json",
+  "ticker": "5269",
+  "company_name": "祥碩",
+  "title": "# 5269 - 祥碩",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "82,685 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "76,248 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "祥碩科技 (5269，"
+            },
+            {
+              "type": "wikilink",
+              "text": "ASMedia"
+            },
+            {
+              "type": "text",
+              "text": ") 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下高速 IC 設計公司，專注於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "USB"
+            },
+            {
+              "type": "text",
+              "text": " 控制器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": " 橋接晶片、SATA 橋接器及高速 Switch 控制晶片。產品涵蓋 USB 3.2 至 "
+            },
+            {
+              "type": "wikilink",
+              "text": "USB4"
+            },
+            {
+              "type": "text",
+              "text": " 40Gbps 主機及裝置端控制器，以及業界領先的 PCIe 橋接方案。客戶涵蓋全球主機板廠及品牌 OEM。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (先進製程)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "USB/PCIe 控制器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "祥碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (華碩集團，USB4/PCIe 橋接/Switch IC)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (主機板與 OEM)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司)、全球主機板廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌 OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 PC/NB 品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "品佳集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (代理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司)、全球主機板廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌 OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 PC/NB 品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "品佳集團"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "智微"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fresco Logic"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,110.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.34",
+                  "10.73",
+                  "6.16",
+                  "2.30",
+                  "17.72"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "13414.56",
+                  "8081.07",
+                  "6401.27"
+                ],
+                [
+                  "Gross Profit",
+                  "7006.59",
+                  "4377.13",
+                  "3523.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "52.23",
+                  "54.17",
+                  "55.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "254.82",
+                  "120.08",
+                  "106.49"
+                ],
+                [
+                  "R&D Exp",
+                  "2330.56",
+                  "1495.58",
+                  "1389.02"
+                ],
+                [
+                  "General & Admin Exp",
+                  "461.04",
+                  "431.78",
+                  "216.16"
+                ],
+                [
+                  "Operating Income",
+                  "3960.18",
+                  "2329.69",
+                  "1811.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "29.52",
+                  "28.83",
+                  "28.31"
+                ],
+                [
+                  "Net Income",
+                  "5425.84",
+                  "3732.62",
+                  "2228.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "40.45",
+                  "46.19",
+                  "34.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4070.19",
+                  "3535.13",
+                  "3451.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-11480.87",
+                  "-7.24",
+                  "-1366.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2305.10",
+                  "8839.53",
+                  "-2212.60"
+                ],
+                [
+                  "CAPEX",
+                  "-664.74",
+                  "-310.30",
+                  "-439.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3520.31",
+                  "3992.22",
+                  "3392.89",
+                  "2509.14"
+                ],
+                [
+                  "Gross Profit",
+                  "1804.55",
+                  "2037.82",
+                  "1780.80",
+                  "1383.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "51.26",
+                  "51.04",
+                  "52.49",
+                  "55.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "82.45",
+                  "82.48",
+                  "52.24",
+                  "37.64"
+                ],
+                [
+                  "R&D Exp",
+                  "772.07",
+                  "669.02",
+                  "415.92",
+                  "473.55"
+                ],
+                [
+                  "General & Admin Exp",
+                  "152.18",
+                  "120.25",
+                  "72.08",
+                  "116.53"
+                ],
+                [
+                  "Operating Income",
+                  "797.85",
+                  "1166.07",
+                  "1240.55",
+                  "755.71"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.66",
+                  "29.21",
+                  "36.56",
+                  "30.12"
+                ],
+                [
+                  "Net Income",
+                  "1499.57",
+                  "1582.73",
+                  "1120.77",
+                  "1222.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "42.60",
+                  "39.65",
+                  "33.03",
+                  "48.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2666.74",
+                  "800.12",
+                  "1188.58",
+                  "-585.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-160.99",
+                  "-662.56",
+                  "-10632.47",
+                  "-24.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-12.50",
+                  "-2280.08",
+                  "-5.89",
+                  "-6.63"
+                ],
+                [
+                  "CAPEX",
+                  "-89.02",
+                  "-148.16",
+                  "-122.69",
+                  "-304.86"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ASMedia",
+    "華碩",
+    "USB",
+    "PCIe",
+    "USB4",
+    "台積電",
+    "華碩",
+    "品佳集團",
+    "華碩",
+    "品佳集團",
+    "台積電",
+    "瑞昱",
+    "智微",
+    "Fresco Logic"
+  ]
+}

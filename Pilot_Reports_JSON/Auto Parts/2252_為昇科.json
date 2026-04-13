@@ -1,0 +1,681 @@
+{
+  "report_id": "Pilot_Reports/Auto Parts/2252_為昇科.md",
+  "source_path": "Pilot_Reports/Auto Parts/2252_為昇科.md",
+  "json_path": "Pilot_Reports_JSON/Auto Parts/2252_為昇科.json",
+  "ticker": "2252",
+  "company_name": "為昇科",
+  "title": "# 2252 - 為昇科",
+  "sector_folder": "Auto Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,132 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,694 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "為昇科技 (2252) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "為升電裝"
+            },
+            {
+              "type": "text",
+              "text": " (2231) 子公司，專注於 24/60/77/79 GHz "
+            },
+            {
+              "type": "wikilink",
+              "text": "毫米波雷達"
+            },
+            {
+              "type": "text",
+              "text": "開發，應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": "先進駕駛輔助系統。核心產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "AEB"
+            },
+            {
+              "type": "text",
+              "text": " (自動緊急煞車)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BSD"
+            },
+            {
+              "type": "text",
+              "text": " (盲點偵測)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "RCTA"
+            },
+            {
+              "type": "text",
+              "text": " (後方交叉警示) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "4D成像雷達"
+            },
+            {
+              "type": "text",
+              "text": "。自主設計 77GHz "
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS"
+            },
+            {
+              "type": "text",
+              "text": " 雷達晶片，從天線設計到"
+            },
+            {
+              "type": "wikilink",
+              "text": "SMT"
+            },
+            {
+              "type": "text",
+              "text": "製造垂直整合。在中國商用車市場為前五大 OEM 中兩家之獨家供應商。正拓展北美校車及歐日 Tier 1 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Denso"
+            },
+            {
+              "type": "text",
+              "text": ") 合作。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶片與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷達晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自主設計 77GHz "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CMOS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "為升電裝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2231) — 技術與市場協同"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (研發製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "為昇科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "毫米波雷達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "研發製造，天線設計至"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SMT"
+                    },
+                    {
+                      "type": "text",
+                      "text": "垂直整合)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (OEM 客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 前五大 OEM 中兩家獨家供應 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AEB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BSD"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RCTA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美校車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 校車 OEM — ADAS 雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動巴士"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雷達系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "拓展中:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 歐日 Tier 1 合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國商用車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 前五大 OEM 中兩家獨家供應 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AEB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BSD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美校車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 校車 OEM — ADAS 雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動巴士"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雷達系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "拓展中:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Tier 1 合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷達晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自主設計 77GHz "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CMOS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "為升電裝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2231)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.00 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "4.39",
+                  "2.91",
+                  "-6.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "537.85",
+                  "613.12",
+                  "327.77"
+                ],
+                [
+                  "Gross Profit",
+                  "138.26",
+                  "93.78",
+                  "34.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.71",
+                  "15.30",
+                  "10.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "60.18",
+                  "74.88",
+                  "50.28"
+                ],
+                [
+                  "R&D Exp",
+                  "200.39",
+                  "260.94",
+                  "251.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "67.08",
+                  "68.71",
+                  "77.65"
+                ],
+                [
+                  "Operating Income",
+                  "-189.39",
+                  "-310.75",
+                  "-345.34"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-35.21",
+                  "-50.68",
+                  "-105.36"
+                ],
+                [
+                  "Net Income",
+                  "34.65",
+                  "-284.59",
+                  "-313.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.44",
+                  "-46.42",
+                  "-95.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-67.90",
+                  "-82.47",
+                  "-163.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "524.23",
+                  "-39.72",
+                  "-37.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "209.27",
+                  "111.27",
+                  "37.37"
+                ],
+                [
+                  "CAPEX",
+                  "-27.60",
+                  "-21.41",
+                  "-39.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "為升電裝",
+    "毫米波雷達",
+    "ADAS",
+    "AEB",
+    "BSD",
+    "RCTA",
+    "4D成像雷達",
+    "CMOS",
+    "SMT",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "CMOS",
+    "為升電裝",
+    "毫米波雷達",
+    "SMT",
+    "AEB",
+    "BSD",
+    "RCTA",
+    "電動巴士",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "AEB",
+    "BSD",
+    "電動巴士",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "CMOS",
+    "為升電裝"
+  ]
+}

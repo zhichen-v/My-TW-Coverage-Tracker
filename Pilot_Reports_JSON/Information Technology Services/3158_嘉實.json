@@ -1,0 +1,718 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/3158_嘉實.md",
+  "source_path": "Pilot_Reports/Information Technology Services/3158_嘉實.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/3158_嘉實.json",
+  "ticker": "3158",
+  "company_name": "嘉實",
+  "title": "# 3158 - 嘉實",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "2,874 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,937 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "嘉實資訊 (3158，SysJust) 成立於 1988 年，為台灣最具規模的金融資訊服務商。旗艦產品「XQ 全球贏家」為市場領導者，整合台灣、中國、香港、美國、日本、韓國六大金融市場之即時報價、財報分析與量化交易功能，為台灣首個本土開發之量化交易平台。核心業務涵蓋三大區塊：(1) B2B 券商系統 — 為全台超過 90% 大型券商 (含成交金額前 31 大) 開發行動下單軟體、API 開放接口與中後端管理系統，客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "元大證券"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "凱基證券"
+            },
+            {
+              "type": "text",
+              "text": "等；(2) B2C 訂閱服務 — XQ 個人版按月訂閱，含進階籌碼分析、美股即時數據與自動化交易模組；(3) AI 賦能 — 積極研發 AI 投資助手，利用大語言模型 (LLM) 協助語義化選股與策略回測。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原始數據與雲端基建)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交易所數據:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣期貨交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NASDAQ"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NYSE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 第一手市場報價"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際資料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Reuters"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bloomberg"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球財經數據"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端基建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GCP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 低延遲報價串流與 AI 運算"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金融資訊整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嘉實資訊 (3158)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — B2B 券商下單系統開發、B2C「XQ 全球贏家」看盤選股平台、LLM 語意選股應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (金融中介與終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "券商客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等全台主要券商 — 客製化下單系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售訂閱戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 專業散戶、量化交易開發者 — XQ 個人版訂閱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "法人機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型投信操盤室及保險公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "B2B 券商系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元大證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱基證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等全台市場超過 90% (含前 31 大) 券商 — 客製化行動下單軟體與 API 系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "B2C 訂閱:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 專業高頻散戶、量化交易獨立開發者 — XQ 全球贏家個人版月費訂閱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "法人機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型投信操盤室及壽險公司 — 機構級決策支援系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交易所數據:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣期貨交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NASDAQ"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 原始市場報價"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際資料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Reuters"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bloomberg"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球財經數據庫"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端基建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GCP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 即時報價串流與 AI 高速運算"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $94.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.48",
+                  "N/A",
+                  "2.84",
+                  "2.61",
+                  "7.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1012.37",
+                  "945.51",
+                  "823.37"
+                ],
+                [
+                  "Gross Profit",
+                  "651.93",
+                  "605.10",
+                  "551.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "64.40",
+                  "64.00",
+                  "66.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "84.70",
+                  "74.91",
+                  "63.19"
+                ],
+                [
+                  "R&D Exp",
+                  "257.69",
+                  "248.72",
+                  "245.65"
+                ],
+                [
+                  "General & Admin Exp",
+                  "85.50",
+                  "93.97",
+                  "67.54"
+                ],
+                [
+                  "Operating Income",
+                  "224.05",
+                  "187.50",
+                  "175.06"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.13",
+                  "19.83",
+                  "21.26"
+                ],
+                [
+                  "Net Income",
+                  "197.54",
+                  "192.80",
+                  "155.48"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.51",
+                  "20.39",
+                  "18.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "276.08",
+                  "227.27",
+                  "213.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-287.03",
+                  "-61.11",
+                  "-68.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "168.84",
+                  "-124.88",
+                  "-139.01"
+                ],
+                [
+                  "CAPEX",
+                  "-70.44",
+                  "-73.86",
+                  "-52.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "290.60",
+                  "244.68",
+                  "245.34",
+                  "231.75"
+                ],
+                [
+                  "Gross Profit",
+                  "183.76",
+                  "157.51",
+                  "162.41",
+                  "148.25"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "63.24",
+                  "64.37",
+                  "66.20",
+                  "63.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "27.11",
+                  "20.48",
+                  "19.12",
+                  "18.00"
+                ],
+                [
+                  "R&D Exp",
+                  "62.98",
+                  "64.38",
+                  "66.83",
+                  "63.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.82",
+                  "21.35",
+                  "22.16",
+                  "20.17"
+                ],
+                [
+                  "Operating Income",
+                  "71.86",
+                  "51.30",
+                  "54.32",
+                  "46.58"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "24.73",
+                  "20.97",
+                  "22.14",
+                  "20.10"
+                ],
+                [
+                  "Net Income",
+                  "71.87",
+                  "42.50",
+                  "44.30",
+                  "38.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "24.73",
+                  "17.37",
+                  "18.06",
+                  "16.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "112.51",
+                  "68.81",
+                  "59.07",
+                  "35.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-114.83",
+                  "-101.57",
+                  "-94.15",
+                  "23.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "329.10",
+                  "-0.17",
+                  "-160.11",
+                  "0.02"
+                ],
+                [
+                  "CAPEX",
+                  "-17.00",
+                  "-38.50",
+                  "-11.73",
+                  "-3.20"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "元大證券",
+    "凱基證券",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣期貨交易所",
+    "NASDAQ",
+    "NYSE",
+    "Reuters",
+    "Bloomberg",
+    "AWS",
+    "GCP",
+    "元大證券",
+    "凱基證券",
+    "元大證券",
+    "凱基證券",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣期貨交易所",
+    "NASDAQ",
+    "Reuters",
+    "Bloomberg",
+    "AWS",
+    "GCP"
+  ]
+}

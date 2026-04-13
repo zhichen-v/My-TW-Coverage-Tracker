@@ -1,0 +1,692 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3228_金麗科.md",
+  "source_path": "Pilot_Reports/Semiconductors/3228_金麗科.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3228_金麗科.json",
+  "ticker": "3228",
+  "company_name": "金麗科",
+  "title": "# 3228 - 金麗科",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "9,225 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,154 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "金麗科技 (3228) 是台灣首家專注於高階省電 "
+            },
+            {
+              "type": "wikilink",
+              "text": "x86"
+            },
+            {
+              "type": "text",
+              "text": " 相容"
+            },
+            {
+              "type": "wikilink",
+              "text": "嵌入式處理器"
+            },
+            {
+              "type": "text",
+              "text": "的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 設計"
+            },
+            {
+              "type": "text",
+              "text": "公司。公司主力產品為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": " (占 2024 年營收 65%) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MPU"
+            },
+            {
+              "type": "text",
+              "text": "，涵蓋 16/32/64 位元微控制器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": " SoC 及網路控制處理器 (Emkore 平台)。產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業控制"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "CNC"
+            },
+            {
+              "type": "text",
+              "text": " 控制器、工業平板、無風扇電腦及"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "儲存系統。台灣市場占 41%、亞洲占 58%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工與封測)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (UMC)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (TSMC)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世界先進"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (VIS)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽品"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ASE)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京元電子"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "金麗科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (x86 相容 MCU/MPU、工業 SoC、網路控制處理器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (工業應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IPC 系統整合商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CNC 控制器、工業自動化"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雲端儲存系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IPC 系統整合商 (無風扇電腦、工業平板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CNC 控制器及工業自動化設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雲端儲存系統廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯華電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世界先進"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽品"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京元電子"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $129.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "29.86",
+                  "13.76",
+                  "-247.42"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "308.98",
+                  "424.69",
+                  "301.78"
+                ],
+                [
+                  "Gross Profit",
+                  "192.41",
+                  "309.97",
+                  "193.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "62.27",
+                  "72.99",
+                  "64.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.46",
+                  "11.80",
+                  "21.86"
+                ],
+                [
+                  "R&D Exp",
+                  "240.52",
+                  "246.76",
+                  "212.99"
+                ],
+                [
+                  "General & Admin Exp",
+                  "92.76",
+                  "82.25",
+                  "74.80"
+                ],
+                [
+                  "Operating Income",
+                  "-147.34",
+                  "-30.84",
+                  "-116.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-47.68",
+                  "-7.26",
+                  "-38.53"
+                ],
+                [
+                  "Net Income",
+                  "-143.88",
+                  "-24.11",
+                  "-115.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-46.56",
+                  "-5.68",
+                  "-38.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5.67",
+                  "94.35",
+                  "2.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-101.97",
+                  "-200.87",
+                  "-131.73"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "124.38",
+                  "106.73",
+                  "27.37"
+                ],
+                [
+                  "CAPEX",
+                  "-106.65",
+                  "-196.34",
+                  "-123.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "72.82",
+                  "80.35",
+                  "75.21",
+                  "64.92"
+                ],
+                [
+                  "Gross Profit",
+                  "42.57",
+                  "50.65",
+                  "49.56",
+                  "40.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "58.46",
+                  "63.04",
+                  "65.89",
+                  "62.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.01",
+                  "1.43",
+                  "1.46",
+                  "2.85"
+                ],
+                [
+                  "R&D Exp",
+                  "58.73",
+                  "60.35",
+                  "60.84",
+                  "57.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "24.60",
+                  "22.52",
+                  "23.06",
+                  "23.09"
+                ],
+                [
+                  "Operating Income",
+                  "-42.77",
+                  "-33.65",
+                  "-35.80",
+                  "-42.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-58.74",
+                  "-41.88",
+                  "-47.60",
+                  "-65.18"
+                ],
+                [
+                  "Net Income",
+                  "-37.70",
+                  "-42.23",
+                  "-34.49",
+                  "-36.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-51.77",
+                  "-52.56",
+                  "-45.85",
+                  "-56.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1.89",
+                  "-10.84",
+                  "-1.34",
+                  "-4.07"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.46",
+                  "-71.98",
+                  "-9.33",
+                  "-30.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.06",
+                  "79.94",
+                  "-0.06",
+                  "59.77"
+                ],
+                [
+                  "CAPEX",
+                  "-11.99",
+                  "-73.92",
+                  "-13.13",
+                  "-29.58"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "x86",
+    "嵌入式處理器",
+    "IC 設計",
+    "MCU",
+    "MPU",
+    "工業電腦",
+    "工業控制",
+    "CNC",
+    "伺服器",
+    "聯華電子",
+    "台積電",
+    "世界先進",
+    "矽品",
+    "日月光投控",
+    "京元電子",
+    "聯華電子",
+    "台積電",
+    "世界先進",
+    "矽品",
+    "日月光投控",
+    "京元電子"
+  ]
+}

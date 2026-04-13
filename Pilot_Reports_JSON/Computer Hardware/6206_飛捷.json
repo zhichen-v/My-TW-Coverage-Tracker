@@ -1,0 +1,464 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6206_飛捷.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6206_飛捷.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6206_飛捷.json",
+  "ticker": "6206",
+  "company_name": "飛捷",
+  "title": "# 6206_飛捷",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "14,521 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,671 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "飛捷科技股份有限公司 (6206) 是台灣資深的"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "wikilink",
+              "text": "IPC"
+            },
+            {
+              "type": "text",
+              "text": ")大廠，同時也是全球知名的端點銷售系統(POS)及自助服務機(Kiosk)領導品牌。公司近年來積極從單純的硬體製造商轉型為「AIoT軟硬體整合服務提供者」。飛捷的產品在智能終端市場擁有高市佔率，廣泛應用於全球大型連鎖速食餐飲(整合"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "影像辨識)、零售量販超商、醫療護理(如醫療推車)及工廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "控制等場域。公司強調供應鏈韌性與垂直整合，並長期遵循高標準的企業永續與責任商業聯盟(RBA)規範。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 工業級主機板元件(CPU/晶片組)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "、觸控面板、機殼(金屬/塑膠)及電源供應器。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "飛捷科技"
+            },
+            {
+              "type": "text",
+              "text": " (POS系統、Kiosk自助服務機、醫療/"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "之研發、組裝與AIoT軟體驗服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 全球各地的系統整合商(SI)、軟體開發商及終端零售/餐飲/醫療機構。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國際大型連鎖速食集團(如漢堡王、溫蒂漢堡)、台灣及東南亞各大連鎖超商/超市、醫院及NTTIR。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外各大"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "原廠("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": "/"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AMD"
+                },
+                {
+                  "type": "text",
+                  "text": ")、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "記憶體"
+                },
+                {
+                  "type": "text",
+                  "text": "廠、工業面板製造商及聯強等大型零組件通路商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $101.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.82",
+                  "14.71",
+                  "2.89",
+                  "2.80",
+                  "8.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5032.63",
+                  "4606.03",
+                  "3488.43"
+                ],
+                [
+                  "Gross Profit",
+                  "2220.74",
+                  "2008.66",
+                  "1351.56"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "44.13",
+                  "43.61",
+                  "38.74"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "447.97",
+                  "409.42",
+                  "354.81"
+                ],
+                [
+                  "R&D Exp",
+                  "306.45",
+                  "332.81",
+                  "266.96"
+                ],
+                [
+                  "General & Admin Exp",
+                  "204.74",
+                  "194.85",
+                  "170.47"
+                ],
+                [
+                  "Operating Income",
+                  "1261.59",
+                  "1071.59",
+                  "559.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "25.07",
+                  "23.26",
+                  "16.03"
+                ],
+                [
+                  "Net Income",
+                  "986.49",
+                  "991.84",
+                  "501.86"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.60",
+                  "21.53",
+                  "14.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "935.85",
+                  "689.97",
+                  "651.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-407.15",
+                  "-88.45",
+                  "-167.68"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-874.48",
+                  "-584.86",
+                  "-801.01"
+                ],
+                [
+                  "CAPEX",
+                  "-119.33",
+                  "-62.84",
+                  "-85.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1084.09",
+                  "1360.86",
+                  "1361.06",
+                  "1289.39"
+                ],
+                [
+                  "Gross Profit",
+                  "490.47",
+                  "596.91",
+                  "607.26",
+                  "562.56"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.24",
+                  "43.86",
+                  "44.62",
+                  "43.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "115.75",
+                  "109.31",
+                  "111.30",
+                  "113.44"
+                ],
+                [
+                  "R&D Exp",
+                  "77.81",
+                  "80.40",
+                  "66.25",
+                  "89.68"
+                ],
+                [
+                  "General & Admin Exp",
+                  "51.36",
+                  "50.19",
+                  "51.94",
+                  "53.48"
+                ],
+                [
+                  "Operating Income",
+                  "245.55",
+                  "357.01",
+                  "377.78",
+                  "305.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.65",
+                  "26.23",
+                  "27.76",
+                  "23.73"
+                ],
+                [
+                  "Net Income",
+                  "223.85",
+                  "213.89",
+                  "325.11",
+                  "312.01"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.65",
+                  "15.72",
+                  "23.89",
+                  "24.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "196.05",
+                  "123.73",
+                  "193.42",
+                  "291.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "32.19",
+                  "8.97",
+                  "-329.09",
+                  "21.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4.10",
+                  "-4.05",
+                  "-4.07",
+                  "-1.40"
+                ],
+                [
+                  "CAPEX",
+                  "-37.16",
+                  "-26.48",
+                  "-17.45",
+                  "-19.36"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "工業電腦",
+    "IPC",
+    "AI",
+    "自動化",
+    "記憶體",
+    "工業電腦",
+    "半導體",
+    "Intel",
+    "AMD",
+    "記憶體"
+  ]
+}

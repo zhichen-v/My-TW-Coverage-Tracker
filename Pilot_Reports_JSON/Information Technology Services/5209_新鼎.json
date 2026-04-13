@@ -1,0 +1,650 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/5209_新鼎.md",
+  "source_path": "Pilot_Reports/Information Technology Services/5209_新鼎.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/5209_新鼎.json",
+  "ticker": "5209",
+  "company_name": "新鼎",
+  "title": "# 5209 - 新鼎",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "4,818 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,558 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "新鼎系統 (CTCI ASI / CTCI Advanced Systems) 隸屬於 "
+            },
+            {
+              "type": "strong",
+              "text": "中鼎集團 (CTCI Group)"
+            },
+            {
+              "type": "text",
+              "text": "，為台灣領先的 "
+            },
+            {
+              "type": "strong",
+              "text": "系統整合 (SI)"
+            },
+            {
+              "type": "text",
+              "text": " 廠商。\n專注於工廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "、智慧製造與交通控制系統。\n核心業務：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "智慧製造 (Smart Manufacturing)"
+            },
+            {
+              "type": "text",
+              "text": ": 製程控制 (DCS/PLC)、能源管理 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "EMS"
+            },
+            {
+              "type": "text",
+              "text": ")、高科技廠務監控 (FMCS)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "智慧交通 (Intelligent Transportation)"
+            },
+            {
+              "type": "text",
+              "text": ": 捷運/高鐵機電與號誌系統整合、行李處理系統 (BHS)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "綠色技術"
+            },
+            {
+              "type": "text",
+              "text": ": 節能減碳解決方案。\n近年積極導入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案 (Mr. "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 平台) 於工安監控與設備預防保養。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "新鼎 (5209)"
+            },
+            {
+              "type": "text",
+              "text": " - 系統整合設計, 軟硬體整合, 工程實施.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 設備原廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Siemens"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Honeywell"
+            },
+            {
+              "type": "text",
+              "text": ", Rockwell), 感測器廠商.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "石化/能源"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣中油"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": ". (中鼎集團承攬案之"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "分包).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "高科技"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": ", 美商"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "廠 (FMCS 系統).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "交通"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣高鐵"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "台北捷運"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園機場"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "集團關聯"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "中鼎工程"
+                },
+                {
+                  "type": "text",
+                  "text": " (主要營收來源之一).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "公共工程"
+                },
+                {
+                  "type": "text",
+                  "text": ": 捷運局, 機場公司.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "高科技廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "與面板大廠."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "工控設備"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Siemens"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Honeywell"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Schneider Electric"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $169.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.95",
+                  "N/A",
+                  "0.90",
+                  "4.26",
+                  "4.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6395.02",
+                  "6770.19",
+                  "3926.44"
+                ],
+                [
+                  "Gross Profit",
+                  "571.92",
+                  "530.26",
+                  "394.94"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.94",
+                  "7.83",
+                  "10.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "6.19",
+                  "4.60",
+                  "5.15"
+                ],
+                [
+                  "General & Admin Exp",
+                  "141.95",
+                  "125.94",
+                  "117.23"
+                ],
+                [
+                  "Operating Income",
+                  "423.78",
+                  "399.72",
+                  "272.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.63",
+                  "5.90",
+                  "6.94"
+                ],
+                [
+                  "Net Income",
+                  "378.93",
+                  "350.77",
+                  "242.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.93",
+                  "5.18",
+                  "6.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1387.16",
+                  "-264.90",
+                  "-303.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.33",
+                  "69.39",
+                  "393.25"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-496.92",
+                  "239.52",
+                  "-284.63"
+                ],
+                [
+                  "CAPEX",
+                  "-6.50",
+                  "-7.41",
+                  "-18.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31",
+                "2024-09-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1323.52",
+                  "1094.76",
+                  "1305.73",
+                  "1617.61"
+                ],
+                [
+                  "Gross Profit",
+                  "237.37",
+                  "85.39",
+                  "106.95",
+                  "152.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.93",
+                  "7.80",
+                  "8.19",
+                  "9.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "1.40",
+                  "1.13",
+                  "1.48",
+                  "1.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.69",
+                  "36.78",
+                  "38.13",
+                  "31.35"
+                ],
+                [
+                  "Operating Income",
+                  "195.28",
+                  "47.48",
+                  "67.33",
+                  "119.29"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.75",
+                  "4.34",
+                  "5.16",
+                  "7.37"
+                ],
+                [
+                  "Net Income",
+                  "143.31",
+                  "44.57",
+                  "62.38",
+                  "106.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.83",
+                  "4.07",
+                  "4.78",
+                  "6.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1298.83",
+                  "303.05",
+                  "-283.95",
+                  "1217.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3.29",
+                  "0.05",
+                  "-3.64",
+                  "-0.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-15.76",
+                  "-8.12",
+                  "-17.63",
+                  "-309.96"
+                ],
+                [
+                  "CAPEX",
+                  "-3.56",
+                  "-0.36",
+                  "-3.59",
+                  "-1.79"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "自動化",
+    "EMS",
+    "AI",
+    "AI",
+    "Siemens",
+    "Honeywell",
+    "台灣中油",
+    "台塑",
+    "台電",
+    "自動化",
+    "台積電",
+    "記憶體",
+    "台灣高鐵",
+    "台北捷運",
+    "桃園機場",
+    "中鼎工程",
+    "半導體",
+    "Siemens",
+    "Honeywell",
+    "Schneider Electric"
+  ]
+}

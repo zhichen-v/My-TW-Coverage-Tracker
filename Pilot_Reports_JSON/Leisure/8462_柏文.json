@@ -1,0 +1,571 @@
+{
+  "report_id": "Pilot_Reports/Leisure/8462_柏文.md",
+  "source_path": "Pilot_Reports/Leisure/8462_柏文.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/8462_柏文.json",
+  "ticker": "8462",
+  "company_name": "柏文",
+  "title": "# 8462 - 柏文",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "11,259 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "17,473 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "柏文健康事業股份有限公司 (8462) 為台灣首家上市之專業連鎖健身中心，旗下品牌「健身工廠 (Fitness Factory)」為南台灣起家之領導健身品牌。全國擁有超過 84 間專業據點，會員數逾 37 萬人，並通過"
+            },
+            {
+              "type": "wikilink",
+              "text": "SGS"
+            },
+            {
+              "type": "text",
+              "text": " Qualicert 國際服務驗證標章，為亞洲及台灣首家獲此認證之健身品牌。除健身工廠外，旗下亦經營「鐳射戰場」、「人體工房」、「肖跳」、「滾吧」及「兒童體適能 S klub」等六大品牌，目標 2027 年台灣據點達 100 家。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (器材與場地)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "健身器材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "喬山"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Matrix"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Life Fitness"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用健身設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "場地租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各地商場與大樓業主"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "裝修工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 室內裝潢與場館建設"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (健身中心營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "柏文"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 「健身工廠」連鎖健身中心營運、會員管理、品牌行銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端消費)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "會員:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 37 萬名健身會員 — 訂閱制會費與課程費"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "兒童體適能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 「S klub」兒童運動課程"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "健身會員:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 37 萬名會員 — 訂閱制會費與私人教練課程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "兒童客群:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 「S klub」兒童體適能課程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業團體健身方案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "健身器材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "喬山"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Matrix"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Life Fitness"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 商用健身設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "場地:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各地商場與大樓業主 — 據點租賃"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際認證:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SGS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Qualicert 國際服務驗證"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $142.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.09",
+                  "11.66",
+                  "1.86",
+                  "4.74",
+                  "8.39"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6065.69",
+                  "5122.94",
+                  "4296.21"
+                ],
+                [
+                  "Gross Profit",
+                  "1937.02",
+                  "1445.67",
+                  "1032.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.93",
+                  "28.22",
+                  "24.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "113.61",
+                  "106.72",
+                  "88.33"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "922.82",
+                  "823.55",
+                  "725.41"
+                ],
+                [
+                  "Operating Income",
+                  "900.59",
+                  "515.40",
+                  "218.63"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.85",
+                  "10.06",
+                  "5.09"
+                ],
+                [
+                  "Net Income",
+                  "666.00",
+                  "370.37",
+                  "112.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.98",
+                  "7.23",
+                  "2.61"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2219.89",
+                  "1935.82",
+                  "1472.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-678.11",
+                  "-734.53",
+                  "-604.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1229.73",
+                  "-1118.16",
+                  "-851.11"
+                ],
+                [
+                  "CAPEX",
+                  "-671.42",
+                  "-629.46",
+                  "-611.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1637.25",
+                  "1475.41",
+                  "1353.81",
+                  "1358.69"
+                ],
+                [
+                  "Gross Profit",
+                  "555.71",
+                  "470.95",
+                  "409.90",
+                  "416.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.94",
+                  "31.92",
+                  "30.28",
+                  "30.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "31.88",
+                  "25.20",
+                  "25.83",
+                  "29.54"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "240.25",
+                  "230.91",
+                  "213.03",
+                  "213.17"
+                ],
+                [
+                  "Operating Income",
+                  "283.59",
+                  "214.84",
+                  "171.03",
+                  "174.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.32",
+                  "14.56",
+                  "12.63",
+                  "12.81"
+                ],
+                [
+                  "Net Income",
+                  "220.22",
+                  "155.83",
+                  "121.55",
+                  "136.85"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.45",
+                  "10.56",
+                  "8.98",
+                  "10.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "760.02",
+                  "474.15",
+                  "439.40",
+                  "573.82"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-157.23",
+                  "-130.64",
+                  "-178.40",
+                  "-112.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-218.13",
+                  "-242.72",
+                  "-220.62",
+                  "-211.71"
+                ],
+                [
+                  "CAPEX",
+                  "-174.22",
+                  "-124.67",
+                  "-171.16",
+                  "-112.84"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "SGS",
+    "喬山",
+    "Matrix",
+    "Life Fitness",
+    "喬山",
+    "Matrix",
+    "Life Fitness",
+    "SGS"
+  ]
+}

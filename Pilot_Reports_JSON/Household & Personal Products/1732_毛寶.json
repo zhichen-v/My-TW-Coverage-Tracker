@@ -1,0 +1,609 @@
+{
+  "report_id": "Pilot_Reports/Household & Personal Products/1732_毛寶.md",
+  "source_path": "Pilot_Reports/Household & Personal Products/1732_毛寶.md",
+  "json_path": "Pilot_Reports_JSON/Household & Personal Products/1732_毛寶.json",
+  "ticker": "1732",
+  "company_name": "毛寶",
+  "title": "# 1732 - 毛寶",
+  "sector_folder": "Household & Personal Products",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Defensive"
+      },
+      {
+        "label": "產業:",
+        "value": "Household & Personal Products"
+      },
+      {
+        "label": "市值:",
+        "value": "1,114 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "901 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "毛寶股份有限公司 (1732) 成立於 1978 年，總部位於台灣新北市三重區，為台灣家喻戶曉之家用清潔用品製造商。公司以「"
+            },
+            {
+              "type": "wikilink",
+              "text": "毛寶"
+            },
+            {
+              "type": "text",
+              "text": "」及「"
+            },
+            {
+              "type": "wikilink",
+              "text": "白鷺"
+            },
+            {
+              "type": "text",
+              "text": "」品牌聞名，產品線涵蓋衣物清潔 (冷洗精市佔領先)、居家環境清潔、廚房衛浴清潔及個人衛生用品。毛寶長期致力於開發安全、有效且環保的清潔產品，近年並積極發展防蚊系列及寵物清潔用品，同時導入數據行銷以強化品牌競爭力。生產基地位於新竹湖口廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主要原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "界面活性劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、香精、天然萃取液 (如小蘇打、植物精油)、塑膠瓶器、包材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "生產基地:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣新竹湖口廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "毛寶 (1732)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "毛寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」、「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "白鷺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」等清潔用品品牌研發製造與行銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、大潤發、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、藥妝店"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PChome"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、蝦皮"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 飯店、餐廳、機關團體 (B2B 清潔劑)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、屈臣氏等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 飯店、餐廳、機關團體 (B2B 清潔劑)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化工原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "界面活性劑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、香精供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "包材供應:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 塑膠瓶器與印刷包裝材料廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $26.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.04",
+                  "N/A",
+                  "1.65",
+                  "2.23",
+                  "15.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "675.10",
+                  "593.17",
+                  "554.26"
+                ],
+                [
+                  "Gross Profit",
+                  "278.43",
+                  "243.49",
+                  "215.26"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.24",
+                  "41.05",
+                  "38.84"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "184.07",
+                  "175.17",
+                  "173.87"
+                ],
+                [
+                  "R&D Exp",
+                  "3.62",
+                  "4.66",
+                  "5.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "46.22",
+                  "55.00",
+                  "43.45"
+                ],
+                [
+                  "Operating Income",
+                  "44.51",
+                  "8.66",
+                  "-7.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.59",
+                  "1.46",
+                  "-1.28"
+                ],
+                [
+                  "Net Income",
+                  "29.33",
+                  "12.62",
+                  "-6.06"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.34",
+                  "2.13",
+                  "-1.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "42.09",
+                  "1.54",
+                  "31.83"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "38.13",
+                  "-2.10",
+                  "-12.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-22.63",
+                  "-1.38",
+                  "-1.57"
+                ],
+                [
+                  "CAPEX",
+                  "-4.79",
+                  "-12.67",
+                  "-28.05"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "168.73",
+                  "169.74",
+                  "177.21",
+                  "159.42"
+                ],
+                [
+                  "Gross Profit",
+                  "70.77",
+                  "70.86",
+                  "74.48",
+                  "62.32"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.94",
+                  "41.75",
+                  "42.03",
+                  "39.09"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "47.48",
+                  "46.03",
+                  "45.20",
+                  "45.37"
+                ],
+                [
+                  "R&D Exp",
+                  "0.59",
+                  "0.87",
+                  "0.99",
+                  "1.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "11.98",
+                  "11.19",
+                  "11.79",
+                  "11.25"
+                ],
+                [
+                  "Operating Income",
+                  "10.72",
+                  "12.77",
+                  "16.50",
+                  "4.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.35",
+                  "7.52",
+                  "9.31",
+                  "2.84"
+                ],
+                [
+                  "Net Income",
+                  "13.46",
+                  "12.72",
+                  "-3.08",
+                  "6.23"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.98",
+                  "7.50",
+                  "-1.74",
+                  "3.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "24.13",
+                  "12.49",
+                  "16.56",
+                  "-11.09"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.59",
+                  "9.49",
+                  "19.11",
+                  "15.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.35",
+                  "-21.58",
+                  "-0.35",
+                  "-0.35"
+                ],
+                [
+                  "CAPEX",
+                  "1.65",
+                  "-4.45",
+                  "-1.22",
+                  "-0.77"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "毛寶",
+    "白鷺",
+    "界面活性劑",
+    "毛寶",
+    "白鷺",
+    "全聯",
+    "家樂福",
+    "統一超商",
+    "momo購物網",
+    "PChome",
+    "全聯",
+    "家樂福",
+    "統一超商",
+    "界面活性劑"
+  ]
+}

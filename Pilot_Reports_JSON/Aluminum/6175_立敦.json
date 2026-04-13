@@ -1,0 +1,901 @@
+{
+  "report_id": "Pilot_Reports/Aluminum/6175_立敦.md",
+  "source_path": "Pilot_Reports/Aluminum/6175_立敦.md",
+  "json_path": "Pilot_Reports_JSON/Aluminum/6175_立敦.json",
+  "ticker": "6175",
+  "company_name": "立敦",
+  "title": "# 6175_立敦",
+  "sector_folder": "Aluminum",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Aluminum"
+      },
+      {
+        "label": "市值:",
+        "value": "6,846 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,441 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "立敦科技 (6175，Li Tun Technology) 為台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "電蝕鋁箔"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "化成鋁箔"
+            },
+            {
+              "type": "text",
+              "text": "之領導製造商，產品為"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋁質電解電容器"
+            },
+            {
+              "type": "text",
+              "text": "最關鍵上游原料 (佔電容生產成本 30-70%)。母公司為"
+            },
+            {
+              "type": "wikilink",
+              "text": "立隆電子"
+            },
+            {
+              "type": "text",
+              "text": " (2472，持股約 30%)，台灣車用電容市佔逾七成。透過與"
+            },
+            {
+              "type": "wikilink",
+              "text": "東陽光"
+            },
+            {
+              "type": "text",
+              "text": "合資之"
+            },
+            {
+              "type": "wikilink",
+              "text": "立東電子"
+            },
+            {
+              "type": "text",
+              "text": "，電蝕鋁箔自給率已達 70%，大幅降低對日本供應商之依賴。下游客戶涵蓋全球前三大鋁質電解電容器製造商 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nippon Chemi-Con"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Nichicon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rubycon"
+            },
+            {
+              "type": "text",
+              "text": "，以及台系電容廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "凱美"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "國巨"
+            },
+            {
+              "type": "text",
+              "text": "集團)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": "等。受惠於"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "風力發電"
+            },
+            {
+              "type": "text",
+              "text": "等高階應用驅動電容器需求持續成長。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電蝕鋁箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立東電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東陽光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合資) — 自供 70% 電蝕鋁箔需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高純度鋁箔原箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本及中國"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東陽光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等鋁箔原箔供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "立敦"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電蝕鋁箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "加工、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "化成鋁箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "生產、電解液及導針供應)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 ([[鋁質電解電容器]]製造商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系三大廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nippon Chemi-Con"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球市佔約 20%)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nichicon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rubycon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台系電容廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立隆電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司，車用電容龍頭)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱美"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國巨"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團)、金山電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際大廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "風力發電"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日系電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nippon Chemi-Con"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球最大鋁電解電容廠；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Nichicon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rubycon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台系電容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立隆電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司) — 台灣車用電容龍頭；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凱美"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國巨"
+                    },
+                    {
+                      "type": "text",
+                      "text": "集團)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際大廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鋁質電解電容器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "風力發電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電蝕鋁箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "立東電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東陽光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合資) — 自供 70% 需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁箔原箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本及中國高純度電子級鋁箔供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.08",
+                  "N/A",
+                  "1.64",
+                  "1.68",
+                  "8.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4167.20",
+                  "4225.43",
+                  "3676.09"
+                ],
+                [
+                  "Gross Profit",
+                  "976.52",
+                  "1014.95",
+                  "748.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.43",
+                  "24.02",
+                  "20.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "63.09",
+                  "62.55",
+                  "54.30"
+                ],
+                [
+                  "R&D Exp",
+                  "106.45",
+                  "147.97",
+                  "122.04"
+                ],
+                [
+                  "General & Admin Exp",
+                  "168.63",
+                  "169.84",
+                  "147.86"
+                ],
+                [
+                  "Operating Income",
+                  "638.35",
+                  "634.60",
+                  "424.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.32",
+                  "15.02",
+                  "11.55"
+                ],
+                [
+                  "Net Income",
+                  "400.54",
+                  "469.25",
+                  "294.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.61",
+                  "11.11",
+                  "8.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "853.84",
+                  "605.42",
+                  "553.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-259.91",
+                  "-165.71",
+                  "-130.26"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-635.19",
+                  "-253.44",
+                  "-316.31"
+                ],
+                [
+                  "CAPEX",
+                  "-268.15",
+                  "-206.58",
+                  "-136.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1019.20",
+                  "964.92",
+                  "1110.81",
+                  "1072.28"
+                ],
+                [
+                  "Gross Profit",
+                  "236.79",
+                  "226.56",
+                  "261.00",
+                  "252.17"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.23",
+                  "23.48",
+                  "23.50",
+                  "23.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.94",
+                  "16.15",
+                  "14.32",
+                  "15.68"
+                ],
+                [
+                  "R&D Exp",
+                  "25.14",
+                  "21.77",
+                  "30.59",
+                  "28.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "46.72",
+                  "40.90",
+                  "37.31",
+                  "43.71"
+                ],
+                [
+                  "Operating Income",
+                  "147.99",
+                  "147.74",
+                  "178.78",
+                  "163.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.52",
+                  "15.31",
+                  "16.09",
+                  "15.28"
+                ],
+                [
+                  "Net Income",
+                  "107.72",
+                  "108.20",
+                  "75.18",
+                  "109.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.57",
+                  "11.21",
+                  "6.77",
+                  "10.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "282.39",
+                  "232.12",
+                  "228.84",
+                  "110.50"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-117.67",
+                  "-46.76",
+                  "-64.69",
+                  "-30.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-33.07",
+                  "-231.50",
+                  "-177.60",
+                  "-193.01"
+                ],
+                [
+                  "CAPEX",
+                  "-117.67",
+                  "-55.00",
+                  "-64.69",
+                  "-30.79"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電蝕鋁箔",
+    "化成鋁箔",
+    "鋁質電解電容器",
+    "立隆電子",
+    "東陽光",
+    "立東電子",
+    "Nippon Chemi-Con",
+    "Nichicon",
+    "Rubycon",
+    "凱美",
+    "國巨",
+    "Panasonic",
+    "AI 伺服器",
+    "5G",
+    "電動車",
+    "風力發電",
+    "立東電子",
+    "東陽光",
+    "東陽光",
+    "電蝕鋁箔",
+    "化成鋁箔",
+    "鋁質電解電容器",
+    "Nippon Chemi-Con",
+    "Nichicon",
+    "Rubycon",
+    "立隆電子",
+    "凱美",
+    "國巨",
+    "Panasonic",
+    "AI 伺服器",
+    "5G",
+    "電動車",
+    "風力發電",
+    "Nippon Chemi-Con",
+    "Nichicon",
+    "Rubycon",
+    "立隆電子",
+    "凱美",
+    "國巨",
+    "Panasonic",
+    "AI 伺服器",
+    "5G",
+    "電動車",
+    "風力發電",
+    "立東電子",
+    "東陽光"
+  ]
+}

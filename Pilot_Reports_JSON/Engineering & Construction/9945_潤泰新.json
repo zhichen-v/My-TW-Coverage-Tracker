@@ -1,0 +1,844 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/9945_潤泰新.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/9945_潤泰新.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/9945_潤泰新.json",
+  "ticker": "9945",
+  "company_name": "潤泰新",
+  "title": "# 9945 - 潤泰新",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Engineering & Construction"
+      },
+      {
+        "label": "市值:",
+        "value": "71,855 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "137,628 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "潤泰創新國際股份有限公司（原名潤泰建設）成立於1977年，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "潤泰集團"
+            },
+            {
+              "type": "text",
+              "text": "旗下核心上市公司，跨足營建與生活事業。營建事業以集團獨有之"
+            },
+            {
+              "type": "wikilink",
+              "text": "預鑄工法"
+            },
+            {
+              "type": "text",
+              "text": "（以工廠預製鋼筋混凝土構件，現場組裝，工期快、品質優）為競爭利器，開發住宅建案，營造工程則由關係企業"
+            },
+            {
+              "type": "wikilink",
+              "text": "潤弘精密"
+            },
+            {
+              "type": "text",
+              "text": "承包執行，曾創下「百日建廠」紀錄。生活事業透過 BOT 模式投資興建大型複合式商場"
+            },
+            {
+              "type": "wikilink",
+              "text": "CITYLINK"
+            },
+            {
+              "type": "text",
+              "text": "購物中心（南港、松山等據點），並引進"
+            },
+            {
+              "type": "wikilink",
+              "text": "蔦屋書店"
+            },
+            {
+              "type": "text",
+              "text": "等特色品牌。轉投資布局廣泛，持有"
+            },
+            {
+              "type": "wikilink",
+              "text": "南山人壽"
+            },
+            {
+              "type": "text",
+              "text": "約25%股權（為最大獲利來源），並投資"
+            },
+            {
+              "type": "wikilink",
+              "text": "日友環保"
+            },
+            {
+              "type": "text",
+              "text": "（廢棄物處理）、"
+            },
+            {
+              "type": "wikilink",
+              "text": "大潤發"
+            },
+            {
+              "type": "text",
+              "text": "等事業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (建材與預鑄構件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（鋼筋供應）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（水泥供應）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預鑄構件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "預鑄工法"
+                    },
+                    {
+                      "type": "text",
+                      "text": "工廠生產柱、梁、牆等構件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "潤泰新"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅建案開發銷售、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CITYLINK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "商場BOT投資營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[潤弘精密]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 關係企業，以"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "預鑄工法"
+                    },
+                    {
+                      "type": "text",
+                      "text": "承攬營造工程（含科技廠房「百日建廠」）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶與投資)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅購屋者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團建案購屋族群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CITYLINK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "進駐品牌（含"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蔦屋書店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "轉投資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南山人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（持股約25%）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日友環保"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大潤發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅銷售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一般購屋者（潤泰集團建案）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CITYLINK"
+                    },
+                    {
+                      "type": "text",
+                      "text": "購物中心進駐品牌商與消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技廠房:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體與科技業者委託"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "潤弘精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": "以"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "預鑄工法"
+                    },
+                    {
+                      "type": "text",
+                      "text": "快速建廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（鋼筋主要供應商）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞泥"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "潤弘精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（關係企業，核心營造承包商）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商場品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蔦屋書店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等特色品牌引進"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要轉投資",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壽險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南山人壽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（持股約25%，為最大獲利來源）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "環保:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日友環保"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（廢棄物處理）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大潤發"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（量販通路）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "6.45",
+                  "6.48",
+                  "1.83",
+                  "0.68",
+                  "17.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "39312.33",
+                  "31817.18",
+                  "27394.14"
+                ],
+                [
+                  "Gross Profit",
+                  "9454.94",
+                  "8614.75",
+                  "7180.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.05",
+                  "27.08",
+                  "26.21"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1089.41",
+                  "907.21",
+                  "862.35"
+                ],
+                [
+                  "R&D Exp",
+                  "97.34",
+                  "92.88",
+                  "88.84"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1322.53",
+                  "1314.91",
+                  "1209.62"
+                ],
+                [
+                  "Operating Income",
+                  "6945.66",
+                  "6299.76",
+                  "5020.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.67",
+                  "19.80",
+                  "18.33"
+                ],
+                [
+                  "Net Income",
+                  "10725.54",
+                  "16562.97",
+                  "7744.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "27.28",
+                  "52.06",
+                  "28.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5416.25",
+                  "4008.84",
+                  "2228.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-889.68",
+                  "-2002.34",
+                  "-286.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5068.35",
+                  "-116.35",
+                  "-7726.66"
+                ],
+                [
+                  "CAPEX",
+                  "-996.32",
+                  "-410.42",
+                  "-494.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "14164.45",
+                  "9100.30",
+                  "9032.30",
+                  "7015.28"
+                ],
+                [
+                  "Gross Profit",
+                  "3246.10",
+                  "2262.67",
+                  "2248.94",
+                  "1697.23"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.92",
+                  "24.86",
+                  "24.90",
+                  "24.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "369.16",
+                  "257.74",
+                  "235.90",
+                  "226.61"
+                ],
+                [
+                  "R&D Exp",
+                  "26.27",
+                  "25.66",
+                  "22.87",
+                  "22.55"
+                ],
+                [
+                  "General & Admin Exp",
+                  "313.89",
+                  "357.81",
+                  "319.83",
+                  "330.99"
+                ],
+                [
+                  "Operating Income",
+                  "2536.78",
+                  "1621.46",
+                  "1670.34",
+                  "1117.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.91",
+                  "17.82",
+                  "18.49",
+                  "15.92"
+                ],
+                [
+                  "Net Income",
+                  "3401.68",
+                  "2634.41",
+                  "1309.76",
+                  "3379.69"
+                ],
+                [
+                  "Net Margin (%)",
+                  "24.02",
+                  "28.95",
+                  "14.50",
+                  "48.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3101.09",
+                  "1832.10",
+                  "331.19",
+                  "151.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-500.38",
+                  "-200.78",
+                  "-479.61",
+                  "291.09"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2689.59",
+                  "-2158.57",
+                  "-577.00",
+                  "356.81"
+                ],
+                [
+                  "CAPEX",
+                  "-234.10",
+                  "-241.34",
+                  "-319.79",
+                  "-201.09"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "潤泰集團",
+    "預鑄工法",
+    "潤弘精密",
+    "CITYLINK",
+    "蔦屋書店",
+    "南山人壽",
+    "日友環保",
+    "大潤發",
+    "中鋼",
+    "台泥",
+    "亞泥",
+    "預鑄工法",
+    "CITYLINK",
+    "潤弘精密",
+    "預鑄工法",
+    "CITYLINK",
+    "蔦屋書店",
+    "南山人壽",
+    "日友環保",
+    "大潤發",
+    "CITYLINK",
+    "潤弘精密",
+    "預鑄工法",
+    "中鋼",
+    "台泥",
+    "亞泥",
+    "潤弘精密",
+    "蔦屋書店",
+    "南山人壽",
+    "日友環保",
+    "大潤發"
+  ]
+}

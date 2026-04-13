@@ -1,0 +1,701 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/8043_蜜望實.md",
+  "source_path": "Pilot_Reports/Electronic Components/8043_蜜望實.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/8043_蜜望實.json",
+  "ticker": "8043",
+  "company_name": "蜜望實",
+  "title": "# 8043 - 蜜望實",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,817 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,362 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "蜜望實企業 (8043) 為台灣專業高階被動元件技術通路商，長期擔任日本 "
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽誘電"
+            },
+            {
+              "type": "text",
+              "text": " (Taiyo Yuden) 在台灣的核心代理商，專注於高容值 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MLCC"
+            },
+            {
+              "type": "text",
+              "text": " (積層陶瓷電容) 及電感產品之代理銷售與技術支援服務。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司不僅單純進行零件買賣，更提供產品參考設計與技術應用諮詢，協助客戶選擇最適電子零組件方案。近年受惠於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " 對高溫、高可靠度 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MLCC"
+            },
+            {
+              "type": "text",
+              "text": " 元件的爆發性需求 (通用伺服器約使用 2,000 顆 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MLCC"
+            },
+            {
+              "type": "text",
+              "text": "，"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": " 跳升至 2 萬顆，GB300 機櫃更高達 45 萬顆)，AI 相關營收占比已達四成。此外，公司亦積極拓展 "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 通訊設備、物聯網及 E-Bike 等高成長應用領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (被動元件原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[MLCC]] 與電感:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "太陽誘電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Taiyo Yuden) — 高容值 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MLCC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及電感之核心原廠供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源管理IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際 PMIC 原廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (技術通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "被動元件代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "蜜望實"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高階 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MLCC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、電感及 PMIC 之技術代理與專業通路銷售)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ODM/OEM 代工廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MLCC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 用量爆增"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基地台與網通設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電子零組件廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 筆電、E-Bike、IoT 等終端產品製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ODM 廠 — AI 營收占比達四成"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 通訊與網通設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電力系統零組件廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 筆電、E-Bike 等終端電子產品組裝廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[MLCC]] 與電感:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "太陽誘電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Taiyo Yuden) — 長期獨家核心原廠合作夥伴"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他被動元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際被動元件與 PMIC 原廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $72.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "43.59",
+                  "N/A",
+                  "1.07",
+                  "2.11",
+                  "98.72"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5426.26",
+                  "4688.01",
+                  "4885.67"
+                ],
+                [
+                  "Gross Profit",
+                  "305.13",
+                  "209.69",
+                  "135.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.62",
+                  "4.47",
+                  "2.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "162.18",
+                  "131.94",
+                  "124.38"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "80.47",
+                  "86.42",
+                  "72.59"
+                ],
+                [
+                  "Operating Income",
+                  "62.47",
+                  "-8.66",
+                  "-61.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.15",
+                  "-0.18",
+                  "-1.25"
+                ],
+                [
+                  "Net Income",
+                  "133.51",
+                  "121.38",
+                  "-19.06"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.46",
+                  "2.59",
+                  "-0.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-499.97",
+                  "-237.38",
+                  "610.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "127.33",
+                  "297.30",
+                  "-397.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "407.37",
+                  "116.35",
+                  "-91.16"
+                ],
+                [
+                  "CAPEX",
+                  "-10.22",
+                  "-10.63",
+                  "-11.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1816.27",
+                  "1337.72",
+                  "1219.65",
+                  "1052.62"
+                ],
+                [
+                  "Gross Profit",
+                  "158.25",
+                  "66.02",
+                  "20.61",
+                  "60.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.71",
+                  "4.94",
+                  "1.69",
+                  "5.72"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "67.21",
+                  "37.15",
+                  "29.53",
+                  "28.29"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "28.24",
+                  "17.88",
+                  "16.94",
+                  "17.41"
+                ],
+                [
+                  "Operating Income",
+                  "62.80",
+                  "11.00",
+                  "-25.86",
+                  "14.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.46",
+                  "0.82",
+                  "-2.12",
+                  "1.38"
+                ],
+                [
+                  "Net Income",
+                  "126.75",
+                  "67.68",
+                  "-35.94",
+                  "-24.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.98",
+                  "5.06",
+                  "-2.95",
+                  "-2.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-26.01",
+                  "-405.82",
+                  "43.44",
+                  "-111.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.11",
+                  "59.90",
+                  "56.77",
+                  "15.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "117.57",
+                  "286.08",
+                  "-11.99",
+                  "15.71"
+                ],
+                [
+                  "CAPEX",
+                  "-5.20",
+                  "-0.25",
+                  "-2.75",
+                  "-2.01"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "太陽誘電",
+    "MLCC",
+    "AI 伺服器",
+    "MLCC",
+    "MLCC",
+    "AI 伺服器",
+    "電動車",
+    "5G",
+    "MLCC",
+    "太陽誘電",
+    "MLCC",
+    "MLCC",
+    "AI 伺服器",
+    "MLCC",
+    "5G",
+    "電動車",
+    "AI 伺服器",
+    "5G",
+    "電動車",
+    "MLCC",
+    "太陽誘電"
+  ]
+}

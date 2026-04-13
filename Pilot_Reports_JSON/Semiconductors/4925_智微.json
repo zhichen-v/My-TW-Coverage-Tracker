@@ -1,0 +1,508 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/4925_智微.md",
+  "source_path": "Pilot_Reports/Semiconductors/4925_智微.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/4925_智微.json",
+  "ticker": "4925",
+  "company_name": "智微",
+  "title": "# 4925 - 智微",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "7,454 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,125 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "智微科技 (4925，"
+            },
+            {
+              "type": "wikilink",
+              "text": "JMicron"
+            },
+            {
+              "type": "text",
+              "text": ") 為無晶圓廠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IC 設計"
+            },
+            {
+              "type": "text",
+              "text": "公司，專精高速資料及訊號介面橋接控制器。產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "USB"
+            },
+            {
+              "type": "text",
+              "text": " 3.2 20Gbps 至 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": " Gen4 橋接控制器、SATA 橋接器、儲存裝置控制器及毫米波雷達 "
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": " 裝置。SSD 控制器廣獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Corsair"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "OCZ"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Transcend"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌採用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "橋接控制器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "智微"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB/PCIe/SATA 橋接控制器)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (儲存與周邊)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SSD 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corsair"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Transcend"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OCZ"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外接儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外接硬碟盒/Dock 品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SSD 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Corsair"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Transcend"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外接儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外接硬碟盒及 Dock 品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "祥碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $105.50 as of 2026-04-12 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "14.52",
+                  "6.22",
+                  "-20.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "653.58",
+                  "760.71",
+                  "779.09"
+                ],
+                [
+                  "Gross Profit",
+                  "380.73",
+                  "431.83",
+                  "294.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "58.25",
+                  "56.77",
+                  "37.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "107.54",
+                  "105.68",
+                  "97.45"
+                ],
+                [
+                  "R&D Exp",
+                  "371.19",
+                  "338.91",
+                  "333.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "127.62",
+                  "101.17",
+                  "105.08"
+                ],
+                [
+                  "Operating Income",
+                  "-225.62",
+                  "-113.93",
+                  "-242.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-34.52",
+                  "-14.98",
+                  "-31.08"
+                ],
+                [
+                  "Net Income",
+                  "17.76",
+                  "-127.12",
+                  "-140.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.72",
+                  "-16.71",
+                  "-18.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-79.04",
+                  "105.54",
+                  "-150.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-68.94",
+                  "-44.27",
+                  "-48.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-21.97",
+                  "143.20",
+                  "4.08"
+                ],
+                [
+                  "CAPEX",
+                  "-71.06",
+                  "-45.26",
+                  "-53.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "JMicron",
+    "IC 設計",
+    "USB",
+    "PCIe",
+    "物聯網",
+    "華碩",
+    "Corsair",
+    "OCZ",
+    "Transcend",
+    "華碩",
+    "Corsair",
+    "Transcend",
+    "OCZ",
+    "華碩",
+    "Corsair",
+    "Transcend",
+    "祥碩",
+    "瑞昱"
+  ]
+}

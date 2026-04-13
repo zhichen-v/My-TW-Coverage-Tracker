@@ -1,0 +1,730 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/6584_南俊國際.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/6584_南俊國際.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/6584_南俊國際.json",
+  "ticker": "6584",
+  "company_name": "南俊國際",
+  "title": "# 6584_南俊國際",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "39,556 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "38,892 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "南俊國際 (6584，REPON) 創立於 1977 年，為精密金屬滑軌設計與製造之台灣領導廠商。早年以辦公家具與櫥櫃滑軌起家，近年成功轉型佈署於高毛利的雲端"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "滑軌市場。因應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "重量激增及"
+            },
+            {
+              "type": "wikilink",
+              "text": "液冷散熱"
+            },
+            {
+              "type": "text",
+              "text": "需求，南俊成功開發超高負重 "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "專用導軌，正式成為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " GB 系列新世代 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "合格推薦供應商 (RVL)。2025 年打入雲端服務商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": ") 供應鏈，成為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Supermicro"
+            },
+            {
+              "type": "text",
+              "text": " (超微) 之第二滑軌供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高品質冷軋鋼捲 (SPCC)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不鏽鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁擠型金屬料、塑膠射出件、電鍍化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "南俊國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "專用滑軌、工業機櫃/家電/高階家具精密金屬導軌之研發、沖壓與組裝"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器 ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (超微) — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "滑軌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端服務商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系大型 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CSP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 巨頭 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GB 系列原廠認證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳統客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球大型櫥櫃品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermicro"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (超微) — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "導軌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端巨頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美系大型 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CSP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GB 系列原廠認證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳統家具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際櫥櫃品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 冷軋鋼捲"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電鍍化學品供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $568.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "107.58",
+                  "29.89",
+                  "16.26",
+                  "12.29",
+                  "61.94"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2432.93",
+                  "1924.50",
+                  "1324.28"
+                ],
+                [
+                  "Gross Profit",
+                  "851.32",
+                  "502.32",
+                  "238.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.99",
+                  "26.10",
+                  "18.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "101.70",
+                  "78.31",
+                  "69.48"
+                ],
+                [
+                  "R&D Exp",
+                  "66.60",
+                  "61.16",
+                  "41.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "199.53",
+                  "158.93",
+                  "121.62"
+                ],
+                [
+                  "Operating Income",
+                  "483.49",
+                  "203.91",
+                  "5.92"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.87",
+                  "10.60",
+                  "0.45"
+                ],
+                [
+                  "Net Income",
+                  "369.98",
+                  "192.21",
+                  "8.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.21",
+                  "9.99",
+                  "0.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "340.52",
+                  "294.79",
+                  "80.37"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-131.21",
+                  "-134.09",
+                  "-31.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-61.93",
+                  "-239.53",
+                  "-6.72"
+                ],
+                [
+                  "CAPEX",
+                  "-129.64",
+                  "-119.10",
+                  "-33.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "710.05",
+                  "622.14",
+                  "601.20",
+                  "499.54"
+                ],
+                [
+                  "Gross Profit",
+                  "277.89",
+                  "227.27",
+                  "195.39",
+                  "150.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.14",
+                  "36.53",
+                  "32.50",
+                  "30.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.21",
+                  "29.69",
+                  "34.55",
+                  "21.25"
+                ],
+                [
+                  "R&D Exp",
+                  "16.50",
+                  "17.50",
+                  "17.85",
+                  "14.75"
+                ],
+                [
+                  "General & Admin Exp",
+                  "65.16",
+                  "44.97",
+                  "45.45",
+                  "43.94"
+                ],
+                [
+                  "Operating Income",
+                  "180.02",
+                  "135.11",
+                  "97.54",
+                  "70.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "25.35",
+                  "21.72",
+                  "16.22",
+                  "14.18"
+                ],
+                [
+                  "Net Income",
+                  "166.05",
+                  "130.26",
+                  "8.38",
+                  "65.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "23.39",
+                  "20.94",
+                  "1.39",
+                  "13.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "184.37",
+                  "133.43",
+                  "-6.85",
+                  "29.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-27.55",
+                  "-17.27",
+                  "-73.27",
+                  "-13.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-328.63",
+                  "178.81",
+                  "80.96",
+                  "6.93"
+                ],
+                [
+                  "CAPEX",
+                  "-32.49",
+                  "-25.12",
+                  "-52.78",
+                  "-19.25"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "AI 伺服器",
+    "液冷散熱",
+    "伺服器",
+    "NVIDIA",
+    "AI 伺服器",
+    "CSP",
+    "Supermicro",
+    "中鋼",
+    "伺服器",
+    "Supermicro",
+    "AI 伺服器",
+    "CSP",
+    "Microsoft",
+    "Amazon",
+    "NVIDIA",
+    "Supermicro",
+    "AI 伺服器",
+    "CSP",
+    "Microsoft",
+    "Amazon",
+    "NVIDIA",
+    "中鋼"
+  ]
+}

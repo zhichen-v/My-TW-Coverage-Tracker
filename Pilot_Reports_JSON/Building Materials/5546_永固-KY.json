@@ -1,0 +1,588 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/5546_永固-KY.md",
+  "source_path": "Pilot_Reports/Building Materials/5546_永固-KY.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/5546_永固-KY.json",
+  "ticker": "5546",
+  "company_name": "永固-KY",
+  "title": "# 5546 - 永固-KY",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "1,412 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,649 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "永固-KY (5546，Yonggu) 為深耕中國重慶的"
+            },
+            {
+              "type": "wikilink",
+              "text": "預拌混凝土"
+            },
+            {
+              "type": "text",
+              "text": "大廠。核心業務為供應重慶主城區各項基礎建設與房地產項目之預拌混凝土，市佔率領先。公司具備垂直整合優勢，擁有國浩粉磨站，可自產水泥與粉煤灰，大幅提升成本競爭力。受惠於中國西部大開發及成渝雙城經濟圈建設，永固參與多項重慶跨江大橋、軌道交通與"
+            },
+            {
+              "type": "wikilink",
+              "text": "江北機場"
+            },
+            {
+              "type": "text",
+              "text": "擴建工程。主要向"
+            },
+            {
+              "type": "wikilink",
+              "text": "三一重工"
+            },
+            {
+              "type": "text",
+              "text": "採購重型攪拌車與灌漿設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與自營粉磨)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自產原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國浩粉磨站 — 自營生產水泥"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熟料"
+                    },
+                    {
+                      "type": "text",
+                      "text": "粉、精磨粉煤灰"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外購設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三一重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 重型攪拌車與灌漿設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "砂石採購:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重慶當地砂石供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (預拌混凝土生產)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "永固"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 重慶主城區預拌混凝土生產配送"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎建設:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重慶跨江大橋、軌道交通、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "江北機場"
+                    },
+                    {
+                      "type": "text",
+                      "text": "擴建"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "房地產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重慶主城區住宅與商業建案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 成渝雙城經濟圈重大基建項目"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎建設:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重慶市政府重大工程 — 跨江大橋、軌道交通、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "江北機場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "房地產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重慶主城區房地產開發商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 成渝雙城經濟圈建設項目"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有粉磨:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國浩粉磨站 — 水泥"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熟料"
+                    },
+                    {
+                      "type": "text",
+                      "text": "粉、粉煤灰"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三一重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 重型攪拌車與灌漿設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學摻料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 混凝土添加劑供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.15 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.61",
+                  "0.77",
+                  "21.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2816.64",
+                  "3812.58",
+                  "4438.50"
+                ],
+                [
+                  "Gross Profit",
+                  "395.09",
+                  "349.66",
+                  "449.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.03",
+                  "9.17",
+                  "10.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "44.12",
+                  "57.38",
+                  "58.32"
+                ],
+                [
+                  "R&D Exp",
+                  "27.27",
+                  "27.43",
+                  "26.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "140.77",
+                  "150.16",
+                  "142.55"
+                ],
+                [
+                  "Operating Income",
+                  "182.94",
+                  "114.69",
+                  "222.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.49",
+                  "3.01",
+                  "5.01"
+                ],
+                [
+                  "Net Income",
+                  "13.70",
+                  "-377.53",
+                  "54.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.49",
+                  "-9.90",
+                  "1.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "240.97",
+                  "813.32",
+                  "335.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-181.22",
+                  "-80.94",
+                  "-361.26"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-211.53",
+                  "-637.46",
+                  "-336.45"
+                ],
+                [
+                  "CAPEX",
+                  "-184.06",
+                  "-95.86",
+                  "-345.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "397.96",
+                  "665.64",
+                  "531.14",
+                  "726.57"
+                ],
+                [
+                  "Gross Profit",
+                  "27.87",
+                  "62.62",
+                  "22.85",
+                  "112.47"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.00",
+                  "9.41",
+                  "4.30",
+                  "15.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5.65",
+                  "9.27",
+                  "7.10",
+                  "17.93"
+                ],
+                [
+                  "R&D Exp",
+                  "6.78",
+                  "6.62",
+                  "5.90",
+                  "6.42"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.98",
+                  "29.14",
+                  "36.01",
+                  "30.41"
+                ],
+                [
+                  "Operating Income",
+                  "-17.54",
+                  "17.58",
+                  "-26.17",
+                  "57.70"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.41",
+                  "2.64",
+                  "-4.93",
+                  "7.94"
+                ],
+                [
+                  "Net Income",
+                  "-2.92",
+                  "-8.12",
+                  "-75.85",
+                  "-23.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.73",
+                  "-1.22",
+                  "-14.28",
+                  "-3.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "60.58",
+                  "351.80",
+                  "-127.99",
+                  "81.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-61.32",
+                  "28.31",
+                  "-24.93",
+                  "-42.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-127.30",
+                  "9.65",
+                  "43.37",
+                  "6.04"
+                ],
+                [
+                  "CAPEX",
+                  "-57.93",
+                  "14.35",
+                  "-35.77",
+                  "-50.15"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "預拌混凝土",
+    "江北機場",
+    "三一重工",
+    "熟料",
+    "三一重工",
+    "江北機場",
+    "江北機場",
+    "熟料",
+    "三一重工"
+  ]
+}

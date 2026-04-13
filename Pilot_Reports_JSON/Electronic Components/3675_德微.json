@@ -1,0 +1,576 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3675_德微.md",
+  "source_path": "Pilot_Reports/Electronic Components/3675_德微.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3675_德微.json",
+  "ticker": "3675",
+  "company_name": "德微",
+  "title": "# 3675 - 德微",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "10,877 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,724 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "德微科技 (Eris) 為台灣專業的 "
+            },
+            {
+              "type": "strong",
+              "text": "二極體 (Diode)"
+            },
+            {
+              "type": "text",
+              "text": " 設計與製造商，隸屬於全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "巨頭 "
+            },
+            {
+              "type": "strong",
+              "text": "Diodes Inc."
+            },
+            {
+              "type": "text",
+              "text": " 集團。\n公司已從早期的貿易商轉型為具備生產能力的專業製造廠，並正邁向 "
+            },
+            {
+              "type": "strong",
+              "text": "垂直整合製造 (IDM)"
+            },
+            {
+              "type": "text",
+              "text": " 模式。\n核心競爭力與發展方向：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]供應鏈"
+            },
+            {
+              "type": "text",
+              "text": ": 已成功打入美系 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈，供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "電源供應器 (PSU) 所需的功率元件，"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 產品營收佔比已達約 25%。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "車用與工控佈局"
+            },
+            {
+              "type": "text",
+              "text": ": 受惠於母公司 Diodes 的策略支持，其蕭特基二極體與溝槽式晶圓結構產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "工業控制。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "併購基隆廠效益"
+            },
+            {
+              "type": "text",
+              "text": ": 透過併購取得高階整流器製程技術，強化高電壓、大電流功率元件生產能力，提升整體毛利率。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "高度自動化生產"
+            },
+            {
+              "type": "text",
+              "text": ": 擁有自主開發的"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "檢測與生產設備，確保產品的一致性與高品質。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "基板、光罩、化學氣體。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "德微 (3675)"
+            },
+            {
+              "type": "text",
+              "text": " - 功率"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "研發、晶圓製造、封裝測試。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "母公司渠道"
+            },
+            {
+              "type": "text",
+              "text": ": 美商達爾 (Diodes Inc.) 銷往全球。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "電源供應器廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "光寶科"
+            },
+            {
+              "type": "text",
+              "text": " 等"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "電源供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用/工業"
+            },
+            {
+              "type": "text",
+              "text": ": 全球 Tier-1 汽車供應商與工控設備廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   核心大股東兼最大客戶：Diodes Inc. (達爾科技)。\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "電源模組合力廠商。\n*   國際一線車廠與消費電子品牌。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $205.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "75.09",
+                  "13.69",
+                  "4.13",
+                  "4.42",
+                  "24.70"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2636.63",
+                  "2925.65",
+                  "2024.80"
+                ],
+                [
+                  "Gross Profit",
+                  "915.03",
+                  "995.82",
+                  "459.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.70",
+                  "34.04",
+                  "22.70"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "109.65",
+                  "110.83",
+                  "59.32"
+                ],
+                [
+                  "R&D Exp",
+                  "320.69",
+                  "236.36",
+                  "138.44"
+                ],
+                [
+                  "General & Admin Exp",
+                  "267.12",
+                  "329.45",
+                  "230.89"
+                ],
+                [
+                  "Operating Income",
+                  "217.57",
+                  "319.18",
+                  "30.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.25",
+                  "10.91",
+                  "1.53"
+                ],
+                [
+                  "Net Income",
+                  "143.46",
+                  "440.29",
+                  "337.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.44",
+                  "15.05",
+                  "16.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "531.60",
+                  "563.78",
+                  "254.63"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-362.16",
+                  "-327.44",
+                  "-208.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-423.29",
+                  "99.58",
+                  "42.84"
+                ],
+                [
+                  "CAPEX",
+                  "-340.80",
+                  "-276.20",
+                  "-184.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "682.70",
+                  "643.18",
+                  "625.26",
+                  "720.42"
+                ],
+                [
+                  "Gross Profit",
+                  "249.28",
+                  "209.73",
+                  "237.37",
+                  "286.93"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "36.51",
+                  "32.61",
+                  "37.96",
+                  "39.83"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "31.50",
+                  "25.73",
+                  "26.11",
+                  "28.91"
+                ],
+                [
+                  "R&D Exp",
+                  "78.30",
+                  "102.35",
+                  "69.39",
+                  "83.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "75.83",
+                  "62.08",
+                  "62.89",
+                  "78.32"
+                ],
+                [
+                  "Operating Income",
+                  "63.64",
+                  "19.57",
+                  "78.97",
+                  "96.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.32",
+                  "3.04",
+                  "12.63",
+                  "13.42"
+                ],
+                [
+                  "Net Income",
+                  "60.96",
+                  "-47.73",
+                  "73.91",
+                  "101.58"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.93",
+                  "-7.42",
+                  "11.82",
+                  "14.10"
+                ],
+                [
+                  "Op Cash Flow",
+                  "218.55",
+                  "90.86",
+                  "155.19",
+                  "207.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-76.54",
+                  "-286.41",
+                  "-23.86",
+                  "-74.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-5.16",
+                  "-323.64",
+                  "-14.49",
+                  "-59.88"
+                ],
+                [
+                  "CAPEX",
+                  "-70.76",
+                  "-272.63",
+                  "-18.27",
+                  "-82.61"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "半導體",
+    "AI 伺服器",
+    "AI",
+    "伺服器",
+    "伺服器",
+    "AI",
+    "電動車",
+    "自動化",
+    "自動化",
+    "矽晶圓",
+    "半導體",
+    "台達電",
+    "光寶科",
+    "伺服器",
+    "AI",
+    "伺服器"
+  ]
+}

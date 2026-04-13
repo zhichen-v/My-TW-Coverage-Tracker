@@ -1,0 +1,709 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2432_倚天酷��-創.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2432_倚天酷��-創.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2432_倚天酷��-創.json",
+  "ticker": "2432",
+  "company_name": "倚天酷��-創",
+  "title": "# 2432 - 倚天酷��-創",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "1,686 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "572 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "倚天酷碁 (2432，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Acer Gadget"
+            },
+            {
+              "type": "text",
+              "text": ") 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "宏碁"
+            },
+            {
+              "type": "text",
+              "text": " (2353) 集團旗下子公司，2022 年公開發行，於台灣創新板掛牌。公司以 ESG、人工智慧大數據及元宇宙為三大發展策略，結合宏碁集團品牌力拓展科技生活產品。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三大產品線：(1) 電腦周邊：Acer USB Hub、鍵盤、滑鼠、Webcam、耳機、揚聲器等；(2) 衣著包袋 (Acer Apparel)：Vero 環保系列、Predator 電競系列、Xplova 自行車配件等背包/行李箱/穿戴配件；(3) 智慧移動 (e-Mobility)：AI 驅動智慧"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動自行車"
+            },
+            {
+              "type": "text",
+              "text": " (ebii)、電動滑板車 (ES 系列) 及動力科技 (Kinetic Tech)。近年積極發展 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 穿戴裝置，於 COMPUTEX 2025 展出 AI 穿戴新品。產品於台北國際自行車展 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Taipei Cycle"
+            },
+            {
+              "type": "text",
+              "text": ") 定期亮相。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電子元件與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB Hub 控制器、藍牙/Wi-Fi 晶片、CMOS 感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池/馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電動自行車鋰電池、輪轂馬達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 環保回收塑膠 (Vero 系列)、紡織布料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (科技生活產品設計行銷)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "周邊設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "倚天酷碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Acer 品牌電腦周邊設計行銷)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "e-Mobility:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "倚天酷碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ebii AI 電動自行車/ES 電動滑板車)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "穿戴配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "倚天酷碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Vero/Predator/Xplova 品牌配件)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (全球通路與消費者)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團全球通路體系 — 品牌周邊銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國電商 — 電腦周邊及配件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自行車通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球自行車通路 — 電動自行車及配件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 集團全球 IT 通路體系 — 電腦周邊配件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國電商 — 電腦周邊/Webcam/耳機/揚聲器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自行車通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球自行車通路 — ebii AI "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動自行車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/電動滑板車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業採購:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 企業用戶 — Acer 品牌周邊設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Acer) — 品牌授權及全球通路資源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池/馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動自行車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "鋰電池及輪轂馬達供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "USB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bluetooth"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Wi-Fi"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 控制晶片及 CMOS 感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣電子代工廠 — 周邊設備 EMS 製造"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $27.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.57",
+                  "N/A",
+                  "0.51",
+                  "1.42",
+                  "4.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3273.21",
+                  "2605.48",
+                  "2085.87"
+                ],
+                [
+                  "Gross Profit",
+                  "417.91",
+                  "344.42",
+                  "325.32"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.77",
+                  "13.22",
+                  "15.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "128.11",
+                  "110.55",
+                  "83.84"
+                ],
+                [
+                  "R&D Exp",
+                  "81.88",
+                  "46.47",
+                  "62.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "80.12",
+                  "73.24",
+                  "71.34"
+                ],
+                [
+                  "Operating Income",
+                  "127.80",
+                  "114.15",
+                  "108.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.90",
+                  "4.38",
+                  "5.18"
+                ],
+                [
+                  "Net Income",
+                  "117.43",
+                  "116.03",
+                  "121.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.59",
+                  "4.45",
+                  "5.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "120.98",
+                  "335.75",
+                  "49.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "4.96",
+                  "-25.62",
+                  "6.73"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-119.76",
+                  "-107.45",
+                  "-58.77"
+                ],
+                [
+                  "CAPEX",
+                  "-17.21",
+                  "-20.82",
+                  "-0.29"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "954.37",
+                  "715.73",
+                  "755.89",
+                  "726.34"
+                ],
+                [
+                  "Gross Profit",
+                  "142.33",
+                  "83.15",
+                  "92.33",
+                  "105.70"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.91",
+                  "11.62",
+                  "12.22",
+                  "14.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "32.35",
+                  "28.49",
+                  "35.90",
+                  "31.12"
+                ],
+                [
+                  "R&D Exp",
+                  "18.12",
+                  "19.95",
+                  "19.50",
+                  "6.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22.62",
+                  "19.39",
+                  "18.98",
+                  "20.61"
+                ],
+                [
+                  "Operating Income",
+                  "69.24",
+                  "15.31",
+                  "17.95",
+                  "47.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.25",
+                  "2.14",
+                  "2.37",
+                  "6.49"
+                ],
+                [
+                  "Net Income",
+                  "56.75",
+                  "17.39",
+                  "14.98",
+                  "44.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.95",
+                  "2.43",
+                  "1.98",
+                  "6.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "50.38",
+                  "-15.65",
+                  "-13.29",
+                  "61.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.04",
+                  "5.61",
+                  "-4.66",
+                  "-17.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.62",
+                  "-12.06",
+                  "-1.28",
+                  "-1.28"
+                ],
+                [
+                  "CAPEX",
+                  "-3.94",
+                  "-1.16",
+                  "-4.70",
+                  "-17.13"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Acer Gadget",
+    "宏碁",
+    "電動自行車",
+    "AI",
+    "Taipei Cycle",
+    "宏碁",
+    "宏碁",
+    "電動自行車",
+    "宏碁",
+    "電動自行車",
+    "USB",
+    "Bluetooth",
+    "Wi-Fi"
+  ]
+}

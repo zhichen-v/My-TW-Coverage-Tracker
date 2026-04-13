@@ -1,0 +1,527 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6716_應廣.md",
+  "source_path": "Pilot_Reports/Semiconductors/6716_應廣.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6716_應廣.json",
+  "ticker": "6716",
+  "company_name": "應廣",
+  "title": "# 6716 - 應廣",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "2,177 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,770 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "應廣科技 (6716) 以自有品牌 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PADAUK"
+            },
+            {
+              "type": "text",
+              "text": " 行銷全球之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": " 微控制器設計公司，產品應用於互動智慧玩具、遙控器、智慧家電、工業級控制晶片及高效率 "
+            },
+            {
+              "type": "wikilink",
+              "text": "BLDC"
+            },
+            {
+              "type": "text",
+              "text": " 無刷直流馬達驅動。公司定位為高性價比 8 位元 MCU 供應商，在消費電子及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業控制"
+            },
+            {
+              "type": "text",
+              "text": "市場具競爭優勢。產品採用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "CMOS"
+            },
+            {
+              "type": "text",
+              "text": " 製程設計。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MCU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "應廣"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (PADAUK 品牌 8 位元 MCU)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (消費與工控)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧玩具、遙控器、家電品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控馬達驅動客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球消費電子及家電 OEM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控設備客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microchip"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "盛群"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新唐"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $71.90 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "33.29",
+                  "N/A",
+                  "2.01",
+                  "2.92",
+                  "23.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1081.90",
+                  "1277.32",
+                  "1057.60"
+                ],
+                [
+                  "Gross Profit",
+                  "360.17",
+                  "443.76",
+                  "300.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.29",
+                  "34.74",
+                  "28.41"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "29.62",
+                  "33.20",
+                  "27.59"
+                ],
+                [
+                  "R&D Exp",
+                  "202.35",
+                  "187.67",
+                  "131.32"
+                ],
+                [
+                  "General & Admin Exp",
+                  "70.51",
+                  "74.45",
+                  "58.16"
+                ],
+                [
+                  "Operating Income",
+                  "57.68",
+                  "148.44",
+                  "83.43"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.33",
+                  "11.62",
+                  "7.89"
+                ],
+                [
+                  "Net Income",
+                  "64.79",
+                  "129.22",
+                  "59.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.99",
+                  "10.12",
+                  "5.61"
+                ],
+                [
+                  "Op Cash Flow",
+                  "78.22",
+                  "332.76",
+                  "169.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-27.09",
+                  "71.01",
+                  "9.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-137.36",
+                  "-73.06",
+                  "-119.48"
+                ],
+                [
+                  "CAPEX",
+                  "-42.77",
+                  "-44.92",
+                  "-28.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "270.23",
+                  "320.19",
+                  "219.16",
+                  "304.33"
+                ],
+                [
+                  "Gross Profit",
+                  "94.66",
+                  "104.24",
+                  "80.24",
+                  "103.63"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.03",
+                  "32.56",
+                  "36.61",
+                  "34.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.54",
+                  "6.67",
+                  "9.49",
+                  "7.21"
+                ],
+                [
+                  "R&D Exp",
+                  "50.53",
+                  "49.35",
+                  "53.24",
+                  "50.38"
+                ],
+                [
+                  "General & Admin Exp",
+                  "17.77",
+                  "17.92",
+                  "17.55",
+                  "16.85"
+                ],
+                [
+                  "Operating Income",
+                  "19.81",
+                  "30.30",
+                  "-0.04",
+                  "29.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.33",
+                  "9.46",
+                  "-0.02",
+                  "9.59"
+                ],
+                [
+                  "Net Income",
+                  "29.56",
+                  "8.30",
+                  "5.73",
+                  "12.10"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.94",
+                  "2.59",
+                  "2.62",
+                  "3.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "81.75",
+                  "20.92",
+                  "25.31",
+                  "119.47"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.83",
+                  "-2.69",
+                  "-12.75",
+                  "-3.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-22.56",
+                  "-128.29",
+                  "-25.68",
+                  "-73.38"
+                ],
+                [
+                  "CAPEX",
+                  "-2.71",
+                  "-2.72",
+                  "-26.82",
+                  "-3.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "PADAUK",
+    "MCU",
+    "BLDC",
+    "工業控制",
+    "CMOS",
+    "Microchip",
+    "盛群",
+    "新唐"
+  ]
+}

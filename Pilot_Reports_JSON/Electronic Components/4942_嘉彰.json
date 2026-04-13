@@ -1,0 +1,605 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/4942_嘉彰.md",
+  "source_path": "Pilot_Reports/Electronic Components/4942_嘉彰.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/4942_嘉彰.json",
+  "ticker": "4942",
+  "company_name": "嘉彰",
+  "title": "# 4942 - 嘉彰",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,339 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,264 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "嘉彰 (Chia Chang) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "金屬沖壓機構件"
+            },
+            {
+              "type": "text",
+              "text": " 製造商。\n核心技術為精密金屬沖壓、成型與外觀處理 (CNC, 陽極, 鑽切)。\n主要產品應用：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "光電/顯示器"
+            },
+            {
+              "type": "text",
+              "text": ": 面板框架 (Bezel/Back cover)、背光模組鐵件 (Monitor, TV, NB)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "資訊/網通"
+            },
+            {
+              "type": "text",
+              "text": ": 筆電金屬機殼、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "機殼、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電腦"
+            },
+            {
+              "type": "text",
+              "text": "機構件。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "車載"
+            },
+            {
+              "type": "text",
+              "text": ": 車用顯示器機構件、電池機構件。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "醫療"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "醫療器材"
+            },
+            {
+              "type": "text",
+              "text": "機構件。\n生產基地遍及台灣 (桃園)、中國 (蘇州, 寧波, 南京) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "越南"
+            },
+            {
+              "type": "text",
+              "text": " (新廠佈局中)."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "嘉彰 (4942)"
+            },
+            {
+              "type": "text",
+              "text": " - 金屬沖壓/機構件製造.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 金屬板材 (鋼板, 鋁板, 鍍鋅鋼板), 模具鋼材.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "面板/背光廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": ", 京東方 (BOE), "
+            },
+            {
+              "type": "wikilink",
+              "text": "瑞儀"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "系統廠/品牌"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lenovo"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備廠."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "面板廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[友達]]"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[群創]]"
+                },
+                {
+                  "type": "text",
+                  "text": ", 京東方.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "背光模組"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[瑞儀]]"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[中光電]]"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "終端品牌"
+                },
+                {
+                  "type": "text",
+                  "text": ": 美系/中系平板與筆電品牌."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "鋼材"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "中鋼"
+                },
+                {
+                  "type": "text",
+                  "text": ", 浦項鋼鐵 (POSCO)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $37.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.30",
+                  "9.08",
+                  "0.88",
+                  "0.59",
+                  "4.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6091.27",
+                  "5667.34",
+                  "6074.47"
+                ],
+                [
+                  "Gross Profit",
+                  "1427.73",
+                  "1319.60",
+                  "1476.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.44",
+                  "23.28",
+                  "24.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "203.25",
+                  "224.30",
+                  "224.89"
+                ],
+                [
+                  "R&D Exp",
+                  "155.42",
+                  "141.87",
+                  "77.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "499.39",
+                  "448.84",
+                  "434.83"
+                ],
+                [
+                  "Operating Income",
+                  "569.66",
+                  "504.59",
+                  "739.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.35",
+                  "8.90",
+                  "12.17"
+                ],
+                [
+                  "Net Income",
+                  "435.66",
+                  "593.93",
+                  "615.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.15",
+                  "10.48",
+                  "10.12"
+                ],
+                [
+                  "Op Cash Flow",
+                  "248.32",
+                  "601.94",
+                  "923.08"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-455.34",
+                  "-1881.55",
+                  "252.35"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-251.15",
+                  "121.50",
+                  "-563.79"
+                ],
+                [
+                  "CAPEX",
+                  "-606.83",
+                  "-624.28",
+                  "-762.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1675.15",
+                  "1508.33",
+                  "1492.45",
+                  "1415.34"
+                ],
+                [
+                  "Gross Profit",
+                  "425.69",
+                  "337.51",
+                  "346.18",
+                  "318.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.41",
+                  "22.38",
+                  "23.20",
+                  "22.49"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "52.46",
+                  "47.21",
+                  "50.40",
+                  "53.19"
+                ],
+                [
+                  "R&D Exp",
+                  "45.13",
+                  "36.42",
+                  "34.74",
+                  "39.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.39",
+                  "115.05",
+                  "134.17",
+                  "135.79"
+                ],
+                [
+                  "Operating Income",
+                  "213.71",
+                  "138.84",
+                  "126.87",
+                  "90.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.76",
+                  "9.20",
+                  "8.50",
+                  "6.38"
+                ],
+                [
+                  "Net Income",
+                  "183.24",
+                  "120.23",
+                  "44.68",
+                  "87.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.94",
+                  "7.97",
+                  "2.99",
+                  "6.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "153.72",
+                  "-50.26",
+                  "156.14",
+                  "-11.27"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-186.05",
+                  "16.51",
+                  "-129.81",
+                  "-155.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-67.21",
+                  "-241.80",
+                  "-20.28",
+                  "78.13"
+                ],
+                [
+                  "CAPEX",
+                  "-230.70",
+                  "-74.81",
+                  "-193.68",
+                  "-107.65"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "工業電腦",
+    "醫療器材",
+    "友達",
+    "群創",
+    "瑞儀",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "網通",
+    "友達",
+    "群創",
+    "瑞儀",
+    "中光電",
+    "中鋼"
+  ]
+}

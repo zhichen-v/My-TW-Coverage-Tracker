@@ -1,0 +1,654 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6165_浪凡.md",
+  "source_path": "Pilot_Reports/Electronic Components/6165_浪凡.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6165_浪凡.json",
+  "ticker": "6165",
+  "company_name": "浪凡",
+  "title": "# 6165_浪凡",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "3,492 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,828 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "浪凡網路科技 (6165，原名捷泰精密工業) 為成功數位轉型企業。早期主營"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "與線材製造，2021 年透過收購旭瑞文化全面轉型為互聯網平台營運商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要業務：(1) 浪 LIVE 直播平台 — 台灣知名才藝直播平台，營收占比逾九成，擁有超過 6,000 名直播主，內容涵蓋歌唱、樂器、魔術、電競、美食等多元才藝表演；(2) 延伸服務 — PlayOne (遊戲陪玩)、MurMur (語音廣播)、iM 短影 (短影音)、拉普星球 (沉浸式故事遊戲)；(3) 社交電商 — 新興直播帶貨平台。為台灣第一家上市直播公司，透過 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 技術提升互動體驗。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (基礎設施)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GCP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雲端伺服器與 CDN"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍新科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 第三方支付"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "App 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " App Store、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Play — 應用分發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "直播平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "浪凡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/浪 LIVE (才藝直播平台營運)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "內容創作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 直播主與經紀公司 — 內容提供者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "觀眾:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 數位娛樂消費者 — 打賞/儲值付費會員"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廣告主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌廣告主 — 直播廣告投放"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "觀眾:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 喜愛才藝表演、電競直播的數位娛樂消費者 — 打賞與儲值"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廣告主:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌廣告主 — 直播廣告投放"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GCP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雲端基礎設施"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍新科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 第三方支付服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "App 平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " App Store、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Play — 應用分發與內購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "內容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 直播主與經紀公司 — 內容提供者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $47.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.22",
+                  "N/A",
+                  "1.09",
+                  "2.38",
+                  "9.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3217.57",
+                  "2848.16",
+                  "2710.54"
+                ],
+                [
+                  "Gross Profit",
+                  "948.19",
+                  "674.93",
+                  "675.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.47",
+                  "23.70",
+                  "24.91"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "166.33",
+                  "215.86",
+                  "205.42"
+                ],
+                [
+                  "R&D Exp",
+                  "133.52",
+                  "132.92",
+                  "128.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "299.61",
+                  "289.81",
+                  "327.85"
+                ],
+                [
+                  "Operating Income",
+                  "348.72",
+                  "36.34",
+                  "13.39"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.84",
+                  "1.28",
+                  "0.49"
+                ],
+                [
+                  "Net Income",
+                  "308.27",
+                  "79.40",
+                  "15.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.58",
+                  "2.79",
+                  "0.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "264.55",
+                  "221.67",
+                  "-22.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-466.94",
+                  "-311.25",
+                  "-440.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "595.77",
+                  "160.10",
+                  "421.54"
+                ],
+                [
+                  "CAPEX",
+                  "-688.95",
+                  "-52.08",
+                  "-2.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "810.69",
+                  "826.25",
+                  "785.20",
+                  "795.44"
+                ],
+                [
+                  "Gross Profit",
+                  "249.26",
+                  "244.03",
+                  "230.51",
+                  "224.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.75",
+                  "29.54",
+                  "29.36",
+                  "28.21"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "42.82",
+                  "42.58",
+                  "39.94",
+                  "40.99"
+                ],
+                [
+                  "R&D Exp",
+                  "35.44",
+                  "34.96",
+                  "29.33",
+                  "33.79"
+                ],
+                [
+                  "General & Admin Exp",
+                  "85.13",
+                  "78.23",
+                  "71.39",
+                  "64.87"
+                ],
+                [
+                  "Operating Income",
+                  "85.87",
+                  "88.27",
+                  "89.86",
+                  "84.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.59",
+                  "10.68",
+                  "11.44",
+                  "10.65"
+                ],
+                [
+                  "Net Income",
+                  "78.22",
+                  "69.97",
+                  "78.26",
+                  "81.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.65",
+                  "8.47",
+                  "9.97",
+                  "10.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "140.44",
+                  "108.39",
+                  "-20.42",
+                  "36.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "25.41",
+                  "63.93",
+                  "-719.06",
+                  "162.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-110.67",
+                  "86.72",
+                  "554.43",
+                  "65.29"
+                ],
+                [
+                  "CAPEX",
+                  "-19.34",
+                  "-669.61",
+                  "1.33",
+                  "-1.33"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "連接器",
+    "AI",
+    "AWS",
+    "GCP",
+    "綠界科技",
+    "藍新科技",
+    "Apple",
+    "Google",
+    "AWS",
+    "GCP",
+    "綠界科技",
+    "藍新科技",
+    "Apple",
+    "Google"
+  ]
+}

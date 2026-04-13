@@ -1,0 +1,625 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2434_統懋.md",
+  "source_path": "Pilot_Reports/Semiconductors/2434_統懋.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2434_統懋.json",
+  "ticker": "2434",
+  "company_name": "統懋",
+  "title": "# 2434 - 統懋",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "1,084 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,141 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "統懋半導體 (2434) 是一家垂直整合的專業"
+            },
+            {
+              "type": "wikilink",
+              "text": "功率半導體"
+            },
+            {
+              "type": "text",
+              "text": "製造商，前身為"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "集團電子事業部，成立於 1987 年。公司主力產品為"
+            },
+            {
+              "type": "wikilink",
+              "text": "蕭特基二極體"
+            },
+            {
+              "type": "text",
+              "text": " (占營收約 85%)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "功率電晶體"
+            },
+            {
+              "type": "text",
+              "text": " (約 14%)，以及新興的 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Power MOSFET"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": " (SiC) 蕭特基及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IGBT"
+            },
+            {
+              "type": "text",
+              "text": " 模塊。產品廣泛應用於資訊、通訊、"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費電子"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業電子"
+            },
+            {
+              "type": "text",
+              "text": "領域，亞洲市場占比達 94%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 功率半導體用"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽晶圓"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貴金屬與合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 封裝用貴金屬、鋁合金等材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IDM 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率元件製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "統懋"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (從晶圓製造到封裝的垂直整合生產，台南廠區)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資訊產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PC 電源及主機板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基地台電源模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業電源供應器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 充電器、變壓器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 亞洲電源模組及充電器製造商 (亞洲營收占 94%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資訊產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PC 及伺服器電源供應器廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工業級電源設備客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 功率級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽晶圓"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "導線架"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、封裝膠材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體製程與封裝設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.30 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "1465.00",
+                  "N/A",
+                  "23.80",
+                  "2.30",
+                  "-33.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "45.55",
+                  "50.71",
+                  "63.08"
+                ],
+                [
+                  "Gross Profit",
+                  "-7.96",
+                  "5.91",
+                  "4.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-17.48",
+                  "11.66",
+                  "7.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.31",
+                  "7.72",
+                  "9.83"
+                ],
+                [
+                  "R&D Exp",
+                  "5.81",
+                  "7.13",
+                  "7.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.00",
+                  "38.44",
+                  "36.85"
+                ],
+                [
+                  "Operating Income",
+                  "-62.09",
+                  "-47.38",
+                  "-49.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-136.30",
+                  "-93.44",
+                  "-78.83"
+                ],
+                [
+                  "Net Income",
+                  "0.77",
+                  "5.25",
+                  "-36.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.69",
+                  "10.34",
+                  "-57.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-48.55",
+                  "-22.99",
+                  "-18.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "63.69",
+                  "-36.74",
+                  "10.74"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-32.47",
+                  "70.15",
+                  "16.81"
+                ],
+                [
+                  "CAPEX",
+                  "-70.92",
+                  "-43.76",
+                  "-10.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11.02",
+                  "11.95",
+                  "12.33",
+                  "10.25"
+                ],
+                [
+                  "Gross Profit",
+                  "-4.13",
+                  "-2.14",
+                  "-1.39",
+                  "-0.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-37.47",
+                  "-17.93",
+                  "-11.27",
+                  "-2.93"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.92",
+                  "1.99",
+                  "1.76",
+                  "1.64"
+                ],
+                [
+                  "R&D Exp",
+                  "1.13",
+                  "1.10",
+                  "1.45",
+                  "2.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "11.27",
+                  "10.04",
+                  "9.78",
+                  "8.91"
+                ],
+                [
+                  "Operating Income",
+                  "-19.46",
+                  "-15.28",
+                  "-14.38",
+                  "-12.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-176.51",
+                  "-127.85",
+                  "-116.59",
+                  "-126.60"
+                ],
+                [
+                  "Net Income",
+                  "-11.25",
+                  "17.30",
+                  "-19.16",
+                  "13.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-102.09",
+                  "144.82",
+                  "-155.39",
+                  "135.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-18.20",
+                  "-6.32",
+                  "-19.12",
+                  "-4.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-21.58",
+                  "14.75",
+                  "-17.18",
+                  "87.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "23.26",
+                  "-8.20",
+                  "17.26",
+                  "-64.79"
+                ],
+                [
+                  "CAPEX",
+                  "-37.49",
+                  "-7.03",
+                  "-13.05",
+                  "-13.35"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "功率半導體",
+    "統一",
+    "蕭特基二極體",
+    "功率電晶體",
+    "Power MOSFET",
+    "碳化矽",
+    "IGBT",
+    "消費電子",
+    "工業電子",
+    "矽晶圓",
+    "矽晶圓",
+    "矽晶圓",
+    "矽晶圓",
+    "導線架"
+  ]
+}

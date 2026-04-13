@@ -1,0 +1,572 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6451_訊芯-KY.md",
+  "source_path": "Pilot_Reports/Semiconductors/6451_訊芯-KY.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6451_訊芯-KY.json",
+  "ticker": "6451",
+  "company_name": "訊芯-KY",
+  "title": "# 6451 - 訊芯-KY",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "45,867 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "48,773 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "訊芯科技 (6451，ShunSin Technology，KY) 為半導體組裝及測試服務商，專注於光通訊及射頻元件之後段封裝與測試。產品涵蓋光收發模組封裝、"
+            },
+            {
+              "type": "wikilink",
+              "text": "VCSEL"
+            },
+            {
+              "type": "text",
+              "text": " 封裝及 RF 模組組裝，應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 基地台及"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "。技術涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "COB"
+            },
+            {
+              "type": "text",
+              "text": " (Chip on Board) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SMT"
+            },
+            {
+              "type": "text",
+              "text": " 封裝。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光電封裝基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光纖及透鏡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (光電封裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "訊芯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (光收發模組/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VCSEL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/RF 模組封裝測試)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (光通訊系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球光通訊設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "5G:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 5G 基地台射頻模組客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 資料中心光模組客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球光通訊設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "5G:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 5G 基地台 RF 模組客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 資料中心光模組客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光電封裝基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯鈞光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amkor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $432.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "1661.54",
+                  "N/A",
+                  "6.09",
+                  "7.03",
+                  "59.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7531.93",
+                  "5188.00",
+                  "5212.22"
+                ],
+                [
+                  "Gross Profit",
+                  "1218.38",
+                  "683.60",
+                  "1221.19"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.18",
+                  "13.18",
+                  "23.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "53.65",
+                  "50.24",
+                  "48.38"
+                ],
+                [
+                  "R&D Exp",
+                  "436.90",
+                  "363.99",
+                  "386.96"
+                ],
+                [
+                  "General & Admin Exp",
+                  "563.60",
+                  "495.20",
+                  "501.89"
+                ],
+                [
+                  "Operating Income",
+                  "164.23",
+                  "-225.82",
+                  "283.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.18",
+                  "-4.35",
+                  "5.45"
+                ],
+                [
+                  "Net Income",
+                  "27.52",
+                  "42.66",
+                  "434.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.37",
+                  "0.82",
+                  "8.33"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-789.83",
+                  "394.62",
+                  "1864.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3418.06",
+                  "-2905.32",
+                  "-823.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "2537.76",
+                  "1085.05",
+                  "-1601.11"
+                ],
+                [
+                  "CAPEX",
+                  "-1821.43",
+                  "-992.65",
+                  "-868.63"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2069.53",
+                  "1697.44",
+                  "1788.13",
+                  "1976.83"
+                ],
+                [
+                  "Gross Profit",
+                  "430.71",
+                  "405.33",
+                  "259.82",
+                  "122.52"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.81",
+                  "23.88",
+                  "14.53",
+                  "6.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.91",
+                  "12.40",
+                  "12.91",
+                  "11.44"
+                ],
+                [
+                  "R&D Exp",
+                  "77.02",
+                  "127.10",
+                  "125.92",
+                  "106.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "149.34",
+                  "136.63",
+                  "141.68",
+                  "135.93"
+                ],
+                [
+                  "Operating Income",
+                  "187.43",
+                  "129.20",
+                  "-20.69",
+                  "-131.71"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.06",
+                  "7.61",
+                  "-1.16",
+                  "-6.66"
+                ],
+                [
+                  "Net Income",
+                  "95.21",
+                  "106.37",
+                  "-62.87",
+                  "-111.20"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.60",
+                  "6.27",
+                  "-3.52",
+                  "-5.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "378.56",
+                  "-302.73",
+                  "-64.08",
+                  "-801.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "912.07",
+                  "-1468.92",
+                  "-2506.43",
+                  "-354.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-653.84",
+                  "280.38",
+                  "277.42",
+                  "2633.79"
+                ],
+                [
+                  "CAPEX",
+                  "-532.84",
+                  "-456.65",
+                  "-475.46",
+                  "-356.48"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "VCSEL",
+    "光通訊",
+    "5G",
+    "資料中心",
+    "COB",
+    "SMT",
+    "VCSEL",
+    "聯鈞光電",
+    "Amkor"
+  ]
+}

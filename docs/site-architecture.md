@@ -8,9 +8,13 @@ Build a public website that lets users browse and query the structured company c
 
 Use this pipeline:
 
+`Pilot_Reports/` -> `scripts/export_reports_json.py` -> `Pilot_Reports_JSON/`
+
 `Pilot_Reports/` -> `scripts/build_site_db.py` -> `data/site.db` -> API -> frontend
 
-This keeps content authoring in markdown and exposes a stable query layer for the website.
+This keeps content authoring in markdown, uses SQLite for query-heavy list/search workloads, and uses the mirrored JSON tree for structured detail rendering.
+
+The JSON mirror is a derived artifact, not a second source of truth.
 
 ## Why SQLite First
 
@@ -30,32 +34,63 @@ The first version of `data/site.db` contains:
 - `site_search`: SQLite FTS index for ticker, name, sector, and main text sections
 - `imports`: snapshot metadata for each rebuild
 
-## Suggested API Surface
+## Current API Surface
 
-The next backend layer should expose at least:
+The current backend exposes:
 
 - `GET /api/companies`
 - `GET /api/companies/{ticker}`
+- `GET /api/reports/{report_id}`
 - `GET /api/sectors`
 - `GET /api/wikilinks`
 - `GET /api/wikilinks/{name}`
 - `GET /api/search?q=...`
 
+The contract is split deliberately:
+
+- list/search responses come primarily from `data/site.db`
+- detail responses attach `structured_content` and `structured_report_path` from `Pilot_Reports_JSON/`
+- legacy markdown detail blobs are no longer part of the public detail API
+
 ## Suggested Frontend Pages
 
 - Home: overall coverage stats, featured sectors, featured themes
 - Companies index: search, sort, and sector filters
-- Company detail page: overview, supply chain, customer/supplier section, financial tables
+- Company detail page: overview, supply chain, customer/supplier section, financial tables rendered from structured JSON blocks/tables
 - Wikilink detail page: all companies mentioning a specific entity
 - Sector page: all companies in one sector
+
+## Structured Detail Schema
+
+Structured detail payloads under `structured_content.sections.*` use:
+
+- `heading`: section label
+- `blocks`: top-level content blocks
+- `groups`: titled grouped subsections
+
+Block types:
+
+- `paragraph`: uses `segments`
+- `list`: uses `items[].segments`
+- `table`: uses `columns` and `rows`
+
+Inline text is tokenized instead of left as markdown-like strings:
+
+- `{ "type": "text", "text": "..." }`
+- `{ "type": "strong", "text": "..." }`
+- `{ "type": "wikilink", "text": "..." }`
+
+This keeps styling and future link behavior in the UI layer without requiring the frontend to regex-parse `**...**` or `[[...]]`.
 
 ## Implementation Order
 
 1. Keep markdown as the source of truth.
 2. Rebuild `data/site.db` whenever `Pilot_Reports/` changes materially.
-3. Add a small API service that reads only from SQLite.
-4. Build the frontend against the API, not against filesystem reads.
-5. Add theme ingestion later if `themes/` should be part of the public site.
+3. Re-export `Pilot_Reports_JSON/` whenever structured report output changes materially.
+4. Keep summary/search data in SQLite and structured detail payloads in the mirrored JSON output.
+5. Build the frontend against the API, not against filesystem reads.
+6. Render detail prose/lists from inline token `segments` rather than markdown fallbacks.
+7. Add theme ingestion later if `themes/` should be part of the public site.
 
 ## Backend Recommendation
 

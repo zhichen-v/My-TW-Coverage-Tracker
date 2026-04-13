@@ -1,0 +1,756 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6167_久正.md",
+  "source_path": "Pilot_Reports/Electronic Components/6167_久正.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6167_久正.json",
+  "ticker": "6167",
+  "company_name": "久正",
+  "title": "# 6167_久正",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,893 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,255 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "久正光電 (6167，品牌 "
+            },
+            {
+              "type": "wikilink",
+              "text": "POWERTIP"
+            },
+            {
+              "type": "text",
+              "text": ") 成立於 1991 年，為專業中小尺寸液晶顯示器模組 (LCM) 製造商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要業務：(1) STN/TFT LCM — 各類中小尺寸液晶顯示模組，以自有品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "POWERTIP"
+            },
+            {
+              "type": "text",
+              "text": "」行銷全球，廣泛應用於工控、醫療、家電、安防及車載設備；(2) 觸控面板 — Touch Panel 解決方案；(3) 嵌入式人機介面 (HMI) — 結合 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Arm"
+            },
+            {
+              "type": "text",
+              "text": " 架構與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NXP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ST"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Renesas"
+            },
+            {
+              "type": "text",
+              "text": " 等半導體廠技術，提供軟硬體整合的客製化 HMI 顯示方案。產品極度分散且客製化，經世界各知名大廠認證。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (面板與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 液晶面板玻璃供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 驅動 IC 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ST"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Renesas"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Arm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嵌入式處理器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "背光/觸控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 背光模組、觸控感測器供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印刷電路板供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (LCM 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LCM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "久正"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (STN/TFT 液晶顯示器模組)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "觸控面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "久正"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Touch Panel 解決方案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "HMI:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "久正"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (嵌入式人機介面)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美工業控制設備商 — 工控顯示模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療儀器廠 — 醫療用 LCM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧家電品牌 — 家電控制面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用零組件 Tier 1/Tier 2 廠 — 車載顯示"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美工業控制設備商 — 工控用 LCM 模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療儀器製造廠 — 醫療用顯示模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧家電品牌 — 家電控制面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車載:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用零組件 Tier 1/Tier 2 廠 — 車載顯示"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ST"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Renesas"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Arm"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嵌入式處理器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 液晶面板玻璃供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 驅動 IC 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印刷電路板供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $14.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.56",
+                  "1.60",
+                  "-28.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1211.76",
+                  "1070.26",
+                  "1708.39"
+                ],
+                [
+                  "Gross Profit",
+                  "93.13",
+                  "73.68",
+                  "291.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.69",
+                  "6.88",
+                  "17.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "64.85",
+                  "64.64",
+                  "73.68"
+                ],
+                [
+                  "R&D Exp",
+                  "62.45",
+                  "55.64",
+                  "53.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "86.98",
+                  "77.08",
+                  "88.07"
+                ],
+                [
+                  "Operating Income",
+                  "-121.14",
+                  "-123.69",
+                  "76.06"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-10.00",
+                  "-11.56",
+                  "4.45"
+                ],
+                [
+                  "Net Income",
+                  "-5.02",
+                  "3.31",
+                  "203.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.41",
+                  "0.31",
+                  "11.90"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-35.46",
+                  "-63.53",
+                  "253.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "16.93",
+                  "-11.47",
+                  "11.92"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-207.02",
+                  "-122.61",
+                  "-146.44"
+                ],
+                [
+                  "CAPEX",
+                  "-28.89",
+                  "-45.15",
+                  "-22.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "297.65",
+                  "336.35",
+                  "325.21",
+                  "252.55"
+                ],
+                [
+                  "Gross Profit",
+                  "22.95",
+                  "28.64",
+                  "23.90",
+                  "17.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.71",
+                  "8.52",
+                  "7.35",
+                  "6.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.21",
+                  "16.17",
+                  "16.36",
+                  "16.12"
+                ],
+                [
+                  "R&D Exp",
+                  "18.07",
+                  "16.50",
+                  "14.12",
+                  "13.76"
+                ],
+                [
+                  "General & Admin Exp",
+                  "19.99",
+                  "25.39",
+                  "22.61",
+                  "18.98"
+                ],
+                [
+                  "Operating Income",
+                  "-31.31",
+                  "-29.42",
+                  "-29.20",
+                  "-31.22"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-10.52",
+                  "-8.75",
+                  "-8.98",
+                  "-12.36"
+                ],
+                [
+                  "Net Income",
+                  "-6.00",
+                  "10.19",
+                  "-4.84",
+                  "-4.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.02",
+                  "3.03",
+                  "-1.49",
+                  "-1.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-47.54",
+                  "-25.93",
+                  "-3.09",
+                  "41.10"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-8.55",
+                  "32.06",
+                  "-1.04",
+                  "-5.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-162.46",
+                  "-32.93",
+                  "-3.10",
+                  "-8.53"
+                ],
+                [
+                  "CAPEX",
+                  "-9.34",
+                  "-4.85",
+                  "-9.94",
+                  "-4.76"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "POWERTIP",
+    "POWERTIP",
+    "Arm",
+    "NXP",
+    "ST",
+    "Renesas",
+    "NXP",
+    "ST",
+    "Renesas",
+    "Arm",
+    "PCB",
+    "NXP",
+    "ST",
+    "Renesas",
+    "Arm",
+    "PCB"
+  ]
+}

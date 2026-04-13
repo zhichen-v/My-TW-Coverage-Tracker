@@ -1,0 +1,735 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3013_晟銘電.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3013_晟銘電.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3013_晟銘電.json",
+  "ticker": "3013",
+  "company_name": "晟銘電",
+  "title": "# 3013 - 晟銘電",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "21,057 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,859 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晟銘電 (3013，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Uneec"
+            },
+            {
+              "type": "text",
+              "text": ") 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "機殼與液冷散熱領域之重要供應商，與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": " 關係緊密。公司早期製造 PC 機殼，近年成功轉型伺服器機殼與 L6 (Barebone) 組裝，躍升為全球 AI 伺服器機殼領導廠商之一。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": " AI 伺服器供應鏈中扮演關鍵角色，負責供應 Sidecar 水冷機櫃與機箱，取得 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": " 最新 AI 伺服器 Minerva 專案機櫃與機殼訂單。擁有自主研發之 L10/L11 液冷機櫃組裝能力，受惠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " GB200/GB300 等高階 AI 伺服器需求爆發。美系及中系 CSP 客戶動能均持續增強，帶動營收屢創新高。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料與散熱零件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鍍鋅鋼板、光板 — 機殼主要原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水冷 CDU、Manifold 等液冷零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機構件射出成型用"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源供應器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器級電源模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (伺服器機殼與液冷機櫃製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器機殼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟銘電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (1U-4U 伺服器機殼代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水冷機櫃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟銘電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Sidecar 水對氣散熱方案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "L6 組裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晟銘電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Barebone 準系統組裝)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (ODM 廠與 CSP 雲端巨頭)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ODM 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (主力客戶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯穎"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Sidecar/Minerva AI 伺服器專案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中系 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國大型雲端服務商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GB200/GB300 AI 伺服器生態系"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ODM 廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯創"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "緯穎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI 伺服器機殼代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Sidecar 水冷機櫃、Minerva AI 伺服器機殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中系 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國大型雲端服務商 — 伺服器機殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 其他國際伺服器品牌與白牌客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣鍍鋅鋼板及光板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 水冷 CDU 及液冷零組件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器級電源供應器廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $98.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.13",
+                  "11.32",
+                  "2.00",
+                  "3.90",
+                  "15.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10554.73",
+                  "9409.59",
+                  "6461.56"
+                ],
+                [
+                  "Gross Profit",
+                  "1957.84",
+                  "1465.45",
+                  "763.13"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.55",
+                  "15.57",
+                  "11.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "222.44",
+                  "221.32",
+                  "168.02"
+                ],
+                [
+                  "R&D Exp",
+                  "91.27",
+                  "64.91",
+                  "55.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "524.62",
+                  "376.35",
+                  "311.52"
+                ],
+                [
+                  "Operating Income",
+                  "1119.52",
+                  "802.88",
+                  "227.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.61",
+                  "8.53",
+                  "3.52"
+                ],
+                [
+                  "Net Income",
+                  "827.01",
+                  "730.39",
+                  "253.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.84",
+                  "7.76",
+                  "3.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1020.77",
+                  "497.73",
+                  "1380.05"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-799.62",
+                  "-633.93",
+                  "-400.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-162.22",
+                  "264.51",
+                  "-557.93"
+                ],
+                [
+                  "CAPEX",
+                  "-791.38",
+                  "-636.14",
+                  "-407.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3055.10",
+                  "2626.87",
+                  "2402.51",
+                  "2682.30"
+                ],
+                [
+                  "Gross Profit",
+                  "647.68",
+                  "436.97",
+                  "393.13",
+                  "425.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.20",
+                  "16.63",
+                  "16.36",
+                  "15.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.63",
+                  "63.52",
+                  "54.49",
+                  "54.29"
+                ],
+                [
+                  "R&D Exp",
+                  "23.03",
+                  "15.38",
+                  "17.27",
+                  "17.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "141.14",
+                  "128.48",
+                  "122.26",
+                  "105.11"
+                ],
+                [
+                  "Operating Income",
+                  "437.88",
+                  "229.59",
+                  "199.10",
+                  "248.82"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.33",
+                  "8.74",
+                  "8.29",
+                  "9.28"
+                ],
+                [
+                  "Net Income",
+                  "325.84",
+                  "111.66",
+                  "172.25",
+                  "296.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.67",
+                  "4.25",
+                  "7.17",
+                  "11.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "28.26",
+                  "152.23",
+                  "268.66",
+                  "145.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-177.08",
+                  "-137.34",
+                  "-252.54",
+                  "-190.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-15.07",
+                  "-7.48",
+                  "-1.27",
+                  "327.77"
+                ],
+                [
+                  "CAPEX",
+                  "-177.02",
+                  "-129.86",
+                  "-251.96",
+                  "-190.91"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Uneec",
+    "AI 伺服器",
+    "廣達",
+    "Meta",
+    "Meta",
+    "NVIDIA",
+    "廣達",
+    "緯創",
+    "緯穎",
+    "Meta",
+    "NVIDIA",
+    "廣達",
+    "緯創",
+    "緯穎",
+    "Meta"
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6560_欣普羅.md",
+  "source_path": "Pilot_Reports/Electronic Components/6560_欣普羅.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6560_欣普羅.json",
+  "ticker": "6560",
+  "company_name": "欣普羅",
+  "title": "# 6560_欣普羅",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,327 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "937 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "欣普羅光電股份有限公司 (6560) 是一家專注於高階光學影像與系統整合設計的研發型企業(Design House)。有別於傳統的製造代工("
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": ")，欣普羅採取高度客製化的商業模式，透過提供專業的演算法、軟硬體設計方案，向客戶收取設計費與授權金，生產則委外進行。其核心技術涵蓋網路監控攝影機、醫療用內視鏡、車載"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "相機及無人機攝像模組。近年來，欣普羅積極結盟神盾集團(如芯鼎、鈺寶)發展邊緣運算"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "視覺辨識技術，將產品從單純的影像捕捉升級至具備深度學習與工業"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "的智慧感知系統。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 影像感測晶片("
+            },
+            {
+              "type": "wikilink",
+              "text": "CIS"
+            },
+            {
+              "type": "text",
+              "text": ")、DSP影像處理器、光學鏡頭模組、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "視覺晶片及各式電子零組件。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "欣普羅光電"
+            },
+            {
+              "type": "text",
+              "text": " (高階影像處理系統、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "視覺演算法之客製化設計服務、及硬體委外生產代管)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 歐美一線安防品牌商、專業醫療設備大廠、無人機製造商及日系車廠一階(Tier 1)供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   美國與英國的重量級安控設備品牌廠、以及日本前三大車廠之車行監視系統整合商。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   德州儀器(TI)、安霸(Ambarella)等全球頂尖DSP處理器大廠，以及神盾集團("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": "視覺晶片)。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $40.85 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "7.68",
+                  "1.95",
+                  "-178.33"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "172.62",
+                  "77.15",
+                  "116.95"
+                ],
+                [
+                  "Gross Profit",
+                  "72.89",
+                  "22.61",
+                  "35.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "42.22",
+                  "29.30",
+                  "30.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.78",
+                  "11.95",
+                  "10.80"
+                ],
+                [
+                  "R&D Exp",
+                  "50.71",
+                  "47.02",
+                  "45.60"
+                ],
+                [
+                  "General & Admin Exp",
+                  "18.51",
+                  "17.04",
+                  "16.36"
+                ],
+                [
+                  "Operating Income",
+                  "-10.11",
+                  "-53.40",
+                  "-36.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-5.86",
+                  "-69.22",
+                  "-31.61"
+                ],
+                [
+                  "Net Income",
+                  "-4.33",
+                  "-6.68",
+                  "-19.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.51",
+                  "-8.65",
+                  "-16.86"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-20.04",
+                  "-52.69",
+                  "27.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-47.52",
+                  "3.10",
+                  "-85.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "184.16",
+                  "6.23",
+                  "-29.77"
+                ],
+                [
+                  "CAPEX",
+                  "-0.65",
+                  "-0.58",
+                  "-1.30"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "62.63",
+                  "26.11",
+                  "39.06",
+                  "44.82"
+                ],
+                [
+                  "Gross Profit",
+                  "28.08",
+                  "17.75",
+                  "11.93",
+                  "15.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "44.82",
+                  "67.99",
+                  "30.54",
+                  "33.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.99",
+                  "3.00",
+                  "5.11",
+                  "2.69"
+                ],
+                [
+                  "R&D Exp",
+                  "12.75",
+                  "12.74",
+                  "13.18",
+                  "12.04"
+                ],
+                [
+                  "General & Admin Exp",
+                  "4.65",
+                  "4.37",
+                  "4.64",
+                  "4.85"
+                ],
+                [
+                  "Operating Income",
+                  "7.70",
+                  "-2.35",
+                  "-11.00",
+                  "-4.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.29",
+                  "-9.02",
+                  "-28.16",
+                  "-9.93"
+                ],
+                [
+                  "Net Income",
+                  "18.31",
+                  "9.11",
+                  "-36.93",
+                  "5.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "29.23",
+                  "34.90",
+                  "-94.55",
+                  "11.55"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-23.27",
+                  "11.57",
+                  "-5.48",
+                  "-2.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-104.54",
+                  "33.53",
+                  "-28.16",
+                  "51.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "197.03",
+                  "-0.96",
+                  "-0.96",
+                  "-10.95"
+                ],
+                [
+                  "CAPEX",
+                  "-0.41",
+                  "-0.11",
+                  "-0.14",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OEM",
+    "AI",
+    "AI",
+    "自動化",
+    "CIS",
+    "AI",
+    "AI",
+    "AI"
+  ]
+}

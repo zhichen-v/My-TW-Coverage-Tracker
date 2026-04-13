@@ -1,0 +1,532 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3479_安勤.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3479_安勤.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3479_安勤.json",
+  "ticker": "3479",
+  "company_name": "安勤",
+  "title": "# 3479 - 安勤",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "6,327 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,967 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "安勤科技 (Avalue) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "工業電腦 (IPC)"
+            },
+            {
+              "type": "text",
+              "text": " 製造商，"
+            },
+            {
+              "type": "strong",
+              "text": "[[仁寶]]電腦"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": ") 為最大股東 (持股約 2 成)。\n主要產品涵蓋嵌入式電腦、工業主機板、POS 終端機與平板電腦。\n專注於垂直市場應用，包括 "
+            },
+            {
+              "type": "strong",
+              "text": "智慧醫療"
+            },
+            {
+              "type": "text",
+              "text": " (Medical)、"
+            },
+            {
+              "type": "strong",
+              "text": "智慧零售"
+            },
+            {
+              "type": "text",
+              "text": " (Retail)、"
+            },
+            {
+              "type": "strong",
+              "text": "博弈"
+            },
+            {
+              "type": "text",
+              "text": " (Gaming) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "工業自動化"
+            },
+            {
+              "type": "text",
+              "text": "。\n與"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "集團資源整合，共同開發大型 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 專案 (如美國投票機、醫療平板)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "CPU/晶片組"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": "), "
+            },
+            {
+              "type": "wikilink",
+              "text": "面板"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "被動元件"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "安勤 (3479)"
+            },
+            {
+              "type": "text",
+              "text": " - 系統設計/組裝 (部分由"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "代工).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "醫療客戶"
+            },
+            {
+              "type": "text",
+              "text": ": 歐美醫療設備廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "零售/餐飲"
+            },
+            {
+              "type": "text",
+              "text": ": POS/Kiosk 系統整合商.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "博弈"
+            },
+            {
+              "type": "text",
+              "text": ": 角子老虎機廠商."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   歐美醫療設備品牌.\n*   零售/餐飲通路 (Kiosk).\n*   博弈設備廠."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $87.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.30",
+                  "8.96",
+                  "0.75",
+                  "1.87",
+                  "8.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8480.97",
+                  "7602.92",
+                  "8234.67"
+                ],
+                [
+                  "Gross Profit",
+                  "2186.08",
+                  "1974.71",
+                  "2185.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.78",
+                  "25.97",
+                  "26.54"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "582.12",
+                  "502.01",
+                  "467.94"
+                ],
+                [
+                  "R&D Exp",
+                  "305.00",
+                  "237.65",
+                  "224.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "572.54",
+                  "533.21",
+                  "546.38"
+                ],
+                [
+                  "Operating Income",
+                  "726.42",
+                  "701.84",
+                  "946.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.57",
+                  "9.23",
+                  "11.49"
+                ],
+                [
+                  "Net Income",
+                  "467.82",
+                  "497.07",
+                  "602.58"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.52",
+                  "6.54",
+                  "7.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "575.21",
+                  "797.11",
+                  "1087.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "89.26",
+                  "-1888.11",
+                  "-142.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-55.79",
+                  "458.90",
+                  "-490.21"
+                ],
+                [
+                  "CAPEX",
+                  "-135.31",
+                  "-1118.91",
+                  "-102.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2117.74",
+                  "2335.76",
+                  "2096.06",
+                  "1931.41"
+                ],
+                [
+                  "Gross Profit",
+                  "514.07",
+                  "602.68",
+                  "547.44",
+                  "521.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.27",
+                  "25.80",
+                  "26.12",
+                  "27.02"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "179.13",
+                  "147.47",
+                  "123.05",
+                  "132.47"
+                ],
+                [
+                  "R&D Exp",
+                  "96.25",
+                  "85.16",
+                  "63.91",
+                  "59.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "142.03",
+                  "146.12",
+                  "139.27",
+                  "145.12"
+                ],
+                [
+                  "Operating Income",
+                  "96.66",
+                  "223.92",
+                  "221.21",
+                  "184.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.56",
+                  "9.59",
+                  "10.55",
+                  "9.56"
+                ],
+                [
+                  "Net Income",
+                  "102.50",
+                  "140.73",
+                  "88.33",
+                  "136.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.84",
+                  "6.02",
+                  "4.21",
+                  "7.06"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2.82",
+                  "-40.70",
+                  "312.28",
+                  "300.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "487.46",
+                  "-157.30",
+                  "221.80",
+                  "-462.70"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-19.71",
+                  "11.00",
+                  "-33.73",
+                  "-13.35"
+                ],
+                [
+                  "CAPEX",
+                  "-47.77",
+                  "-13.06",
+                  "-42.41",
+                  "-32.07"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "仁寶",
+    "仁寶",
+    "仁寶",
+    "ODM",
+    "CPU/晶片組",
+    "Intel",
+    "AMD",
+    "面板",
+    "記憶體",
+    "被動元件",
+    "仁寶",
+    "ODM"
+  ]
+}

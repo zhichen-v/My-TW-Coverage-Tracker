@@ -1,0 +1,670 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/1110_東泥.md",
+  "source_path": "Pilot_Reports/Building Materials/1110_東泥.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/1110_東泥.json",
+  "ticker": "1110",
+  "company_name": "東泥",
+  "title": "# 1110 - 東泥",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "8,634 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "10,575 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東南水泥股份有限公司 (1110，Southeast Cement) 簡稱東泥，成立於 1956 年。公司早期以生產水泥為主，近年積極轉型為多元化資產控股公司，佈局"
+            },
+            {
+              "type": "wikilink",
+              "text": "土地開發"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "資源再生"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "資產租賃"
+            },
+            {
+              "type": "text",
+              "text": "等領域。高雄廠區已轉型為熟料研磨與水泥儲運中心。透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "東泥建設"
+            },
+            {
+              "type": "text",
+              "text": "進行房地產開發，以及與美商"
+            },
+            {
+              "type": "wikilink",
+              "text": "好市多"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Costco"
+            },
+            {
+              "type": "text",
+              "text": ") 合作開發高雄亞灣區土地，透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "東南米樂"
+            },
+            {
+              "type": "text",
+              "text": "打造「東南米樂 Plaza」商業綜合體。旗下"
+            },
+            {
+              "type": "wikilink",
+              "text": "東南高良"
+            },
+            {
+              "type": "text",
+              "text": "則經營資源再生事業，將一般事業廢棄物轉化為綠建材標章之混凝土再生粒料。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與資源再生)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥買賣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 轉型為水泥通路商，負責熟料外購與進口"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資源再生:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南高良"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 回收事業廢棄物，轉化為綠建材再生粒料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (建材與開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "東泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 熟料研磨、水泥儲運、爐石粉產銷"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[東泥建設]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅建案開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材銷售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 卜特蘭水泥、高爐水泥、爐石粉"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌混凝土:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南高良"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄大發廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業資產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南米樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "好市多"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Costco"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") 合作開發高雄亞灣區"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 南部營造廠與預拌混凝土廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東泥建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅買家 (如「東泥大賦」屏東潮州、高雄仁武建案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "好市多"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Costco"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") — 高雄亞灣區「東南米樂 Plaza」"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 進口熟料及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石灰石"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資源再生:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南高良"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 再生粒料與預拌混凝土"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建設工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 營造工程承攬廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $15.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "42.08",
+                  "N/A",
+                  "3.03",
+                  "0.92",
+                  "30.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2851.56",
+                  "2872.96",
+                  "2273.52"
+                ],
+                [
+                  "Gross Profit",
+                  "428.46",
+                  "523.04",
+                  "203.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.03",
+                  "18.21",
+                  "8.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.35",
+                  "53.82",
+                  "20.88"
+                ],
+                [
+                  "R&D Exp",
+                  "4.84",
+                  "0.00",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "151.39",
+                  "133.20",
+                  "126.59"
+                ],
+                [
+                  "Operating Income",
+                  "241.89",
+                  "336.02",
+                  "56.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.48",
+                  "11.70",
+                  "2.48"
+                ],
+                [
+                  "Net Income",
+                  "205.53",
+                  "348.49",
+                  "149.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.21",
+                  "12.13",
+                  "6.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "125.84",
+                  "354.11",
+                  "275.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-234.51",
+                  "-253.38",
+                  "311.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "178.47",
+                  "159.83",
+                  "-596.20"
+                ],
+                [
+                  "CAPEX",
+                  "-111.12",
+                  "-205.25",
+                  "-445.48"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "709.27",
+                  "653.30",
+                  "748.46",
+                  "740.52"
+                ],
+                [
+                  "Gross Profit",
+                  "108.39",
+                  "110.89",
+                  "105.60",
+                  "103.58"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.28",
+                  "16.97",
+                  "14.11",
+                  "13.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.02",
+                  "8.50",
+                  "7.18",
+                  "6.65"
+                ],
+                [
+                  "R&D Exp",
+                  "2.08",
+                  "1.42",
+                  "1.09",
+                  "0.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "46.38",
+                  "41.55",
+                  "31.51",
+                  "31.95"
+                ],
+                [
+                  "Operating Income",
+                  "51.92",
+                  "59.41",
+                  "65.83",
+                  "64.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.32",
+                  "9.09",
+                  "8.80",
+                  "8.74"
+                ],
+                [
+                  "Net Income",
+                  "41.58",
+                  "121.48",
+                  "-3.35",
+                  "45.81"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.86",
+                  "18.60",
+                  "-0.45",
+                  "6.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-26.96",
+                  "141.17",
+                  "-20.39",
+                  "32.02"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-83.42",
+                  "-56.43",
+                  "-39.28",
+                  "-55.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "294.33",
+                  "-242.42",
+                  "127.64",
+                  "-1.07"
+                ],
+                [
+                  "CAPEX",
+                  "-19.82",
+                  "-23.70",
+                  "-23.52",
+                  "-44.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "土地開發",
+    "資源再生",
+    "資產租賃",
+    "東泥建設",
+    "好市多",
+    "Costco",
+    "東南米樂",
+    "東南高良",
+    "東南高良",
+    "東泥建設",
+    "東南高良",
+    "東南米樂",
+    "好市多",
+    "Costco",
+    "東泥建設",
+    "好市多",
+    "Costco",
+    "石灰石",
+    "東南高良"
+  ]
+}

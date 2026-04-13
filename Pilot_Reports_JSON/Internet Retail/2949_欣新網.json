@@ -1,0 +1,763 @@
+{
+  "report_id": "Pilot_Reports/Internet Retail/2949_欣新網.md",
+  "source_path": "Pilot_Reports/Internet Retail/2949_欣新網.md",
+  "json_path": "Pilot_Reports_JSON/Internet Retail/2949_欣新網.json",
+  "ticker": "2949",
+  "company_name": "欣新網",
+  "title": "# 2949 - 欣新網",
+  "sector_folder": "Internet Retail",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Internet Retail"
+      },
+      {
+        "label": "市值:",
+        "value": "1,869 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,983 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "欣新網 (2949，HH Galaxy) 為台灣領先的一站式電商代營運服務商 (TP, Trading Partner)，由欣臨企業 (快速消費品代理商) 與"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹物流"
+            },
+            {
+              "type": "text",
+              "text": "合資成立，累計合作超過 200 個國際品牌。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務結構與動能：(1) 電商代營運 — 品牌客戶將商品交付欣新網後，即由其全權負責電商業務，涵蓋官網架設、各大平台 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "momo購物網"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "PChome"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "蝦皮購物"
+            },
+            {
+              "type": "text",
+              "text": ") 代操、數位行銷廣告投放、倉儲物流配送及客服等一站式服務；(2) 數據與 AI 行銷 — 開發 PowerAI 廣告投放系統，以大數據驅動精準行銷；(3) 跨品類經營 — 客戶涵蓋日用品、美妝保養、運動鞋服、母嬰等多元品類。公司善用母公司欣臨企業之龐大品牌資源快速拓展客戶。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日用品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "花王"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Kao)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嬌生"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Johnson & Johnson) — FMCG 品牌代營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美妝保養:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊雅"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (L'Oréal) — 美妝品牌電商代操"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動鞋服:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "New Balance"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PANDORA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 運動/時尚品牌代營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 200 個國際品牌 — 跨品類電商代營運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (電商代營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "欣新網"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (一站式電商代營運：平台代操、廣告投放、倉儲物流、客服)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路與消費者)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PChome"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蝦皮購物"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線上銷售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌官網:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各品牌自營官網 — 代營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一般網購消費者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日用品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "花王"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嬌生"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — FMCG 品牌電商代營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美妝品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊雅"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (L'Oréal) — 美妝保養品電商代操"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "運動品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "New Balance"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PANDORA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 運動/時尚品牌代營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 200 個國際品牌 — 跨品類電商服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新竹物流"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 股東暨物流合作夥伴"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廣告平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 數位廣告投放"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PChome"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "蝦皮購物"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 銷售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 欣臨企業 — 品牌資源與 FMCG 代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $62.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.27",
+                  "12.16",
+                  "0.33",
+                  "1.72",
+                  "11.79"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4731.29",
+                  "4339.55",
+                  "4051.84"
+                ],
+                [
+                  "Gross Profit",
+                  "480.35",
+                  "509.81",
+                  "450.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.15",
+                  "11.75",
+                  "11.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "222.30",
+                  "193.93",
+                  "167.39"
+                ],
+                [
+                  "R&D Exp",
+                  "17.03",
+                  "15.45",
+                  "12.82"
+                ],
+                [
+                  "General & Admin Exp",
+                  "119.72",
+                  "93.45",
+                  "80.52"
+                ],
+                [
+                  "Operating Income",
+                  "121.31",
+                  "206.97",
+                  "190.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.56",
+                  "4.77",
+                  "4.69"
+                ],
+                [
+                  "Net Income",
+                  "84.82",
+                  "139.16",
+                  "128.41"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.79",
+                  "3.21",
+                  "3.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-85.47",
+                  "-62.06",
+                  "24.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-49.09",
+                  "132.51",
+                  "-215.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "80.08",
+                  "249.48",
+                  "102.78"
+                ],
+                [
+                  "CAPEX",
+                  "-7.87",
+                  "-4.15",
+                  "-6.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1320.13",
+                  "1374.61",
+                  "1195.17",
+                  "1558.15"
+                ],
+                [
+                  "Gross Profit",
+                  "141.59",
+                  "166.53",
+                  "146.67",
+                  "172.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.73",
+                  "12.11",
+                  "12.27",
+                  "11.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "77.89",
+                  "78.35",
+                  "70.97",
+                  "75.11"
+                ],
+                [
+                  "R&D Exp",
+                  "4.56",
+                  "4.38",
+                  "4.48",
+                  "5.71"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.08",
+                  "40.27",
+                  "34.85",
+                  "51.50"
+                ],
+                [
+                  "Operating Income",
+                  "17.08",
+                  "43.52",
+                  "36.36",
+                  "40.39"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.29",
+                  "3.17",
+                  "3.04",
+                  "2.59"
+                ],
+                [
+                  "Net Income",
+                  "15.38",
+                  "25.30",
+                  "25.98",
+                  "36.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.17",
+                  "1.84",
+                  "2.17",
+                  "2.34"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-142.40",
+                  "-99.17",
+                  "98.33",
+                  "187.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-32.08",
+                  "21.43",
+                  "14.31",
+                  "-81.71"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "282.38",
+                  "-60.28",
+                  "-120.30",
+                  "-20.41"
+                ],
+                [
+                  "CAPEX",
+                  "-0.80",
+                  "-2.54",
+                  "-3.23",
+                  "-0.44"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹物流",
+    "momo購物網",
+    "PChome",
+    "蝦皮購物",
+    "花王",
+    "嬌生",
+    "萊雅",
+    "New Balance",
+    "PANDORA",
+    "momo購物網",
+    "PChome",
+    "蝦皮購物",
+    "花王",
+    "嬌生",
+    "萊雅",
+    "New Balance",
+    "PANDORA",
+    "新竹物流",
+    "Google",
+    "Meta",
+    "momo購物網",
+    "PChome",
+    "蝦皮購物"
+  ]
+}

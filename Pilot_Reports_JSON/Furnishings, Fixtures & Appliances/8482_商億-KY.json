@@ -1,0 +1,592 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/8482_商億-KY.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/8482_商億-KY.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/8482_商億-KY.json",
+  "ticker": "8482",
+  "company_name": "商億-KY",
+  "title": "# 8482 - 商億-KY",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "5,170 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,683 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "商億全球控股 (8482，Shane Global，KY) 成立於 2014 年 (前身自 1999 年從事家具製造)，為國際室內家具設計、研發、生產與銷售企業。公司從 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 代工轉型為自有品牌 (OBM) 經營，旗下品牌包括「Palatial」(美式傳統復古)、「Spectra Home」(簡約風格) 及中國市場品牌「Gallerie Couture」。產品線涵蓋沙發、休閒椅、床、餐桌椅、茶几等室內家具。自建"
+            },
+            {
+              "type": "wikilink",
+              "text": "柬埔寨"
+            },
+            {
+              "type": "text",
+              "text": "廠 (30 萬平方米) 及中國廠 (18 萬平方米)，共 48 萬平方米生產基地。產品主要銷往北美零售市場，客戶包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Costco"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rooms To Go"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bob's Discount Furniture"
+            },
+            {
+              "type": "text",
+              "text": " 等美國家具零售通路。近年亦透過收購泰國及美國公司拓展業務版圖。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原物料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "木材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 實木及板材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "皮革/布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 真皮、人造皮、沙發布料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "泡棉:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聚氨酯泡棉"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家具五金"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造與品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商億全球"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 室內家具設計製造、自有品牌「Palatial」/「Spectra Home」/「Gallerie Couture」("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "柬埔寨"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/中國生產基地)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國家具零售店 — 自有品牌及代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 「Gallerie Couture」品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Costco"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rooms To Go"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bob's Discount Furniture"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 沙發及家具"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 「Palatial」/「Spectra Home」— 美國市場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 「Gallerie Couture」品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "木材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞木材及板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "皮革/布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際皮革及布料貿易商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家具五金供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $49.20 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.79",
+                  "N/A",
+                  "1.45",
+                  "1.78",
+                  "8.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3695.41",
+                  "3611.87",
+                  "5113.78"
+                ],
+                [
+                  "Gross Profit",
+                  "1271.73",
+                  "1281.38",
+                  "1858.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.41",
+                  "35.48",
+                  "36.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "248.04",
+                  "279.61",
+                  "327.40"
+                ],
+                [
+                  "R&D Exp",
+                  "93.22",
+                  "102.20",
+                  "146.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "494.85",
+                  "508.94",
+                  "490.52"
+                ],
+                [
+                  "Operating Income",
+                  "435.62",
+                  "390.62",
+                  "893.68"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.79",
+                  "10.81",
+                  "17.48"
+                ],
+                [
+                  "Net Income",
+                  "468.01",
+                  "308.64",
+                  "834.89"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.66",
+                  "8.55",
+                  "16.33"
+                ],
+                [
+                  "Op Cash Flow",
+                  "581.09",
+                  "710.29",
+                  "1427.21"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-38.99",
+                  "-209.03",
+                  "-451.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-265.72",
+                  "-688.03",
+                  "-621.27"
+                ],
+                [
+                  "CAPEX",
+                  "-89.79",
+                  "-264.90",
+                  "-563.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "919.62",
+                  "801.33",
+                  "846.84",
+                  "998.38"
+                ],
+                [
+                  "Gross Profit",
+                  "342.53",
+                  "232.83",
+                  "279.42",
+                  "332.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "37.25",
+                  "29.06",
+                  "33.00",
+                  "33.25"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "69.96",
+                  "90.04",
+                  "53.55",
+                  "69.97"
+                ],
+                [
+                  "R&D Exp",
+                  "19.88",
+                  "19.19",
+                  "21.22",
+                  "23.32"
+                ],
+                [
+                  "General & Admin Exp",
+                  "110.02",
+                  "98.08",
+                  "132.31",
+                  "117.26"
+                ],
+                [
+                  "Operating Income",
+                  "142.67",
+                  "25.52",
+                  "72.35",
+                  "121.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.51",
+                  "3.18",
+                  "8.54",
+                  "12.17"
+                ],
+                [
+                  "Net Income",
+                  "83.03",
+                  "37.02",
+                  "63.70",
+                  "128.11"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.03",
+                  "4.62",
+                  "7.52",
+                  "12.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "177.81",
+                  "92.03",
+                  "74.58",
+                  "237.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-226.72",
+                  "-28.69",
+                  "-13.02",
+                  "1.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-219.29",
+                  "-4.69",
+                  "-259.06",
+                  "-13.00"
+                ],
+                [
+                  "CAPEX",
+                  "-5.31",
+                  "-28.15",
+                  "-13.05",
+                  "1.69"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "ODM",
+    "柬埔寨",
+    "Costco",
+    "Rooms To Go",
+    "Bob's Discount Furniture",
+    "柬埔寨",
+    "Costco",
+    "Rooms To Go",
+    "Bob's Discount Furniture"
+  ]
+}

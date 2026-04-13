@@ -1,0 +1,590 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/6231_系微.md",
+  "source_path": "Pilot_Reports/Software - Application/6231_系微.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/6231_系微.json",
+  "ticker": "6231",
+  "company_name": "系微",
+  "title": "# 6231_系微",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "13,079 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,995 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "系微股份有限公司 (6231，Insyde Software) 是一家全球領先的系統韌體(Firmware)與軟體工程服務供應商。公司的核心產品為UEFI系統韌體(如InsydeH2O BIOS)以及基板管理控制器(BMC)韌體(如Supervyse)。系微的韌體是銜接電腦硬體與作業系統的關鍵橋樑，廣泛應用於個人電腦、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": "及邊緣運算設備。近年來，受惠於"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " PC浪潮(如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": "新晶片及高通Snapdragon X平台)與"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]的強勁需求，系微的BIOS授權金及NRE(委託設計)收入穩健增長，在"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " PC市場擁有極高市佔率。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": "、高通("
+            },
+            {
+              "type": "wikilink",
+              "text": "Qualcomm"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Arm"
+            },
+            {
+              "type": "text",
+              "text": "及Aspeed(信驊)等全球頂尖晶片設計原廠。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "系微"
+            },
+            {
+              "type": "text",
+              "text": " (UEFI BIOS系統韌體、BMC"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "管理韌體之設計開發、客製化修改及授權服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 全球各大電腦及"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "品牌廠("
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": ")、專業電子代工廠("
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ")及雲端"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "業者。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "HP"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dell"
+                },
+                {
+                  "type": "text",
+                  "text": "等PC品牌，浪潮/新華三等中國"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "廠，以及"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "廣達"
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "緯創"
+                },
+                {
+                  "type": "text",
+                  "text": "等台灣大型"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "ODM"
+                },
+                {
+                  "type": "text",
+                  "text": "廠。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   微軟(Windows)、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Google"
+                },
+                {
+                  "type": "text",
+                  "text": "(Android)及開源社群(如OpenBMC)，提供軟體作業環境與底層架構。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $286.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "43.28",
+                  "29.38",
+                  "7.74",
+                  "11.22",
+                  "28.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1689.51",
+                  "1614.59",
+                  "1342.46"
+                ],
+                [
+                  "Gross Profit",
+                  "1248.81",
+                  "1246.44",
+                  "1060.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "73.92",
+                  "77.20",
+                  "79.03"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "140.98",
+                  "132.53",
+                  "118.38"
+                ],
+                [
+                  "R&D Exp",
+                  "494.92",
+                  "514.42",
+                  "526.96"
+                ],
+                [
+                  "General & Admin Exp",
+                  "219.63",
+                  "216.35",
+                  "200.73"
+                ],
+                [
+                  "Operating Income",
+                  "393.28",
+                  "383.14",
+                  "214.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "23.28",
+                  "23.73",
+                  "16.01"
+                ],
+                [
+                  "Net Income",
+                  "303.85",
+                  "336.54",
+                  "184.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.98",
+                  "20.84",
+                  "13.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "361.00",
+                  "472.20",
+                  "162.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-80.07",
+                  "-73.34",
+                  "-8.85"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-347.36",
+                  "-146.00",
+                  "-288.18"
+                ],
+                [
+                  "CAPEX",
+                  "-26.05",
+                  "-74.18",
+                  "-7.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "451.75",
+                  "404.35",
+                  "406.98",
+                  "427.58"
+                ],
+                [
+                  "Gross Profit",
+                  "345.34",
+                  "292.25",
+                  "298.13",
+                  "319.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "76.45",
+                  "72.28",
+                  "73.25",
+                  "74.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "41.63",
+                  "36.24",
+                  "30.27",
+                  "35.08"
+                ],
+                [
+                  "R&D Exp",
+                  "130.38",
+                  "118.42",
+                  "128.54",
+                  "123.28"
+                ],
+                [
+                  "General & Admin Exp",
+                  "49.66",
+                  "54.34",
+                  "58.27",
+                  "56.64"
+                ],
+                [
+                  "Operating Income",
+                  "123.67",
+                  "83.25",
+                  "81.05",
+                  "104.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "27.38",
+                  "20.59",
+                  "19.91",
+                  "24.49"
+                ],
+                [
+                  "Net Income",
+                  "94.16",
+                  "47.58",
+                  "77.66",
+                  "91.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.84",
+                  "11.77",
+                  "19.08",
+                  "21.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "121.44",
+                  "161.57",
+                  "68.00",
+                  "228.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.86",
+                  "-67.32",
+                  "-3.96",
+                  "-0.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-12.59",
+                  "-12.82",
+                  "-12.96",
+                  "-12.63"
+                ],
+                [
+                  "CAPEX",
+                  "-2.57",
+                  "-5.39",
+                  "-3.88",
+                  "-1.73"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "物聯網",
+    "AI",
+    "Intel",
+    "AMD",
+    "AI[[伺服器",
+    "AI",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "Qualcomm",
+    "Arm",
+    "伺服器",
+    "伺服器",
+    "OEM",
+    "ODM",
+    "資料中心",
+    "HP",
+    "Dell",
+    "伺服器",
+    "廣達",
+    "緯創",
+    "ODM",
+    "Google"
+  ]
+}

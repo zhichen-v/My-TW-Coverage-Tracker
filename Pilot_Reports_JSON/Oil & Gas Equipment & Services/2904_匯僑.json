@@ -1,0 +1,576 @@
+{
+  "report_id": "Pilot_Reports/Oil & Gas Equipment & Services/2904_匯僑.md",
+  "source_path": "Pilot_Reports/Oil & Gas Equipment & Services/2904_匯僑.md",
+  "json_path": "Pilot_Reports_JSON/Oil & Gas Equipment & Services/2904_匯僑.json",
+  "ticker": "2904",
+  "company_name": "匯僑",
+  "title": "# 2904 - 匯僑",
+  "sector_folder": "Oil & Gas Equipment & Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Energy"
+      },
+      {
+        "label": "產業:",
+        "value": "Oil & Gas Equipment & Services"
+      },
+      {
+        "label": "市值:",
+        "value": "1,304 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,567 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "匯僑 (2904，Prime Oil Chemical Service / POCS) 成立於 1978 年，2002 年轉型為化學品與油品儲槽租賃業務。公司為台灣最大民營石化岸槽倉儲服務商，儲槽規模僅次於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑集團"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣中油"
+            },
+            {
+              "type": "text",
+              "text": "。核心業務涵蓋：(1) 儲槽服務事業 (佔營收約 79%) — 位於台中港石化專區，共計 51 座儲槽、總容量約 30 萬公秉，年貨物吞吐量逾 300 萬公噸；(2) 能源事業 — 子公司鎮陽能源系統於台灣及東南亞建置太陽能發電系統；(3) 不動產租賃 — 持有台北車站附近首德大樓辦公空間出租。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (貨源供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化業者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑化"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台化"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 石化產品進出口與轉運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (倉儲物流)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "匯僑"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台中港石化岸槽倉儲服務、太陽能發電、不動產租賃)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端使用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化下游:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內化工廠 — 使用儲槽轉運之化學品原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "售電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 太陽能售電"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲槽租賃 (佔營收 79%):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外石化生產商與貿易商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能售電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 再生能源躉購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 首德大樓承租企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "港區管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臺灣港務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團貨源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 石化品轉運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.92",
+                  "N/A",
+                  "2.75",
+                  "1.03",
+                  "5.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "473.76",
+                  "492.03",
+                  "441.52"
+                ],
+                [
+                  "Gross Profit",
+                  "148.19",
+                  "180.12",
+                  "126.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.28",
+                  "36.61",
+                  "28.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "9.64",
+                  "5.71",
+                  "5.28"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "61.24",
+                  "61.58",
+                  "59.70"
+                ],
+                [
+                  "Operating Income",
+                  "77.31",
+                  "112.83",
+                  "61.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.32",
+                  "22.93",
+                  "14.04"
+                ],
+                [
+                  "Net Income",
+                  "76.60",
+                  "107.16",
+                  "65.23"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.17",
+                  "21.78",
+                  "14.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "273.51",
+                  "284.13",
+                  "241.37"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-58.89",
+                  "-79.69",
+                  "33.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-251.66",
+                  "-101.43",
+                  "-288.33"
+                ],
+                [
+                  "CAPEX",
+                  "-92.84",
+                  "-48.00",
+                  "-85.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "98.35",
+                  "122.37",
+                  "131.57",
+                  "121.47"
+                ],
+                [
+                  "Gross Profit",
+                  "17.11",
+                  "39.73",
+                  "49.81",
+                  "41.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.39",
+                  "32.47",
+                  "37.86",
+                  "34.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2.54",
+                  "2.22",
+                  "2.29",
+                  "2.59"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.56",
+                  "15.47",
+                  "14.83",
+                  "15.37"
+                ],
+                [
+                  "Operating Income",
+                  "-1.00",
+                  "22.03",
+                  "32.69",
+                  "23.58"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.01",
+                  "18.00",
+                  "24.85",
+                  "19.41"
+                ],
+                [
+                  "Net Income",
+                  "-1.47",
+                  "30.58",
+                  "22.70",
+                  "24.79"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.50",
+                  "24.99",
+                  "17.25",
+                  "20.41"
+                ],
+                [
+                  "Op Cash Flow",
+                  "55.29",
+                  "81.44",
+                  "60.70",
+                  "76.09"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.24",
+                  "1.23",
+                  "-14.76",
+                  "-36.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-57.35",
+                  "-122.82",
+                  "-38.32",
+                  "-33.17"
+                ],
+                [
+                  "CAPEX",
+                  "-9.45",
+                  "-14.84",
+                  "-25.34",
+                  "-43.21"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台塑集團",
+    "台灣中油",
+    "台塑集團",
+    "台塑化",
+    "台塑",
+    "台化",
+    "南亞塑膠",
+    "台灣中油",
+    "台電",
+    "台電",
+    "臺灣港務",
+    "台塑集團",
+    "台灣中油"
+  ]
+}

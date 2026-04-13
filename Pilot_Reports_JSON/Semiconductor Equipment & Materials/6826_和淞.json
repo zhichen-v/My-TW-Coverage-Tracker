@@ -1,0 +1,460 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/6826_和淞.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/6826_和淞.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/6826_和淞.json",
+  "ticker": "6826",
+  "company_name": "和淞",
+  "title": "# 6826 - 和淞",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "52,607 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "28,431 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "和淞科技 (6826) 是一家半導體廠務設備及"
+            },
+            {
+              "type": "wikilink",
+              "text": "特殊化學品輸送"
+            },
+            {
+              "type": "text",
+              "text": "系統製造商，母公司為"
+            },
+            {
+              "type": "wikilink",
+              "text": "國泰化工"
+            },
+            {
+              "type": "text",
+              "text": "。公司主力產品為半導體廠務供應系統，包括化學品混配/輸送設備、氣體過濾淨化器及相關廠務工程。近年業務重心從工程承包成功轉型為半導體設備 OEM/ODM，為國際設備大廠代工生產模組，並直接供應終端晶圓廠客製化混氣/混液設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化工專業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰化工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司，化學品特性專業)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 管件、閥件及感測器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (設備製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廠務設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "和淞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (半導體廠務化學品/氣體輸送系統 OEM/ODM)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (設備原廠與晶圓廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備 OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lam Research"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (設備模組代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自主供應鏈設備)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備 OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Applied Materials"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lam Research"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (模組代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (客製化廠務設備)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰化工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (化工專業及原料)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 管件、閥件供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $615.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.77",
+                  "N/A",
+                  "3.18",
+                  "4.91",
+                  "8.87"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16531.38",
+                  "15895.92",
+                  "16539.83"
+                ],
+                [
+                  "Gross Profit",
+                  "4329.68",
+                  "3310.97",
+                  "2673.79"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.19",
+                  "20.83",
+                  "16.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "247.13",
+                  "199.94",
+                  "179.69"
+                ],
+                [
+                  "R&D Exp",
+                  "126.46",
+                  "108.21",
+                  "100.68"
+                ],
+                [
+                  "General & Admin Exp",
+                  "996.30",
+                  "847.77",
+                  "766.12"
+                ],
+                [
+                  "Operating Income",
+                  "2959.80",
+                  "2155.06",
+                  "1627.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.90",
+                  "13.56",
+                  "9.84"
+                ],
+                [
+                  "Net Income",
+                  "2338.05",
+                  "1726.10",
+                  "1279.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.14",
+                  "10.86",
+                  "7.74"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4908.84",
+                  "4087.67",
+                  "858.23"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-276.18",
+                  "-170.39",
+                  "-260.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2060.18",
+                  "-654.32",
+                  "194.74"
+                ],
+                [
+                  "CAPEX",
+                  "-251.75",
+                  "-165.44",
+                  "-247.78"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "特殊化學品輸送",
+    "國泰化工",
+    "國泰化工",
+    "Applied Materials",
+    "Lam Research",
+    "台積電",
+    "Applied Materials",
+    "Lam Research",
+    "台積電",
+    "國泰化工"
+  ]
+}

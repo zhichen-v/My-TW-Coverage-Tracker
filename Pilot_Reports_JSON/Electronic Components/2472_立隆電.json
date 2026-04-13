@@ -1,0 +1,602 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2472_立隆電.md",
+  "source_path": "Pilot_Reports/Electronic Components/2472_立隆電.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2472_立隆電.json",
+  "ticker": "2472",
+  "company_name": "立隆電",
+  "title": "# 2472 - 立隆電",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "20,921 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "22,082 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "立隆電子工業股份有限公司 (Lelon Electronics Corp.) 成立於 1976 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台中"
+            },
+            {
+              "type": "text",
+              "text": "。公司為全球主要鋁質電解電容器製造商，產品涵蓋液態鋁電容、固態鋁電容 (Polymer) 及混合型鋁電容 (Hybrid)。立隆電擁有垂直整合優勢 (透過立敦製造鋁箔)，產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": " (EV)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 網通及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI Server"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "立隆電位於被動元件產業鏈中游製造端。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (材料):"
+            },
+            {
+              "type": "text",
+              "text": " 化成鋁箔 (轉投資"
+            },
+            {
+              "type": "wikilink",
+              "text": "Liton"
+            },
+            {
+              "type": "text",
+              "text": " 立敦, 6175), 電解液, 橡膠, 鋁殼。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (製造):"
+            },
+            {
+              "type": "text",
+              "text": " 捲繞、含浸、組立、老化測試 (蘇州/惠州/泰國廠).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (應用):"
+            },
+            {
+              "type": "text",
+              "text": "\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用:"
+            },
+            {
+              "type": "text",
+              "text": " 歐美 Tier 1 車廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": "), 中國車廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "BYD"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "網通:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Huawei"
+            },
+            {
+              "type": "text",
+              "text": " (華為), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Nokia"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Ericsson"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "工控/綠能:"
+            },
+            {
+              "type": "text",
+              "text": " 變頻器、風電/太陽能逆變器。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Tesla"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "BYD"
+                },
+                {
+                  "type": "text",
+                  "text": " (比亞迪), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Continental"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "網通:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Huawei"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "ZTE"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Nokia"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "電源:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台達電"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "光寶"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "鋁箔:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Liton"
+                },
+                {
+                  "type": "text",
+                  "text": " (立敦) - 內部供應，確保成本與品質。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $127.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.08",
+                  "16.30",
+                  "1.85",
+                  "2.30",
+                  "7.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11292.54",
+                  "10486.95",
+                  "8998.26"
+                ],
+                [
+                  "Gross Profit",
+                  "3618.21",
+                  "3234.76",
+                  "2580.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.04",
+                  "30.85",
+                  "28.68"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "447.70",
+                  "386.94",
+                  "315.16"
+                ],
+                [
+                  "R&D Exp",
+                  "240.00",
+                  "272.90",
+                  "237.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "664.66",
+                  "675.90",
+                  "563.90"
+                ],
+                [
+                  "Operating Income",
+                  "2265.86",
+                  "1899.02",
+                  "1464.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "20.07",
+                  "18.11",
+                  "16.27"
+                ],
+                [
+                  "Net Income",
+                  "1437.72",
+                  "1155.49",
+                  "922.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.73",
+                  "11.02",
+                  "10.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2203.37",
+                  "2176.26",
+                  "1261.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-990.98",
+                  "-480.92",
+                  "-544.23"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1015.25",
+                  "-574.11",
+                  "-563.78"
+                ],
+                [
+                  "CAPEX",
+                  "-994.10",
+                  "-583.07",
+                  "-675.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2885.42",
+                  "2800.91",
+                  "2912.34",
+                  "2693.86"
+                ],
+                [
+                  "Gross Profit",
+                  "940.58",
+                  "932.42",
+                  "928.56",
+                  "816.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.60",
+                  "33.29",
+                  "31.88",
+                  "30.32"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "106.57",
+                  "134.99",
+                  "113.98",
+                  "92.16"
+                ],
+                [
+                  "R&D Exp",
+                  "62.70",
+                  "53.84",
+                  "62.77",
+                  "60.68"
+                ],
+                [
+                  "General & Admin Exp",
+                  "158.90",
+                  "195.24",
+                  "146.57",
+                  "163.95"
+                ],
+                [
+                  "Operating Income",
+                  "612.40",
+                  "548.37",
+                  "605.23",
+                  "499.85"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.22",
+                  "19.58",
+                  "20.78",
+                  "18.56"
+                ],
+                [
+                  "Net Income",
+                  "583.08",
+                  "377.35",
+                  "201.63",
+                  "275.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.21",
+                  "13.47",
+                  "6.92",
+                  "10.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "656.29",
+                  "612.57",
+                  "149.27",
+                  "785.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "133.69",
+                  "-94.77",
+                  "-448.40",
+                  "-581.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "42.75",
+                  "-858.12",
+                  "-11.12",
+                  "-188.76"
+                ],
+                [
+                  "CAPEX",
+                  "-284.62",
+                  "-269.22",
+                  "-293.56",
+                  "-146.70"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台中",
+    "車用電子",
+    "5G",
+    "AI Server",
+    "Liton",
+    "Bosch",
+    "Continental",
+    "BYD",
+    "Huawei",
+    "Nokia",
+    "Ericsson",
+    "Tesla",
+    "BYD",
+    "Continental",
+    "Huawei",
+    "ZTE",
+    "Nokia",
+    "台達電",
+    "光寶",
+    "Liton"
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "report_id": "Pilot_Reports/Electronics & Computer Distribution/3540_曜越.md",
+  "source_path": "Pilot_Reports/Electronics & Computer Distribution/3540_曜越.md",
+  "json_path": "Pilot_Reports_JSON/Electronics & Computer Distribution/3540_曜越.json",
+  "ticker": "3540",
+  "company_name": "曜越",
+  "title": "# 3540 - 曜越",
+  "sector_folder": "Electronics & Computer Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "2,036 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,092 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "曜越科技 (3540，Thermaltake Technology) 為全球知名電腦周邊與電競品牌，主要產品包含機殼、電源供應器、散熱器與電競周邊。擁有強大 DIY 玩家社群基礎，積極推出 ATX 3.0 電源供應器以支援 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " 40 系列顯卡。近年跨足高階單車代理業務 (代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "TIME"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌)，並切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "散熱與電源供應鏈。產品透過全球電商平台 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Newegg"
+            },
+            {
+              "type": "text",
+              "text": ") 及實體通路銷售。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (元件供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "風扇/散熱:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 風扇模組、散熱鰭片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼板/金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼板、鋁材機構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電源 IC、電容等"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "曜越"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (品牌設計、產品開發，委外製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、Newegg — 線上零售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "實體通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 3C 實體零售通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電競玩家、DIY 組裝用戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、Newegg — 線上零售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3C 通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 3C 實體零售商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電競玩家、DIY 組裝愛好者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "風扇模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 散熱風扇與鰭片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼板與鋁材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合作夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 顯卡電源規格合作 (ATX 3.0)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $28.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "37.47",
+                  "N/A",
+                  "0.40",
+                  "1.15",
+                  "12.63"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5137.92",
+                  "3980.03",
+                  "4379.89"
+                ],
+                [
+                  "Gross Profit",
+                  "1615.65",
+                  "1189.10",
+                  "1357.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.45",
+                  "29.88",
+                  "31.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "842.36",
+                  "671.99",
+                  "642.46"
+                ],
+                [
+                  "R&D Exp",
+                  "156.18",
+                  "142.63",
+                  "139.85"
+                ],
+                [
+                  "General & Admin Exp",
+                  "510.51",
+                  "526.28",
+                  "482.85"
+                ],
+                [
+                  "Operating Income",
+                  "106.60",
+                  "-151.80",
+                  "92.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.07",
+                  "-3.81",
+                  "2.11"
+                ],
+                [
+                  "Net Income",
+                  "53.76",
+                  "-97.65",
+                  "100.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.05",
+                  "-2.45",
+                  "2.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "28.97",
+                  "-334.51",
+                  "-47.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-58.72",
+                  "-82.40",
+                  "-89.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "57.62",
+                  "385.98",
+                  "-279.71"
+                ],
+                [
+                  "CAPEX",
+                  "-37.30",
+                  "-31.77",
+                  "-59.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1333.25",
+                  "1207.65",
+                  "1277.55",
+                  "1319.47"
+                ],
+                [
+                  "Gross Profit",
+                  "366.06",
+                  "378.48",
+                  "455.22",
+                  "415.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.46",
+                  "31.34",
+                  "35.63",
+                  "31.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "236.58",
+                  "204.88",
+                  "198.49",
+                  "202.40"
+                ],
+                [
+                  "R&D Exp",
+                  "38.82",
+                  "41.02",
+                  "37.91",
+                  "38.44"
+                ],
+                [
+                  "General & Admin Exp",
+                  "137.16",
+                  "120.50",
+                  "98.27",
+                  "154.58"
+                ],
+                [
+                  "Operating Income",
+                  "-46.50",
+                  "12.07",
+                  "120.55",
+                  "20.47"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.49",
+                  "1.00",
+                  "9.44",
+                  "1.55"
+                ],
+                [
+                  "Net Income",
+                  "19.74",
+                  "32.39",
+                  "-41.72",
+                  "43.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.48",
+                  "2.68",
+                  "-3.27",
+                  "3.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-77.72",
+                  "-173.46",
+                  "59.48",
+                  "220.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-40.27",
+                  "-3.98",
+                  "-6.91",
+                  "-7.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "27.85",
+                  "170.56",
+                  "-185.52",
+                  "44.73"
+                ],
+                [
+                  "CAPEX",
+                  "-28.92",
+                  "-2.83",
+                  "-2.04",
+                  "-3.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NVIDIA",
+    "TIME",
+    "AI 伺服器",
+    "Amazon",
+    "Newegg",
+    "Amazon",
+    "Amazon",
+    "NVIDIA"
+  ]
+}

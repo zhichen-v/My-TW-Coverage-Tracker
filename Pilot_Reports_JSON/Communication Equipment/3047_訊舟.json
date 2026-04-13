@@ -1,0 +1,711 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/3047_訊舟.md",
+  "source_path": "Pilot_Reports/Communication Equipment/3047_訊舟.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/3047_訊舟.json",
+  "ticker": "3047",
+  "company_name": "訊舟",
+  "title": "# 3047 - 訊舟",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "3,637 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,411 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "訊舟科技 (3047，"
+            },
+            {
+              "type": "wikilink",
+              "text": "EDIMAX"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣老牌網通設備廠商，以自有品牌 EDIMAX 及 COMTREND 雙品牌行銷全球，成立於 1986 年，擁有超過三十年網通產品研發製造經驗，服務全球逾 300 個合作夥伴。核心產品涵蓋家用及企業級 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": " 路由器、網管型交換器、無線基地台 (AP)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AIoT"
+            },
+            {
+              "type": "text",
+              "text": " 空氣品質監測方案 (AirBox) 及工業交換器。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司持有子公司 "
+            },
+            {
+              "type": "wikilink",
+              "text": "康全電訊"
+            },
+            {
+              "type": "text",
+              "text": " (8089，Comtrend，持股約 33%)，康全專注於電信營運商標案與寬頻設備，近年在印度市場表現亮眼，成功取得印度最大行動電信業者之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 標案，帶動營收大幅成長，成為集團重要獲利引擎。訊舟近年積極拓展 AIoT 應用及企業級網管方案，同時透過 OBM 與 ODM 雙軌策略拓展全球市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (網通晶片與元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Wi-Fi 路由解決方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寬頻晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 寬頻路由晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "感測器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " AIoT 環境感測器零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光收發模組元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (網通設備品牌與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "訊舟"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (EDIMAX 品牌 — 路由器/交換器/AP)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康全電訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Comtrend，8089 — 局端寬頻設備/5G CPE)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AIoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "訊舟"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AirBox 空氣品質監測系統)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電信營運商與消費通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印度電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印度最大行動電信業者 5G 標案 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康全電訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 主導)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新興市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 亞太及新興國家電信營運商寬頻設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球中小企業及 SOHO 用戶 (歐美亞 IT 經銷商)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "印度電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印度最大行動電信業者 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康全電訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 5G 標案 (營收成長五成以上)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新興市場電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞及新興國家電信營運商 — 局端寬頻設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐美消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " EDIMAX 品牌透過代理商 (如英國 Solwise) 銷售予 SMB 及消費者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AIoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關及學校空氣品質監測標案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寬頻晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "子公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康全電訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (8089，持股約 33%，電信標案主力)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.00",
+                  "1.46",
+                  "-22.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3650.84",
+                  "6815.33",
+                  "4260.41"
+                ],
+                [
+                  "Gross Profit",
+                  "1006.74",
+                  "1866.31",
+                  "1055.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.58",
+                  "27.38",
+                  "24.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "524.28",
+                  "602.40",
+                  "552.58"
+                ],
+                [
+                  "R&D Exp",
+                  "437.26",
+                  "469.36",
+                  "448.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "332.59",
+                  "419.98",
+                  "301.68"
+                ],
+                [
+                  "Operating Income",
+                  "-287.39",
+                  "374.56",
+                  "-247.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.87",
+                  "5.50",
+                  "-5.81"
+                ],
+                [
+                  "Net Income",
+                  "-200.84",
+                  "112.89",
+                  "-30.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.50",
+                  "1.66",
+                  "-0.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "128.92",
+                  "955.56",
+                  "290.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-245.48",
+                  "-83.49",
+                  "-24.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-55.06",
+                  "-282.90",
+                  "-837.46"
+                ],
+                [
+                  "CAPEX",
+                  "-224.24",
+                  "-101.51",
+                  "-71.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "710.78",
+                  "706.64",
+                  "963.14",
+                  "1270.28"
+                ],
+                [
+                  "Gross Profit",
+                  "167.19",
+                  "207.19",
+                  "262.81",
+                  "369.55"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.52",
+                  "29.32",
+                  "27.29",
+                  "29.09"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "150.51",
+                  "122.11",
+                  "127.17",
+                  "124.49"
+                ],
+                [
+                  "R&D Exp",
+                  "106.32",
+                  "109.79",
+                  "114.45",
+                  "106.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "92.25",
+                  "82.83",
+                  "73.84",
+                  "83.67"
+                ],
+                [
+                  "Operating Income",
+                  "-181.89",
+                  "-107.55",
+                  "-52.65",
+                  "54.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-25.59",
+                  "-15.22",
+                  "-5.47",
+                  "4.31"
+                ],
+                [
+                  "Net Income",
+                  "-90.81",
+                  "-57.09",
+                  "-97.34",
+                  "44.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-12.78",
+                  "-8.08",
+                  "-10.11",
+                  "3.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-164.14",
+                  "104.89",
+                  "96.03",
+                  "92.14"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-122.66",
+                  "-44.70",
+                  "-45.71",
+                  "-32.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "108.81",
+                  "-136.24",
+                  "-20.11",
+                  "-7.52"
+                ],
+                [
+                  "CAPEX",
+                  "-154.18",
+                  "-27.25",
+                  "-28.79",
+                  "-14.03"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "EDIMAX",
+    "Wi-Fi",
+    "AIoT",
+    "康全電訊",
+    "5G",
+    "瑞昱",
+    "聯發科",
+    "Broadcom",
+    "康全電訊",
+    "康全電訊",
+    "康全電訊",
+    "瑞昱",
+    "聯發科",
+    "Broadcom",
+    "康全電訊"
+  ]
+}

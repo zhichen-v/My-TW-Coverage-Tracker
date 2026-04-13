@@ -1,0 +1,632 @@
+{
+  "report_id": "Pilot_Reports/Tools & Accessories/1560_中砂.md",
+  "source_path": "Pilot_Reports/Tools & Accessories/1560_中砂.md",
+  "json_path": "Pilot_Reports_JSON/Tools & Accessories/1560_中砂.json",
+  "ticker": "1560",
+  "company_name": "中砂",
+  "title": "# 1560 - 中砂",
+  "sector_folder": "Tools & Accessories",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Tools & Accessories"
+      },
+      {
+        "label": "市值:",
+        "value": "67,681 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "68,687 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中國砂輪 (1560，Kinik) 成立於 1953 年，總部位於台灣新北鶯歌，為台灣歷史最悠久的研磨材料製造商。公司已從傳統砂輪廠成功轉型為"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "先進製程關鍵耗材供應商，三大事業體為：(1) 鑽石碟事業 (Diamond Disk) — 用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "CMP"
+            },
+            {
+              "type": "text",
+              "text": "化學機械研磨製程之修整器，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "先進製程 (3nm/2nm) 的核心耗材，市佔率領先；(2) 再生晶圓事業 (Reclaimed Wafer) — 竹南科學園區廠區為全球前三大再生"
+            },
+            {
+              "type": "wikilink",
+              "text": "矽晶圓"
+            },
+            {
+              "type": "text",
+              "text": "供應商；(3) 傳統砂輪事業 — 供應精密機械加工業。營收佔比約為再生晶圓 48%、鑽石碟 30%、砂輪 22%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑽石碟:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 人造鑽石粉末 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Element Six"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等)、陶瓷結合劑、金屬基座"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再生晶圓:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 回收測試"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽晶圓"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (客戶端提供)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "砂輪:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 氧化鋁、碳化矽等研磨材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國砂輪"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鑽石粉末燒結、晶圓研磨拋光清洗、砂輪配方調製燒結"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (UMC)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力積電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密機械:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工具機製造商及金屬加工業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體 (鑽石碟/再生晶圓):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大單一客戶，鑽石碟約六成出貨)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "力積電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳統砂輪:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密機械加工廠、工具機製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑽石粉末:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Element Six"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等國際大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽晶圓:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 客戶端提供之測試晶圓供回收再生"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $459.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "50.49",
+                  "26.58",
+                  "8.30",
+                  "8.30",
+                  "35.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8149.48",
+                  "7019.49",
+                  "6380.90"
+                ],
+                [
+                  "Gross Profit",
+                  "2647.04",
+                  "2188.12",
+                  "1942.23"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.48",
+                  "31.17",
+                  "30.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "608.02",
+                  "507.62",
+                  "500.56"
+                ],
+                [
+                  "R&D Exp",
+                  "191.20",
+                  "164.10",
+                  "156.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "542.40",
+                  "359.36",
+                  "296.45"
+                ],
+                [
+                  "Operating Income",
+                  "1305.42",
+                  "1157.03",
+                  "988.71"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.02",
+                  "16.48",
+                  "15.49"
+                ],
+                [
+                  "Net Income",
+                  "1360.22",
+                  "1035.00",
+                  "852.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.69",
+                  "14.74",
+                  "13.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1914.08",
+                  "1617.36",
+                  "1289.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1912.74",
+                  "-462.38",
+                  "-936.85"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-462.41",
+                  "-172.61",
+                  "-488.84"
+                ],
+                [
+                  "CAPEX",
+                  "-1059.57",
+                  "-348.51",
+                  "-532.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2171.81",
+                  "2114.76",
+                  "1771.63",
+                  "1834.01"
+                ],
+                [
+                  "Gross Profit",
+                  "742.42",
+                  "679.72",
+                  "547.59",
+                  "566.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.18",
+                  "32.14",
+                  "30.91",
+                  "30.88"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "164.74",
+                  "150.45",
+                  "127.72",
+                  "131.84"
+                ],
+                [
+                  "R&D Exp",
+                  "52.71",
+                  "48.91",
+                  "41.03",
+                  "42.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "187.18",
+                  "128.31",
+                  "96.64",
+                  "97.41"
+                ],
+                [
+                  "Operating Income",
+                  "337.79",
+                  "352.06",
+                  "282.20",
+                  "294.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.55",
+                  "16.65",
+                  "15.93",
+                  "16.08"
+                ],
+                [
+                  "Net Income",
+                  "479.60",
+                  "266.37",
+                  "285.81",
+                  "239.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "22.08",
+                  "12.60",
+                  "16.13",
+                  "13.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "748.78",
+                  "376.97",
+                  "411.12",
+                  "730.68"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-403.64",
+                  "-879.02",
+                  "-267.67",
+                  "-215.93"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-612.13",
+                  "-105.89",
+                  "30.98",
+                  "-144.45"
+                ],
+                [
+                  "CAPEX",
+                  "-295.66",
+                  "-200.03",
+                  "-200.82",
+                  "-142.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "半導體",
+    "CMP",
+    "台積電",
+    "矽晶圓",
+    "Element Six",
+    "矽晶圓",
+    "台積電",
+    "聯電",
+    "Micron",
+    "Intel",
+    "力積電",
+    "台積電",
+    "聯電",
+    "Micron",
+    "Intel",
+    "力積電",
+    "Element Six"
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2459_敦吉.md",
+  "source_path": "Pilot_Reports/Electronic Components/2459_敦吉.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2459_敦吉.json",
+  "ticker": "2459",
+  "company_name": "敦吉",
+  "title": "# 2459 - 敦吉",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "6,938 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,365 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "敦吉科技股份有限公司 (Audix Corporation) 成立於 1980 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北"
+            },
+            {
+              "type": "text",
+              "text": "。公司業務涵蓋三大領域：電子零組件通路 (Distribution)、製造 (Manufacturing) 及驗證服務 (Testing)。製造業務包括精密模具、塑膠射出及 VCM 音圈馬達零件；驗證業務提供 EMC/Safety 檢測。近期積極切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI Server"
+            },
+            {
+              "type": "text",
+              "text": " 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": "檢測市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "敦吉位於電子產業鏈中下游，兼具通路、製造與服務角色。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (原廠/材料):"
+            },
+            {
+              "type": "text",
+              "text": " 日本電子零組件品牌 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Hitachi"
+            },
+            {
+              "type": "text",
+              "text": "), 塑膠/金屬材料供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (營運):"
+            },
+            {
+              "type": "text",
+              "text": "\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "通路:"
+            },
+            {
+              "type": "text",
+              "text": " 代理銷售零組件。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "製造:"
+            },
+            {
+              "type": "text",
+              "text": " 模具開發、塑膠射出、精密沖壓。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "驗證:"
+            },
+            {
+              "type": "text",
+              "text": " 檢測服務 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "EMC"
+            },
+            {
+              "type": "text",
+              "text": ", Safety).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (應用):"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "、汽車電子、資訊家電、"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通路:"
+                },
+                {
+                  "type": "text",
+                  "text": " 下游電子製造商。\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "製造:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Panasonic"
+                },
+                {
+                  "type": "text",
+                  "text": ", 繼電器/音圈馬達 (VCM) 客戶。\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "驗證:"
+                },
+                {
+                  "type": "text",
+                  "text": " 國內外電子大廠 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dell"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "HP"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Apple"
+                },
+                {
+                  "type": "text",
+                  "text": " 供應鏈等)。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "代理品牌:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Hitachi"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Panasonic"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Fujitsu"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $65.70 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "12.71",
+                  "14.97",
+                  "1.41",
+                  "1.21",
+                  "6.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4908.09",
+                  "5168.77",
+                  "7420.16"
+                ],
+                [
+                  "Gross Profit",
+                  "1395.03",
+                  "1470.96",
+                  "1452.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.42",
+                  "28.46",
+                  "19.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "237.48",
+                  "264.99",
+                  "272.39"
+                ],
+                [
+                  "R&D Exp",
+                  "89.82",
+                  "105.82",
+                  "96.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "317.03",
+                  "344.38",
+                  "352.18"
+                ],
+                [
+                  "Operating Income",
+                  "750.70",
+                  "755.78",
+                  "731.42"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.30",
+                  "14.62",
+                  "9.86"
+                ],
+                [
+                  "Net Income",
+                  "545.59",
+                  "561.80",
+                  "576.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.12",
+                  "10.87",
+                  "7.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "430.67",
+                  "615.34",
+                  "898.00"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "351.92",
+                  "-969.86",
+                  "346.45"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-708.60",
+                  "-564.59",
+                  "-966.68"
+                ],
+                [
+                  "CAPEX",
+                  "-159.37",
+                  "-111.90",
+                  "-127.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1307.30",
+                  "1250.21",
+                  "1178.77",
+                  "1171.81"
+                ],
+                [
+                  "Gross Profit",
+                  "414.29",
+                  "397.66",
+                  "300.18",
+                  "282.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.69",
+                  "31.81",
+                  "25.47",
+                  "24.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "64.69",
+                  "60.85",
+                  "54.22",
+                  "57.72"
+                ],
+                [
+                  "R&D Exp",
+                  "24.29",
+                  "22.74",
+                  "19.65",
+                  "23.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "88.89",
+                  "89.64",
+                  "67.94",
+                  "70.57"
+                ],
+                [
+                  "Operating Income",
+                  "236.41",
+                  "224.44",
+                  "158.37",
+                  "131.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.08",
+                  "17.95",
+                  "13.44",
+                  "11.22"
+                ],
+                [
+                  "Net Income",
+                  "81.85",
+                  "172.46",
+                  "149.14",
+                  "142.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.26",
+                  "13.79",
+                  "12.65",
+                  "12.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "131.10",
+                  "-62.42",
+                  "165.29",
+                  "196.69"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "86.36",
+                  "-44.07",
+                  "202.68",
+                  "106.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-51.29",
+                  "61.44",
+                  "-298.00",
+                  "-420.75"
+                ],
+                [
+                  "CAPEX",
+                  "-48.26",
+                  "-38.38",
+                  "-45.77",
+                  "-26.96"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台北",
+    "AI Server",
+    "車用電子",
+    "Panasonic",
+    "Hitachi",
+    "EMC",
+    "消費性電子",
+    "網通",
+    "Panasonic",
+    "Dell",
+    "HP",
+    "Apple",
+    "Hitachi",
+    "Panasonic",
+    "Fujitsu"
+  ]
+}

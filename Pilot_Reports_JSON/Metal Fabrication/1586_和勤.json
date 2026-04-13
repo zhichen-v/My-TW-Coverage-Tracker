@@ -1,0 +1,647 @@
+{
+  "report_id": "Pilot_Reports/Metal Fabrication/1586_和勤.md",
+  "source_path": "Pilot_Reports/Metal Fabrication/1586_和勤.md",
+  "json_path": "Pilot_Reports_JSON/Metal Fabrication/1586_和勤.json",
+  "ticker": "1586",
+  "company_name": "和勤",
+  "title": "# 1586 - 和勤",
+  "sector_folder": "Metal Fabrication",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "[[Meta]]l Fabrication"
+      },
+      {
+        "label": "市值:",
+        "value": "2,284 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,748 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "和勤精機 (1586，CFTC) 為精密沖壓及精密鍛造專業廠，產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "及硬碟。EV客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BYD"
+            },
+            {
+              "type": "text",
+              "text": "。硬碟客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Seagate"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Western Digital"
+            },
+            {
+              "type": "text",
+              "text": "。汽車Tier 1含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Magna"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "BorgWarner"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Eaton"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ZF"
+            },
+            {
+              "type": "text",
+              "text": "。上游鋼材來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": " — 鋼材\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "和勤"
+            },
+            {
+              "type": "text",
+              "text": " (精密沖壓/鍛造)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "EV: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BYD"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "HDD: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Western Digital"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "Tier 1: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Magna"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BorgWarner"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Eaton"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ZF"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BYD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Seagate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Western Digital"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — HDD"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Magna"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BorgWarner"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Eaton"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ZF"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Tier 1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $22.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "10.30",
+                  "0.99",
+                  "1.15",
+                  "23.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2300.56",
+                  "2572.58",
+                  "2310.59"
+                ],
+                [
+                  "Gross Profit",
+                  "282.29",
+                  "401.78",
+                  "256.01"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.27",
+                  "15.62",
+                  "11.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "51.81",
+                  "62.00",
+                  "46.71"
+                ],
+                [
+                  "R&D Exp",
+                  "113.63",
+                  "124.90",
+                  "104.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "182.54",
+                  "183.12",
+                  "173.44"
+                ],
+                [
+                  "Operating Income",
+                  "-65.70",
+                  "31.76",
+                  "-68.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.86",
+                  "1.23",
+                  "-2.98"
+                ],
+                [
+                  "Net Income",
+                  "-34.13",
+                  "35.28",
+                  "-54.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.48",
+                  "1.37",
+                  "-2.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "252.16",
+                  "298.11",
+                  "315.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-53.72",
+                  "-58.93",
+                  "-46.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-186.49",
+                  "-221.21",
+                  "-199.14"
+                ],
+                [
+                  "CAPEX",
+                  "-50.14",
+                  "-32.07",
+                  "-29.05"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "637.11",
+                  "562.63",
+                  "558.53",
+                  "542.29"
+                ],
+                [
+                  "Gross Profit",
+                  "90.01",
+                  "67.63",
+                  "64.66",
+                  "59.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.13",
+                  "12.02",
+                  "11.58",
+                  "11.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.04",
+                  "12.74",
+                  "12.06",
+                  "13.97"
+                ],
+                [
+                  "R&D Exp",
+                  "23.49",
+                  "22.36",
+                  "31.42",
+                  "36.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.34",
+                  "41.94",
+                  "41.23",
+                  "47.02"
+                ],
+                [
+                  "Operating Income",
+                  "1.14",
+                  "-9.41",
+                  "-20.05",
+                  "-37.38"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.18",
+                  "-1.67",
+                  "-3.59",
+                  "-6.89"
+                ],
+                [
+                  "Net Income",
+                  "10.85",
+                  "-4.21",
+                  "-11.08",
+                  "-29.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.70",
+                  "-0.75",
+                  "-1.98",
+                  "-5.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "74.00",
+                  "103.25",
+                  "23.68",
+                  "51.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-22.37",
+                  "-14.05",
+                  "2.58",
+                  "-19.88"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-57.62",
+                  "-161.93",
+                  "-91.01",
+                  "124.07"
+                ],
+                [
+                  "CAPEX",
+                  "-31.93",
+                  "-4.92",
+                  "-1.23",
+                  "-12.05"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Meta",
+    "電動車",
+    "Tesla",
+    "BYD",
+    "Seagate",
+    "Western Digital",
+    "Magna",
+    "BorgWarner",
+    "Eaton",
+    "ZF",
+    "中鋼",
+    "中鋼",
+    "Tesla",
+    "BYD",
+    "Seagate",
+    "Western Digital",
+    "Magna",
+    "BorgWarner",
+    "Eaton",
+    "ZF",
+    "Tesla",
+    "BYD",
+    "電動車",
+    "Seagate",
+    "Western Digital",
+    "Magna",
+    "BorgWarner",
+    "Eaton",
+    "ZF",
+    "中鋼"
+  ]
+}

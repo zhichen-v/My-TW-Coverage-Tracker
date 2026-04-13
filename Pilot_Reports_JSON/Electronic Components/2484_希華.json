@@ -1,0 +1,601 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2484_希華.md",
+  "source_path": "Pilot_Reports/Electronic Components/2484_希華.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2484_希華.json",
+  "ticker": "2484",
+  "company_name": "希華",
+  "title": "# 2484 - 希華",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,639 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,284 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "希華晶體 (2484，Siward) 是全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "石英"
+            },
+            {
+              "type": "text",
+              "text": "頻率控制元件領導廠商，產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "石英晶體"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "石英振盪器"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TCXO"
+            },
+            {
+              "type": "text",
+              "text": " (溫度補償振盪器)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "VCXO"
+            },
+            {
+              "type": "text",
+              "text": " 及 VCTCXO。公司從合成石英棒到晶體元件自主設計製造一貫化生產。近年推出超高頻 312.5 MHz 差分輸出振盪器，瞄準"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "高速通訊、"
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": "及伺服器時脈應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合成石英:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 石英晶棒自主生長"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 陶瓷/金屬封裝外殼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (頻率元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石英元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "希華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (石英晶體/振盪器/TCXO，一貫化生產)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電子系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器時脈及光通訊振盪器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基地台及手機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用頻率元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器時脈及光通訊客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "5G"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基地台及手機品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用頻率元件客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合成石英:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自主生長石英晶棒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TXC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣晶技)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本電波工業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Epson Toyocom"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "45.47",
+                  "N/A",
+                  "1.93",
+                  "1.23",
+                  "15.41"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2409.85",
+                  "2189.46",
+                  "2355.39"
+                ],
+                [
+                  "Gross Profit",
+                  "421.90",
+                  "428.93",
+                  "646.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.51",
+                  "19.59",
+                  "27.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "103.08",
+                  "98.84",
+                  "99.80"
+                ],
+                [
+                  "R&D Exp",
+                  "118.48",
+                  "121.81",
+                  "128.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "121.06",
+                  "121.62",
+                  "138.70"
+                ],
+                [
+                  "Operating Income",
+                  "79.28",
+                  "86.65",
+                  "278.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.29",
+                  "3.96",
+                  "11.84"
+                ],
+                [
+                  "Net Income",
+                  "103.66",
+                  "158.23",
+                  "260.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.30",
+                  "7.23",
+                  "11.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "248.70",
+                  "242.52",
+                  "460.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-208.36",
+                  "-65.68",
+                  "-60.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-83.43",
+                  "-491.60",
+                  "-709.56"
+                ],
+                [
+                  "CAPEX",
+                  "-236.37",
+                  "-66.38",
+                  "-63.31"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "559.09",
+                  "649.02",
+                  "598.33",
+                  "532.07"
+                ],
+                [
+                  "Gross Profit",
+                  "121.92",
+                  "110.09",
+                  "108.88",
+                  "96.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.81",
+                  "16.96",
+                  "18.20",
+                  "18.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.86",
+                  "27.74",
+                  "25.00",
+                  "25.26"
+                ],
+                [
+                  "R&D Exp",
+                  "29.04",
+                  "30.05",
+                  "29.38",
+                  "30.60"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.80",
+                  "24.37",
+                  "32.49",
+                  "31.89"
+                ],
+                [
+                  "Operating Income",
+                  "35.22",
+                  "27.93",
+                  "22.02",
+                  "8.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.30",
+                  "4.30",
+                  "3.68",
+                  "1.63"
+                ],
+                [
+                  "Net Income",
+                  "61.52",
+                  "-17.73",
+                  "38.12",
+                  "47.47"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.00",
+                  "-2.73",
+                  "6.37",
+                  "8.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "110.56",
+                  "26.96",
+                  "43.85",
+                  "184.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-21.94",
+                  "-37.74",
+                  "-28.62",
+                  "-19.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "35.28",
+                  "-61.56",
+                  "-61.59",
+                  "-67.94"
+                ],
+                [
+                  "CAPEX",
+                  "-44.23",
+                  "-39.39",
+                  "-27.33",
+                  "-21.12"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "石英",
+    "石英晶體",
+    "石英振盪器",
+    "TCXO",
+    "VCXO",
+    "資料中心",
+    "光通訊",
+    "資料中心",
+    "5G",
+    "資料中心",
+    "5G",
+    "TXC",
+    "日本電波工業",
+    "Epson Toyocom"
+  ]
+}

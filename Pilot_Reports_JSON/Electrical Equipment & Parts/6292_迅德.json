@@ -1,0 +1,456 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/6292_迅德.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/6292_迅德.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/6292_迅德.json",
+  "ticker": "6292",
+  "company_name": "迅德",
+  "title": "# 6292_迅德",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,039 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,344 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "迅德興業 (6292) 為磁性元件廠 (變壓器/電感器)，客製化少量多樣。客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "Toshiba"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "OSRAM"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Mitsubishi Electric"
+            },
+            {
+              "type": "text",
+              "text": "。拓展"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "充電及太陽能逆變器。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 矽鋼片/鐵氧體磁芯/漆包銅線\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "迅德"
+            },
+            {
+              "type": "text",
+              "text": " (高頻變壓器/電感器)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Toshiba"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "OSRAM"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Mitsubishi Electric"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Toshiba"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OSRAM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mitsubishi Electric"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "磁芯/矽鋼片/漆包線"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $43.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "21.98",
+                  "N/A",
+                  "2.04",
+                  "1.84",
+                  "15.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1001.65",
+                  "1035.58",
+                  "1359.41"
+                ],
+                [
+                  "Gross Profit",
+                  "358.50",
+                  "349.91",
+                  "453.26"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.79",
+                  "33.79",
+                  "33.34"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "185.42",
+                  "175.00",
+                  "186.86"
+                ],
+                [
+                  "R&D Exp",
+                  "12.53",
+                  "12.78",
+                  "12.30"
+                ],
+                [
+                  "General & Admin Exp",
+                  "98.60",
+                  "79.76",
+                  "99.70"
+                ],
+                [
+                  "Operating Income",
+                  "70.09",
+                  "92.41",
+                  "164.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.00",
+                  "8.92",
+                  "12.07"
+                ],
+                [
+                  "Net Income",
+                  "93.20",
+                  "180.52",
+                  "257.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.31",
+                  "17.43",
+                  "18.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "44.64",
+                  "282.58",
+                  "304.09"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "141.83",
+                  "381.50",
+                  "-314.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-217.28",
+                  "-960.60",
+                  "189.05"
+                ],
+                [
+                  "CAPEX",
+                  "-5.80",
+                  "-34.37",
+                  "-28.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "253.83",
+                  "221.48",
+                  "230.96",
+                  "241.58"
+                ],
+                [
+                  "Gross Profit",
+                  "92.56",
+                  "83.50",
+                  "83.21",
+                  "85.18"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "36.47",
+                  "37.70",
+                  "36.03",
+                  "35.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "47.24",
+                  "46.12",
+                  "45.94",
+                  "45.37"
+                ],
+                [
+                  "R&D Exp",
+                  "2.76",
+                  "3.03",
+                  "3.36",
+                  "3.05"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.90",
+                  "21.95",
+                  "18.83",
+                  "19.93"
+                ],
+                [
+                  "Operating Income",
+                  "18.80",
+                  "14.27",
+                  "17.35",
+                  "19.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.41",
+                  "6.44",
+                  "7.51",
+                  "7.99"
+                ],
+                [
+                  "Net Income",
+                  "55.78",
+                  "-16.62",
+                  "16.72",
+                  "11.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.98",
+                  "-7.50",
+                  "7.24",
+                  "4.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-49.42",
+                  "190.45",
+                  "-62.16",
+                  "99.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1.00",
+                  "75.21",
+                  "-11.38",
+                  "429.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "81.60",
+                  "-173.09",
+                  "59.83",
+                  "-695.96"
+                ],
+                [
+                  "CAPEX",
+                  "-0.54",
+                  "-2.07",
+                  "-1.01",
+                  "-28.93"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Toshiba",
+    "OSRAM",
+    "Mitsubishi Electric",
+    "電動車",
+    "Toshiba",
+    "OSRAM",
+    "Mitsubishi Electric",
+    "Toshiba",
+    "OSRAM",
+    "Mitsubishi Electric"
+  ]
+}

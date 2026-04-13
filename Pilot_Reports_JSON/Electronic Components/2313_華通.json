@@ -1,0 +1,623 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2313_華通.md",
+  "source_path": "Pilot_Reports/Electronic Components/2313_華通.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2313_華通.json",
+  "ticker": "2313",
+  "company_name": "華通",
+  "title": "# 2313 - 華通",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "274,119 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "271,689 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華通電腦 (2313) 是台灣領先的高階 "
+            },
+            {
+              "type": "wikilink",
+              "text": "HDI"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "高密度互連"
+            },
+            {
+              "type": "text",
+              "text": ") 印刷電路板製造商，提供硬板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "軟板"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "軟硬結合板"
+            },
+            {
+              "type": "text",
+              "text": "一站式服務。主力產品應用於智慧型手機主板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "通訊及"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "市場。公司參與客戶早期設計開發，從製造到組裝出貨提供完整服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[銅箔]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 CCL 廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 製程化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "HDI/軟硬板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高階 HDI、軟板、軟硬結合板)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (系統組裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧型手機品牌主板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "通訊板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器 PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手機品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧型手機主板客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "通訊板客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器 PCB 客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎-KY"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燿華"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $230.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.14",
+                  "25.41",
+                  "3.61",
+                  "5.73",
+                  "19.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "75995.69",
+                  "72464.41",
+                  "67078.77"
+                ],
+                [
+                  "Gross Profit",
+                  "14122.59",
+                  "11592.79",
+                  "10126.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.58",
+                  "16.00",
+                  "15.10"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1540.99",
+                  "1443.56",
+                  "1328.30"
+                ],
+                [
+                  "R&D Exp",
+                  "3031.63",
+                  "2738.97",
+                  "2551.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1383.46",
+                  "1312.08",
+                  "1042.01"
+                ],
+                [
+                  "Operating Income",
+                  "8166.52",
+                  "6098.19",
+                  "5204.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.75",
+                  "8.42",
+                  "7.76"
+                ],
+                [
+                  "Net Income",
+                  "6566.87",
+                  "5599.10",
+                  "4168.38"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.64",
+                  "7.73",
+                  "6.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "11287.79",
+                  "9713.45",
+                  "10450.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-6761.28",
+                  "-5869.15",
+                  "-6568.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4092.23",
+                  "-4414.83",
+                  "-4338.94"
+                ],
+                [
+                  "CAPEX",
+                  "-6684.61",
+                  "-5875.40",
+                  "-6796.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "21016.19",
+                  "20049.13",
+                  "18200.50",
+                  "16729.88"
+                ],
+                [
+                  "Gross Profit",
+                  "3930.18",
+                  "4000.27",
+                  "3319.52",
+                  "2872.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.70",
+                  "19.95",
+                  "18.24",
+                  "17.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "415.21",
+                  "393.82",
+                  "379.42",
+                  "352.54"
+                ],
+                [
+                  "R&D Exp",
+                  "857.63",
+                  "720.06",
+                  "759.86",
+                  "694.08"
+                ],
+                [
+                  "General & Admin Exp",
+                  "343.65",
+                  "369.08",
+                  "313.57",
+                  "357.15"
+                ],
+                [
+                  "Operating Income",
+                  "2313.70",
+                  "2517.31",
+                  "1866.67",
+                  "1468.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.01",
+                  "12.56",
+                  "10.26",
+                  "8.78"
+                ],
+                [
+                  "Net Income",
+                  "2266.75",
+                  "2155.39",
+                  "831.34",
+                  "1313.39"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.79",
+                  "10.75",
+                  "4.57",
+                  "7.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4118.24",
+                  "1913.88",
+                  "3307.44",
+                  "1948.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1847.95",
+                  "-1782.73",
+                  "-1322.63",
+                  "-1807.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2368.45",
+                  "-682.27",
+                  "-2135.56",
+                  "1094.05"
+                ],
+                [
+                  "CAPEX",
+                  "-1851.94",
+                  "-1668.21",
+                  "-1309.87",
+                  "-1854.59"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "HDI",
+    "高密度互連",
+    "軟板",
+    "軟硬結合板",
+    "低軌衛星",
+    "伺服器",
+    "銅箔",
+    "台光電",
+    "聯茂",
+    "低軌衛星",
+    "低軌衛星",
+    "台光電",
+    "聯茂",
+    "欣興",
+    "臻鼎-KY",
+    "燿華"
+  ]
+}

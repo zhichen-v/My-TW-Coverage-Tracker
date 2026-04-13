@@ -1,0 +1,471 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/8047_星雲.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/8047_星雲.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/8047_星雲.json",
+  "ticker": "8047",
+  "company_name": "星雲",
+  "title": "# 8047 - 星雲",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "2,358 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,252 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "星通資訊 (8047，星雲) 專精關鍵任務網路 (MCC) 通訊系統整合與設備，產品含SDH/SONET傳輸平台、光纖/DSL延伸及通訊資安。2024年通過"
+            },
+            {
+              "type": "wikilink",
+              "text": "IEC 62443"
+            },
+            {
+              "type": "text",
+              "text": "-4-1資安認證。專攻「絕對不能斷線」的基礎建設級通訊。客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "中華電信"
+            },
+            {
+              "type": "text",
+              "text": "、各國電力/國防/鐵路。持續虧損。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 網路處理器IC/"
+            },
+            {
+              "type": "wikilink",
+              "text": "光收發模組"
+            },
+            {
+              "type": "text",
+              "text": "/PCB\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "星通"
+            },
+            {
+              "type": "text",
+              "text": " (關鍵任務光纖/接取通訊設備)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國防單位、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、捷運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電信骨幹"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國防、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 關鍵任務通訊"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "網路處理IC/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光收發模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $56.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "5.11",
+                  "5.93",
+                  "-145.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "461.66",
+                  "488.39",
+                  "497.63"
+                ],
+                [
+                  "Gross Profit",
+                  "157.60",
+                  "177.69",
+                  "133.54"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.14",
+                  "36.38",
+                  "26.84"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "55.23",
+                  "57.15",
+                  "60.52"
+                ],
+                [
+                  "R&D Exp",
+                  "43.22",
+                  "47.61",
+                  "47.27"
+                ],
+                [
+                  "General & Admin Exp",
+                  "93.31",
+                  "84.78",
+                  "83.65"
+                ],
+                [
+                  "Operating Income",
+                  "-34.15",
+                  "-11.85",
+                  "-57.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.40",
+                  "-2.43",
+                  "-11.63"
+                ],
+                [
+                  "Net Income",
+                  "-32.38",
+                  "-14.43",
+                  "-57.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-7.01",
+                  "-2.95",
+                  "-11.61"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-18.20",
+                  "21.30",
+                  "52.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3.67",
+                  "1.30",
+                  "-93.52"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4.85",
+                  "-5.33",
+                  "-5.58"
+                ],
+                [
+                  "CAPEX",
+                  "-9.00",
+                  "-6.08",
+                  "-9.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "133.44",
+                  "96.70",
+                  "119.89",
+                  "111.62"
+                ],
+                [
+                  "Gross Profit",
+                  "43.34",
+                  "33.49",
+                  "38.66",
+                  "42.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.48",
+                  "34.63",
+                  "32.24",
+                  "37.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.04",
+                  "11.83",
+                  "16.87",
+                  "13.48"
+                ],
+                [
+                  "R&D Exp",
+                  "9.67",
+                  "10.80",
+                  "11.89",
+                  "10.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.30",
+                  "21.27",
+                  "19.40",
+                  "21.33"
+                ],
+                [
+                  "Operating Income",
+                  "-10.68",
+                  "-10.41",
+                  "-9.51",
+                  "-3.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.00",
+                  "-10.76",
+                  "-7.93",
+                  "-3.18"
+                ],
+                [
+                  "Net Income",
+                  "-17.50",
+                  "-8.41",
+                  "-4.58",
+                  "-1.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-13.11",
+                  "-8.69",
+                  "-3.82",
+                  "-1.71"
+                ],
+                [
+                  "Op Cash Flow",
+                  "22.22",
+                  "-7.02",
+                  "-13.04",
+                  "-20.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.88",
+                  "-1.14",
+                  "-2.02",
+                  "12.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.38",
+                  "-1.36",
+                  "-0.64",
+                  "-1.47"
+                ],
+                [
+                  "CAPEX",
+                  "-4.11",
+                  "-0.89",
+                  "-2.84",
+                  "-1.16"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IEC 62443",
+    "中華電信",
+    "光收發模組",
+    "中華電信",
+    "台電",
+    "台灣高鐵",
+    "中華電信",
+    "台電",
+    "台灣高鐵",
+    "光收發模組"
+  ]
+}

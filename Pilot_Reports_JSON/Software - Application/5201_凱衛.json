@@ -1,0 +1,543 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/5201_凱衛.md",
+  "source_path": "Pilot_Reports/Software - Application/5201_凱衛.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/5201_凱衛.json",
+  "ticker": "5201",
+  "company_name": "凱衛",
+  "title": "# 5201 - 凱衛",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "1,533 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,050 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "凱衛資訊 (Kway) 為台灣老牌 "
+            },
+            {
+              "type": "strong",
+              "text": "金融軟體服務商"
+            },
+            {
+              "type": "text",
+              "text": "，深耕證券期貨領域。\n業務核心：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "金融中後台系統"
+            },
+            {
+              "type": "text",
+              "text": ": 證券/期貨核心帳務系統、結算系統。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "交易前端工具"
+            },
+            {
+              "type": "text",
+              "text": ": 獨家代理 "
+            },
+            {
+              "type": "strong",
+              "text": "MultiCharts"
+            },
+            {
+              "type": "text",
+              "text": " (程式交易軟體) 於台灣之銷售，擁有廣大程式交易客群。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "系統整合"
+            },
+            {
+              "type": "text",
+              "text": ": 代理銷售國外主機與軟體 (如 UNIX "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": ", Fix Engine)。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "FinTech"
+            },
+            {
+              "type": "text",
+              "text": ": 推出「籌碼大股東」、「高股息存股」等理財 App。\n市場地位：在外資券商在台據點之市佔率極高 (約七成)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "凱衛 (5201)"
+            },
+            {
+              "type": "text",
+              "text": " - 金融軟體開發 & 系統整合 (SI).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 軟硬體原廠 (Broadridge, MultiCharts 原廠, 主機廠), 交易所數據源 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣證券交易所"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "金融機構"
+            },
+            {
+              "type": "text",
+              "text": ": 證券商 (元大, 凱基, 富邦, 外資券商), 期貨商.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "散戶/專業投資人"
+            },
+            {
+              "type": "text",
+              "text": ": MultiCharts 使用者, 理財 App 用戶."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "外資券商"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Goldman Sachs"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Morgan Stanley"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "UBS"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "JP Morgan"
+                },
+                {
+                  "type": "text",
+                  "text": " (台灣分公司).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "本土券商"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "元大金"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "凱基證券"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "富邦金"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "軟體原廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": Broadridge (Fix Engine), MultiCharts (Trading Platform)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $39.65 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "5.03",
+                  "2.03",
+                  "32.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "304.60",
+                  "270.43",
+                  "227.36"
+                ],
+                [
+                  "Gross Profit",
+                  "144.58",
+                  "98.39",
+                  "112.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "47.46",
+                  "36.38",
+                  "49.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "27.60",
+                  "23.32",
+                  "23.78"
+                ],
+                [
+                  "R&D Exp",
+                  "28.66",
+                  "37.48",
+                  "32.36"
+                ],
+                [
+                  "General & Admin Exp",
+                  "73.83",
+                  "41.89",
+                  "51.32"
+                ],
+                [
+                  "Operating Income",
+                  "14.49",
+                  "-4.30",
+                  "5.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.76",
+                  "-1.59",
+                  "2.21"
+                ],
+                [
+                  "Net Income",
+                  "-1.91",
+                  "68.88",
+                  "74.87"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.63",
+                  "25.47",
+                  "32.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "15.05",
+                  "16.67",
+                  "81.41"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-182.08",
+                  "23.05",
+                  "-31.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "277.45",
+                  "-20.91",
+                  "-24.25"
+                ],
+                [
+                  "CAPEX",
+                  "-278.54",
+                  "-6.03",
+                  "-4.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "84.38",
+                  "71.10",
+                  "77.66",
+                  "71.46"
+                ],
+                [
+                  "Gross Profit",
+                  "44.56",
+                  "31.51",
+                  "36.27",
+                  "32.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "52.81",
+                  "44.32",
+                  "46.70",
+                  "45.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.26",
+                  "7.59",
+                  "6.11",
+                  "5.65"
+                ],
+                [
+                  "R&D Exp",
+                  "7.12",
+                  "6.04",
+                  "6.01",
+                  "9.49"
+                ],
+                [
+                  "General & Admin Exp",
+                  "20.17",
+                  "19.83",
+                  "16.16",
+                  "17.66"
+                ],
+                [
+                  "Operating Income",
+                  "9.02",
+                  "-1.95",
+                  "7.99",
+                  "-0.57"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.69",
+                  "-2.74",
+                  "10.29",
+                  "-0.80"
+                ],
+                [
+                  "Net Income",
+                  "1.96",
+                  "16.43",
+                  "-10.02",
+                  "-10.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.32",
+                  "23.11",
+                  "-12.91",
+                  "-14.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-21.42",
+                  "27.08",
+                  "17.91",
+                  "-8.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "43.94",
+                  "-405.31",
+                  "-3.73",
+                  "183.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "63.53",
+                  "260.71",
+                  "-44.27",
+                  "-2.52"
+                ],
+                [
+                  "CAPEX",
+                  "-0.85",
+                  "-273.28",
+                  "-3.98",
+                  "-0.43"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "台灣證券交易所",
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "UBS",
+    "JP Morgan",
+    "元大金",
+    "凱基證券",
+    "富邦金"
+  ]
+}

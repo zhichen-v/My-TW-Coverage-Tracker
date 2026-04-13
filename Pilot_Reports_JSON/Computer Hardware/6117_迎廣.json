@@ -1,0 +1,536 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6117_迎廣.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6117_迎廣.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6117_迎廣.json",
+  "ticker": "6117",
+  "company_name": "迎廣",
+  "title": "# 6117_迎廣",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "6,673 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,691 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "迎廣科技股份有限公司 (6117, InWin) 是一家深耕多年的電腦機殼與電源供應器廠。近年來，迎廣迎來重大業務轉型，成功跨足高利潤的『"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "及企業級"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "機櫃系統組裝』(具備Level 11組裝能力)。除了持續經營PC電競商機外，迎廣已正式打入"
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": "(輝達)的"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]供應鏈，並積極佈局全球產能，在美國及馬來西亞設立組裝廠，以應對地緣政治及客戶對『美國製造』的強大需求。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 鋼材/鋁材五金"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "件、電源供應器零組件、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "CPU/GPU及"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "供應商。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "迎廣科技"
+            },
+            {
+              "type": "text",
+              "text": " (電腦機殼製造、"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "方案、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]L11系統組裝)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 大型"
+            },
+            {
+              "type": "wikilink",
+              "text": "雲端服務"
+            },
+            {
+              "type": "text",
+              "text": "供應商("
+            },
+            {
+              "type": "wikilink",
+              "text": "CSP"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "品牌廠、電競PC通路。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": "("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI[[伺服器"
+                },
+                {
+                  "type": "text",
+                  "text": "]]機櫃訂單)、國際大型雲端"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "資料中心"
+                },
+                {
+                  "type": "text",
+                  "text": "營運商、全球電競周邊經銷商。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   金屬沖壓原物料廠、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": "(提供核心"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": "平台與GPU)、"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "散熱"
+                },
+                {
+                  "type": "text",
+                  "text": "風扇與電源模組廠。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $72.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.59",
+                  "N/A",
+                  "2.07",
+                  "3.01",
+                  "11.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3222.23",
+                  "2882.73",
+                  "2368.86"
+                ],
+                [
+                  "Gross Profit",
+                  "1001.13",
+                  "855.67",
+                  "553.19"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.07",
+                  "29.68",
+                  "23.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "181.13",
+                  "198.87",
+                  "155.42"
+                ],
+                [
+                  "R&D Exp",
+                  "111.75",
+                  "118.15",
+                  "85.51"
+                ],
+                [
+                  "General & Admin Exp",
+                  "242.77",
+                  "188.85",
+                  "188.32"
+                ],
+                [
+                  "Operating Income",
+                  "465.48",
+                  "349.80",
+                  "123.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.45",
+                  "12.13",
+                  "5.23"
+                ],
+                [
+                  "Net Income",
+                  "346.03",
+                  "368.41",
+                  "90.63"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.74",
+                  "12.78",
+                  "3.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "605.57",
+                  "543.08",
+                  "449.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-916.41",
+                  "-490.48",
+                  "-110.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "535.55",
+                  "-93.05",
+                  "-250.29"
+                ],
+                [
+                  "CAPEX",
+                  "-870.83",
+                  "-335.33",
+                  "-108.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "831.33",
+                  "861.06",
+                  "837.01",
+                  "692.84"
+                ],
+                [
+                  "Gross Profit",
+                  "276.63",
+                  "274.45",
+                  "271.12",
+                  "178.93"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.28",
+                  "31.87",
+                  "32.39",
+                  "25.83"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.11",
+                  "42.12",
+                  "49.49",
+                  "44.41"
+                ],
+                [
+                  "R&D Exp",
+                  "29.32",
+                  "26.61",
+                  "28.21",
+                  "27.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "72.84",
+                  "64.34",
+                  "55.34",
+                  "50.26"
+                ],
+                [
+                  "Operating Income",
+                  "129.36",
+                  "141.39",
+                  "138.08",
+                  "56.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.56",
+                  "16.42",
+                  "16.50",
+                  "8.18"
+                ],
+                [
+                  "Net Income",
+                  "143.47",
+                  "125.56",
+                  "33.47",
+                  "43.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.26",
+                  "14.58",
+                  "4.00",
+                  "6.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "453.53",
+                  "11.45",
+                  "51.10",
+                  "89.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-315.15",
+                  "-312.45",
+                  "-205.66",
+                  "-83.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-25.96",
+                  "251.63",
+                  "-0.41",
+                  "310.28"
+                ],
+                [
+                  "CAPEX",
+                  "-224.31",
+                  "-446.81",
+                  "-107.58",
+                  "-92.13"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "伺服器",
+    "AI",
+    "NVIDIA",
+    "AI[[伺服器",
+    "散熱",
+    "伺服器",
+    "記憶體",
+    "散熱",
+    "AI[[伺服器",
+    "雲端服務",
+    "CSP",
+    "伺服器",
+    "NVIDIA",
+    "AI[[伺服器",
+    "資料中心",
+    "NVIDIA",
+    "AI",
+    "散熱"
+  ]
+}

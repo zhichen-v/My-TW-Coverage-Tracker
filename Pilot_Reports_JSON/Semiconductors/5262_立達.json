@@ -1,0 +1,598 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/5262_立達.md",
+  "source_path": "Pilot_Reports/Semiconductors/5262_立達.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/5262_立達.json",
+  "ticker": "5262",
+  "company_name": "立達",
+  "title": "# 5262 - 立達",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "3,120 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,504 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "立達國際 (Gigastone) 為 "
+            },
+            {
+              "type": "strong",
+              "text": "NAND Flash 控制晶片與模組"
+            },
+            {
+              "type": "text",
+              "text": " 品牌商，自有品牌「Gigastone」行銷全球。\n業務雙軌並進：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "B2C 品牌通路 (64%)"
+            },
+            {
+              "type": "text",
+              "text": ": 記憶卡 (SD/microSD)、隨身碟、行動周邊 (充電器、行動電源)。主攻 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Costco"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Walmart"
+            },
+            {
+              "type": "text",
+              "text": " 等大型零售通路。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "B2B 工業解決方案 (36%)"
+            },
+            {
+              "type": "text",
+              "text": ": 客製化記憶體模組、系統整合 (IoT)。\n近年積極拓展 "
+            },
+            {
+              "type": "strong",
+              "text": "綠能與儲能"
+            },
+            {
+              "type": "text",
+              "text": " 產品線，並啟用宜蘭新廠強化全球運籌。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "立達 (5262)"
+            },
+            {
+              "type": "text",
+              "text": " - 模組設計, 封裝測試管理, 品牌行銷.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "NAND Flash"
+            },
+            {
+              "type": "text",
+              "text": ": 向原廠採購晶圓/顆粒 (如 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Kioxia"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Micron"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "零售通路"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Walmart"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Target"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Costco"
+            },
+            {
+              "type": "text",
+              "text": ", 日本 "
+            },
+            {
+              "type": "wikilink",
+              "text": "KDDI"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "企業客戶"
+            },
+            {
+              "type": "text",
+              "text": ": 工控 IPC 客戶."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通路"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Amazon"
+                },
+                {
+                  "type": "text",
+                  "text": " (全球最大客戶), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Costco"
+                },
+                {
+                  "type": "text",
+                  "text": ", 美國實體零售商.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "電信"
+                },
+                {
+                  "type": "text",
+                  "text": ": 日本 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "KDDI"
+                },
+                {
+                  "type": "text",
+                  "text": " (au)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "晶圓/顆粒"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際記憶體大廠 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Micron"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Kioxia"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $59.20 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "43.85",
+                  "N/A",
+                  "1.51",
+                  "3.67",
+                  "29.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2061.51",
+                  "2580.62",
+                  "2259.31"
+                ],
+                [
+                  "Gross Profit",
+                  "937.70",
+                  "1143.25",
+                  "1055.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.49",
+                  "44.30",
+                  "46.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "751.50",
+                  "725.48",
+                  "738.73"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "0.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "80.33",
+                  "76.32",
+                  "57.95"
+                ],
+                [
+                  "Operating Income",
+                  "105.88",
+                  "341.45",
+                  "259.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.14",
+                  "13.23",
+                  "11.46"
+                ],
+                [
+                  "Net Income",
+                  "69.62",
+                  "271.81",
+                  "231.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.38",
+                  "10.53",
+                  "10.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "210.59",
+                  "139.59",
+                  "-10.45"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-119.16",
+                  "-150.66",
+                  "-71.80"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "69.59",
+                  "32.21",
+                  "112.00"
+                ],
+                [
+                  "CAPEX",
+                  "-101.21",
+                  "-96.67",
+                  "-51.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "619.55",
+                  "463.97",
+                  "501.15",
+                  "828.66"
+                ],
+                [
+                  "Gross Profit",
+                  "303.44",
+                  "188.20",
+                  "221.54",
+                  "474.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.98",
+                  "40.56",
+                  "44.21",
+                  "57.24"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "203.63",
+                  "177.30",
+                  "183.14",
+                  "419.16"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.03",
+                  "16.49",
+                  "19.64",
+                  "16.08"
+                ],
+                [
+                  "Operating Income",
+                  "74.78",
+                  "-5.60",
+                  "18.75",
+                  "39.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.07",
+                  "-1.21",
+                  "3.74",
+                  "4.72"
+                ],
+                [
+                  "Net Income",
+                  "43.78",
+                  "3.39",
+                  "13.33",
+                  "11.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.07",
+                  "0.73",
+                  "2.66",
+                  "1.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-19.70",
+                  "-14.06",
+                  "119.15",
+                  "42.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-26.89",
+                  "-41.15",
+                  "-51.53",
+                  "-6.68"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "132.72",
+                  "131.36",
+                  "1.80",
+                  "4.96"
+                ],
+                [
+                  "CAPEX",
+                  "-14.80",
+                  "-30.79",
+                  "-50.45",
+                  "-12.67"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Amazon",
+    "Costco",
+    "Walmart",
+    "Kioxia",
+    "Micron",
+    "Samsung",
+    "Amazon",
+    "Walmart",
+    "Target",
+    "Costco",
+    "KDDI",
+    "Amazon",
+    "Costco",
+    "KDDI",
+    "Micron",
+    "Kioxia"
+  ]
+}

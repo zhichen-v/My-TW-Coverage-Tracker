@@ -1,0 +1,540 @@
+{
+  "report_id": "Pilot_Reports/Building Products & Equipment/2062_橋椿.md",
+  "source_path": "Pilot_Reports/Building Products & Equipment/2062_橋椿.md",
+  "json_path": "Pilot_Reports_JSON/Building Products & Equipment/2062_橋椿.json",
+  "ticker": "2062",
+  "company_name": "橋椿",
+  "title": "# 2062 - 橋椿",
+  "sector_folder": "Building Products & Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Products & Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "4,050 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,108 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "橋椿金屬股份有限公司 (2062) 成立於 1984 年，總部位於台灣台中，為全球首屈一指的水龍頭與衛浴零組件領導製造商。公司專注於鋅合金壓鑄零組件，並具備從模具設計、金屬鑄造、加工、高階電鍍到組裝的垂直整合「一站式解決方案」。生產基地涵蓋台灣、中國及北美。受惠於精湛的鋅壓鑄技術 (鋅成本僅約為銅的三分之一)，橋椿成功以高性價比產品為全球頂級廚衛品牌進行 OEM 專業代工，在全球高端鋅合金水龍頭零組件市場享有極高市佔率。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬原物料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大宗採購鋅錠與銅錠，價格隨國際 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LME"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基本金屬報價波動"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電鍍材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鎳、鉻等電鍍用化學原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 導入高階工業機械手臂 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fanuc"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 發那科) 以降低人工成本並提升拋光精度"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (核心製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬精加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "橋椿 (2062)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 運用鋅壓鑄工藝，生產水龍頭本體、把手、蓮蓬頭外殼等零組件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (歐美廚衛品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 出貨至北美與歐洲之頂尖衛浴及廚房設備品牌商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球頂級衛浴品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kohler"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (科勒)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Moen"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (摩恩)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "American Standard"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (美標)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TOTO"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本)，四大客戶合計於歐美市佔超過 60%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬原物料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際鋅礦與銅礦冶煉廠及金屬貿易商 (如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "嘉能可"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Glencore)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fanuc"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (發那科)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABB"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等工業機器人大廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "51.92",
+                  "7.58",
+                  "0.64",
+                  "0.53",
+                  "7.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6288.35",
+                  "7572.41",
+                  "7566.89"
+                ],
+                [
+                  "Gross Profit",
+                  "610.61",
+                  "1093.75",
+                  "901.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.71",
+                  "14.44",
+                  "11.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "166.76",
+                  "175.20",
+                  "169.41"
+                ],
+                [
+                  "R&D Exp",
+                  "39.75",
+                  "43.78",
+                  "48.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "333.39",
+                  "367.87",
+                  "355.72"
+                ],
+                [
+                  "Operating Income",
+                  "70.70",
+                  "506.90",
+                  "327.87"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.12",
+                  "6.69",
+                  "4.33"
+                ],
+                [
+                  "Net Income",
+                  "78.91",
+                  "544.52",
+                  "314.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.25",
+                  "7.19",
+                  "4.16"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1187.41",
+                  "1270.60",
+                  "1278.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1012.78",
+                  "513.95",
+                  "-740.68"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-179.43",
+                  "-2072.97",
+                  "22.39"
+                ],
+                [
+                  "CAPEX",
+                  "-100.94",
+                  "-108.47",
+                  "-149.97"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1633.03",
+                  "1517.60",
+                  "1523.77",
+                  "1729.96"
+                ],
+                [
+                  "Gross Profit",
+                  "184.71",
+                  "126.33",
+                  "183.74",
+                  "207.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.31",
+                  "8.32",
+                  "12.06",
+                  "12.02"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "40.48",
+                  "41.57",
+                  "41.54",
+                  "41.70"
+                ],
+                [
+                  "R&D Exp",
+                  "8.37",
+                  "10.57",
+                  "10.49",
+                  "9.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "76.28",
+                  "88.39",
+                  "86.05",
+                  "88.41"
+                ],
+                [
+                  "Operating Income",
+                  "59.57",
+                  "-14.20",
+                  "45.66",
+                  "68.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.65",
+                  "-0.94",
+                  "3.00",
+                  "3.97"
+                ],
+                [
+                  "Net Income",
+                  "41.86",
+                  "24.83",
+                  "38.25",
+                  "110.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.56",
+                  "1.64",
+                  "2.51",
+                  "6.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "165.10",
+                  "313.21",
+                  "446.99",
+                  "402.19"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-551.18",
+                  "-256.39",
+                  "-13.93",
+                  "-38.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "298.21",
+                  "-311.40",
+                  "-256.32",
+                  "-316.45"
+                ],
+                [
+                  "CAPEX",
+                  "-32.07",
+                  "-26.11",
+                  "-12.88",
+                  "-41.05"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LME",
+    "Fanuc",
+    "Kohler",
+    "Moen",
+    "American Standard",
+    "TOTO",
+    "嘉能可",
+    "Fanuc",
+    "ABB"
+  ]
+}

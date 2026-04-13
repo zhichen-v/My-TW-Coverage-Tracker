@@ -1,0 +1,529 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4587_寶元數控.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4587_寶元數控.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4587_寶元數控.json",
+  "ticker": "4587",
+  "company_name": "寶元數控",
+  "title": "# 4587 - 寶元數控",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "1,937 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "N/A 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "寶元數控 (4587，LNC Technology) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "研華"
+            },
+            {
+              "type": "text",
+              "text": " (2395) 集團旗下子公司 (2013 年併購)，以「Advantech-LNC」雙品牌行銷，為台灣/華語圈最大"
+            },
+            {
+              "type": "wikilink",
+              "text": "CNC"
+            },
+            {
+              "type": "text",
+              "text": "控制器品牌，全球累計逾 500 家設備廠客戶。產品涵蓋車銑床/沖床/塑膠射出機/磨床/雷射加工/木工機/機器人控制器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "視覺系統及工業 4.0 智慧產線系統。全支援"
+            },
+            {
+              "type": "wikilink",
+              "text": "EtherCAT"
+            },
+            {
+              "type": "text",
+              "text": "通訊協定。與"
+            },
+            {
+              "type": "wikilink",
+              "text": "富強鑫"
+            },
+            {
+              "type": "text",
+              "text": "等射出機廠合作密切。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC/電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 晶片、PCB、被動元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、編碼器、顯示面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "研華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2395) — 集團資源"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寶元"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CNC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "控制器/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EtherCAT"
+                    },
+                    {
+                      "type": "text",
+                      "text": "伺服驅動/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "視覺系統)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工具機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車銑/磨床/五軸加工機 — CNC 控制"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "射出機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富強鑫"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等塑膠射出成型機 — 控制器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 關節型/龍門型機器人 — 控制器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工具機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 500+ 家工具機廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CNC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "控制器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "射出機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富強鑫"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等 — 射出成型機控制"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機器人製造商 — 控制器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "研華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2395) — 集團資源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC/PCB/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $58.70 as of 2026-03-26)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "N/A",
+                  "N/A",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "906.33",
+                  "743.32",
+                  "754.49"
+                ],
+                [
+                  "Gross Profit",
+                  "278.20",
+                  "219.87",
+                  "212.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "30.70",
+                  "29.58",
+                  "28.14"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "174.46",
+                  "147.72",
+                  "138.47"
+                ],
+                [
+                  "R&D Exp",
+                  "89.99",
+                  "83.73",
+                  "70.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "104.11",
+                  "88.36",
+                  "77.22"
+                ],
+                [
+                  "Operating Income",
+                  "-90.36",
+                  "-99.94",
+                  "-74.03"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-9.97",
+                  "-13.44",
+                  "-9.81"
+                ],
+                [
+                  "Net Income",
+                  "-44.33",
+                  "-83.50",
+                  "-70.92"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.89",
+                  "-11.23",
+                  "-9.40"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-133.11",
+                  "18.43",
+                  "26.45"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-25.46",
+                  "-55.41",
+                  "-43.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "157.00",
+                  "81.96",
+                  "13.77"
+                ],
+                [
+                  "CAPEX",
+                  "-24.05",
+                  "-40.28",
+                  "-41.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "研華",
+    "CNC",
+    "AI",
+    "EtherCAT",
+    "富強鑫",
+    "伺服馬達",
+    "研華",
+    "CNC",
+    "EtherCAT",
+    "AI",
+    "富強鑫",
+    "CNC",
+    "富強鑫",
+    "研華",
+    "伺服馬達"
+  ]
+}

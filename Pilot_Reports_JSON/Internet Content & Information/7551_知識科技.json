@@ -1,0 +1,674 @@
+{
+  "report_id": "Pilot_Reports/Internet Content & Information/7551_知識科技.md",
+  "source_path": "Pilot_Reports/Internet Content & Information/7551_知識科技.md",
+  "json_path": "Pilot_Reports_JSON/Internet Content & Information/7551_知識科技.json",
+  "ticker": "7551",
+  "company_name": "知識科技",
+  "title": "# 7551 - 知識科技",
+  "sector_folder": "Internet Content & Information",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Internet Content & Information"
+      },
+      {
+        "label": "市值:",
+        "value": "165 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "110 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "知識科技 (7551，Flashaim) 為深耕近二十年之數位行銷與 OMO (線上融合線下) 解決方案商，協助台灣中小型實體店家進行數位轉型與網路行銷。公司具備 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " Partners 認證、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LINE"
+            },
+            {
+              "type": "text",
+              "text": " 官方合作夥伴資格，同時代理 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Yahoo"
+            },
+            {
+              "type": "text",
+              "text": " 等平台之數位廣告。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品與動能：(1) Mapsbooking — 具專利之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " 我的商家 (GMB) 地圖預訂系統，自動將 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " 地圖流量轉化為實際訂位與訂單；(2) FANSbee — "
+            },
+            {
+              "type": "wikilink",
+              "text": "LINE"
+            },
+            {
+              "type": "text",
+              "text": " 官方帳號聊天機器人與智能導購系統，整合 POS、會員卡與電商功能；(3) 數位廣告代操 — 代理操作 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " Ads、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LINE"
+            },
+            {
+              "type": "text",
+              "text": " LAP、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": " (Facebook/Instagram) 廣告投放；(4) 電商網站建置 — 為中小企業架設品牌官網與電商平台。總部設於台南，於台北、台中、高雄設有分公司。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (網路平台與技術原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "搜尋/地圖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Ads、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Maps API、GMB 商家後台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "即時通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LINE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LINE 官方帳號 API、LAP 廣告平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群廣告:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Facebook/Instagram 廣告系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "搜尋廣告:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Yahoo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Yahoo 原生廣告"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (數位行銷服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "知識科技 (Flashaim)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Mapsbooking 地圖訂位、FANSbee LINE 機器人、廣告代操、電商建置)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端店家客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連鎖餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型連鎖餐飲品牌 — 地圖預訂與 LINE 導購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 實體零售店家 — 數位行銷與電商轉型"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療診所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 診所與醫療機構 — 線上預約與廣告"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公益團體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型公益組織 — 數位行銷服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連鎖餐飲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 上萬家台灣中小企業，涵蓋連鎖餐飲品牌 — Mapsbooking 與 LINE 導購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 零售通路品牌 — 數位行銷與電商建置"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療診所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療診所 — 線上預約與廣告代操"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業連鎖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 知名連鎖品牌 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商家優化與廣告投放"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "搜尋/地圖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Maps API 與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Ads 廣告平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "即時通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LINE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LINE 官方帳號後台與 LAP 廣告"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群廣告:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Facebook/Instagram 廣告系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "搜尋廣告:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Yahoo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Yahoo 廣告平台"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $13.60 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.98",
+                  "1.93",
+                  "-4.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "197.28",
+                  "285.47",
+                  "257.40"
+                ],
+                [
+                  "Gross Profit",
+                  "15.39",
+                  "46.77",
+                  "67.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.80",
+                  "16.38",
+                  "26.09"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.84",
+                  "40.76",
+                  "32.00"
+                ],
+                [
+                  "R&D Exp",
+                  "7.56",
+                  "8.57",
+                  "9.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "13.29",
+                  "13.23",
+                  "14.05"
+                ],
+                [
+                  "Operating Income",
+                  "-34.31",
+                  "-15.78",
+                  "11.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-17.39",
+                  "-5.53",
+                  "4.38"
+                ],
+                [
+                  "Net Income",
+                  "-15.72",
+                  "-19.78",
+                  "19.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-7.97",
+                  "-6.93",
+                  "7.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-22.44",
+                  "0.41",
+                  "14.23"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.00",
+                  "-0.07",
+                  "63.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-10.89",
+                  "-13.61",
+                  "-23.32"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Google",
+    "LINE",
+    "Meta",
+    "Yahoo",
+    "Google",
+    "Google",
+    "LINE",
+    "Google",
+    "LINE",
+    "Meta",
+    "Google",
+    "Google",
+    "Google",
+    "LINE",
+    "Meta",
+    "Yahoo",
+    "Google",
+    "Google",
+    "Google",
+    "Google",
+    "LINE",
+    "Meta",
+    "Yahoo"
+  ]
+}

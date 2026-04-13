@@ -1,0 +1,589 @@
+{
+  "report_id": "Pilot_Reports/Specialty Retail/6195_詩肯.md",
+  "source_path": "Pilot_Reports/Specialty Retail/6195_詩肯.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Retail/6195_詩肯.json",
+  "ticker": "6195",
+  "company_name": "詩肯",
+  "title": "# 6195_詩肯",
+  "sector_folder": "Specialty Retail",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Retail"
+      },
+      {
+        "label": "市值:",
+        "value": "1,242 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,649 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "詩肯股份有限公司為源自新加坡、深耕台灣之跨國連鎖家具品牌集團。旗下擁有「詩肯柚木（"
+            },
+            {
+              "type": "wikilink",
+              "text": "Scanteak"
+            },
+            {
+              "type": "text",
+              "text": "）」、「詩肯居家（Scan Living）」及「詩肯睡眠」等品牌，並於 2019 年收購新加坡第二大家具零售商 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NOVA Furnishing"
+            },
+            {
+              "type": "text",
+              "text": "。詩肯以高品質柚木家具及全牛皮沙發聞名，採取「東南亞分區採購零件、台灣及日本當地組裝」之獨特供應鏈模式，有效控制成本。全球門市超過 150 間（德國、新加坡、台灣、日本、馬來西亞、美國），其中台灣逾 120 間門市，進駐 "
+            },
+            {
+              "type": "wikilink",
+              "text": "新光三越"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SOGO"
+            },
+            {
+              "type": "text",
+              "text": " 等百貨通路，穩居台灣連鎖家具龍頭。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料與代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "柚木原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印尼合法且獲永續認證之柚木再生林"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞各國（印尼、越南、馬來西亞）之家具零組件代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "皮料/布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 義大利及東南亞皮料、布料、泡棉等材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寢具品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dunlopillo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Getha"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等乳膠寢具"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌與組裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "詩肯 (6195):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌經營、跨國採購、台灣及日本當地組裝、倉儲物流、全台連鎖門市"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端消費)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者 (B2C):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 重視居家品質之中產家庭、首購族群"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "柚木客群:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中產家庭、軍公教人員"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "首購族:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 偏好設計感與高性價比之年輕首購族群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣（進駐 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光三越"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SOGO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）、新加坡、日本、德國、馬來西亞、美國門市消費者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "柚木原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印尼合法柚木再生林"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞各國家具代工廠（供應原木、五金、皮布料等）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "寢具材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dunlopillo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Getha"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等乳膠寢具品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.75 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "25.26",
+                  "N/A",
+                  "0.56",
+                  "0.94",
+                  "6.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2206.94",
+                  "2288.63",
+                  "2355.82"
+                ],
+                [
+                  "Gross Profit",
+                  "1239.97",
+                  "1281.12",
+                  "1277.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "56.19",
+                  "55.98",
+                  "54.22"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1026.72",
+                  "1044.04",
+                  "1013.57"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "124.21",
+                  "127.22",
+                  "121.34"
+                ],
+                [
+                  "Operating Income",
+                  "89.05",
+                  "109.86",
+                  "142.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.03",
+                  "4.80",
+                  "6.05"
+                ],
+                [
+                  "Net Income",
+                  "49.45",
+                  "80.41",
+                  "103.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.24",
+                  "3.51",
+                  "4.38"
+                ],
+                [
+                  "Op Cash Flow",
+                  "480.92",
+                  "365.36",
+                  "546.04"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-97.35",
+                  "-445.86",
+                  "-475.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-297.24",
+                  "-65.95",
+                  "-107.14"
+                ],
+                [
+                  "CAPEX",
+                  "-101.28",
+                  "-463.62",
+                  "-544.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "598.36",
+                  "506.25",
+                  "511.29",
+                  "591.04"
+                ],
+                [
+                  "Gross Profit",
+                  "336.16",
+                  "281.38",
+                  "285.83",
+                  "336.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "56.18",
+                  "55.58",
+                  "55.90",
+                  "56.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "283.83",
+                  "244.46",
+                  "243.20",
+                  "255.23"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.72",
+                  "29.29",
+                  "29.72",
+                  "33.48"
+                ],
+                [
+                  "Operating Income",
+                  "20.61",
+                  "7.63",
+                  "12.91",
+                  "47.89"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.44",
+                  "1.51",
+                  "2.53",
+                  "8.10"
+                ],
+                [
+                  "Net Income",
+                  "3.90",
+                  "3.27",
+                  "7.23",
+                  "35.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.65",
+                  "0.65",
+                  "1.41",
+                  "5.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "248.96",
+                  "106.27",
+                  "42.46",
+                  "83.23"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7.88",
+                  "-31.03",
+                  "0.12",
+                  "-58.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-100.24",
+                  "-94.61",
+                  "-49.65",
+                  "-52.74"
+                ],
+                [
+                  "CAPEX",
+                  "-15.47",
+                  "-27.19",
+                  "-3.96",
+                  "-54.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Scanteak",
+    "NOVA Furnishing",
+    "新光三越",
+    "SOGO",
+    "Dunlopillo",
+    "Getha",
+    "新光三越",
+    "SOGO",
+    "Dunlopillo",
+    "Getha"
+  ]
+}

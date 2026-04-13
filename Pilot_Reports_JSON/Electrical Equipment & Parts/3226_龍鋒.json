@@ -1,0 +1,544 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3226_龍鋒.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3226_龍鋒.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3226_龍鋒.json",
+  "ticker": "3226",
+  "company_name": "龍鋒",
+  "title": "# 3226 - 龍鋒",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,932 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,591 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "龍鋒科技 (3226，LFA，原名至寶電) 為專業 AM 車燈製造商，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "Eagle Eyes"
+            },
+            {
+              "type": "text",
+              "text": "品牌有深厚淵源。主要產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": "頭燈、霧燈、尾燈、角燈及改裝車燈，主攻全球 AM 售後維修及改裝市場。產品透過歐美 AM 通路及 eBay、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": "等電商平台銷售。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 晶粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 晶片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠/模具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 射出模具及塑膠材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "龍鋒"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Eagle Eyes"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌 AM "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "車燈設計製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美售後維修零件通路 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Eagle Eyes"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " eBay、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 直銷通路"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美售後維修零件商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Eagle Eyes"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " eBay、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 直銷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 晶粒供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 射出模具/塑膠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.50 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "50.00",
+                  "N/A",
+                  "1.69",
+                  "1.59",
+                  "8.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2128.34",
+                  "2159.81",
+                  "2243.95"
+                ],
+                [
+                  "Gross Profit",
+                  "531.98",
+                  "540.09",
+                  "510.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.00",
+                  "25.01",
+                  "22.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.33",
+                  "60.08",
+                  "58.72"
+                ],
+                [
+                  "R&D Exp",
+                  "63.93",
+                  "57.02",
+                  "57.44"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.31",
+                  "48.19",
+                  "46.54"
+                ],
+                [
+                  "Operating Income",
+                  "354.41",
+                  "374.80",
+                  "347.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.65",
+                  "17.35",
+                  "15.51"
+                ],
+                [
+                  "Net Income",
+                  "358.20",
+                  "260.23",
+                  "318.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.83",
+                  "12.05",
+                  "14.21"
+                ],
+                [
+                  "Op Cash Flow",
+                  "545.34",
+                  "458.64",
+                  "296.63"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-192.91",
+                  "-305.54",
+                  "-322.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-96.97",
+                  "-205.51",
+                  "-30.64"
+                ],
+                [
+                  "CAPEX",
+                  "-308.66",
+                  "-277.68",
+                  "-261.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "308.44",
+                  "441.26",
+                  "526.57",
+                  "462.21"
+                ],
+                [
+                  "Gross Profit",
+                  "-5.37",
+                  "60.73",
+                  "123.39",
+                  "101.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-1.74",
+                  "13.76",
+                  "23.43",
+                  "22.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "11.69",
+                  "16.87",
+                  "14.29",
+                  "14.80"
+                ],
+                [
+                  "R&D Exp",
+                  "15.70",
+                  "18.11",
+                  "15.14",
+                  "18.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "12.04",
+                  "10.40",
+                  "12.61",
+                  "13.10"
+                ],
+                [
+                  "Operating Income",
+                  "-44.80",
+                  "15.34",
+                  "81.36",
+                  "55.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-14.52",
+                  "3.48",
+                  "15.45",
+                  "12.09"
+                ],
+                [
+                  "Net Income",
+                  "-2.79",
+                  "-96.42",
+                  "77.03",
+                  "80.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.91",
+                  "-21.85",
+                  "14.63",
+                  "17.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "31.25",
+                  "85.95",
+                  "104.94",
+                  "115.24"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-76.35",
+                  "-133.03",
+                  "-163.21",
+                  "-28.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-64.84",
+                  "97.53",
+                  "-2.38",
+                  "-37.37"
+                ],
+                [
+                  "CAPEX",
+                  "-75.27",
+                  "-102.35",
+                  "-123.21",
+                  "-102.18"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Eagle Eyes",
+    "LED",
+    "Amazon",
+    "Eagle Eyes",
+    "LED",
+    "Eagle Eyes",
+    "Amazon",
+    "Eagle Eyes",
+    "Amazon"
+  ]
+}

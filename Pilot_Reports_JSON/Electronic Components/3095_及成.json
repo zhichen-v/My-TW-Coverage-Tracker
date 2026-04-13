@@ -1,0 +1,703 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3095_及成.md",
+  "source_path": "Pilot_Reports/Electronic Components/3095_及成.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3095_及成.json",
+  "ticker": "3095",
+  "company_name": "及成",
+  "title": "# 3095 - 及成",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "314 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "828 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "及成企業 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Chi Cheng Enterprise"
+            },
+            {
+              "type": "text",
+              "text": ") 專精於精密金屬沖壓 (Stamping) 與機構件製造。早期以 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Sony"
+            },
+            {
+              "type": "text",
+              "text": " 消費性電子 (相機、手持裝置) 機殼為主，後因市場變遷，積極轉型至車用零組件與醫療器材。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要技術包含鋁鎂合金沖壓、CNC 加工、表面處理 (陽極/烤漆)。重點發展方向：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "輕量化 — 鋁合金機構件，供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": " 等汽車 Tier 1 內裝件與電裝機構件；(2) 醫療級金屬機殼 — 醫療設備外殼與精密零件；(3) 穿戴裝置 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " Watch 等穿戴與工業手持裝置金屬機構件。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬板材)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁合金板材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁鎂合金板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不鏽鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 陽極處理與烤漆材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (精密金屬加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬沖壓:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "及成"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (鋁鎂合金精密沖壓成型)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CNC 加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "及成"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (精密 CNC 切削加工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "及成"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (陽極處理/烤漆)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用/醫療/3C)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 Tier 1 — 車用內裝件與電裝機構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療設備廠 — 醫療級金屬機殼"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "穿戴/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 穿戴裝置與工業手持裝置金屬件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "輕量化鋁合金機構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療設備廠 — 醫療級金屬機殼與精密零件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "穿戴/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sony"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 穿戴裝置與手持裝置金屬件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁鎂合金板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不鏽鋼:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "表面處理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 陽極處理與烤漆材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.35 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.52",
+                  "3.59",
+                  "78.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "590.41",
+                  "446.80",
+                  "430.61"
+                ],
+                [
+                  "Gross Profit",
+                  "122.40",
+                  "99.80",
+                  "61.39"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.73",
+                  "22.34",
+                  "14.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.35",
+                  "21.77",
+                  "16.74"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "86.38",
+                  "74.17",
+                  "77.60"
+                ],
+                [
+                  "Operating Income",
+                  "17.66",
+                  "3.87",
+                  "-32.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.99",
+                  "0.87",
+                  "-7.65"
+                ],
+                [
+                  "Net Income",
+                  "8.41",
+                  "-11.61",
+                  "-32.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.42",
+                  "-2.60",
+                  "-7.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "22.82",
+                  "25.41",
+                  "-42.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17.91",
+                  "7.64",
+                  "-3.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-34.63",
+                  "-13.55",
+                  "107.55"
+                ],
+                [
+                  "CAPEX",
+                  "-20.82",
+                  "-11.64",
+                  "-9.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "153.10",
+                  "160.83",
+                  "141.32",
+                  "142.91"
+                ],
+                [
+                  "Gross Profit",
+                  "25.69",
+                  "29.00",
+                  "20.68",
+                  "20.91"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.78",
+                  "18.03",
+                  "14.64",
+                  "14.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5.81",
+                  "6.65",
+                  "4.23",
+                  "3.03"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.96",
+                  "21.51",
+                  "21.86",
+                  "26.96"
+                ],
+                [
+                  "Operating Income",
+                  "-2.08",
+                  "0.84",
+                  "-5.41",
+                  "-9.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.36",
+                  "0.52",
+                  "-3.83",
+                  "-6.35"
+                ],
+                [
+                  "Net Income",
+                  "-1.42",
+                  "-17.18",
+                  "-9.72",
+                  "0.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.93",
+                  "-10.68",
+                  "-6.88",
+                  "0.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "25.92",
+                  "14.33",
+                  "-19.59",
+                  "20.38"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.62",
+                  "-3.19",
+                  "-5.73",
+                  "-6.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.49",
+                  "64.91",
+                  "-17.57",
+                  "17.88"
+                ],
+                [
+                  "CAPEX",
+                  "-4.73",
+                  "-6.52",
+                  "-3.25",
+                  "-9.53"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Chi Cheng Enterprise",
+    "Sony",
+    "電動車",
+    "Continental",
+    "Bosch",
+    "Apple",
+    "Continental",
+    "Bosch",
+    "Apple",
+    "Sony",
+    "Continental",
+    "Bosch",
+    "電動車",
+    "Apple",
+    "Sony"
+  ]
+}

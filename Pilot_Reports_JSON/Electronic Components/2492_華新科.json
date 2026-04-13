@@ -1,0 +1,631 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2492_華新科.md",
+  "source_path": "Pilot_Reports/Electronic Components/2492_華新科.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2492_華新科.json",
+  "ticker": "2492",
+  "company_name": "華新科",
+  "title": "# 2492 - [[華新科]]",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "62,297 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "90,674 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "華新科"
+            },
+            {
+              "type": "text",
+              "text": "技股份有限公司 (Walsin Technology Corp.) 成立於 1992 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園"
+            },
+            {
+              "type": "text",
+              "text": "，為華新麗華集團成員。公司為全球主要被動元件製造商，專注於積層陶瓷電容 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "MLCC"
+            },
+            {
+              "type": "text",
+              "text": ")、晶片電阻 (Chip Resistors) 及射頻元件 (RF)。近年積極佈局"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用電子"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": ") 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI Server"
+            },
+            {
+              "type": "text",
+              "text": " 市場，並與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Caiden"
+            },
+            {
+              "type": "text",
+              "text": " (2456) 等集團成員整合。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "華新科"
+            },
+            {
+              "type": "text",
+              "text": "位於被動元件產業鏈製造端。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 (材料):"
+            },
+            {
+              "type": "text",
+              "text": " 陶瓷粉末 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Sinoceramics"
+            },
+            {
+              "type": "text",
+              "text": "), 內電極漿料, 基板。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (製造):"
+            },
+            {
+              "type": "text",
+              "text": "\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "[[MLCC]]:"
+            },
+            {
+              "type": "text",
+              "text": " 配料、流延、印刷、堆疊、燒結、電鍍。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "電阻:"
+            },
+            {
+              "type": "text",
+              "text": " 陶瓷基板、電阻膏印刷、燒結。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (應用):"
+            },
+            {
+              "type": "text",
+              "text": "\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "動力系統、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": "、車載資訊娛樂系統 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "BYD"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]:"
+            },
+            {
+              "type": "text",
+              "text": " 高壓/大電流 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MLCC"
+            },
+            {
+              "type": "text",
+              "text": ", 電源供應器, 主機板 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "光寶"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "網通/消費:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 基地台、手機、NB。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用:"
+                },
+                {
+                  "type": "text",
+                  "text": " 全球 Tier 1 車廠, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "BYD"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Tesla"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "電源/伺服器:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "台達電"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "光寶"
+                },
+                {
+                  "type": "text",
+                  "text": " (光寶).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "消費電子:"
+                },
+                {
+                  "type": "text",
+                  "text": " 國內外手機及 PC 品牌。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "陶瓷粉末:"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Sinoceramics"
+                },
+                {
+                  "type": "text",
+                  "text": " (信昌電)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $128.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "26.22",
+                  "7.39",
+                  "1.71",
+                  "1.20",
+                  "14.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "36462.79",
+                  "34755.04",
+                  "32797.67"
+                ],
+                [
+                  "Gross Profit",
+                  "6299.59",
+                  "6480.62",
+                  "5837.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.28",
+                  "18.65",
+                  "17.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1755.12",
+                  "1693.19",
+                  "1647.61"
+                ],
+                [
+                  "R&D Exp",
+                  "986.34",
+                  "1027.84",
+                  "1040.02"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1452.12",
+                  "1577.39",
+                  "1354.22"
+                ],
+                [
+                  "Operating Income",
+                  "2106.01",
+                  "2182.20",
+                  "1795.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.78",
+                  "6.28",
+                  "5.47"
+                ],
+                [
+                  "Net Income",
+                  "2298.17",
+                  "2982.51",
+                  "1984.60"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.30",
+                  "8.58",
+                  "6.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "6146.01",
+                  "6141.06",
+                  "8493.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5807.17",
+                  "-6960.24",
+                  "-18280.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1601.75",
+                  "1522.32",
+                  "-784.79"
+                ],
+                [
+                  "CAPEX",
+                  "-1086.96",
+                  "-1280.77",
+                  "-2376.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8754.90",
+                  "9554.49",
+                  "8740.01",
+                  "8361.75"
+                ],
+                [
+                  "Gross Profit",
+                  "1599.32",
+                  "1622.92",
+                  "1499.76",
+                  "1425.61"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.27",
+                  "16.99",
+                  "17.16",
+                  "17.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "430.50",
+                  "436.21",
+                  "422.62",
+                  "434.57"
+                ],
+                [
+                  "R&D Exp",
+                  "275.17",
+                  "237.93",
+                  "233.19",
+                  "269.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "336.10",
+                  "393.72",
+                  "359.72",
+                  "377.40"
+                ],
+                [
+                  "Operating Income",
+                  "557.55",
+                  "555.07",
+                  "484.23",
+                  "343.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.37",
+                  "5.81",
+                  "5.54",
+                  "4.11"
+                ],
+                [
+                  "Net Income",
+                  "870.00",
+                  "-214.89",
+                  "585.34",
+                  "919.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.94",
+                  "-2.25",
+                  "6.70",
+                  "11.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "925.15",
+                  "732.13",
+                  "1768.47",
+                  "2098.68"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1495.65",
+                  "-2556.94",
+                  "-833.34",
+                  "22.29"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1242.43",
+                  "546.25",
+                  "289.96",
+                  "-1146.44"
+                ],
+                [
+                  "CAPEX",
+                  "-337.75",
+                  "-278.59",
+                  "-234.25",
+                  "-244.57"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "華新科",
+    "華新科",
+    "桃園",
+    "MLCC",
+    "車用電子",
+    "電動車",
+    "AI Server",
+    "Caiden",
+    "華新科",
+    "Sinoceramics",
+    "MLCC",
+    "電動車",
+    "ADAS",
+    "Tesla",
+    "BYD",
+    "AI 伺服器",
+    "MLCC",
+    "台達電",
+    "光寶",
+    "5G",
+    "BYD",
+    "Tesla",
+    "台達電",
+    "光寶",
+    "Sinoceramics"
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6277_宏正.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6277_宏正.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6277_宏正.json",
+  "ticker": "6277",
+  "company_name": "宏正",
+  "title": "# 6277_宏正",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "7,109 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,452 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宏正自動科技股份有限公司 (6277，ATEN) 是全球最大、台灣領先的KVM(多電腦切換器)設備製造商。宏正專注於資訊設備管理、專業影音、智慧製造及綠能電源分配系統的完整解決方案。其「ATEN」品牌產品廣泛應用於大型企業IT基礎設施、廣播電視、醫療設備、工廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "及控制中心。受惠於全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "建置潮、遠端工作(WFH)及混合辦公模式的興起，宏正的遠端網路控管方案(Over IP KVM)及專業影音分配器需求表現強勁。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 微控制器("
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": ")、"
+            },
+            {
+              "type": "wikilink",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": "晶片、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "空板、"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "、機構件及各類電子被動元件。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "宏正自動科技"
+            },
+            {
+              "type": "text",
+              "text": " (企業級KVM多電腦切換器、專業影音分配與控制系統研發製造)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 企業IT部門、"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "管理員、廣播電視/專業影音系統整合商(SI)及製造工廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   全球大型企業(如銀行、電信業、知名"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "科技巨頭"
+                },
+                {
+                  "type": "text",
+                  "text": ")、政府機關、教育機構及醫療院所。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   國內外知名IC設計公司、電源供應器廠及機構件沖壓/射出製造商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $59.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.57",
+                  "0.47",
+                  "1.45",
+                  "1.46",
+                  "8.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4918.94",
+                  "4993.17",
+                  "5156.24"
+                ],
+                [
+                  "Gross Profit",
+                  "2881.49",
+                  "2983.41",
+                  "3090.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "58.58",
+                  "59.75",
+                  "59.94"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1244.62",
+                  "1254.72",
+                  "1263.68"
+                ],
+                [
+                  "R&D Exp",
+                  "527.99",
+                  "518.95",
+                  "527.43"
+                ],
+                [
+                  "General & Admin Exp",
+                  "532.84",
+                  "540.93",
+                  "511.93"
+                ],
+                [
+                  "Operating Income",
+                  "576.05",
+                  "668.82",
+                  "787.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.71",
+                  "13.39",
+                  "15.28"
+                ],
+                [
+                  "Net Income",
+                  "367.57",
+                  "494.61",
+                  "565.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.47",
+                  "9.91",
+                  "10.97"
+                ],
+                [
+                  "Op Cash Flow",
+                  "671.19",
+                  "885.33",
+                  "1063.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-340.65",
+                  "-264.06",
+                  "-212.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-573.23",
+                  "-706.34",
+                  "-775.45"
+                ],
+                [
+                  "CAPEX",
+                  "-241.29",
+                  "-192.91",
+                  "-230.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1380.24",
+                  "1202.32",
+                  "1131.68",
+                  "1204.70"
+                ],
+                [
+                  "Gross Profit",
+                  "794.93",
+                  "704.77",
+                  "673.45",
+                  "708.34"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "57.59",
+                  "58.62",
+                  "59.51",
+                  "58.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "337.24",
+                  "299.19",
+                  "307.28",
+                  "300.92"
+                ],
+                [
+                  "R&D Exp",
+                  "122.41",
+                  "130.46",
+                  "136.93",
+                  "138.19"
+                ],
+                [
+                  "General & Admin Exp",
+                  "143.07",
+                  "131.42",
+                  "129.93",
+                  "128.42"
+                ],
+                [
+                  "Operating Income",
+                  "192.22",
+                  "143.71",
+                  "99.31",
+                  "140.81"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.93",
+                  "11.95",
+                  "8.78",
+                  "11.69"
+                ],
+                [
+                  "Net Income",
+                  "93.67",
+                  "101.68",
+                  "63.47",
+                  "108.75"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.79",
+                  "8.46",
+                  "5.61",
+                  "9.03"
+                ],
+                [
+                  "Op Cash Flow",
+                  "303.76",
+                  "163.34",
+                  "114.42",
+                  "89.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-208.26",
+                  "-129.47",
+                  "-32.05",
+                  "29.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-181.33",
+                  "-115.37",
+                  "-102.21",
+                  "-174.31"
+                ],
+                [
+                  "CAPEX",
+                  "-106.17",
+                  "-61.35",
+                  "-56.40",
+                  "-17.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "自動化",
+    "資料中心",
+    "MCU",
+    "網通",
+    "PCB",
+    "連接器",
+    "資料中心",
+    "科技巨頭"
+  ]
+}

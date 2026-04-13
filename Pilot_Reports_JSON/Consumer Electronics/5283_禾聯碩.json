@@ -1,0 +1,576 @@
+{
+  "report_id": "Pilot_Reports/Consumer Electronics/5283_禾聯碩.md",
+  "source_path": "Pilot_Reports/Consumer Electronics/5283_禾聯碩.md",
+  "json_path": "Pilot_Reports_JSON/Consumer Electronics/5283_禾聯碩.json",
+  "ticker": "5283",
+  "company_name": "禾聯碩",
+  "title": "# 5283 - 禾聯碩",
+  "sector_folder": "Consumer Electronics",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Consumer Electronics"
+      },
+      {
+        "label": "市值:",
+        "value": "4,958 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,615 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "禾聯碩 (Heran) 為台灣本土 "
+            },
+            {
+              "type": "strong",
+              "text": "家電品牌龍頭"
+            },
+            {
+              "type": "text",
+              "text": "，品牌「HERAN」。\n以高性價比、通路密集度高著稱，產品線涵蓋全方位家電。\n核心產品：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "液晶顯示器 (TV)"
+            },
+            {
+              "type": "text",
+              "text": ": 台灣市佔率極高，主打內建聯網功能、高畫質。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "空調 (AC)"
+            },
+            {
+              "type": "text",
+              "text": ": 變頻冷暖氣機，也是重要營收來源 (R32 環保冷媒, CSPF 一級能效)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "生活家電"
+            },
+            {
+              "type": "text",
+              "text": ": 冰箱、洗衣機、廚房家電、掃地"
+            },
+            {
+              "type": "wikilink",
+              "text": "機器人"
+            },
+            {
+              "type": "text",
+              "text": "等。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "第二品牌"
+            },
+            {
+              "type": "text",
+              "text": ": 「YAMADA 山田家電」主打日系簡約風格。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (品牌/組裝)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "禾聯碩 (5283)"
+            },
+            {
+              "type": "text",
+              "text": " - 產品設計, 委外/自製組裝, 品牌行銷, 售後服務.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "關鍵零組件"
+            },
+            {
+              "type": "text",
+              "text": ": 面板 (Open Cell), 壓縮機, 控制 IC.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "代工廠"
+            },
+            {
+              "type": "text",
+              "text": ": 部分小家電委由中國廠商 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "經銷通路"
+            },
+            {
+              "type": "text",
+              "text": ": 傳統電器行 (全台超過 2 千家, 滲透率高).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "量販/3C"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "家樂福"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "大潤發"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "燦坤"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "全國電子"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "電商"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "PChome"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "MOMO"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通路"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國內經銷商 (B2B), 終端消費者 (B2C).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "專案"
+                },
+                {
+                  "type": "text",
+                  "text": ": 政府機關, 學校, 建案標配."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "面板"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群創"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "友達"
+                },
+                {
+                  "type": "text",
+                  "text": ", 中國面板廠.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "壓縮機"
+                },
+                {
+                  "type": "text",
+                  "text": ": 國際大廠."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $56.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.04",
+                  "N/A",
+                  "0.77",
+                  "1.03",
+                  "5.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6468.99",
+                  "6417.18",
+                  "6192.13"
+                ],
+                [
+                  "Gross Profit",
+                  "2135.84",
+                  "2037.08",
+                  "2075.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.02",
+                  "31.74",
+                  "33.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1335.41",
+                  "1363.59",
+                  "1281.37"
+                ],
+                [
+                  "R&D Exp",
+                  "78.39",
+                  "55.75",
+                  "64.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "187.08",
+                  "170.36",
+                  "121.43"
+                ],
+                [
+                  "Operating Income",
+                  "534.95",
+                  "447.37",
+                  "608.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.27",
+                  "6.97",
+                  "9.83"
+                ],
+                [
+                  "Net Income",
+                  "493.12",
+                  "467.50",
+                  "568.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.62",
+                  "7.29",
+                  "9.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "539.59",
+                  "740.32",
+                  "680.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-408.33",
+                  "-215.60",
+                  "-1035.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "137.06",
+                  "-421.79",
+                  "-356.98"
+                ],
+                [
+                  "CAPEX",
+                  "-74.38",
+                  "-114.17",
+                  "-122.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1451.53",
+                  "1649.46",
+                  "2102.00",
+                  "1266.00"
+                ],
+                [
+                  "Gross Profit",
+                  "384.57",
+                  "599.08",
+                  "759.81",
+                  "392.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "26.49",
+                  "36.32",
+                  "36.15",
+                  "30.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "223.96",
+                  "331.71",
+                  "419.74",
+                  "360.00"
+                ],
+                [
+                  "R&D Exp",
+                  "23.62",
+                  "18.89",
+                  "15.05",
+                  "20.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.93",
+                  "52.93",
+                  "53.17",
+                  "36.04"
+                ],
+                [
+                  "Operating Income",
+                  "92.06",
+                  "195.55",
+                  "271.84",
+                  "-24.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.34",
+                  "11.86",
+                  "12.93",
+                  "-1.93"
+                ],
+                [
+                  "Net Income",
+                  "122.73",
+                  "192.94",
+                  "188.77",
+                  "-11.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.46",
+                  "11.70",
+                  "8.98",
+                  "-0.89"
+                ],
+                [
+                  "Op Cash Flow",
+                  "107.29",
+                  "718.61",
+                  "212.30",
+                  "-498.62"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-43.11",
+                  "-93.24",
+                  "-141.91",
+                  "-130.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-539.95",
+                  "-719.38",
+                  "831.97",
+                  "564.42"
+                ],
+                [
+                  "CAPEX",
+                  "-9.70",
+                  "-13.19",
+                  "-18.84",
+                  "-32.65"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "機器人",
+    "ODM",
+    "家樂福",
+    "大潤發",
+    "燦坤",
+    "全國電子",
+    "PChome",
+    "MOMO",
+    "群創",
+    "友達"
+  ]
+}

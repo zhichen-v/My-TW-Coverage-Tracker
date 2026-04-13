@@ -1,0 +1,750 @@
+{
+  "report_id": "Pilot_Reports/Information Technology Services/6751_智聯服務.md",
+  "source_path": "Pilot_Reports/Information Technology Services/6751_智聯服務.md",
+  "json_path": "Pilot_Reports_JSON/Information Technology Services/6751_智聯服務.json",
+  "ticker": "6751",
+  "company_name": "智聯服務",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Information Technology Services",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Information Technology Services"
+      },
+      {
+        "label": "市值:",
+        "value": "1,146 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,015 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "智聯服務 (6751) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "宏碁"
+            },
+            {
+              "type": "text",
+              "text": " (Acer) 集團，是一家專攻半導體產業的資訊系統整合服務商。公司以「全方位服務經理人」自居，提供 IT 基礎架構與 OT 邊緣運算的軟硬體建置、維運與工程規劃。七至八成營收高度集中於台灣半導體供應鏈，深獲晶圓代工龍頭"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "及 IC 設計大廠信任，協助客戶建置高穩定度的生產線自動化系統及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "。此外亦協助企業導入 ESG 永續解決方案及高階"
+            },
+            {
+              "type": "wikilink",
+              "text": "資安"
+            },
+            {
+              "type": "text",
+              "text": "防護架構。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (軟硬體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Acer) — PC、伺服器與周邊設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業網路核心設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器/儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HPE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 伺服器與儲存設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VMware"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 作業系統與虛擬化"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SI:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "智聯服務"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (半導體業 IT/OT 軟硬體系統整合、機房建置、資訊維運與 ESG 顧問)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及其供應鏈 — 生產線自動化與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 運算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IC 設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 設計大廠 — IT 基礎建設"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測廠 — 資訊系統維運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 最重要客戶，生產線自動化系統與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資料中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "建置"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體供應鏈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "周邊之 IC 設計、封測與設備廠商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 新竹科學園區高科技製造業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Acer) — 伺服器、PC 與周邊設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業網路設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HPE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 伺服器與儲存"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VMware"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 作業系統與虛擬化平台"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $51.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "9.96",
+                  "N/A",
+                  "0.65",
+                  "1.19",
+                  "15.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1760.45",
+                  "1804.65",
+                  "1738.52"
+                ],
+                [
+                  "Gross Profit",
+                  "247.99",
+                  "233.26",
+                  "326.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.09",
+                  "12.93",
+                  "18.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "47.83",
+                  "50.35",
+                  "50.45"
+                ],
+                [
+                  "R&D Exp",
+                  "21.77",
+                  "23.19",
+                  "23.00"
+                ],
+                [
+                  "General & Admin Exp",
+                  "132.36",
+                  "147.23",
+                  "119.35"
+                ],
+                [
+                  "Operating Income",
+                  "46.03",
+                  "12.50",
+                  "134.06"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.61",
+                  "0.69",
+                  "7.71"
+                ],
+                [
+                  "Net Income",
+                  "115.54",
+                  "18.49",
+                  "64.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.56",
+                  "1.02",
+                  "3.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-93.01",
+                  "-163.99",
+                  "110.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-178.89",
+                  "-10.56",
+                  "180.02"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "65.19",
+                  "-38.32",
+                  "162.76"
+                ],
+                [
+                  "CAPEX",
+                  "-6.96",
+                  "-4.85",
+                  "-15.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "332.97",
+                  "532.73",
+                  "502.46",
+                  "538.06"
+                ],
+                [
+                  "Gross Profit",
+                  "37.69",
+                  "94.35",
+                  "62.87",
+                  "94.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.32",
+                  "17.71",
+                  "12.51",
+                  "17.61"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "9.60",
+                  "11.16",
+                  "13.23",
+                  "13.88"
+                ],
+                [
+                  "R&D Exp",
+                  "7.05",
+                  "4.45",
+                  "3.09",
+                  "5.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "21.73",
+                  "38.33",
+                  "38.44",
+                  "35.70"
+                ],
+                [
+                  "Operating Income",
+                  "-0.68",
+                  "40.42",
+                  "8.11",
+                  "39.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.21",
+                  "7.59",
+                  "1.61",
+                  "7.43"
+                ],
+                [
+                  "Net Income",
+                  "0.22",
+                  "10.14",
+                  "7.12",
+                  "9.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.07",
+                  "1.90",
+                  "1.42",
+                  "1.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4.56",
+                  "-86.96",
+                  "-6.61",
+                  "116.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4.17",
+                  "-31.21",
+                  "5.46",
+                  "-4.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "50.00",
+                  "60.19",
+                  "33.86",
+                  "-39.11"
+                ],
+                [
+                  "CAPEX",
+                  "-2.40",
+                  "-0.30",
+                  "-1.85",
+                  "-0.44"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "宏碁",
+    "台積電",
+    "AI",
+    "資料中心",
+    "資安",
+    "宏碁",
+    "Cisco",
+    "Dell",
+    "HPE",
+    "Microsoft",
+    "VMware",
+    "台積電",
+    "AI",
+    "台積電",
+    "AI",
+    "資料中心",
+    "台積電",
+    "宏碁",
+    "Cisco",
+    "Dell",
+    "HPE",
+    "Microsoft",
+    "VMware"
+  ]
+}

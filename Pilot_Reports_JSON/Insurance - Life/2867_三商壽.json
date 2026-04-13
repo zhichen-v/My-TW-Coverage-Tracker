@@ -1,0 +1,658 @@
+{
+  "report_id": "Pilot_Reports/Insurance - Life/2867_三商壽.md",
+  "source_path": "Pilot_Reports/Insurance - Life/2867_三商壽.md",
+  "json_path": "Pilot_Reports_JSON/Insurance - Life/2867_三商壽.json",
+  "ticker": "2867",
+  "company_name": "三商壽",
+  "title": "# 2867 - 三商壽",
+  "sector_folder": "Insurance - Life",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Insurance - Life"
+      },
+      {
+        "label": "市值:",
+        "value": "45,190 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "-142,469 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "三商美邦人壽"
+            },
+            {
+              "type": "text",
+              "text": " (2867，三商壽) 成立於 1993 年，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "三商集團"
+            },
+            {
+              "type": "text",
+              "text": "核心成員，原由美國"
+            },
+            {
+              "type": "wikilink",
+              "text": "Massachusetts Mutual"
+            },
+            {
+              "type": "text",
+              "text": " (MassMutual) 技術合作設立。公司為台灣老牌壽險公司，主要業務涵蓋人壽保險、健康保險、傷害保險及年金保險。近年積極轉型推動投資型保單，以降低保單負債成本並減輕資本壓力，因應 2026 年 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IFRS 17"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ICS"
+            },
+            {
+              "type": "text",
+              "text": " 接軌。最新估算 ICS 資本適足率可望達 140% 以上，超過法定 100% 門檻。健康險及傷害險新契約保費年增逾 13%，有助於累積 "
+            },
+            {
+              "type": "wikilink",
+              "text": "IFRS 17"
+            },
+            {
+              "type": "text",
+              "text": " 下之合約服務邊際 (CSM)。銷售通路以自有業務員部隊為主力，輔以銀行保險通路及保險經紀人代理人通路。資金運用投入國內外股票、債券及不動產等資本市場。受"
+            },
+            {
+              "type": "wikilink",
+              "text": "金管會"
+            },
+            {
+              "type": "text",
+              "text": "監理，資本適足率 (RBC) 持續改善中。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (風險分散與資金)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際再保險公司如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 提供風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "投資標的:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外股票、債券及不動產市場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精算顧問:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際精算與風險管理顧問機構"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (保險本體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[三商美邦人壽]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 保單設計、核保理賠、資金運用與投資管理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路與保戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自有通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 業務員部隊 — 全台服務網絡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銀行保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 合作銀行之銀保通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保經代通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 保險經紀人及代理人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 個人壽險、健康險、投資型保單及企業團險保戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "個人保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壽險、醫療健康險、傷害險及投資型保單客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 團體保險投保企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "年金保戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 退休規劃年金保險客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "再保險:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Swiss Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Munich Re"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央再保險"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 巨災與壽險風險分散"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "投資標的供給:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基金公司 — 投資型保單連結標的"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "監理機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金管會"
+                    },
+                    {
+                      "type": "text",
+                      "text": "保險局 — 監理法規與資本適足要求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銷售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自有業務員、銀行保險通路、保險經紀人代理人"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $7.66 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.30",
+                  "N/A",
+                  "0.36",
+                  "1.22",
+                  "-2.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "97958.32",
+                  "136863.11",
+                  "123238.92"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "5040.61",
+                  "4817.81",
+                  "4595.77"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "1178.10",
+                  "2175.37",
+                  "-9515.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.20",
+                  "1.59",
+                  "-7.72"
+                ],
+                [
+                  "Op Cash Flow",
+                  "10154.71",
+                  "-41375.85",
+                  "-40041.19"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "19896.77",
+                  "7765.12",
+                  "45714.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "18234.19",
+                  "1388.97",
+                  "7858.84"
+                ],
+                [
+                  "CAPEX",
+                  "-397.45",
+                  "-126.30",
+                  "-279.00"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "39126.42",
+                  "39083.29",
+                  "-13065.04",
+                  "32813.64"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1423.88",
+                  "1208.19",
+                  "1236.43",
+                  "1172.12"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "242.59",
+                  "1595.31",
+                  "-847.39",
+                  "187.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.62",
+                  "4.08",
+                  "6.49",
+                  "0.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-13902.70",
+                  "21703.53",
+                  "16166.37",
+                  "-13812.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1513.10",
+                  "-279.42",
+                  "8841.93",
+                  "12847.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "11813.77",
+                  "2143.51",
+                  "-4608.89",
+                  "8885.80"
+                ],
+                [
+                  "CAPEX",
+                  "-359.64",
+                  "-18.50",
+                  "-14.77",
+                  "-4.53"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "三商美邦人壽",
+    "三商集團",
+    "Massachusetts Mutual",
+    "IFRS 17",
+    "ICS",
+    "IFRS 17",
+    "金管會",
+    "Swiss Re",
+    "Munich Re",
+    "中央再保險",
+    "三商美邦人壽",
+    "Swiss Re",
+    "Munich Re",
+    "中央再保險",
+    "金管會"
+  ]
+}

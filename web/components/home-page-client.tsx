@@ -1,8 +1,10 @@
 "use client";
 
+import { useEffect, useRef, useState, type FormEvent, type MouseEvent } from "react";
 import Link from "next/link";
-import type { CompaniesResponse, Sector } from "@/lib/api";
+import { getCompanies, type CompaniesResponse, type Sector } from "@/lib/api";
 import { LanguageProvider, useLanguage } from "@/components/language-provider";
+import { translateFinancialText } from "@/lib/financial-markdown";
 import { translateSectorName } from "@/lib/i18n";
 
 type HealthSnapshot = {
@@ -20,7 +22,29 @@ type HomePageClientProps = {
   companies: CompaniesResponse;
   initialQuery: string;
   initialSector: string;
+  initialPage: number;
 };
+
+const PAGE_SIZE = 30;
+
+function buildPaginationItems(currentPage: number, totalPages: number) {
+  const pages = new Set<number>([1, 2, 3, currentPage - 1, currentPage, currentPage + 1, totalPages]);
+  const sortedPages = Array.from(pages)
+    .filter((page) => page >= 1 && page <= totalPages)
+    .sort((left, right) => left - right);
+
+  const items: Array<number | "ellipsis"> = [];
+
+  sortedPages.forEach((page, index) => {
+    const previousPage = sortedPages[index - 1];
+    if (previousPage && page - previousPage > 1) {
+      items.push("ellipsis");
+    }
+    items.push(page);
+  });
+
+  return items;
+}
 
 function HomePageContent({
   health,
@@ -28,10 +52,23 @@ function HomePageContent({
   companies,
   initialQuery,
   initialSector,
+  initialPage,
 }: HomePageClientProps) {
   const { t, language, switchLanguage } = useLanguage();
+  const toolbarRef = useRef<HTMLFormElement | null>(null);
+  const pendingPageScroll = useRef(false);
+  const [queryInput, setQueryInput] = useState(initialQuery);
+  const [sectorInput, setSectorInput] = useState(initialSector);
+  const [appliedQuery, setAppliedQuery] = useState(initialQuery);
+  const [appliedSector, setAppliedSector] = useState(initialSector);
+  const [currentPage, setCurrentPage] = useState(initialPage);
+  const [companyData, setCompanyData] = useState(companies);
+  const [isLoadingCompanies, setIsLoadingCompanies] = useState(false);
+  const initialRequestKey = useRef(`${initialQuery}::${initialSector}::${initialPage}`);
   const featuredSectors = sectors.slice(0, 4);
   const remainingSectorCount = Math.max(sectors.length - featuredSectors.length, 0);
+  const totalPages = Math.max(Math.ceil(companyData.total_count / PAGE_SIZE), 1);
+  const paginationItems = buildPaginationItems(currentPage, totalPages);
   const stats = [
     {
       label: t("apiStatus"),
@@ -52,6 +89,103 @@ function HomePageContent({
         : "N/A",
     },
   ];
+
+  function getCompanySubline(company: CompaniesResponse["items"][number]) {
+    const sectorLabel = translateSectorName(language, company.sector_folder);
+    const industryLabel = translateSectorName(language, company.metadata_industry);
+    const normalizedSector = company.sector_folder.trim().toLowerCase();
+    const normalizedIndustry = company.metadata_industry.trim().toLowerCase();
+
+    if (!industryLabel || normalizedSector === normalizedIndustry) {
+      return [sectorLabel];
+    }
+
+    return [sectorLabel, industryLabel];
+  }
+
+  useEffect(() => {
+    const requestKey = `${appliedQuery}::${appliedSector}::${currentPage}`;
+    if (initialRequestKey.current === requestKey) {
+      initialRequestKey.current = "";
+      return;
+    }
+
+    const controller = new AbortController();
+
+    async function refreshCompanies() {
+      setIsLoadingCompanies(true);
+      try {
+        const nextCompanies = await getCompanies({
+          q: appliedQuery || undefined,
+          sector: appliedSector || undefined,
+          limit: PAGE_SIZE,
+          offset: (currentPage - 1) * PAGE_SIZE,
+          signal: controller.signal,
+        });
+        setCompanyData(nextCompanies);
+      } catch (error) {
+        if ((error as Error).name !== "AbortError") {
+          console.error("Failed to refresh homepage companies", error);
+        }
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsLoadingCompanies(false);
+        }
+      }
+    }
+
+    void refreshCompanies();
+
+    return () => controller.abort();
+  }, [appliedQuery, appliedSector, currentPage]);
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams();
+    if (appliedQuery) {
+      searchParams.set("q", appliedQuery);
+    }
+    if (appliedSector) {
+      searchParams.set("sector", appliedSector);
+    }
+    if (currentPage > 1) {
+      searchParams.set("page", String(currentPage));
+    }
+    const queryString = searchParams.toString();
+    const nextUrl = queryString ? `/?${queryString}` : "/";
+    window.history.replaceState(null, "", nextUrl);
+  }, [appliedQuery, appliedSector, currentPage]);
+
+  useEffect(() => {
+    if (initialRequestKey.current !== "" || !pendingPageScroll.current || isLoadingCompanies) {
+      return;
+    }
+    pendingPageScroll.current = false;
+    toolbarRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }, [companyData, isLoadingCompanies]);
+
+  function handleFilterSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const nextQuery = queryInput.trim();
+    setAppliedQuery(nextQuery);
+    setAppliedSector(sectorInput);
+    setCurrentPage(1);
+  }
+
+  function handlePageChange(nextPage: number) {
+    if (nextPage < 1 || nextPage > totalPages || nextPage === currentPage) {
+      return;
+    }
+    pendingPageScroll.current = true;
+    setCurrentPage(nextPage);
+  }
+
+  function handlePaginationClick(
+    event: MouseEvent<HTMLButtonElement>,
+    nextPage: number,
+  ) {
+    event.currentTarget.blur();
+    handlePageChange(nextPage);
+  }
 
   return (
     <>
@@ -108,15 +242,21 @@ function HomePageContent({
       </section>
 
       <section className="content-panel">
-        <form className="toolbar" action="/" method="get">
+        <form ref={toolbarRef} className="toolbar" onSubmit={handleFilterSubmit}>
           <input
             className="search-input"
             type="search"
             name="q"
             placeholder={t("searchPlaceholder")}
-            defaultValue={initialQuery}
+            value={queryInput}
+            onChange={(event) => setQueryInput(event.target.value)}
           />
-          <select className="select-input" name="sector" defaultValue={initialSector}>
+          <select
+            className="select-input"
+            name="sector"
+            value={sectorInput}
+            onChange={(event) => setSectorInput(event.target.value)}
+          >
             <option value="">{t("allSectors")}</option>
             {sectors.map((sector) => (
               <option key={sector.name} value={sector.name}>
@@ -129,47 +269,93 @@ function HomePageContent({
           </button>
         </form>
 
-        {companies.items.length === 0 ? (
+        {companyData.items.length === 0 ? (
           <div className="empty-state">{t("noCompaniesMatched")}</div>
         ) : (
-          <div className="company-list">
-            {companies.items.map((company) => (
-              <Link
-                key={company.report_id}
-                href={`/companies/${encodeURIComponent(company.ticker)}`}
-                className="company-row"
-              >
-                <div className="company-primary">
-                  <span className="ticker-chip">{company.ticker}</span>
-                  <div className="company-title-stack">
-                    <h2 className="company-name">{company.company_name}</h2>
+          <>
+            <div
+              className={`company-list ${isLoadingCompanies ? "is-loading" : ""}`}
+              aria-busy={isLoadingCompanies}
+            >
+              {companyData.items.map((company) => (
+                <Link
+                  key={company.report_id}
+                  href={`/companies/${encodeURIComponent(company.ticker)}`}
+                  className="company-row"
+                >
+                  <div className="company-primary">
+                    <span className="ticker-chip">{company.ticker}</span>
+                    <div className="company-title-stack">
+                      <h2 className="company-name">{company.company_name}</h2>
+                    </div>
                   </div>
-                </div>
-                <div className="metric-cell">
-                  <span className="metric-label">{t("sector")}</span>
-                  <span className="metric-value">
-                    {translateSectorName(language, company.sector_folder)}
-                  </span>
-                </div>
-                <div className="metric-cell">
-                  <span className="metric-label">{t("marketCap")}</span>
-                  <span className="metric-value">
-                    {company.market_cap_text || t("notAvailable")}
-                  </span>
-                </div>
-                <div className="metric-cell">
-                  <span className="metric-label">{t("enterpriseValue")}</span>
-                  <span className="metric-value">
-                    {company.enterprise_value_text || t("notAvailable")}
-                  </span>
-                </div>
-                <div className="metric-cell">
-                  <span className="metric-label">{t("wikilinks")}</span>
-                  <span className="metric-value">{company.wikilink_count}</span>
-                </div>
-              </Link>
-            ))}
-          </div>
+                  <div className="metric-cell">
+                    <span className="metric-label">{t("sector")}</span>
+                    <span className="metric-value">
+                      {translateSectorName(language, company.sector_folder)}
+                    </span>
+                  </div>
+                  <div className="metric-cell">
+                    <span className="metric-label">{t("marketCap")}</span>
+                    <span className="metric-value">
+                      {translateFinancialText(company.market_cap_text, language) ||
+                        t("notAvailable")}
+                    </span>
+                  </div>
+                  <div className="metric-cell">
+                    <span className="metric-label">{t("enterpriseValue")}</span>
+                    <span className="metric-value">
+                      {translateFinancialText(company.enterprise_value_text, language) ||
+                        t("notAvailable")}
+                    </span>
+                  </div>
+                  <div className="metric-cell">
+                    <span className="metric-label">{t("wikilinks")}</span>
+                    <span className="metric-value">{company.wikilink_count}</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+
+            {totalPages > 1 ? (
+              <nav className="pagination-row" aria-label="Company list pages">
+                <button
+                  type="button"
+                  className="pagination-button"
+                  onClick={(event) => handlePaginationClick(event, currentPage - 1)}
+                  disabled={currentPage === 1 || isLoadingCompanies}
+                >
+                  {"<"}
+                </button>
+                {paginationItems.map((item, index) =>
+                  item === "ellipsis" ? (
+                    <span key={`ellipsis-${index}`} className="pagination-ellipsis">
+                      ...
+                    </span>
+                  ) : (
+                    <button
+                      key={item}
+                      type="button"
+                      className={`pagination-button ${item === currentPage ? "active" : ""}`}
+                      onClick={(event) => handlePaginationClick(event, item)}
+                      disabled={isLoadingCompanies}
+                      aria-current={item === currentPage ? "page" : undefined}
+                    >
+                      {item}
+                    </button>
+                  ),
+                )}
+                <button
+                  type="button"
+                  className="pagination-button"
+                  onClick={(event) => handlePaginationClick(event, currentPage + 1)}
+                  disabled={currentPage === totalPages || isLoadingCompanies}
+                >
+                  {">"}
+                </button>
+              </nav>
+            ) : null}
+          </>
         )}
       </section>
     </>

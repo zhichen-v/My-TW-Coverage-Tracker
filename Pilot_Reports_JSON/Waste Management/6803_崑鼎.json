@@ -1,0 +1,660 @@
+{
+  "report_id": "Pilot_Reports/Waste Management/6803_崑鼎.md",
+  "source_path": "Pilot_Reports/Waste Management/6803_崑鼎.md",
+  "json_path": "Pilot_Reports_JSON/Waste Management/6803_崑鼎.json",
+  "ticker": "6803",
+  "company_name": "崑鼎",
+  "title": "# 6803 - [[崑鼎]]",
+  "sector_folder": "Waste Management",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Waste Management"
+      },
+      {
+        "label": "市值:",
+        "value": "21,324 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "22,064 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "崑鼎綠能環保股份有限公司 (6803，ECOVE) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鼎工程"
+            },
+            {
+              "type": "text",
+              "text": " (9933) 集團旗下綠能環保控股公司，台灣最大垃圾焚化廠營運管理商。2025年營收54.72億元，處理廢棄物283萬噸，淨利7.41億元。主要業務包括："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "焚化廠營運："
+            },
+            {
+              "type": "text",
+              "text": " 透過子公司（信鼎、裕鼎、暉鼎等）操作台灣11座及澳門2座大型能資源中心，處理量佔國內35%。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "售電收入："
+            },
+            {
+              "type": "text",
+              "text": " 將垃圾焚化廢熱轉化汽電共生，售予"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "廢溶劑回收："
+            },
+            {
+              "type": "text",
+              "text": " 高科技廠房廢溶劑回收再利用（如"
+            },
+            {
+              "type": "wikilink",
+              "text": "IPA"
+            },
+            {
+              "type": "text",
+              "text": "異丙醇純化）。\n4. "
+            },
+            {
+              "type": "strong",
+              "text": "水資源回收："
+            },
+            {
+              "type": "text",
+              "text": " 大型水資源回收處理中心營運。再生水6,300萬噸。\n5. "
+            },
+            {
+              "type": "strong",
+              "text": "太陽光電："
+            },
+            {
+              "type": "text",
+              "text": " 太陽光電廠開發與營運。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (耗材與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "焚化爐耗材："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高溫爐管、抗高溫抗酸腐蝕濾袋"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廢氣處理："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 活性碳、消石灰等化學品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "發電設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽電發電機組零組件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 太陽能板模組與污水濾膜"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (環保營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "崑鼎 (6803，ECOVE)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 垃圾焚化廠BOT/OT營運管理、再生能源售電、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IPA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廢溶劑回收、廢水資源化處理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "地方政府："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各縣市環保局（垃圾焚化處理費）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台電]]："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽電共生售電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[半導體]]廠："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高科技廠房廢溶劑回收"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[中鼎工程]] (9933)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 母公司之廢棄物處理需求"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "地方政府："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各縣市環保局（垃圾焚化處理費，政府保證量）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "售電："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（汽電共生綠能售電）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體廠："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等高科技廠房之"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IPA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廢溶劑回收"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鼎工程"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (9933)（廢棄物與污水處理需求）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "焚化爐耗材："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高溫爐管與濾袋耗材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 活性碳、消石灰等廢氣處理藥劑供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $293.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.93",
+                  "N/A",
+                  "2.21",
+                  "3.01",
+                  "9.96"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9656.40",
+                  "8530.65",
+                  "7628.50"
+                ],
+                [
+                  "Gross Profit",
+                  "1859.74",
+                  "1726.98",
+                  "1619.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.26",
+                  "20.24",
+                  "21.23"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "122.49",
+                  "172.57",
+                  "158.07"
+                ],
+                [
+                  "Operating Income",
+                  "1737.25",
+                  "1554.41",
+                  "1461.64"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.99",
+                  "18.22",
+                  "19.16"
+                ],
+                [
+                  "Net Income",
+                  "1338.04",
+                  "1255.96",
+                  "1164.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.86",
+                  "14.72",
+                  "15.26"
+                ],
+                [
+                  "Op Cash Flow",
+                  "999.39",
+                  "1746.37",
+                  "2240.08"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2189.59",
+                  "-406.86",
+                  "-559.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1627.50",
+                  "-999.01",
+                  "-1629.22"
+                ],
+                [
+                  "CAPEX",
+                  "-163.01",
+                  "-195.17",
+                  "-293.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2321.62",
+                  "2460.29",
+                  "2218.84",
+                  "2186.59"
+                ],
+                [
+                  "Gross Profit",
+                  "367.88",
+                  "485.26",
+                  "455.96",
+                  "338.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.85",
+                  "19.72",
+                  "20.55",
+                  "15.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "15.26",
+                  "39.89",
+                  "37.36",
+                  "46.31"
+                ],
+                [
+                  "Operating Income",
+                  "352.63",
+                  "445.37",
+                  "418.61",
+                  "292.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.19",
+                  "18.10",
+                  "18.87",
+                  "13.36"
+                ],
+                [
+                  "Net Income",
+                  "304.46",
+                  "315.77",
+                  "326.89",
+                  "273.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.11",
+                  "12.83",
+                  "14.73",
+                  "12.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "375.11",
+                  "-1958.38",
+                  "1151.23",
+                  "460.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-141.36",
+                  "-2163.53",
+                  "246.32",
+                  "-60.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "660.11",
+                  "2020.55",
+                  "-77.07",
+                  "-225.03"
+                ],
+                [
+                  "CAPEX",
+                  "-106.35",
+                  "-30.65",
+                  "-2.30",
+                  "-28.92"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "崑鼎",
+    "中鼎工程",
+    "台電",
+    "IPA",
+    "IPA",
+    "台電",
+    "半導體",
+    "中鼎工程",
+    "台電",
+    "台積電",
+    "IPA",
+    "中鼎工程"
+  ]
+}

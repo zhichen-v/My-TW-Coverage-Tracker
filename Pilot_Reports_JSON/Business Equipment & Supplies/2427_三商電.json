@@ -1,0 +1,622 @@
+{
+  "report_id": "Pilot_Reports/Business Equipment & Supplies/2427_三商電.md",
+  "source_path": "Pilot_Reports/Business Equipment & Supplies/2427_三商電.md",
+  "json_path": "Pilot_Reports_JSON/Business Equipment & Supplies/2427_三商電.json",
+  "ticker": "2427",
+  "company_name": "三商電",
+  "title": "# 2427 - 三商電",
+  "sector_folder": "Business Equipment & Supplies",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Business Equipment & Supplies"
+      },
+      {
+        "label": "市值:",
+        "value": "4,722 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "5,334 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "三商電腦股份有限公司 (2427，Mercuries Data Systems) 成立於 1965 年，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "三商集團"
+            },
+            {
+              "type": "text",
+              "text": "旗下資訊服務事業。公司專注於金融自動化設備、IT 系統整合及軟體開發。核心業務包括：金融自助設備 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "ATM"
+            },
+            {
+              "type": "text",
+              "text": "、外幣兌換機、存款機、智慧繳費機) 之銷售/租賃/維護、鐵路調度無線電系統、政府 IT 標案 (911 派遣系統、救災指揮平台)、保險業解決方案、捷運自動收費系統 (AFC)。三商電為台灣 ATM 市佔率超過五成之金融 IT 基礎設施重要供應商，代理國際大廠"
+            },
+            {
+              "type": "wikilink",
+              "text": "NCR"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Diebold Nixdorf"
+            },
+            {
+              "type": "text",
+              "text": "之設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (軟硬體與原廠設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NCR"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Diebold Nixdorf"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — ATM 及自助設備硬體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器與網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大品牌伺服器、網通及安控設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (系統整合與軟體開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "三商電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 金融自動化設備在地化軟體開發、系統整合、硬體建置及長期維護"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣各大公股及民營銀行 — ATM 市佔過半"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 調度系統與 AFC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 內政部消防署、海巡署 — 救災指揮通訊"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣各大銀行 — ATM、外幣兌換機、智慧繳費機 (市佔逾五成)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府交通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 調度無線電系統；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AFC 自動收費系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 內政部消防署 — 911 派遣系統；海巡署 — 通訊系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NCR"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Diebold Nixdorf"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 先進 ATM 與自助設備硬體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三商集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源共享"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.85 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.34",
+                  "N/A",
+                  "0.72",
+                  "1.44",
+                  "11.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6527.78",
+                  "4873.35",
+                  "3971.08"
+                ],
+                [
+                  "Gross Profit",
+                  "1563.31",
+                  "1442.48",
+                  "1399.82"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.95",
+                  "29.60",
+                  "35.25"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "800.71",
+                  "760.17",
+                  "708.02"
+                ],
+                [
+                  "R&D Exp",
+                  "249.80",
+                  "233.11",
+                  "233.89"
+                ],
+                [
+                  "General & Admin Exp",
+                  "157.05",
+                  "155.92",
+                  "151.02"
+                ],
+                [
+                  "Operating Income",
+                  "355.74",
+                  "293.28",
+                  "306.88"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.45",
+                  "6.02",
+                  "7.73"
+                ],
+                [
+                  "Net Income",
+                  "302.60",
+                  "281.98",
+                  "251.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.64",
+                  "5.79",
+                  "6.34"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1793.99",
+                  "-99.45",
+                  "-302.10"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-273.27",
+                  "-130.33",
+                  "-108.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1288.46",
+                  "195.83",
+                  "568.83"
+                ],
+                [
+                  "CAPEX",
+                  "-191.56",
+                  "-134.91",
+                  "-97.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2520.82",
+                  "860.43",
+                  "2037.74",
+                  "1108.79"
+                ],
+                [
+                  "Gross Profit",
+                  "427.30",
+                  "327.14",
+                  "405.52",
+                  "403.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.95",
+                  "38.02",
+                  "19.90",
+                  "36.38"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "232.75",
+                  "192.81",
+                  "190.15",
+                  "185.00"
+                ],
+                [
+                  "R&D Exp",
+                  "68.39",
+                  "60.89",
+                  "61.79",
+                  "58.73"
+                ],
+                [
+                  "General & Admin Exp",
+                  "45.01",
+                  "35.84",
+                  "42.34",
+                  "33.86"
+                ],
+                [
+                  "Operating Income",
+                  "81.14",
+                  "37.59",
+                  "111.24",
+                  "125.77"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.22",
+                  "4.37",
+                  "5.46",
+                  "11.34"
+                ],
+                [
+                  "Net Income",
+                  "84.02",
+                  "51.36",
+                  "63.16",
+                  "104.07"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.33",
+                  "5.97",
+                  "3.10",
+                  "9.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "940.66",
+                  "364.67",
+                  "352.16",
+                  "136.50"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-265.36",
+                  "-21.67",
+                  "-1.59",
+                  "15.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-257.88",
+                  "-402.04",
+                  "-360.92",
+                  "-267.62"
+                ],
+                [
+                  "CAPEX",
+                  "-170.52",
+                  "-12.47",
+                  "-6.64",
+                  "-1.94"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "三商集團",
+    "ATM",
+    "NCR",
+    "Diebold Nixdorf",
+    "NCR",
+    "Diebold Nixdorf",
+    "台鐵",
+    "高鐵",
+    "台北捷運",
+    "台鐵",
+    "高鐵",
+    "台北捷運",
+    "NCR",
+    "Diebold Nixdorf",
+    "三商集團"
+  ]
+}

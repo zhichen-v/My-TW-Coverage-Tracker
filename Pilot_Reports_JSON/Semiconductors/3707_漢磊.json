@@ -1,0 +1,540 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3707_漢磊.md",
+  "source_path": "Pilot_Reports/Semiconductors/3707_漢磊.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3707_漢磊.json",
+  "ticker": "3707",
+  "company_name": "漢磊",
+  "title": "# 3707 - 漢磊",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "19,780 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,999 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "漢磊科技 (Episil) 成立於 1985 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "，為 "
+            },
+            {
+              "type": "strong",
+              "text": "漢民集團 (Hermes-Epitek)"
+            },
+            {
+              "type": "text",
+              "text": " 成員。公司為全球第一家 "
+            },
+            {
+              "type": "strong",
+              "text": "Sub-micron Bipolar/BiCMOS"
+            },
+            {
+              "type": "text",
+              "text": " 專業代工廠，近年轉型為 "
+            },
+            {
+              "type": "strong",
+              "text": "化合物半導體 (Compound Semiconductor)"
+            },
+            {
+              "type": "text",
+              "text": " 專業代工廠，專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "SiC ([[碳化矽]])"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "strong",
+              "text": "GaN ([[氮化鎵]])"
+            },
+            {
+              "type": "text",
+              "text": " 功率"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "代工。漢磊擁有 6 吋晶圓廠，提供從"
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": " (Epi) 到晶圓製造 (Foundry) 的一站式服務 (與子公司嘉晶合作)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "角色:"
+            },
+            {
+              "type": "text",
+              "text": " 化合物"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶圓代工 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": " Foundry)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": " 基板 (Substrate) - Cree (Wolfspeed), Rohm, 嘉晶 (Epi)。\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 功率元件設計公司 (Fabless)、IDM 廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IDM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 英飛凌 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Infineon"
+                    },
+                    {
+                      "type": "text",
+                      "text": "), Onsemi (部分委外), 羅姆 (Rohm)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Fabless:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 納微 (Navitas), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鎵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "系統 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鎵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Systems), 國內外功率元件設計公司。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "競爭對手",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SiC/GaN 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 世界先進、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鎵"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、X-Fab。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $50.70 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "169.00",
+                  "3.43",
+                  "2.78",
+                  "-327.42"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5765.97",
+                  "5816.92",
+                  "7080.22"
+                ],
+                [
+                  "Gross Profit",
+                  "-190.45",
+                  "42.10",
+                  "809.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-3.30",
+                  "0.72",
+                  "11.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "84.68",
+                  "79.73",
+                  "85.09"
+                ],
+                [
+                  "R&D Exp",
+                  "211.01",
+                  "232.31",
+                  "222.57"
+                ],
+                [
+                  "General & Admin Exp",
+                  "383.06",
+                  "368.22",
+                  "366.21"
+                ],
+                [
+                  "Operating Income",
+                  "-869.20",
+                  "-638.16",
+                  "135.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-15.07",
+                  "-10.97",
+                  "1.92"
+                ],
+                [
+                  "Net Income",
+                  "-757.49",
+                  "-525.29",
+                  "67.07"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-13.14",
+                  "-9.03",
+                  "0.95"
+                ],
+                [
+                  "Op Cash Flow",
+                  "20.11",
+                  "336.12",
+                  "760.38"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1400.83",
+                  "-907.56",
+                  "-1443.05"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-158.39",
+                  "2584.81",
+                  "-519.07"
+                ],
+                [
+                  "CAPEX",
+                  "-1593.97",
+                  "-1405.98",
+                  "-1465.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1565.66",
+                  "1537.88",
+                  "1385.11",
+                  "1277.32"
+                ],
+                [
+                  "Gross Profit",
+                  "-15.83",
+                  "-44.08",
+                  "-58.05",
+                  "-72.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-1.01",
+                  "-2.87",
+                  "-4.19",
+                  "-5.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "21.08",
+                  "21.95",
+                  "20.06",
+                  "21.59"
+                ],
+                [
+                  "R&D Exp",
+                  "59.86",
+                  "51.71",
+                  "51.22",
+                  "48.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "96.89",
+                  "94.14",
+                  "98.45",
+                  "93.58"
+                ],
+                [
+                  "Operating Income",
+                  "-193.66",
+                  "-211.89",
+                  "-227.77",
+                  "-235.87"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-12.37",
+                  "-13.78",
+                  "-16.44",
+                  "-18.47"
+                ],
+                [
+                  "Net Income",
+                  "-182.53",
+                  "-184.89",
+                  "-179.65",
+                  "-210.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-11.66",
+                  "-12.02",
+                  "-12.97",
+                  "-16.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "107.12",
+                  "-21.73",
+                  "-71.28",
+                  "5.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "46.20",
+                  "-351.42",
+                  "-346.62",
+                  "-748.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "192.76",
+                  "-354.50",
+                  "-445.45",
+                  "448.80"
+                ],
+                [
+                  "CAPEX",
+                  "-454.40",
+                  "-500.81",
+                  "-378.79",
+                  "-259.98"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹",
+    "碳化矽",
+    "氮化鎵",
+    "半導體",
+    "磊晶",
+    "半導體",
+    "碳化矽",
+    "氮化鎵",
+    "碳化矽",
+    "Infineon",
+    "氮化鎵",
+    "氮化鎵",
+    "台積電",
+    "氮化鎵"
+  ]
+}

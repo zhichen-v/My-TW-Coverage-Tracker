@@ -1,0 +1,716 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6597_立誠.md",
+  "source_path": "Pilot_Reports/Electronic Components/6597_立誠.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6597_立誠.json",
+  "ticker": "6597",
+  "company_name": "立誠",
+  "title": "# 6597_立誠",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,886 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,972 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "立誠光電 (6597，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Ecocera Optronics"
+            },
+            {
+              "type": "text",
+              "text": ") 專精於陶瓷散熱基板的設計、製程整合與製造，為台灣少數具備 DPC (Direct Plated Copper) 陶瓷電路板量產能力的廠商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品與技術：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鋁"
+            },
+            {
+              "type": "text",
+              "text": " (AlN) 陶瓷基板 — 應用於高功率 LED 照明、車用 LED 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "雷射二極體"
+            },
+            {
+              "type": "text",
+              "text": "散熱；(2) 氧化鋁 (Al2O3) 陶瓷基板 — 應用於 UV LED、IR 感測器及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "3D 感測"
+            },
+            {
+              "type": "text",
+              "text": " 元件；(3) DPC 製程整合 — 結合薄膜濺鍍、微影與電鍍技術，可在陶瓷基板上製作精密電路圖案，應用於功率元件 (PMIC)、射頻 (RF) 與熱電模組。立誠的陶瓷基板產品已廣泛供應國內外 LED 封裝廠與車用照明模組廠，並積極拓展至半導體功率元件散熱應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (陶瓷原料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷基材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、氧化鋁陶瓷粉體與基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅、銀等金屬濺鍍靶材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 薄膜濺鍍機、微影曝光設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (陶瓷基板製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DPC 基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "立誠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (DPC 陶瓷電路板設計與製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "立誠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/氧化鋁散熱基板)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (LED 封裝與功率元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 封裝廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高功率 LED 散熱基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用照明:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 LED 模組廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "散熱基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷射元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "雷射二極體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "封裝廠 — 雷射散熱基座"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 功率元件廠 — PMIC 散熱基板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外 LED 封裝廠如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高功率 LED 陶瓷散熱基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用照明:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 LED 模組廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "散熱基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷射元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "雷射二極體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "封裝廠 — 雷射散熱基座"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D 感測"
+                    },
+                    {
+                      "type": "text",
+                      "text": "元件廠 — IR/UV LED 基板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "陶瓷基材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "氮化鋁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與氧化鋁陶瓷基板原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬靶材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅、銀濺鍍靶材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 薄膜濺鍍與微影製程設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $64.60 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "25.84",
+                  "N/A",
+                  "2.47",
+                  "2.33",
+                  "10.85"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "765.18",
+                  "867.43",
+                  "603.62"
+                ],
+                [
+                  "Gross Profit",
+                  "227.78",
+                  "255.93",
+                  "140.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.77",
+                  "29.50",
+                  "23.32"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "36.45",
+                  "38.66",
+                  "28.07"
+                ],
+                [
+                  "R&D Exp",
+                  "30.28",
+                  "29.00",
+                  "21.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "52.82",
+                  "54.96",
+                  "32.58"
+                ],
+                [
+                  "Operating Income",
+                  "108.23",
+                  "133.31",
+                  "58.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.14",
+                  "15.37",
+                  "9.71"
+                ],
+                [
+                  "Net Income",
+                  "71.33",
+                  "121.64",
+                  "64.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.32",
+                  "14.02",
+                  "10.68"
+                ],
+                [
+                  "Op Cash Flow",
+                  "7.16",
+                  "209.85",
+                  "79.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-342.82",
+                  "-66.31",
+                  "-30.92"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "203.34",
+                  "-67.94",
+                  "-9.10"
+                ],
+                [
+                  "CAPEX",
+                  "-313.01",
+                  "-64.91",
+                  "-31.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "196.04",
+                  "164.51",
+                  "207.12",
+                  "212.80"
+                ],
+                [
+                  "Gross Profit",
+                  "62.42",
+                  "45.87",
+                  "60.52",
+                  "60.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.84",
+                  "27.88",
+                  "29.22",
+                  "28.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10.69",
+                  "7.80",
+                  "8.66",
+                  "10.74"
+                ],
+                [
+                  "R&D Exp",
+                  "8.71",
+                  "7.07",
+                  "7.12",
+                  "8.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "12.09",
+                  "15.46",
+                  "13.59",
+                  "16.37"
+                ],
+                [
+                  "Operating Income",
+                  "30.94",
+                  "15.53",
+                  "31.16",
+                  "25.41"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.78",
+                  "9.44",
+                  "15.04",
+                  "11.94"
+                ],
+                [
+                  "Net Income",
+                  "25.90",
+                  "-22.44",
+                  "32.17",
+                  "27.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.21",
+                  "-13.64",
+                  "15.53",
+                  "13.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4.83",
+                  "-2.81",
+                  "46.94",
+                  "63.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-71.92",
+                  "-238.26",
+                  "-18.34",
+                  "-19.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "52.18",
+                  "225.63",
+                  "-5.77",
+                  "-5.75"
+                ],
+                [
+                  "CAPEX",
+                  "-41.94",
+                  "-238.28",
+                  "-18.37",
+                  "-16.42"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Ecocera Optronics",
+    "氮化鋁",
+    "雷射二極體",
+    "3D 感測",
+    "氮化鋁",
+    "氮化鋁",
+    "億光",
+    "光寶",
+    "氮化鋁",
+    "雷射二極體",
+    "億光",
+    "光寶",
+    "氮化鋁",
+    "雷射二極體",
+    "3D 感測",
+    "氮化鋁"
+  ]
+}

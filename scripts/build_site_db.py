@@ -16,13 +16,11 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timezone
 
+from report_parser import parse_report_content
 from utils import REPORTS_DIR, classify_wikilink, get_ticker_from_filename
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_DB_PATH = os.path.join(PROJECT_ROOT, "data", "site.db")
-WIKILINK_PATTERN = re.compile(r"\[\[([^\]]+)\]\]")
-H2_PATTERN = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
-METADATA_LINE_PATTERN = re.compile(r"^\*\*(.+?)\*\*\s*:?\s*(.+?)\s*$")
 
 
 @dataclass
@@ -63,55 +61,6 @@ def iter_report_paths(reports_dir: str) -> list[str]:
     return sorted(report_paths)
 
 
-def split_h2_sections(content: str) -> list[tuple[str, str]]:
-    matches = list(H2_PATTERN.finditer(content))
-    sections = []
-    for index, match in enumerate(matches):
-        start = match.end()
-        end = matches[index + 1].start() if index + 1 < len(matches) else len(content)
-        sections.append((match.group(1).strip(), content[start:end].strip()))
-    return sections
-
-
-def parse_metadata_and_overview(section_body: str) -> tuple[list[tuple[str, str]], str]:
-    metadata = []
-    overview_lines = []
-    collecting_metadata = True
-
-    for raw_line in section_body.splitlines():
-        line = raw_line.strip()
-        if collecting_metadata and not line:
-            continue
-        if collecting_metadata:
-            match = METADATA_LINE_PATTERN.match(line)
-            if match:
-                metadata.append((match.group(1).strip(), match.group(2).strip()))
-                continue
-            collecting_metadata = False
-        overview_lines.append(raw_line)
-
-    overview_text = "\n".join(overview_lines).strip()
-    return metadata, overview_text
-
-
-def extract_wikilinks(text: str) -> list[str]:
-    return [match.strip() for match in WIKILINK_PATTERN.findall(text) if match.strip()]
-
-
-def build_section_map(content: str) -> dict[str, str]:
-    sections = split_h2_sections(content)
-    normalized = {}
-    if sections:
-        normalized["overview"] = sections[0][1]
-    if len(sections) > 1:
-        normalized["supply_chain"] = sections[1][1]
-    if len(sections) > 2:
-        normalized["customer_supplier"] = sections[2][1]
-    if len(sections) > 3:
-        normalized["financials"] = sections[3][1]
-    return normalized
-
-
 def parse_report(report_path: str) -> ParsedReport:
     with open(report_path, "r", encoding="utf-8") as handle:
         content = handle.read()
@@ -122,18 +71,8 @@ def parse_report(report_path: str) -> ParsedReport:
 
     sector_folder = os.path.basename(os.path.dirname(report_path))
     title = content.splitlines()[0].strip() if content.strip() else f"# {ticker} - {company_name}"
-    section_map = build_section_map(content)
-
-    metadata_pairs, overview_text = parse_metadata_and_overview(section_map.get("overview", ""))
-    metadata_values = [value for _, value in metadata_pairs]
-
-    wikilinks_by_section = {
-        "overview": Counter(extract_wikilinks(overview_text)),
-        "supply_chain": Counter(extract_wikilinks(section_map.get("supply_chain", ""))),
-        "customer_supplier": Counter(extract_wikilinks(section_map.get("customer_supplier", ""))),
-        "financials": Counter(extract_wikilinks(section_map.get("financials", ""))),
-    }
-    all_wikilinks = extract_wikilinks(content)
+    parsed = parse_report_content(content)
+    metadata_values = parsed["metadata_values"]
 
     return ParsedReport(
         report_id=os.path.relpath(report_path, PROJECT_ROOT).replace("\\", "/"),
@@ -146,12 +85,12 @@ def parse_report(report_path: str) -> ParsedReport:
         metadata_industry=metadata_values[1] if len(metadata_values) > 1 else "",
         market_cap_text=metadata_values[2] if len(metadata_values) > 2 else "",
         enterprise_value_text=metadata_values[3] if len(metadata_values) > 3 else "",
-        overview_text=overview_text,
-        supply_chain_text=section_map.get("supply_chain", ""),
-        customer_supplier_text=section_map.get("customer_supplier", ""),
-        financials_text=section_map.get("financials", ""),
-        wikilinks_by_section=wikilinks_by_section,
-        all_wikilinks=all_wikilinks,
+        overview_text=parsed["overview_text"],
+        supply_chain_text=parsed["supply_chain_text"],
+        customer_supplier_text=parsed["customer_supplier_text"],
+        financials_text=parsed["financials_text"],
+        wikilinks_by_section=parsed["wikilinks_by_section"],
+        all_wikilinks=parsed["all_wikilinks"],
     )
 
 

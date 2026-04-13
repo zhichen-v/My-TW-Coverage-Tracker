@@ -1,0 +1,780 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/6691_洋基工程.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/6691_洋基工程.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/6691_洋基工程.json",
+  "ticker": "6691",
+  "company_name": "洋基工程",
+  "title": "# 6691_洋基工程",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Engineering & Construction"
+      },
+      {
+        "label": "市值:",
+        "value": "74,167 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "68,956 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "洋基工程股份有限公司為台灣高科技廠房"
+            },
+            {
+              "type": "wikilink",
+              "text": "無塵室"
+            },
+            {
+              "type": "text",
+              "text": "與機電空調統包工程（EPC）龍頭。公司專精於對微塵、溫濕度有極嚴苛要求之半導體晶圓廠及"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "載板廠廠房建設，提供從工程設計、材料採購到施工管理之一條龍 Turnkey 服務。營收主力來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "無塵室"
+            },
+            {
+              "type": "text",
+              "text": "（Clean Room）建置及機電空調配置（MEP），同時涵蓋消防工程。"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "為最大單一客戶，約佔四成營收。受惠於全球半導體產能擴張（先進製程、"
+            },
+            {
+              "type": "wikilink",
+              "text": "CoWoS"
+            },
+            {
+              "type": "text",
+              "text": "先進封裝）及"
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": "大廠擴產潮，訂單能見度高。同業包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "漢唐"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聖暉"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "亞翔"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "巨漢"
+            },
+            {
+              "type": "text",
+              "text": "等。近年隨台廠海外設廠趨勢，亦積極佈局泰國等海外市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "空調設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 冰水主機、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無塵室"
+                    },
+                    {
+                      "type": "text",
+                      "text": "過濾系統（FFU）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高低壓機電盤體箱、電線電纜，供應商如"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "士林電機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中興電工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "潔淨建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無塵室庫板、金屬管件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (統包工程)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "洋基工程"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高科技廠房"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無塵室"
+                    },
+                    {
+                      "type": "text",
+                      "text": "建置設計、廠務機電空調管線配置與消防系統之 EPC 統包"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（先進製程與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CoWoS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "封裝廠房，約佔營收四成）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（林口廠）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "載板/PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABF 載板"
+                    },
+                    {
+                      "type": "text",
+                      "text": "大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商辦大樓、資料中心"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體晶圓廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（最大客戶，約佔營收40%）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ASML"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（林口廠區機電工程）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "載板/PCB廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣興"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等大面積"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABF 載板"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融/商辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富邦金控"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等商辦機電工程"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "士林電機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中興電工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（高低壓機電盤）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "空調設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 冰水主機與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無塵室"
+                    },
+                    {
+                      "type": "text",
+                      "text": " FFU 過濾系統供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "潔淨建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無塵室庫板、管件材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "勞務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型機電施工協力廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $615.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.88",
+                  "17.52",
+                  "3.32",
+                  "9.77",
+                  "18.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22352.10",
+                  "15192.05",
+                  "15513.57"
+                ],
+                [
+                  "Gross Profit",
+                  "4265.02",
+                  "3014.76",
+                  "2693.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.08",
+                  "19.84",
+                  "17.36"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "539.05",
+                  "420.14",
+                  "481.53"
+                ],
+                [
+                  "Operating Income",
+                  "3725.98",
+                  "2594.63",
+                  "2212.25"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.67",
+                  "17.08",
+                  "14.26"
+                ],
+                [
+                  "Net Income",
+                  "2985.47",
+                  "2030.00",
+                  "1767.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.36",
+                  "13.36",
+                  "11.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1748.68",
+                  "3210.47",
+                  "1778.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-180.50",
+                  "-237.33",
+                  "1015.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1786.03",
+                  "-1547.48",
+                  "-1228.11"
+                ],
+                [
+                  "CAPEX",
+                  "-372.28",
+                  "-126.09",
+                  "-29.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6974.87",
+                  "5549.33",
+                  "5881.51",
+                  "3946.39"
+                ],
+                [
+                  "Gross Profit",
+                  "1358.20",
+                  "980.85",
+                  "1089.92",
+                  "836.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.47",
+                  "17.68",
+                  "18.53",
+                  "21.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "178.18",
+                  "129.87",
+                  "112.66",
+                  "118.34"
+                ],
+                [
+                  "Operating Income",
+                  "1180.03",
+                  "850.98",
+                  "977.26",
+                  "717.71"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.92",
+                  "15.33",
+                  "16.62",
+                  "18.19"
+                ],
+                [
+                  "Net Income",
+                  "979.16",
+                  "735.44",
+                  "673.61",
+                  "597.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.04",
+                  "13.25",
+                  "11.45",
+                  "15.13"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-113.79",
+                  "380.63",
+                  "398.53",
+                  "1083.31"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-286.96",
+                  "-137.77",
+                  "-20.74",
+                  "264.98"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3.94",
+                  "-1680.49",
+                  "-2.10",
+                  "-107.38"
+                ],
+                [
+                  "CAPEX",
+                  "-23.05",
+                  "-315.64",
+                  "-13.47",
+                  "-20.12"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "無塵室",
+    "PCB",
+    "無塵室",
+    "台積電",
+    "CoWoS",
+    "PCB",
+    "漢唐",
+    "聖暉",
+    "亞翔",
+    "巨漢",
+    "無塵室",
+    "士林電機",
+    "中興電工",
+    "無塵室",
+    "台積電",
+    "CoWoS",
+    "ASML",
+    "欣興",
+    "南電",
+    "ABF 載板",
+    "台積電",
+    "ASML",
+    "欣興",
+    "南電",
+    "ABF 載板",
+    "富邦金控",
+    "士林電機",
+    "中興電工",
+    "無塵室"
+  ]
+}

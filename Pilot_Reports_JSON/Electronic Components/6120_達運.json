@@ -1,0 +1,777 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6120_達運.md",
+  "source_path": "Pilot_Reports/Electronic Components/6120_達運.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6120_達運.json",
+  "ticker": "6120",
+  "company_name": "達運",
+  "title": "# 6120_達運",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "7,937 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,711 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "達運精密 (6120，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Darwin Precisions"
+            },
+            {
+              "type": "text",
+              "text": ") 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": "光電旗下重要子公司，專精於顯示器整合解決方案及精密光電零組件。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要業務：(1) 背光模組 — 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": "集團主要背光模組供應商，涵蓋 NB、Monitor 及電視用背光模組；(2) 精密金屬遮罩 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FMM"
+            },
+            {
+              "type": "text",
+              "text": ") — 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": " 蒸鍍製程關鍵耗材，供應中國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": " 面板廠，為未來關鍵成長動能；(3) 智慧顯示系統 — 透過併購 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Avocor"
+            },
+            {
+              "type": "text",
+              "text": "，跨足商用及教育場域互動式顯示屏，並積極布局智慧零售、智慧醫療與車載顯示應用整合。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光電材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學膜片供應商 — 增輝膜、擴散膜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 晶粒/封裝供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 驅動及電源管理 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "導光板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 導光板材料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (模組與零組件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "背光模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "達運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (LCD 背光模組組裝)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[FMM]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "達運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密金屬遮罩)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "顯示系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "達運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Avocor"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (互動式顯示屏)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (面板廠與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 最大客戶，背光模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OLED]] 面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京東方"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "維信諾"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等中國 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMOLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FMM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用/教育:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用顯示與教育市場 — 互動式顯示屏"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 最大客戶，背光模組供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OLED]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "京東方"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "維信諾"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等中國 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMOLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FMM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密金屬遮罩"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用及教育場域客戶 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Avocor"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 互動式顯示屏"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 驅動及電源管理 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 晶粒與封裝供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學膜片 (增輝膜/擴散膜) 供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $13.25 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "-662.50",
+                  "0.46",
+                  "0.90",
+                  "5.70"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "17105.52",
+                  "20872.57",
+                  "17769.98"
+                ],
+                [
+                  "Gross Profit",
+                  "860.88",
+                  "1065.80",
+                  "852.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.03",
+                  "5.11",
+                  "4.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "161.66",
+                  "171.20",
+                  "178.88"
+                ],
+                [
+                  "R&D Exp",
+                  "327.08",
+                  "398.48",
+                  "351.35"
+                ],
+                [
+                  "General & Admin Exp",
+                  "617.71",
+                  "643.78",
+                  "599.41"
+                ],
+                [
+                  "Operating Income",
+                  "-245.57",
+                  "-147.66",
+                  "-277.42"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.44",
+                  "-0.71",
+                  "-1.56"
+                ],
+                [
+                  "Net Income",
+                  "-120.69",
+                  "187.02",
+                  "114.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.71",
+                  "0.90",
+                  "0.65"
+                ],
+                [
+                  "Op Cash Flow",
+                  "581.41",
+                  "2017.11",
+                  "317.81"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-354.31",
+                  "-315.80",
+                  "2324.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1319.21",
+                  "-1290.36",
+                  "-1258.08"
+                ],
+                [
+                  "CAPEX",
+                  "-540.62",
+                  "-485.51",
+                  "-417.45"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4053.64",
+                  "3951.43",
+                  "4345.47",
+                  "4754.98"
+                ],
+                [
+                  "Gross Profit",
+                  "228.33",
+                  "216.38",
+                  "212.93",
+                  "203.23"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.63",
+                  "5.48",
+                  "4.90",
+                  "4.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "49.15",
+                  "39.18",
+                  "40.16",
+                  "33.17"
+                ],
+                [
+                  "R&D Exp",
+                  "87.78",
+                  "83.45",
+                  "85.23",
+                  "70.63"
+                ],
+                [
+                  "General & Admin Exp",
+                  "153.50",
+                  "156.85",
+                  "157.33",
+                  "150.03"
+                ],
+                [
+                  "Operating Income",
+                  "-62.09",
+                  "-63.09",
+                  "-69.78",
+                  "-50.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.53",
+                  "-1.60",
+                  "-1.61",
+                  "-1.06"
+                ],
+                [
+                  "Net Income",
+                  "-7.45",
+                  "-30.67",
+                  "-59.92",
+                  "-22.65"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.18",
+                  "-0.78",
+                  "-1.38",
+                  "-0.48"
+                ],
+                [
+                  "Op Cash Flow",
+                  "136.88",
+                  "-281.63",
+                  "238.57",
+                  "487.59"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-215.64",
+                  "58.33",
+                  "-89.67",
+                  "-107.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-767.88",
+                  "-273.27",
+                  "-141.44",
+                  "-136.61"
+                ],
+                [
+                  "CAPEX",
+                  "-227.10",
+                  "-103.61",
+                  "-96.12",
+                  "-113.79"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Darwin Precisions",
+    "友達",
+    "友達",
+    "FMM",
+    "OLED",
+    "OLED",
+    "Avocor",
+    "瑞鼎",
+    "FMM",
+    "OLED",
+    "Avocor",
+    "友達",
+    "OLED",
+    "京東方",
+    "維信諾",
+    "AMOLED",
+    "FMM",
+    "友達",
+    "OLED",
+    "京東方",
+    "維信諾",
+    "AMOLED",
+    "FMM",
+    "Avocor",
+    "瑞鼎"
+  ]
+}

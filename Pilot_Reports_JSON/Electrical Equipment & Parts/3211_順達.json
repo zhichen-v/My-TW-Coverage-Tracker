@@ -1,0 +1,830 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3211_順達.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3211_順達.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3211_順達.json",
+  "ticker": "3211",
+  "company_name": "順達",
+  "title": "# 3211 - 順達",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "53,633 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "48,921 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "順達科技 (3211，Dynapack International) 為全球前三大筆電電池模組廠 (與"
+            },
+            {
+              "type": "wikilink",
+              "text": "新普"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "加百裕"
+            },
+            {
+              "type": "text",
+              "text": "並列)。核心成長動能為伺服器備援電池 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "BBU"
+            },
+            {
+              "type": "text",
+              "text": ")，受惠"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "功耗大增，BBU 需求強勁。2025 年 BBU 以 3KW 為主，2026 年升至 5.5KW，8KW/12KW 開始出貨。與"
+            },
+            {
+              "type": "wikilink",
+              "text": "台達電"
+            },
+            {
+              "type": "text",
+              "text": "合作開發 400VDC/800VDC BBU。Non-IT 營收佔比預計 2026 年達 40-50%。IT 客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": "。上游電芯來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LG Energy Solution"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung SDI"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ATL"
+            },
+            {
+              "type": "text",
+              "text": "。另發展"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "及輕型電動載具電池模組。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電芯)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Energy Solution"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung SDI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ATL"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鋰電池芯"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "順達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電池 Pack/BMS 管理系統，筆電/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BBU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "儲能"
+                    },
+                    {
+                      "type": "text",
+                      "text": "模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電池模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CSP"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資料中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BBU"
+                    },
+                    {
+                      "type": "text",
+                      "text": "備援電池"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 400V/800VDC BBU 開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CSP"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "資料中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BBU"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — BBU 開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG Energy Solution"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung SDI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ATL"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $347.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "35.10",
+                  "16.12",
+                  "4.06",
+                  "5.33",
+                  "31.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "13218.49",
+                  "13911.57",
+                  "17230.43"
+                ],
+                [
+                  "Gross Profit",
+                  "2193.38",
+                  "1584.32",
+                  "1517.58"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.59",
+                  "11.39",
+                  "8.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "95.26",
+                  "94.14",
+                  "122.51"
+                ],
+                [
+                  "R&D Exp",
+                  "478.43",
+                  "382.83",
+                  "374.16"
+                ],
+                [
+                  "General & Admin Exp",
+                  "381.13",
+                  "365.96",
+                  "330.94"
+                ],
+                [
+                  "Operating Income",
+                  "1238.56",
+                  "741.40",
+                  "689.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.37",
+                  "5.33",
+                  "4.00"
+                ],
+                [
+                  "Net Income",
+                  "1381.81",
+                  "2672.65",
+                  "787.94"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.45",
+                  "19.21",
+                  "4.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1655.17",
+                  "1206.47",
+                  "3233.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "2439.31",
+                  "1214.22",
+                  "-2370.46"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2884.84",
+                  "-2103.38",
+                  "-1876.82"
+                ],
+                [
+                  "CAPEX",
+                  "-178.84",
+                  "-154.22",
+                  "-193.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3983.98",
+                  "3249.23",
+                  "2362.95",
+                  "2946.37"
+                ],
+                [
+                  "Gross Profit",
+                  "802.31",
+                  "430.56",
+                  "375.93",
+                  "342.27"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.14",
+                  "13.25",
+                  "15.91",
+                  "11.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "25.59",
+                  "22.05",
+                  "19.99",
+                  "20.03"
+                ],
+                [
+                  "R&D Exp",
+                  "130.68",
+                  "116.87",
+                  "103.76",
+                  "94.53"
+                ],
+                [
+                  "General & Admin Exp",
+                  "106.34",
+                  "94.55",
+                  "91.21",
+                  "107.16"
+                ],
+                [
+                  "Operating Income",
+                  "539.71",
+                  "197.09",
+                  "160.98",
+                  "120.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.55",
+                  "6.07",
+                  "6.81",
+                  "4.09"
+                ],
+                [
+                  "Net Income",
+                  "386.02",
+                  "593.58",
+                  "163.44",
+                  "142.41"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.69",
+                  "18.27",
+                  "6.92",
+                  "4.83"
+                ],
+                [
+                  "Op Cash Flow",
+                  "976.02",
+                  "430.83",
+                  "130.66",
+                  "525.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1750.80",
+                  "2305.70",
+                  "-722.99",
+                  "-907.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1197.77",
+                  "-23.38",
+                  "222.78",
+                  "97.59"
+                ],
+                [
+                  "CAPEX",
+                  "-39.97",
+                  "-41.87",
+                  "-21.62",
+                  "-50.95"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新普",
+    "加百裕",
+    "BBU",
+    "AI 伺服器",
+    "台達電",
+    "Dell",
+    "HP",
+    "Apple",
+    "華碩",
+    "Samsung",
+    "Panasonic",
+    "LG Energy Solution",
+    "Samsung SDI",
+    "ATL",
+    "儲能",
+    "Panasonic",
+    "LG Energy Solution",
+    "Samsung SDI",
+    "ATL",
+    "BBU",
+    "儲能",
+    "Dell",
+    "HP",
+    "Apple",
+    "華碩",
+    "Samsung",
+    "CSP",
+    "資料中心",
+    "BBU",
+    "台達電",
+    "Dell",
+    "HP",
+    "Apple",
+    "華碩",
+    "Samsung",
+    "CSP",
+    "資料中心",
+    "BBU",
+    "台達電",
+    "Panasonic",
+    "LG Energy Solution",
+    "Samsung SDI",
+    "ATL"
+  ]
+}

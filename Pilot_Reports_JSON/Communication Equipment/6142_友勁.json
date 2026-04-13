@@ -1,0 +1,705 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/6142_友勁.md",
+  "source_path": "Pilot_Reports/Communication Equipment/6142_友勁.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/6142_友勁.json",
+  "ticker": "6142",
+  "company_name": "友勁",
+  "title": "# 6142_友勁",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "3,357 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,813 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "友勁科技 (6142，Alpha Networks) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "友訊科技"
+            },
+            {
+              "type": "text",
+              "text": " (2332，"
+            },
+            {
+              "type": "wikilink",
+              "text": "D-Link"
+            },
+            {
+              "type": "text",
+              "text": ") 轉投資之專業網通設備製造商，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "台鋼集團"
+            },
+            {
+              "type": "text",
+              "text": "。公司堅持「台灣製造 (MIT)」以確保品質與資訊安全，近年全面轉型，汰換低毛利消費型網通產品，將營運重心集中於高毛利的商用/企業級網通市場。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主力產品涵蓋 2.5G/10G/100G 規格之 L2/L3 企業級網路交換器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi 7"
+            },
+            {
+              "type": "text",
+              "text": " 企業級智慧型基地台 (AP)、以及小型資料中心交換器。公司在美國對 "
+            },
+            {
+              "type": "wikilink",
+              "text": "TP-Link"
+            },
+            {
+              "type": "text",
+              "text": " 等中系網通產品實施禁令的「去中化」趨勢下，以 100% 台灣製造優勢成為客戶產能轉移的首選。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (網通晶片與射頻元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交換器晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業級網路交換器 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — Wi-Fi 6/7 射頻模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB/天線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高頻多層 PCB 及射頻天線"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (企業級網通設備 MIT 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業交換器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "友勁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (L2/L3 10G/100G 網管交換器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業 AP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "友勁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Wi-Fi 7"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用基地台)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "製造優勢:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 100% 台灣在地製造 (MIT)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (企業網通品牌與系統整合商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關係企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "D-Link"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (友訊) — 企業級網通設備代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美企業級網通品牌商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "去中化受惠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 原中系網通客戶轉單"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關係企業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "D-Link"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (友訊科技) — 企業級交換器及 AP 代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業品牌商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美企業級網通品牌 — 去中化轉單受惠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外大型系統整合商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "交換器晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Broadcom"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Wi-Fi 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團關聯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鋼集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應鏈資源"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $10.15 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.86",
+                  "1.08",
+                  "-26.70"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1803.87",
+                  "1184.29",
+                  "2539.35"
+                ],
+                [
+                  "Gross Profit",
+                  "168.94",
+                  "19.14",
+                  "172.91"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.37",
+                  "1.62",
+                  "6.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "50.83",
+                  "46.61",
+                  "65.06"
+                ],
+                [
+                  "R&D Exp",
+                  "216.22",
+                  "220.01",
+                  "188.84"
+                ],
+                [
+                  "General & Admin Exp",
+                  "93.83",
+                  "81.29",
+                  "108.43"
+                ],
+                [
+                  "Operating Income",
+                  "-191.94",
+                  "-328.77",
+                  "-189.43"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-10.64",
+                  "-27.76",
+                  "-7.46"
+                ],
+                [
+                  "Net Income",
+                  "-84.46",
+                  "-164.56",
+                  "-37.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.68",
+                  "-13.89",
+                  "-1.46"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-110.50",
+                  "-132.86",
+                  "511.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "57.55",
+                  "-198.89",
+                  "-335.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-10.96",
+                  "-142.81",
+                  "-329.00"
+                ],
+                [
+                  "CAPEX",
+                  "-19.95",
+                  "-27.27",
+                  "-22.18"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "376.91",
+                  "502.87",
+                  "505.50",
+                  "418.59"
+                ],
+                [
+                  "Gross Profit",
+                  "6.86",
+                  "50.62",
+                  "52.80",
+                  "58.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "1.82",
+                  "10.07",
+                  "10.44",
+                  "14.02"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.56",
+                  "16.77",
+                  "13.04",
+                  "12.47"
+                ],
+                [
+                  "R&D Exp",
+                  "50.94",
+                  "56.27",
+                  "54.26",
+                  "54.76"
+                ],
+                [
+                  "General & Admin Exp",
+                  "26.05",
+                  "21.90",
+                  "23.77",
+                  "22.11"
+                ],
+                [
+                  "Operating Income",
+                  "-78.69",
+                  "-44.31",
+                  "-38.26",
+                  "-30.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-20.88",
+                  "-8.81",
+                  "-7.57",
+                  "-7.33"
+                ],
+                [
+                  "Net Income",
+                  "-29.23",
+                  "24.49",
+                  "-63.79",
+                  "-15.93"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-7.75",
+                  "4.87",
+                  "-12.62",
+                  "-3.81"
+                ],
+                [
+                  "Op Cash Flow",
+                  "46.90",
+                  "-93.73",
+                  "-54.46",
+                  "-9.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-5.17",
+                  "-15.52",
+                  "-193.66",
+                  "271.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "75.09",
+                  "-16.85",
+                  "-33.25",
+                  "-35.95"
+                ],
+                [
+                  "CAPEX",
+                  "0.92",
+                  "-1.89",
+                  "-6.44",
+                  "-12.54"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "友訊科技",
+    "D-Link",
+    "台鋼集團",
+    "Wi-Fi 7",
+    "TP-Link",
+    "Broadcom",
+    "瑞昱",
+    "Qualcomm",
+    "聯發科",
+    "Wi-Fi 7",
+    "D-Link",
+    "D-Link",
+    "Broadcom",
+    "瑞昱",
+    "Qualcomm",
+    "聯發科",
+    "台鋼集團"
+  ]
+}

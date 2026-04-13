@@ -1,10 +1,15 @@
 "use client";
 
+import { Fragment, type ReactNode } from "react";
 import Link from "next/link";
-import ReactMarkdown from "react-markdown";
-import remarkGfm from "remark-gfm";
-import type { CompanyDetail } from "@/lib/api";
-import { translateFinancialMarkdown } from "@/lib/financial-markdown";
+import type {
+  CompanyDetail,
+  StructuredContentBlock,
+  StructuredInlineSegment,
+  StructuredContentSection,
+} from "@/lib/api";
+import { translateFinancialText } from "@/lib/financial-markdown";
+import { translateSectorName, type SupportedLanguage } from "@/lib/i18n";
 import { LanguageProvider, useLanguage } from "@/components/language-provider";
 
 type CompanyPageClientProps = {
@@ -13,16 +18,127 @@ type CompanyPageClientProps = {
   ticker: string;
 };
 
+function renderInlineSegments(
+  segments: StructuredInlineSegment[],
+  transformText?: (text: string) => string,
+): ReactNode {
+  return segments.map((segment, segmentIndex) => {
+    const content = transformText ? transformText(segment.text) : segment.text;
+    const lines = content.split("\n");
+
+    return (
+      <Fragment key={`segment-${segmentIndex}`}>
+        {lines.map((line, lineIndex) => {
+          const renderedLine =
+            segment.type === "strong" ? <strong>{line}</strong> : line;
+
+          return (
+            <Fragment key={`line-${segmentIndex}-${lineIndex}`}>
+              {renderedLine}
+              {lineIndex < lines.length - 1 ? <br /> : null}
+            </Fragment>
+          );
+        })}
+      </Fragment>
+    );
+  });
+}
+
+type SnapshotValueKind = "sector" | "industry" | "marketCap" | "enterpriseValue";
+
+function translateSnapshotValue(
+  value: string,
+  kind: SnapshotValueKind,
+  language: SupportedLanguage,
+) {
+  if (!value) {
+    return value;
+  }
+
+  if (kind === "sector" || kind === "industry") {
+    return translateSectorName(language, value);
+  }
+
+  return translateFinancialText(value, language);
+}
+
 function DetailBlock({
   index,
   title,
-  body,
+  section,
+  isFinancial = false,
 }: {
   index: number;
   title: string;
-  body: string;
+  section?: StructuredContentSection;
+  isFinancial?: boolean;
 }) {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
+  const hasStructuredContent = Boolean(
+    section && (section.blocks.length > 0 || section.groups.length > 0),
+  );
+
+  function translateText(text: string) {
+    return isFinancial ? translateFinancialText(text, language) : text;
+  }
+
+  function renderSegments(segments: StructuredInlineSegment[]) {
+    return renderInlineSegments(segments, translateText);
+  }
+
+  function renderBlock(block: StructuredContentBlock, blockIndex: number) {
+    if (block.type === "paragraph" && block.segments?.length) {
+      return (
+        <p className="structured-paragraph" key={`paragraph-${blockIndex}`}>
+          {renderSegments(block.segments)}
+        </p>
+      );
+    }
+
+    if (block.type === "list" && block.items?.length) {
+      return (
+        <ul className="structured-list" key={`list-${blockIndex}`}>
+          {block.items.map((item, itemIndex) => (
+            <li className="structured-list-item" key={`item-${itemIndex}`}>
+              {renderSegments(item.segments)}
+            </li>
+          ))}
+        </ul>
+      );
+    }
+
+    if (block.type === "table" && block.columns?.length) {
+      const columns = block.columns.map((column) => translateText(column).trim());
+      const rows = (block.rows ?? []).map((row) =>
+        row.map((cell) => translateText(cell).trim()),
+      );
+
+      return (
+        <div className="structured-table-wrap" key={`table-${blockIndex}`}>
+          <table className="structured-table">
+            <thead>
+              <tr>
+                {columns.map((column, columnIndex) => (
+                  <th key={`column-${columnIndex}`}>{column || "\u00A0"}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((row, rowIndex) => (
+                <tr key={`row-${rowIndex}`}>
+                  {row.map((cell, cellIndex) => (
+                    <td key={`cell-${rowIndex}-${cellIndex}`}>{cell || "\u00A0"}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      );
+    }
+
+    return null;
+  }
 
   return (
     <section className="panel detail-block">
@@ -30,11 +146,21 @@ function DetailBlock({
         <span className="section-index">{String(index).padStart(2, "0")}</span>
         <h2>{title}</h2>
       </div>
-      <div className="rich-text markdown-body">
-        {body ? (
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>{body}</ReactMarkdown>
+      <div className="structured-body">
+        {hasStructuredContent ? (
+          <>
+            {section?.blocks.map((block, blockIndex) => renderBlock(block, blockIndex))}
+            {section?.groups.map((group, groupIndex) => (
+              <div className="structured-group" key={`${group.title}-${groupIndex}`}>
+                <h3 className="structured-group-title">{translateText(group.title)}</h3>
+                {group.blocks.map((block, blockIndex) =>
+                  renderBlock(block, groupIndex * 100 + blockIndex),
+                )}
+              </div>
+            ))}
+          </>
         ) : (
-          t("noData")
+          <p className="structured-empty">{t("noData")}</p>
         )}
       </div>
     </section>
@@ -46,37 +172,46 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
   const snapshotItems = [
     {
       label: t("sector"),
-      value: primary.metadata_sector || t("notAvailable"),
+      value:
+        translateSnapshotValue(primary.metadata_sector, "sector", language) ||
+        t("notAvailable"),
     },
     {
       label: t("industry"),
-      value: primary.metadata_industry || t("notAvailable"),
+      value:
+        translateSnapshotValue(primary.metadata_industry, "industry", language) ||
+        t("notAvailable"),
     },
     {
       label: t("marketCap"),
-      value: primary.market_cap_text || t("notAvailable"),
+      value:
+        translateSnapshotValue(primary.market_cap_text, "marketCap", language) ||
+        t("notAvailable"),
     },
     {
       label: t("enterpriseValue"),
-      value: primary.enterprise_value_text || t("notAvailable"),
+      value:
+        translateSnapshotValue(primary.enterprise_value_text, "enterpriseValue", language) ||
+        t("notAvailable"),
     },
   ];
   const sections = [
     {
       title: t("businessOverview"),
-      body: primary.overview_text,
+      section: primary.structured_content?.sections.overview,
     },
     {
       title: t("supplyChain"),
-      body: primary.supply_chain_text,
+      section: primary.structured_content?.sections.supply_chain,
     },
     {
       title: t("customersAndSuppliers"),
-      body: primary.customer_supplier_text,
+      section: primary.structured_content?.sections.customer_supplier,
     },
     {
       title: t("financialTables"),
-      body: translateFinancialMarkdown(primary.financials_text, language),
+      section: primary.structured_content?.sections.financials,
+      isFinancial: true,
     },
   ];
 
@@ -136,7 +271,8 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
               key={section.title}
               index={index + 1}
               title={section.title}
-              body={section.body}
+              section={section.section}
+              isFinancial={section.isFinancial}
             />
           ))}
         </main>

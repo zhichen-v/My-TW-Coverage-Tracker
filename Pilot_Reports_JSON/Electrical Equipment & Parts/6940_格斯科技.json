@@ -1,0 +1,403 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/6940_格斯科技.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/6940_格斯科技.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/6940_格斯科技.json",
+  "ticker": "6940",
+  "company_name": "格斯科技",
+  "title": "# 6940_格斯科技",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "6,024 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,057 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "格斯科技 (6940) 專注"
+            },
+            {
+              "type": "wikilink",
+              "text": "鈦酸鋰"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "LTO"
+            },
+            {
+              "type": "text",
+              "text": ") 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "NCM"
+            },
+            {
+              "type": "text",
+              "text": "軟包電池芯，台灣唯一具產業規模LTO廠。最大客戶"
+            },
+            {
+              "type": "wikilink",
+              "text": "中油"
+            },
+            {
+              "type": "text",
+              "text": " (儲能標案)。與"
+            },
+            {
+              "type": "wikilink",
+              "text": "中央研究院"
+            },
+            {
+              "type": "text",
+              "text": "合作"
+            },
+            {
+              "type": "wikilink",
+              "text": "固態電池"
+            },
+            {
+              "type": "text",
+              "text": "。仍虧損。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 鈦酸鋰/高鎳正極/電解液\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "格斯"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "LTO"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "NCM"
+            },
+            {
+              "type": "text",
+              "text": "軟包電池芯)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中油"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "；電動巴士/國防"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — LTO "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "儲能"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "電動巴士/國防"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "電池材料; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中央研究院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "固態電池"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.10 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "10.12",
+                  "1.55",
+                  "-13.05"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "349.91",
+                  "46.33",
+                  "49.51"
+                ],
+                [
+                  "Gross Profit",
+                  "-489.88",
+                  "-233.35",
+                  "-81.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-140.00",
+                  "-503.65",
+                  "-163.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "19.21",
+                  "16.94",
+                  "13.17"
+                ],
+                [
+                  "R&D Exp",
+                  "88.60",
+                  "93.41",
+                  "46.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "126.02",
+                  "135.48",
+                  "61.71"
+                ],
+                [
+                  "Operating Income",
+                  "-723.71",
+                  "-479.17",
+                  "-202.54"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-206.83",
+                  "-1034.23",
+                  "-409.10"
+                ],
+                [
+                  "Net Income",
+                  "-718.80",
+                  "-478.48",
+                  "-191.47"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-205.42",
+                  "-1032.74",
+                  "-386.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-772.38",
+                  "-542.16",
+                  "-275.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-679.53",
+                  "-793.60",
+                  "-1279.97"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3147.97",
+                  "1202.24",
+                  "1891.40"
+                ],
+                [
+                  "CAPEX",
+                  "-691.05",
+                  "-869.66",
+                  "-1215.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鈦酸鋰",
+    "LTO",
+    "NCM",
+    "中油",
+    "中央研究院",
+    "固態電池",
+    "LTO",
+    "NCM",
+    "中油",
+    "儲能",
+    "中油",
+    "儲能",
+    "中央研究院",
+    "固態電池"
+  ]
+}

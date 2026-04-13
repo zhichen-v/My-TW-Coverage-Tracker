@@ -1,0 +1,598 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6921_嘉雨思-創.md",
+  "source_path": "Pilot_Reports/Semiconductors/6921_嘉雨思-創.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6921_嘉雨思-創.json",
+  "ticker": "6921",
+  "company_name": "嘉雨思-創",
+  "title": "# 6921_嘉雨思-創",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "2,299 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,210 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "嘉雨思科技 (6921，LeRain Technology) 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LOTES"
+            },
+            {
+              "type": "text",
+              "text": " 集團關係企業，專注於高速訊號傳輸介面數位類比晶片設計。核心產品為支援 "
+            },
+            {
+              "type": "wikilink",
+              "text": "USB4.0"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "DP2.1"
+            },
+            {
+              "type": "text",
+              "text": " 主動式連接器之 Re-Driver IC 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": " Gen 5.0 專用 Re-Driver IC，已獲主要主機板平台採用。亦發展"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "光纖光學 IC。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LOTES"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (連接器集團)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Re-Driver IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "嘉雨思"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (USB4.0/DP2.1/PCIe 5.0 Re-Driver)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (主機板與資料中心)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "技嘉"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "微星"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等主機板平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光纖光學 IC 客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "主機板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "技嘉"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "微星"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光纖光學 IC 客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LOTES"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "譜瑞科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Analogix"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $72.20 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "206.29",
+                  "N/A",
+                  "11.79",
+                  "7.98",
+                  "91.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "194.90",
+                  "151.73",
+                  "109.34"
+                ],
+                [
+                  "Gross Profit",
+                  "112.02",
+                  "99.44",
+                  "80.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "57.48",
+                  "65.54",
+                  "73.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1.23",
+                  "1.99",
+                  "1.62"
+                ],
+                [
+                  "R&D Exp",
+                  "48.12",
+                  "45.34",
+                  "37.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "12.55",
+                  "8.92",
+                  "7.54"
+                ],
+                [
+                  "Operating Income",
+                  "15.97",
+                  "11.85",
+                  "6.80"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.19",
+                  "7.81",
+                  "6.22"
+                ],
+                [
+                  "Net Income",
+                  "10.69",
+                  "22.86",
+                  "6.47"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.49",
+                  "15.07",
+                  "5.92"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-30.40",
+                  "67.20",
+                  "36.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-13.37",
+                  "-48.15",
+                  "-3.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "58.91",
+                  "10.00",
+                  "40.00"
+                ],
+                [
+                  "CAPEX",
+                  "-13.37",
+                  "-48.15",
+                  "-3.95"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2024-12-31",
+                "2024-09-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "44.60",
+                  "34.94",
+                  "52.24",
+                  "61.35"
+                ],
+                [
+                  "Gross Profit",
+                  "25.67",
+                  "19.73",
+                  "31.49",
+                  "42.91"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "57.55",
+                  "56.48",
+                  "60.28",
+                  "69.95"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "0.34",
+                  "0.34",
+                  "0.36",
+                  "0.48"
+                ],
+                [
+                  "R&D Exp",
+                  "8.87",
+                  "12.38",
+                  "10.75",
+                  "16.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "5.38",
+                  "2.49",
+                  "3.19",
+                  "2.58"
+                ],
+                [
+                  "Operating Income",
+                  "2.32",
+                  "-4.17",
+                  "9.30",
+                  "15.29"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.20",
+                  "-11.95",
+                  "17.81",
+                  "24.93"
+                ],
+                [
+                  "Net Income",
+                  "4.48",
+                  "-0.51",
+                  "14.35",
+                  "12.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.05",
+                  "-1.47",
+                  "27.47",
+                  "20.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-0.89",
+                  "-13.13",
+                  "63.52",
+                  "-3.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.62",
+                  "-0.69",
+                  "-41.94",
+                  "-1.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "58.91",
+                  "0.00",
+                  "0.00",
+                  "0.00"
+                ],
+                [
+                  "CAPEX",
+                  "-2.62",
+                  "-0.69",
+                  "-43.22",
+                  "-0.61"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LOTES",
+    "USB4.0",
+    "DP2.1",
+    "PCIe",
+    "資料中心",
+    "LOTES",
+    "華碩",
+    "技嘉",
+    "微星",
+    "華碩",
+    "技嘉",
+    "微星",
+    "LOTES",
+    "譜瑞科技",
+    "Analogix"
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/6616_特昇-KY.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/6616_特昇-KY.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/6616_特昇-KY.json",
+  "ticker": "6616",
+  "company_name": "特昇-KY",
+  "title": "# 6616 - 特昇-KY",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "357 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "243 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "特昇國際 (6616，Techcential，KY) 成立於 2001 年，營運基地位於馬來西亞麻坡 (Muar)，為馬來西亞前五大木製寢室家具製造廠。主要從事美式木製寢室家具 (五件式臥室套組) 之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": " 製造與銷售，產品主要外銷美國及加拿大，終端客戶包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Ashley Furniture"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rooms To Go"
+            },
+            {
+              "type": "text",
+              "text": " 等北美家具零售通路。旗下子公司 ESK Wood Products 從事板材與"
+            },
+            {
+              "type": "wikilink",
+              "text": "橡膠木"
+            },
+            {
+              "type": "text",
+              "text": "原材料之採購加工，EHL Cabinetry 專業製造廚房櫥櫃。公司具備從原木加工到成品家具之垂直整合生產能力，使用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MDF"
+            },
+            {
+              "type": "text",
+              "text": " (中密度纖維板)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "刨花板"
+            },
+            {
+              "type": "text",
+              "text": "及實木等多元板材。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (木材與原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "橡膠木:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬來西亞當地"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "橡膠木"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "板材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 子公司 ESK Wood Products — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MDF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "刨花板"
+                    },
+                    {
+                      "type": "text",
+                      "text": "採購加工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 把手、鉸鏈等家具五金"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特昇國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 美式木製寢室家具設計製造、廚房櫥櫃 (EHL Cabinetry)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國及加拿大家具零售商與進口商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Ashley Furniture"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rooms To Go"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等美國家具零售通路 — 美式寢室家具"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "廚房櫥櫃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美櫥櫃進口商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "木材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬來西亞當地橡膠木及板材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ESK Wood Products (子公司) — 板材加工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "五金配件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家具五金供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $10.05 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.35",
+                  "0.79",
+                  "20.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1027.78",
+                  "1164.36",
+                  "1009.80"
+                ],
+                [
+                  "Gross Profit",
+                  "116.63",
+                  "136.85",
+                  "100.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.35",
+                  "11.75",
+                  "9.94"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "53.05",
+                  "54.59",
+                  "54.23"
+                ],
+                [
+                  "R&D Exp",
+                  "11.72",
+                  "12.94",
+                  "10.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "65.79",
+                  "64.78",
+                  "60.93"
+                ],
+                [
+                  "Operating Income",
+                  "-13.93",
+                  "4.54",
+                  "-25.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.36",
+                  "0.39",
+                  "-2.52"
+                ],
+                [
+                  "Net Income",
+                  "-21.43",
+                  "-48.41",
+                  "-23.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.09",
+                  "-4.16",
+                  "-2.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23.82",
+                  "45.43",
+                  "51.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "2.69",
+                  "7.02",
+                  "-6.18"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3.56",
+                  "-26.50",
+                  "8.43"
+                ],
+                [
+                  "CAPEX",
+                  "-5.79",
+                  "-11.91",
+                  "-11.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "269.59",
+                  "249.96",
+                  "209.30",
+                  "298.93"
+                ],
+                [
+                  "Gross Profit",
+                  "25.68",
+                  "29.75",
+                  "17.10",
+                  "44.10"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.52",
+                  "11.90",
+                  "8.17",
+                  "14.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.03",
+                  "13.11",
+                  "11.58",
+                  "14.33"
+                ],
+                [
+                  "R&D Exp",
+                  "3.18",
+                  "2.83",
+                  "2.64",
+                  "3.07"
+                ],
+                [
+                  "General & Admin Exp",
+                  "16.77",
+                  "15.42",
+                  "15.85",
+                  "17.75"
+                ],
+                [
+                  "Operating Income",
+                  "-8.30",
+                  "-1.61",
+                  "-12.96",
+                  "8.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.08",
+                  "-0.65",
+                  "-6.19",
+                  "2.99"
+                ],
+                [
+                  "Net Income",
+                  "-12.77",
+                  "-1.21",
+                  "-17.23",
+                  "9.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.74",
+                  "-0.48",
+                  "-8.23",
+                  "3.27"
+                ],
+                [
+                  "Op Cash Flow",
+                  "16.98",
+                  "0.38",
+                  "5.89",
+                  "0.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.44",
+                  "-0.45",
+                  "3.18",
+                  "2.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.85",
+                  "9.26",
+                  "3.22",
+                  "-4.19"
+                ],
+                [
+                  "CAPEX",
+                  "-2.72",
+                  "-0.23",
+                  "-0.19",
+                  "-2.65"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OEM",
+    "Ashley Furniture",
+    "Rooms To Go",
+    "橡膠木",
+    "MDF",
+    "刨花板",
+    "橡膠木",
+    "MDF",
+    "刨花板",
+    "Ashley Furniture",
+    "Rooms To Go"
+  ]
+}

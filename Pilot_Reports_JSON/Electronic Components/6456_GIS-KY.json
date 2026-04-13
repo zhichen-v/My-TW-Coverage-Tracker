@@ -1,0 +1,455 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6456_GIS-KY.md",
+  "source_path": "Pilot_Reports/Electronic Components/6456_GIS-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6456_GIS-KY.json",
+  "ticker": "6456",
+  "company_name": "GIS-KY",
+  "title": "# 6456_GIS-KY",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "20,178 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,034 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業成控股股份有限公司 (6456，GIS-KY) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "集團，是全球領先的觸控與顯示模組整合製造專家。GIS-KY以其獨創的「MegaSite」營運模式聞名業界，這項模式將觸控感測器、面板與保護玻璃進行一站式深度整合，大幅縮短客戶供應鏈並降低成本。公司產品廣泛應用於平板電腦、筆記型電腦及智慧型手機。近年來，面對"
+            },
+            {
+              "type": "wikilink",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": "成長放緩，GIS-KY積極將觸控與光學技術延伸至車載顯示器、指紋辨識感測模組，並重兵投入"
+            },
+            {
+              "type": "wikilink",
+              "text": "AR"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "VR"
+            },
+            {
+              "type": "text",
+              "text": "/MR(混合實境)的光學鏡片與光機模組，佈局元宇宙商機。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": LCD/"
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": "面板半成品、觸控感測玻璃(Sensor Glass)、保護玻璃(Cover Glass)及光學膠(OCA)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "GIS-KY業成"
+            },
+            {
+              "type": "text",
+              "text": " (觸控面板模組、液晶顯示器模組之MegaSite一站式整合製造服務)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 全球各大智慧型手機、平板電腦、筆記型電腦品牌商及知名車廠(Tier 1)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Apple"
+                },
+                {
+                  "type": "text",
+                  "text": "(iPad及MacBook觸控/顯示模組之核心供應商)、三星及各大"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AR"
+                },
+                {
+                  "type": "text",
+                  "text": "/"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "VR"
+                },
+                {
+                  "type": "text",
+                  "text": "頭戴裝置品牌。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   各大面板廠(如"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "群創"
+                },
+                {
+                  "type": "text",
+                  "text": "、夏普等)及康寧等保護玻璃原物料大廠。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $60.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "21.73",
+                  "0.30",
+                  "0.68",
+                  "2.96"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "66784.30",
+                  "69986.42",
+                  "71344.73"
+                ],
+                [
+                  "Gross Profit",
+                  "4358.98",
+                  "5129.37",
+                  "1827.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.53",
+                  "7.33",
+                  "2.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "416.87",
+                  "444.26",
+                  "604.35"
+                ],
+                [
+                  "R&D Exp",
+                  "2278.12",
+                  "2772.95",
+                  "3480.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2102.08",
+                  "2313.49",
+                  "2687.43"
+                ],
+                [
+                  "Operating Income",
+                  "-438.10",
+                  "-401.33",
+                  "-4944.81"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.66",
+                  "-0.57",
+                  "-6.93"
+                ],
+                [
+                  "Net Income",
+                  "-262.94",
+                  "156.34",
+                  "-2741.37"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.39",
+                  "0.22",
+                  "-3.84"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1686.48",
+                  "3590.71",
+                  "7397.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-4158.33",
+                  "-15572.26",
+                  "3894.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "13.99",
+                  "-450.64",
+                  "-5192.11"
+                ],
+                [
+                  "CAPEX",
+                  "-3086.68",
+                  "-2148.47",
+                  "-3195.57"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16415.53",
+                  "16143.41",
+                  "19038.28",
+                  "15187.08"
+                ],
+                [
+                  "Gross Profit",
+                  "940.69",
+                  "1045.88",
+                  "1314.04",
+                  "1058.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.73",
+                  "6.48",
+                  "6.90",
+                  "6.97"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "84.76",
+                  "109.55",
+                  "79.96",
+                  "142.61"
+                ],
+                [
+                  "R&D Exp",
+                  "584.13",
+                  "544.11",
+                  "523.08",
+                  "626.80"
+                ],
+                [
+                  "General & Admin Exp",
+                  "541.07",
+                  "540.55",
+                  "504.86",
+                  "515.61"
+                ],
+                [
+                  "Operating Income",
+                  "-269.26",
+                  "-148.32",
+                  "206.14",
+                  "-226.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.64",
+                  "-0.92",
+                  "1.08",
+                  "-1.49"
+                ],
+                [
+                  "Net Income",
+                  "-137.39",
+                  "-95.69",
+                  "42.23",
+                  "-72.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.84",
+                  "-0.59",
+                  "0.22",
+                  "-0.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-491.94",
+                  "1359.26",
+                  "882.47",
+                  "-63.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3955.43",
+                  "-449.93",
+                  "342.31",
+                  "-95.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "433.21",
+                  "484.43",
+                  "-2141.56",
+                  "1237.91"
+                ],
+                [
+                  "CAPEX",
+                  "-758.32",
+                  "-540.75",
+                  "-658.28",
+                  "-1129.34"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鴻海",
+    "消費性電子",
+    "AR",
+    "VR",
+    "OLED",
+    "Apple",
+    "AR",
+    "VR",
+    "群創"
+  ]
+}

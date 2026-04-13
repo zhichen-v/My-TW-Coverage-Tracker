@@ -1,0 +1,578 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/1104_環泥.md",
+  "source_path": "Pilot_Reports/Building Materials/1104_環泥.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/1104_環泥.json",
+  "ticker": "1104",
+  "company_name": "環泥",
+  "title": "# 1104 - 環泥",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "20,257 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,624 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "環球水泥股份有限公司 (Universal Cement Corporation) 成立於 1959 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北"
+            },
+            {
+              "type": "text",
+              "text": "，為「台南幫」企業之一。公司深耕南台灣，主要產品為"
+            },
+            {
+              "type": "wikilink",
+              "text": "水泥"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "預拌混凝土"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "石膏板"
+            },
+            {
+              "type": "text",
+              "text": " (市佔率全台第一，約 90%)。近年環泥積極跨足電子科技領域，透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "利永環球"
+            },
+            {
+              "type": "text",
+              "text": "發展軟性觸覺感測器 (Micro-pressure Sensor)，應用於3C產品及智慧醫療。此外，環泥亦是南科科技廠房建設之主要混凝土供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與生產)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥熟料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 熟料多為外購或進口 (向國內東部大廠採購)，於高雄阿蓮、台南麻豆等地設有研磨廠與預拌廠。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石膏板原物料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採用火力發電廠之副產品 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "脫硫石膏"
+                    },
+                    {
+                      "type": "text",
+                      "text": ") 進行循環再利用，於桃園海湖設有工廠。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 強化與日本建材大廠 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NICHIHA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 合作，增加外牆與屋頂系統建材多樣性。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用 (終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材業務 (混凝土):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應高磅數水泥予 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 南部廠房 (為其兩大供應商之一)、高雄台南捷運及南科擴建案等重大工程。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子業務 (利永環球):"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "感測器應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 觸控筆、智慧鍵盤、醫療床 (導入 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "北醫行愛長照中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 之褥瘡偵測)、智慧倉儲。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "科技廠辦營造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及其南科進駐廠商之廠房建設專案。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI醫療與電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購壓力感測器之北美與歐洲產業領導品牌，以及 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "北醫行愛長照中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥熟料來源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內東部之大型水泥與熟料製造商、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (脫硫石膏來源)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊建材授權:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本外牆建材大廠 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NICHIHA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "11.57",
+                  "10.42",
+                  "2.56",
+                  "0.84",
+                  "14.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "7920.22",
+                  "7953.73",
+                  "7802.36"
+                ],
+                [
+                  "Gross Profit",
+                  "1839.34",
+                  "1598.06",
+                  "1542.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.22",
+                  "20.09",
+                  "19.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "110.27",
+                  "124.30",
+                  "148.39"
+                ],
+                [
+                  "R&D Exp",
+                  "122.22",
+                  "71.82",
+                  "72.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "386.12",
+                  "346.65",
+                  "354.76"
+                ],
+                [
+                  "Operating Income",
+                  "1220.73",
+                  "1055.28",
+                  "966.37"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.41",
+                  "13.27",
+                  "12.39"
+                ],
+                [
+                  "Net Income",
+                  "1756.48",
+                  "1482.29",
+                  "2107.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "22.18",
+                  "18.64",
+                  "27.01"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1295.15",
+                  "1909.73",
+                  "1548.90"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1058.18",
+                  "-175.27",
+                  "1022.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-89.78",
+                  "-1576.16",
+                  "-1937.92"
+                ],
+                [
+                  "CAPEX",
+                  "-174.96",
+                  "-181.40",
+                  "-198.37"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2137.20",
+                  "1885.54",
+                  "1968.82",
+                  "1928.65"
+                ],
+                [
+                  "Gross Profit",
+                  "622.26",
+                  "388.43",
+                  "436.94",
+                  "391.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.12",
+                  "20.60",
+                  "22.19",
+                  "20.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "42.36",
+                  "21.86",
+                  "26.18",
+                  "19.86"
+                ],
+                [
+                  "R&D Exp",
+                  "56.01",
+                  "22.80",
+                  "22.92",
+                  "20.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "116.56",
+                  "96.75",
+                  "89.06",
+                  "83.76"
+                ],
+                [
+                  "Operating Income",
+                  "407.33",
+                  "247.01",
+                  "298.78",
+                  "267.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.06",
+                  "13.10",
+                  "15.18",
+                  "13.88"
+                ],
+                [
+                  "Net Income",
+                  "519.64",
+                  "561.55",
+                  "390.17",
+                  "285.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "24.31",
+                  "29.78",
+                  "19.82",
+                  "14.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "227.15",
+                  "712.63",
+                  "171.88",
+                  "183.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-551.27",
+                  "-61.41",
+                  "-426.17",
+                  "-19.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "453.36",
+                  "-386.46",
+                  "-182.70",
+                  "26.02"
+                ],
+                [
+                  "CAPEX",
+                  "-62.46",
+                  "-51.96",
+                  "-38.39",
+                  "-22.14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台北",
+    "水泥",
+    "預拌混凝土",
+    "石膏板",
+    "利永環球",
+    "脫硫石膏",
+    "NICHIHA",
+    "台積電",
+    "北醫行愛長照中心",
+    "台積電",
+    "北醫行愛長照中心",
+    "台電",
+    "NICHIHA"
+  ]
+}

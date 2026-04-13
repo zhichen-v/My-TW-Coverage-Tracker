@@ -1,0 +1,685 @@
+{
+  "report_id": "Pilot_Reports/Specialty Retail/6281_全國電.md",
+  "source_path": "Pilot_Reports/Specialty Retail/6281_全國電.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Retail/6281_全國電.json",
+  "ticker": "6281",
+  "company_name": "全國電",
+  "title": "# 6281 - 全國電",
+  "sector_folder": "Specialty Retail",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Retail"
+      },
+      {
+        "label": "市值:",
+        "value": "5,732 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,731 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "全國電子股份有限公司成立於 1975 年，總部位於新北市，為台灣主要家電及 3C 零售連鎖通路之一，以「足感心A」品牌形象深植人心。全國電子於全台經營數百家門市，銷售電視、冰箱、洗衣機、冷氣等家電產品以及手機、電腦等 3C 商品，並提供配送安裝與售後維修服務。公司近年積極導入品牌專區模式，設置 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LG"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dyson"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌專櫃，提升消費體驗與客單價。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dyson"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Haier"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、聲寶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3C 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Xiaomi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (零售通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全國電 (6281):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全台數百家門市、品牌專區、線上購物、配送安裝維修"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端消費)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家電換新、3C 採購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 小型辦公設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般消費者 (B2C):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣家庭消費者，為零售通路模式"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商用客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 小型辦公室設備採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LG"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dyson"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Haier"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3C 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Xiaomi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $57.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.75",
+                  "N/A",
+                  "0.30",
+                  "1.98",
+                  "4.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "18829.10",
+                  "19789.10",
+                  "20423.60"
+                ],
+                [
+                  "Gross Profit",
+                  "3757.44",
+                  "3987.24",
+                  "4039.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.96",
+                  "20.15",
+                  "19.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2894.27",
+                  "2983.22",
+                  "2954.27"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "412.39",
+                  "446.39",
+                  "451.98"
+                ],
+                [
+                  "Operating Income",
+                  "450.78",
+                  "557.63",
+                  "632.98"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.39",
+                  "2.82",
+                  "3.10"
+                ],
+                [
+                  "Net Income",
+                  "366.63",
+                  "447.71",
+                  "509.05"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.95",
+                  "2.26",
+                  "2.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1071.37",
+                  "1898.14",
+                  "1426.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-576.55",
+                  "-282.98",
+                  "-81.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1195.25",
+                  "-1210.07",
+                  "-1226.26"
+                ],
+                [
+                  "CAPEX",
+                  "-173.41",
+                  "-157.12",
+                  "-148.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4149.53",
+                  "5416.22",
+                  "4414.39",
+                  "4275.16"
+                ],
+                [
+                  "Gross Profit",
+                  "902.54",
+                  "985.17",
+                  "935.45",
+                  "936.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.75",
+                  "18.19",
+                  "21.19",
+                  "21.91"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "729.45",
+                  "742.39",
+                  "695.94",
+                  "754.92"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "95.62",
+                  "107.14",
+                  "105.21",
+                  "109.04"
+                ],
+                [
+                  "Operating Income",
+                  "77.47",
+                  "135.63",
+                  "134.31",
+                  "72.80"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.87",
+                  "2.50",
+                  "3.04",
+                  "1.70"
+                ],
+                [
+                  "Net Income",
+                  "64.44",
+                  "111.91",
+                  "108.82",
+                  "68.25"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.55",
+                  "2.07",
+                  "2.47",
+                  "1.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "815.95",
+                  "176.88",
+                  "-239.74",
+                  "894.25"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-410.39",
+                  "264.25",
+                  "-43.25",
+                  "-508.25"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-197.65",
+                  "-594.03",
+                  "-203.80",
+                  "-195.55"
+                ],
+                [
+                  "CAPEX",
+                  "-41.95",
+                  "-9.63",
+                  "-26.63",
+                  "-39.52"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LG",
+    "Dyson",
+    "Bosch",
+    "Apple",
+    "Samsung",
+    "Panasonic",
+    "LG",
+    "Panasonic",
+    "Samsung",
+    "Dyson",
+    "Bosch",
+    "Haier",
+    "Apple",
+    "Samsung",
+    "華碩",
+    "Intel",
+    "Xiaomi",
+    "LG",
+    "Panasonic",
+    "Samsung",
+    "Dyson",
+    "Bosch",
+    "Haier",
+    "Apple",
+    "華碩",
+    "Xiaomi"
+  ]
+}

@@ -1,0 +1,1029 @@
+{
+  "report_id": "Pilot_Reports/Aerospace & Defense/2645_長榮航太.md",
+  "source_path": "Pilot_Reports/Aerospace & Defense/2645_長榮航太.md",
+  "json_path": "Pilot_Reports_JSON/Aerospace & Defense/2645_長榮航太.json",
+  "ticker": "2645",
+  "company_name": "長榮航太",
+  "title": "# 2645 - 長榮航太",
+  "sector_folder": "Aerospace & Defense",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Aerospace & Defense"
+      },
+      {
+        "label": "市值:",
+        "value": "58,059 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "60,112 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "長榮航太科技 (2645，Evergreen Aviation Technologies / EGAT) 為全球頂尖航空維修 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "MRO"
+            },
+            {
+              "type": "text",
+              "text": ") 及機體零組件製造商，由"
+            },
+            {
+              "type": "wikilink",
+              "text": "長榮航空"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "GE Aerospace"
+            },
+            {
+              "type": "text",
+              "text": "合資成立。機體維修服務涵蓋超過 40 家國際航空公司，為全球最大的"
+            },
+            {
+              "type": "wikilink",
+              "text": "波音"
+            },
+            {
+              "type": "text",
+              "text": " 747 重度維修廠，可維修機型涵蓋 B747/B767/B777/B787/A320/A330 系列，並積極擴展 A350 及 B737 MAX 維修能量。製造端為"
+            },
+            {
+              "type": "wikilink",
+              "text": "Boeing"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": "之 Tier 1 供應商，2025 年正式升格為"
+            },
+            {
+              "type": "wikilink",
+              "text": "Airbus"
+            },
+            {
+              "type": "text",
+              "text": "一階機體零組件直供商。旗下與"
+            },
+            {
+              "type": "wikilink",
+              "text": "GE Aerospace"
+            },
+            {
+              "type": "text",
+              "text": "合資之長異發動機維修專責 GEnx 引擎 MRO。近期跨足軍工領域，承接國防部艦載型監偵"
+            },
+            {
+              "type": "wikilink",
+              "text": "無人機"
+            },
+            {
+              "type": "text",
+              "text": " 16 架標案 (4.02 億元)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件與技術)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機體零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 原廠件供應與技術支援"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機體零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 原廠件供應與認證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "發動機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — CF6/GEnx 引擎零件與合資 MRO"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航太合金:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際航太級複合材料與特種合金供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (MRO 與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "長榮航太"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (機體重度維修 C/D Check、機身結構件製造、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無人機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "研製)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "長異發動機維修"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合資，GEnx 引擎 MRO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貨運航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UPS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Atlas Air"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 貨機機體維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "亞洲航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全日空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "韓亞航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "天馬航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 客機 MRO"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英國航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奧地利航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TUI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "冰島航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 歐洲市場客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 母公司機隊維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM 製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 機體結構件供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華民國國防部"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 艦載監偵"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無人機"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貨運航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UPS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Atlas Air"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 貨機重度維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日本航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全日空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "天馬航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — B737/B767/B777/B787 維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "韓國航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "韓亞航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 機體維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英國航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "奧地利航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TUI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "冰島航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 歐洲市場拓展"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團航空:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 母公司機隊維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM 客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 結構件與改裝 (747-400 LCF Dreamlifter)；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 一階結構件直供"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華民國國防部"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 艦載監偵"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "無人機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 16 架 (4.02 億元)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機體原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Boeing"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Airbus"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 原廠零件與技術認證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "引擎合資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GEnx/CF6 引擎零件與合資 MRO"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 營運支援與母公司維修需求"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $155.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "29.36",
+                  "15.77",
+                  "3.19",
+                  "4.28",
+                  "15.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16284.50",
+                  "14781.80",
+                  "11847.39"
+                ],
+                [
+                  "Gross Profit",
+                  "3120.26",
+                  "2640.11",
+                  "1897.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.16",
+                  "17.86",
+                  "16.01"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "64.60",
+                  "54.88",
+                  "18.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "624.87",
+                  "596.44",
+                  "569.40"
+                ],
+                [
+                  "Operating Income",
+                  "2430.80",
+                  "1988.79",
+                  "1308.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.93",
+                  "13.45",
+                  "11.05"
+                ],
+                [
+                  "Net Income",
+                  "1837.10",
+                  "1833.03",
+                  "1581.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.28",
+                  "12.40",
+                  "13.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1867.82",
+                  "2063.53",
+                  "1237.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "63.58",
+                  "61.13",
+                  "-187.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2790.05",
+                  "-1036.34",
+                  "-2817.55"
+                ],
+                [
+                  "CAPEX",
+                  "-285.14",
+                  "-253.12",
+                  "-158.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4488.32",
+                  "4669.50",
+                  "4189.65",
+                  "4574.61"
+                ],
+                [
+                  "Gross Profit",
+                  "981.08",
+                  "1034.32",
+                  "999.21",
+                  "749.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.86",
+                  "22.15",
+                  "23.85",
+                  "16.38"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "13.57",
+                  "6.89",
+                  "12.28",
+                  "23.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "152.91",
+                  "155.11",
+                  "154.08",
+                  "197.84"
+                ],
+                [
+                  "Operating Income",
+                  "814.59",
+                  "872.32",
+                  "832.86",
+                  "528.24"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.15",
+                  "18.68",
+                  "19.88",
+                  "11.55"
+                ],
+                [
+                  "Net Income",
+                  "731.79",
+                  "268.80",
+                  "557.82",
+                  "423.06"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.30",
+                  "5.76",
+                  "13.31",
+                  "9.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1080.62",
+                  "725.35",
+                  "931.62",
+                  "-467.58"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-86.62",
+                  "-119.35",
+                  "-64.98",
+                  "-39.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1817.52",
+                  "-250.00",
+                  "-151.41",
+                  "-299.07"
+                ],
+                [
+                  "CAPEX",
+                  "-115.06",
+                  "-152.65",
+                  "-95.98",
+                  "-81.07"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MRO",
+    "長榮航空",
+    "GE Aerospace",
+    "波音",
+    "Boeing",
+    "Airbus",
+    "Airbus",
+    "GE Aerospace",
+    "無人機",
+    "Boeing",
+    "Airbus",
+    "GE Aerospace",
+    "無人機",
+    "GE Aerospace",
+    "UPS",
+    "Atlas Air",
+    "全日空",
+    "韓亞航空",
+    "天馬航空",
+    "英國航空",
+    "奧地利航空",
+    "TUI",
+    "冰島航空",
+    "長榮航空",
+    "Boeing",
+    "Airbus",
+    "中華民國國防部",
+    "無人機",
+    "UPS",
+    "Atlas Air",
+    "全日空",
+    "天馬航空",
+    "韓亞航空",
+    "英國航空",
+    "奧地利航空",
+    "TUI",
+    "冰島航空",
+    "長榮航空",
+    "Boeing",
+    "Airbus",
+    "中華民國國防部",
+    "無人機",
+    "Boeing",
+    "Airbus",
+    "GE Aerospace",
+    "長榮航空"
+  ]
+}

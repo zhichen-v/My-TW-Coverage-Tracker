@@ -1,0 +1,675 @@
+{
+  "report_id": "Pilot_Reports/Capital Markets/2889_國票金.md",
+  "source_path": "Pilot_Reports/Capital Markets/2889_國票金.md",
+  "json_path": "Pilot_Reports_JSON/Capital Markets/2889_國票金.json",
+  "ticker": "2889",
+  "company_name": "國票金",
+  "title": "# 2889 - 國票金",
+  "sector_folder": "Capital Markets",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Financial Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Capital Markets"
+      },
+      {
+        "label": "市值:",
+        "value": "62,861 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "270,802 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "國票金融控股 (2889，IBF Financial Holdings) 為台灣唯一以票券業務為核心的金融控股公司，2002 年由"
+            },
+            {
+              "type": "wikilink",
+              "text": "國際票券"
+            },
+            {
+              "type": "text",
+              "text": "金融公司、協和證券及大東證券以股份轉換方式共同設立。主要子公司包括：(1) "
+            },
+            {
+              "type": "wikilink",
+              "text": "國際票券"
+            },
+            {
+              "type": "text",
+              "text": " — 短期票券之承銷、保證與交易居領先地位，獲利貢獻占集團七至八成，近年積極拓展固定利率循環票券 (FRCP) 及外幣債券業務；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "國票證券"
+            },
+            {
+              "type": "text",
+              "text": " — 綜合券商，經營經紀、承銷、自營等業務；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "國票金租賃"
+            },
+            {
+              "type": "text",
+              "text": " — 2024 年新設全資子公司，延伸票券授信客戶資源，提供中小企業設備租賃與融資服務。此外，國票金持股 49% 之"
+            },
+            {
+              "type": "wikilink",
+              "text": "樂天國際商業銀行"
+            },
+            {
+              "type": "text",
+              "text": "為台灣三家純網銀之一，與日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "樂天集團"
+            },
+            {
+              "type": "text",
+              "text": " (Rakuten) 合作，結合票券業務與純網銀生態圈發展數位金融。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (資金市場與基建)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資金來源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行同業拆款、票券附買回交易 (RP)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "市場基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金融控股與子公司)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[國際票券]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 短期票券承銷保證、債券自營、FRCP 及外幣債券"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[國票證券]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 綜合證券經紀、承銷、自營"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[國票金租賃]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 中小企業設備租賃與融資"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[樂天國際商業銀行]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (持股 49%) — 純網銀服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (資金需求方與終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 發行商業本票 (CP) 籌資之上市櫃公司"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "純網銀用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "樂天國際商業銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "消費金融客群"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "票券發行端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內上市櫃企業 — 發行商業本票籌措短期營運資金"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "證券經紀:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國票證券"
+                    },
+                    {
+                      "type": "text",
+                      "text": "散戶與法人投資人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "租賃客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中小型企業 — 設備租賃與融資需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "純網銀客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "樂天國際商業銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "數位金融用戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "樂天集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Rakuten) — 純網銀技術與生態圈支援"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "市場基建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣證券交易所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "證券櫃檯買賣中心"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣集中保管結算所"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資金來源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銀行同業拆款市場、附買回交易 (RP)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "27.03",
+                  "21.10",
+                  "7.70",
+                  "1.36",
+                  "N/A"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8728.41",
+                  "8420.14",
+                  "7320.96"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1269.18",
+                  "1247.36",
+                  "1047.76"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "2295.56",
+                  "2171.13",
+                  "2000.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.30",
+                  "25.78",
+                  "27.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-6339.65",
+                  "1774.48",
+                  "-9510.80"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1135.49",
+                  "-305.72",
+                  "15.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "8112.41",
+                  "-1394.66",
+                  "8459.20"
+                ],
+                [
+                  "CAPEX",
+                  "-109.28",
+                  "-160.03",
+                  "-96.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2583.83",
+                  "2848.65",
+                  "1542.05",
+                  "1753.88"
+                ],
+                [
+                  "Gross Profit",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "351.29",
+                  "330.87",
+                  "299.35",
+                  "287.67"
+                ],
+                [
+                  "Operating Income",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Net Income",
+                  "588.30",
+                  "1050.29",
+                  "255.18",
+                  "401.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "22.77",
+                  "36.87",
+                  "16.55",
+                  "22.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-5014.40",
+                  "-14498.00",
+                  "7345.90",
+                  "5826.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-138.68",
+                  "-176.50",
+                  "-316.33",
+                  "-503.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "4278.37",
+                  "15294.42",
+                  "-5459.03",
+                  "-6001.35"
+                ],
+                [
+                  "CAPEX",
+                  "-20.16",
+                  "-44.51",
+                  "-30.13",
+                  "-14.48"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "國際票券",
+    "國際票券",
+    "國票證券",
+    "國票金租賃",
+    "樂天國際商業銀行",
+    "樂天集團",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣集中保管結算所",
+    "國際票券",
+    "國票證券",
+    "國票金租賃",
+    "樂天國際商業銀行",
+    "樂天國際商業銀行",
+    "國票證券",
+    "樂天國際商業銀行",
+    "樂天集團",
+    "台灣證券交易所",
+    "證券櫃檯買賣中心",
+    "台灣集中保管結算所"
+  ]
+}

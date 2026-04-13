@@ -1,0 +1,635 @@
+{
+  "report_id": "Pilot_Reports/Building Materials/1109_信大.md",
+  "source_path": "Pilot_Reports/Building Materials/1109_信大.md",
+  "json_path": "Pilot_Reports_JSON/Building Materials/1109_信大.json",
+  "ticker": "1109",
+  "company_name": "信大",
+  "title": "# 1109 - 信大",
+  "sector_folder": "Building Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "5,254 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,378 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "信大水泥股份有限公司 (1109，Hsing Ta Cement) 成立於 1964 年，秉持「誠信務實」之經營理念。主要業務為"
+            },
+            {
+              "type": "wikilink",
+              "text": "水泥"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "熟料"
+            },
+            {
+              "type": "text",
+              "text": "之產銷，產品包括各型波特蘭水泥及低鹼水泥，並自產"
+            },
+            {
+              "type": "wikilink",
+              "text": "石灰石"
+            },
+            {
+              "type": "text",
+              "text": "原料。信大水泥深耕台灣建材市場，同時透過子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "江蘇信寧新型建材"
+            },
+            {
+              "type": "text",
+              "text": "拓展中國大陸南京市場 (當地市佔率約 15%)。公司致力於環保與節能減碳，將工業副產品資源化利用於水泥製程中，並與日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "住友大阪水泥"
+            },
+            {
+              "type": "text",
+              "text": "合作引進新建材鋪面施作技術。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與技術合作)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自產原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石灰石"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣自有礦源)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "採購:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 黏土、矽砂、煤炭，以及來自"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "之工業副產品 (鐵渣、脫硫石膏)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術引進:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友大阪水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 新建材鋪面技術"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (水泥生產)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "信大水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 波特蘭水泥與低碳石灰石水泥生產"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[信一預拌混凝土]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 預拌混凝土業務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大台北、宜蘭、桃竹地區之營造業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "江蘇信寧新型建材"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 南京江北、安徽烏江市場"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣營造業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大台北、宜蘭、桃竹地區營造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "江蘇信寧新型建材"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 南京地區建材通路 (市佔約 15%)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料自產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "石灰石"
+                    },
+                    {
+                      "type": "text",
+                      "text": "自有礦源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業副產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 飛灰；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 鐵渣、脫硫石膏"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友大阪水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 日本新建材技術"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $15.40 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.95",
+                  "12.22",
+                  "1.19",
+                  "0.63",
+                  "4.67"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4431.54",
+                  "4656.29",
+                  "6259.86"
+                ],
+                [
+                  "Gross Profit",
+                  "708.43",
+                  "991.65",
+                  "1341.07"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.99",
+                  "21.30",
+                  "21.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "108.83",
+                  "130.15",
+                  "143.83"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "174.62",
+                  "200.00",
+                  "208.50"
+                ],
+                [
+                  "Operating Income",
+                  "424.99",
+                  "661.50",
+                  "988.75"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.59",
+                  "14.21",
+                  "15.79"
+                ],
+                [
+                  "Net Income",
+                  "351.16",
+                  "469.40",
+                  "685.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.92",
+                  "10.08",
+                  "10.96"
+                ],
+                [
+                  "Op Cash Flow",
+                  "773.69",
+                  "403.24",
+                  "714.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1103.69",
+                  "117.36",
+                  "-119.21"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-347.99",
+                  "-511.78",
+                  "-390.10"
+                ],
+                [
+                  "CAPEX",
+                  "-250.90",
+                  "-211.76",
+                  "-223.25"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1119.27",
+                  "1060.57",
+                  "1264.16",
+                  "987.53"
+                ],
+                [
+                  "Gross Profit",
+                  "163.61",
+                  "179.57",
+                  "262.28",
+                  "102.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.62",
+                  "16.93",
+                  "20.75",
+                  "10.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "28.32",
+                  "25.93",
+                  "27.71",
+                  "26.87"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.71",
+                  "40.28",
+                  "48.17",
+                  "43.46"
+                ],
+                [
+                  "Operating Income",
+                  "92.57",
+                  "113.36",
+                  "186.40",
+                  "32.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.27",
+                  "10.69",
+                  "14.74",
+                  "3.31"
+                ],
+                [
+                  "Net Income",
+                  "79.39",
+                  "104.65",
+                  "82.63",
+                  "84.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.09",
+                  "9.87",
+                  "6.54",
+                  "8.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "402.96",
+                  "48.14",
+                  "311.82",
+                  "10.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-606.47",
+                  "-334.54",
+                  "-1.19",
+                  "-161.49"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "0.07",
+                  "-311.81",
+                  "-37.15",
+                  "0.90"
+                ],
+                [
+                  "CAPEX",
+                  "-84.70",
+                  "-55.55",
+                  "-1.02",
+                  "-109.63"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "水泥",
+    "熟料",
+    "石灰石",
+    "江蘇信寧新型建材",
+    "住友大阪水泥",
+    "石灰石",
+    "台電",
+    "中鋼",
+    "住友大阪水泥",
+    "信一預拌混凝土",
+    "江蘇信寧新型建材",
+    "江蘇信寧新型建材",
+    "石灰石",
+    "台電",
+    "中鋼",
+    "住友大阪水泥"
+  ]
+}

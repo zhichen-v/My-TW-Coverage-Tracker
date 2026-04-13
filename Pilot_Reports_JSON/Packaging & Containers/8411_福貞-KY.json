@@ -1,0 +1,580 @@
+{
+  "report_id": "Pilot_Reports/Packaging & Containers/8411_福貞-KY.md",
+  "source_path": "Pilot_Reports/Packaging & Containers/8411_福貞-KY.md",
+  "json_path": "Pilot_Reports_JSON/Packaging & Containers/8411_福貞-KY.json",
+  "ticker": "8411",
+  "company_name": "福貞-KY",
+  "title": "# 8411 - 福貞-KY",
+  "sector_folder": "Packaging & Containers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Packaging & Containers"
+      },
+      {
+        "label": "市值:",
+        "value": "2,686 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,680 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "福貞控股股份有限公司為金屬包裝容器製造商，成立於 1993 年，註冊於開曼群島，營運總部位於台灣新竹。公司為中國大陸第三大"
+            },
+            {
+              "type": "wikilink",
+              "text": "馬口鐵"
+            },
+            {
+              "type": "text",
+              "text": "包裝容器廠，其中馬口鐵三片罐市佔率約 15%。福貞集團於中國設有福建、山東、湖北、廣東及河南五個生產基地，可生產 54 種以上罐型，年產能達 25 億支三片式馬口鐵罐及 25 億支二片式鋁罐。台灣新竹廠則服務本地飲料大廠，並具備外銷能力，以東南亞市場為主，外銷佔比約 15%。公司同時提供飲料充填代工（OEM）服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "馬口鐵板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 向國內外鍍錫鋼板廠（如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）採購"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "馬口鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁捲、鋁板等二片罐用原料（如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國鋁業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料與油墨:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 食品級內塗料、外印油墨"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金屬包裝製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "福貞-KY (8411):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬口鐵三片罐成型、二片鋁罐製造、印刷、充填代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料產業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 啤酒罐、果汁罐、能量飲料罐、茶飲罐"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "食品產業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 食品罐頭、奶粉罐"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣飲料廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣菸酒"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（台灣啤酒）、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "可口可樂"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "黑松"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、維大力"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國飲料/食品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國大陸各省飲料及食品品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外銷市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞飲料品牌客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "馬口鐵板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（2002）等鍍錫鋼板廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋁捲及鋁板原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塗料/油墨:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 食品級塗料及印刷油墨"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.30 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "21.96",
+                  "0.29",
+                  "0.46",
+                  "11.23"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9186.92",
+                  "8954.03",
+                  "8260.36"
+                ],
+                [
+                  "Gross Profit",
+                  "591.04",
+                  "805.13",
+                  "842.65"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.43",
+                  "8.99",
+                  "10.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "275.38",
+                  "280.90",
+                  "233.13"
+                ],
+                [
+                  "R&D Exp",
+                  "55.73",
+                  "99.80",
+                  "101.05"
+                ],
+                [
+                  "General & Admin Exp",
+                  "319.27",
+                  "360.87",
+                  "320.37"
+                ],
+                [
+                  "Operating Income",
+                  "-59.34",
+                  "63.56",
+                  "188.10"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.65",
+                  "0.71",
+                  "2.28"
+                ],
+                [
+                  "Net Income",
+                  "-150.02",
+                  "-53.92",
+                  "31.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-1.63",
+                  "-0.60",
+                  "0.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "705.18",
+                  "709.12",
+                  "131.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-335.49",
+                  "-496.54",
+                  "-566.16"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-217.74",
+                  "-211.71",
+                  "-145.73"
+                ],
+                [
+                  "CAPEX",
+                  "-275.46",
+                  "-444.93",
+                  "-563.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2404.23",
+                  "2433.48",
+                  "2148.17",
+                  "2201.04"
+                ],
+                [
+                  "Gross Profit",
+                  "232.59",
+                  "125.37",
+                  "72.83",
+                  "160.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.67",
+                  "5.15",
+                  "3.39",
+                  "7.28"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "73.55",
+                  "69.87",
+                  "61.65",
+                  "70.31"
+                ],
+                [
+                  "R&D Exp",
+                  "15.59",
+                  "14.69",
+                  "11.84",
+                  "13.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "68.64",
+                  "77.39",
+                  "82.70",
+                  "90.55"
+                ],
+                [
+                  "Operating Income",
+                  "74.81",
+                  "-36.56",
+                  "-83.36",
+                  "-14.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.11",
+                  "-1.50",
+                  "-3.88",
+                  "-0.65"
+                ],
+                [
+                  "Net Income",
+                  "44.14",
+                  "-14.86",
+                  "-48.64",
+                  "-130.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.84",
+                  "-0.61",
+                  "-2.26",
+                  "-5.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "33.04",
+                  "460.77",
+                  "-64.77",
+                  "276.13"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-49.69",
+                  "-115.58",
+                  "-78.09",
+                  "-92.13"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-412.99",
+                  "148.43",
+                  "8.11",
+                  "38.71"
+                ],
+                [
+                  "CAPEX",
+                  "-38.66",
+                  "-78.81",
+                  "-46.45",
+                  "-111.56"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "馬口鐵",
+    "中鋼",
+    "馬口鐵",
+    "中國鋁業",
+    "台灣菸酒",
+    "可口可樂",
+    "金車",
+    "黑松",
+    "中鋼"
+  ]
+}

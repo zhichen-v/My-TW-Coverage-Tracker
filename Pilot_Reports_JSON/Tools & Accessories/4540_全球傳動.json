@@ -1,0 +1,547 @@
+{
+  "report_id": "Pilot_Reports/Tools & Accessories/4540_全球傳動.md",
+  "source_path": "Pilot_Reports/Tools & Accessories/4540_全球傳動.md",
+  "json_path": "Pilot_Reports_JSON/Tools & Accessories/4540_全球傳動.json",
+  "ticker": "4540",
+  "company_name": "全球傳動",
+  "title": "# 4540 - 全球傳動",
+  "sector_folder": "Tools & Accessories",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Tools & Accessories"
+      },
+      {
+        "label": "市值:",
+        "value": "5,206 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,616 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "全球傳動 (4540，TBI Motion) 成立於 1986 年，總部位於台灣新北，以自有品牌「TBI」行銷全球，為台灣精密傳動元件製造大廠。核心產品包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "滾珠螺桿"
+            },
+            {
+              "type": "text",
+              "text": " (Ball Screw)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "線性滑軌"
+            },
+            {
+              "type": "text",
+              "text": " (Linear Guide)、滾珠花鍵 (Ball Spline) 及單軸機器人等。產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "設備、"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "設備、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工具機"
+            },
+            {
+              "type": "text",
+              "text": "、醫療設備及"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業機器人"
+            },
+            {
+              "type": "text",
+              "text": "。公司取得 ISO 9001 認證，全球設有經銷據點。近年因中國自動化市場需求疲弱，營運面臨挑戰。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軸承鋼、不鏽鋼等金屬原物料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球傳動"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精密車/銑/研磨加工、熱處理、組裝檢測"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化/機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機械手臂、AGV、自動化產線設備商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體/電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "封測設備、面板設備廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工具機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CNC "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工具機"
+                    },
+                    {
+                      "type": "text",
+                      "text": "製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療/綠能:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療儀器、太陽能設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自動化設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中國及全球自動化設備經銷商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工具機廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外 CNC 工具機製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測設備廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外軸承鋼/不鏽鋼供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $45.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "-46.60",
+                  "2.03",
+                  "1.48",
+                  "-278.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2559.33",
+                  "2294.28",
+                  "2571.19"
+                ],
+                [
+                  "Gross Profit",
+                  "246.43",
+                  "-125.11",
+                  "418.09"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.63",
+                  "-5.45",
+                  "16.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "103.07",
+                  "103.18",
+                  "97.21"
+                ],
+                [
+                  "R&D Exp",
+                  "103.15",
+                  "81.08",
+                  "83.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "360.93",
+                  "303.08",
+                  "310.91"
+                ],
+                [
+                  "Operating Income",
+                  "-320.72",
+                  "-612.45",
+                  "-73.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-12.53",
+                  "-26.69",
+                  "-2.87"
+                ],
+                [
+                  "Net Income",
+                  "-74.07",
+                  "-486.65",
+                  "-103.61"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.89",
+                  "-21.21",
+                  "-4.03"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-514.92",
+                  "628.82",
+                  "-299.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "385.12",
+                  "-88.16",
+                  "-209.62"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "60.86",
+                  "-421.41",
+                  "424.39"
+                ],
+                [
+                  "CAPEX",
+                  "-148.52",
+                  "-99.27",
+                  "-214.28"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "770.54",
+                  "674.40",
+                  "642.71",
+                  "471.68"
+                ],
+                [
+                  "Gross Profit",
+                  "127.54",
+                  "28.97",
+                  "46.85",
+                  "43.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.55",
+                  "4.30",
+                  "7.29",
+                  "9.13"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "24.15",
+                  "28.78",
+                  "29.08",
+                  "21.06"
+                ],
+                [
+                  "R&D Exp",
+                  "25.07",
+                  "30.70",
+                  "26.29",
+                  "21.08"
+                ],
+                [
+                  "General & Admin Exp",
+                  "107.48",
+                  "93.03",
+                  "82.20",
+                  "78.22"
+                ],
+                [
+                  "Operating Income",
+                  "-29.16",
+                  "-123.54",
+                  "-90.72",
+                  "-77.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.78",
+                  "-18.32",
+                  "-14.12",
+                  "-16.39"
+                ],
+                [
+                  "Net Income",
+                  "46.34",
+                  "-90.71",
+                  "47.46",
+                  "-77.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.01",
+                  "-13.45",
+                  "7.38",
+                  "-16.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-166.72",
+                  "-231.44",
+                  "-95.00",
+                  "-21.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-42.52",
+                  "-51.18",
+                  "503.80",
+                  "-24.98"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "129.13",
+                  "432.78",
+                  "-464.88",
+                  "-36.17"
+                ],
+                [
+                  "CAPEX",
+                  "-51.60",
+                  "-39.26",
+                  "-31.97",
+                  "-25.68"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "滾珠螺桿",
+    "線性滑軌",
+    "自動化",
+    "半導體",
+    "工具機",
+    "工業機器人",
+    "半導體",
+    "工具機"
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "report_id": "Pilot_Reports/Specialty Chemicals/2108_南帝.md",
+  "source_path": "Pilot_Reports/Specialty Chemicals/2108_南帝.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Chemicals/2108_南帝.json",
+  "ticker": "2108",
+  "company_name": "南帝",
+  "title": "# 2108 - 南帝",
+  "sector_folder": "Specialty Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "12,483 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,672 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "南帝化學工業 (2108，Nantex Industry) 隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "台南紡織"
+            },
+            {
+              "type": "text",
+              "text": "集團，為全球前五大、台灣第一大"
+            },
+            {
+              "type": "wikilink",
+              "text": "NBR"
+            },
+            {
+              "type": "text",
+              "text": " (丁腈橡膠) 製造商，年產能約 18 萬噸，全球市佔率約 12%。核心產品：(1) 合成乳膠 (NBR Latex) — 供應全球手套製造商如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Top Glove"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Hartalega"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Kossan"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Supermax"
+            },
+            {
+              "type": "text",
+              "text": "等馬來西亞手套大廠；(2) 固態"
+            },
+            {
+              "type": "wikilink",
+              "text": "NBR"
+            },
+            {
+              "type": "text",
+              "text": "橡膠 (品牌 Nancar) — 油封、O型環、燃油管用；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "熱可塑性彈性體"
+            },
+            {
+              "type": "text",
+              "text": " (TPE，品牌 DYNAPRENE) — 汽車零件/建材/3C；(4) 碳黑母粒。上游原料為"
+            },
+            {
+              "type": "wikilink",
+              "text": "丁二烯"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "丙烯腈"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "丁二烯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁二烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "國際供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "丙烯腈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丙烯腈"
+                    },
+                    {
+                      "type": "text",
+                      "text": "國際供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "南帝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NBR"
+                    },
+                    {
+                      "type": "text",
+                      "text": "乳膠/固態 NBR/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熱可塑性彈性體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TPE/碳黑母粒)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手套廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Top Glove"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hartalega"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kossan"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermax"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NBR 乳膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "橡膠加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 油封/O 型環/燃油管製造商 — 固態 NBR"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車/3C:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熱可塑性彈性體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TPE 應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "手套廠 (馬來西亞):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Top Glove"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hartalega"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kossan"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Supermax"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NBR 乳膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "橡膠加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 東南亞/韓國/中國橡膠製品廠 — 固態 NBR"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車/3C:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熱可塑性彈性體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TPE 應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁二烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丙烯腈"
+                    },
+                    {
+                      "type": "text",
+                      "text": "國際供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台南紡織"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.35 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "30.91",
+                  "7.52",
+                  "1.31",
+                  "0.86",
+                  "3.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9546.43",
+                  "11364.29",
+                  "8942.04"
+                ],
+                [
+                  "Gross Profit",
+                  "2132.47",
+                  "2257.54",
+                  "2096.11"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.34",
+                  "19.87",
+                  "23.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "507.03",
+                  "624.21",
+                  "456.67"
+                ],
+                [
+                  "R&D Exp",
+                  "106.68",
+                  "101.92",
+                  "88.03"
+                ],
+                [
+                  "General & Admin Exp",
+                  "815.05",
+                  "744.95",
+                  "714.55"
+                ],
+                [
+                  "Operating Income",
+                  "703.71",
+                  "786.47",
+                  "836.85"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.37",
+                  "6.92",
+                  "9.36"
+                ],
+                [
+                  "Net Income",
+                  "410.49",
+                  "562.47",
+                  "714.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.30",
+                  "4.95",
+                  "7.99"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1466.41",
+                  "845.56",
+                  "1260.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1684.03",
+                  "1372.88",
+                  "629.09"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-157.92",
+                  "-680.08",
+                  "-1067.12"
+                ],
+                [
+                  "CAPEX",
+                  "-421.96",
+                  "-270.38",
+                  "-228.19"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2305.55",
+                  "2626.46",
+                  "2271.21",
+                  "2975.76"
+                ],
+                [
+                  "Gross Profit",
+                  "582.98",
+                  "472.40",
+                  "542.62",
+                  "590.78"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.29",
+                  "17.99",
+                  "23.89",
+                  "19.85"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "116.54",
+                  "131.12",
+                  "128.22",
+                  "159.33"
+                ],
+                [
+                  "R&D Exp",
+                  "31.82",
+                  "22.91",
+                  "23.31",
+                  "25.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "224.40",
+                  "179.55",
+                  "196.19",
+                  "188.62"
+                ],
+                [
+                  "Operating Income",
+                  "210.22",
+                  "138.82",
+                  "194.90",
+                  "217.60"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.12",
+                  "5.29",
+                  "8.58",
+                  "7.31"
+                ],
+                [
+                  "Net Income",
+                  "129.21",
+                  "13.52",
+                  "150.37",
+                  "173.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "5.60",
+                  "0.51",
+                  "6.62",
+                  "5.84"
+                ],
+                [
+                  "Op Cash Flow",
+                  "757.84",
+                  "494.53",
+                  "-206.16",
+                  "719.33"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1378.65",
+                  "-11.69",
+                  "-176.30",
+                  "1246.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-284.63",
+                  "-454.98",
+                  "-39.49",
+                  "38.55"
+                ],
+                [
+                  "CAPEX",
+                  "-87.97",
+                  "-154.80",
+                  "-82.32",
+                  "-75.79"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台南紡織",
+    "NBR",
+    "Top Glove",
+    "Hartalega",
+    "Kossan",
+    "Supermax",
+    "NBR",
+    "熱可塑性彈性體",
+    "丁二烯",
+    "丙烯腈",
+    "丁二烯",
+    "丙烯腈",
+    "NBR",
+    "熱可塑性彈性體",
+    "Top Glove",
+    "Hartalega",
+    "Kossan",
+    "Supermax",
+    "熱可塑性彈性體",
+    "Top Glove",
+    "Hartalega",
+    "Kossan",
+    "Supermax",
+    "熱可塑性彈性體",
+    "丁二烯",
+    "丙烯腈",
+    "台南紡織"
+  ]
+}

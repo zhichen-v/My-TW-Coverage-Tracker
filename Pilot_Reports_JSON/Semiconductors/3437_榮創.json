@@ -1,0 +1,577 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3437_榮創.md",
+  "source_path": "Pilot_Reports/Semiconductors/3437_榮創.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3437_榮創.json",
+  "ticker": "3437",
+  "company_name": "榮創",
+  "title": "# 3437 - 榮創",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "3,187 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,209 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "榮創能源 (3437) 是 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": " 封裝廠，主要產品為 SMD LED、背光模組、感測元件及車用照明，背光產品占營收近九成。日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "日亞化學"
+            },
+            {
+              "type": "text",
+              "text": " (Nichia) 持股 11.45% 為策略股東。產品拓展至 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mini LED"
+            },
+            {
+              "type": "text",
+              "text": " 模組、"
+            },
+            {
+              "type": "wikilink",
+              "text": "VCSEL"
+            },
+            {
+              "type": "text",
+              "text": " 及紅外線感測 LED。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (LED 晶粒)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 晶粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日亞化學"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Nichia，策略股東 11.45%)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cree"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Wolfspeed)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (LED 封裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "榮創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SMD LED/背光/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mini LED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VCSEL"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/車用)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (面板與車用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板背光:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TV/NB/平板面板品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 Tier 1 照明廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板背光:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " TV/NB/平板品牌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用照明:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 Tier 1 照明廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 晶粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日亞化學"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (策略股東)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cree"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科技"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $22.05 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.99",
+                  "1.56",
+                  "-8.06"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1602.66",
+                  "2035.21",
+                  "1972.62"
+                ],
+                [
+                  "Gross Profit",
+                  "61.64",
+                  "362.22",
+                  "382.60"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "3.85",
+                  "17.80",
+                  "19.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "149.51",
+                  "193.42",
+                  "190.75"
+                ],
+                [
+                  "R&D Exp",
+                  "103.21",
+                  "163.91",
+                  "127.53"
+                ],
+                [
+                  "General & Admin Exp",
+                  "223.84",
+                  "256.65",
+                  "226.79"
+                ],
+                [
+                  "Operating Income",
+                  "-414.92",
+                  "-251.76",
+                  "-162.47"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-25.89",
+                  "-12.37",
+                  "-8.24"
+                ],
+                [
+                  "Net Income",
+                  "-383.40",
+                  "-135.41",
+                  "-101.33"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-23.92",
+                  "-6.65",
+                  "-5.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-114.11",
+                  "74.50",
+                  "0.95"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-22.50",
+                  "-221.27",
+                  "-113.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-12.29",
+                  "-19.16",
+                  "120.92"
+                ],
+                [
+                  "CAPEX",
+                  "-162.52",
+                  "-111.99",
+                  "-113.59"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "375.88",
+                  "364.87",
+                  "412.14",
+                  "449.77"
+                ],
+                [
+                  "Gross Profit",
+                  "8.00",
+                  "-2.21",
+                  "4.45",
+                  "51.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "2.13",
+                  "-0.61",
+                  "1.08",
+                  "11.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "39.96",
+                  "33.70",
+                  "37.05",
+                  "38.80"
+                ],
+                [
+                  "R&D Exp",
+                  "24.86",
+                  "24.18",
+                  "21.48",
+                  "32.69"
+                ],
+                [
+                  "General & Admin Exp",
+                  "53.18",
+                  "54.31",
+                  "53.50",
+                  "62.86"
+                ],
+                [
+                  "Operating Income",
+                  "-110.00",
+                  "-114.40",
+                  "-107.58",
+                  "-82.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-29.26",
+                  "-31.35",
+                  "-26.10",
+                  "-18.44"
+                ],
+                [
+                  "Net Income",
+                  "-89.66",
+                  "-124.36",
+                  "-114.77",
+                  "-54.62"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-23.85",
+                  "-34.08",
+                  "-27.85",
+                  "-12.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-16.68",
+                  "-13.83",
+                  "-10.07",
+                  "-73.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-64.69",
+                  "-39.16",
+                  "-37.01",
+                  "118.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6.37",
+                  "-3.17",
+                  "-2.47",
+                  "-0.28"
+                ],
+                [
+                  "CAPEX",
+                  "-64.76",
+                  "-39.19",
+                  "-37.20",
+                  "-21.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LED",
+    "日亞化學",
+    "Mini LED",
+    "VCSEL",
+    "日亞化學",
+    "晶元光電",
+    "Cree",
+    "Mini LED",
+    "VCSEL",
+    "日亞化學",
+    "晶元光電",
+    "Cree",
+    "億光",
+    "光寶科技"
+  ]
+}

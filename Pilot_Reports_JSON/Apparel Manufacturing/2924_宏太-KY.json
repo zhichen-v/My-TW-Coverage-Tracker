@@ -1,0 +1,801 @@
+{
+  "report_id": "Pilot_Reports/Apparel Manufacturing/2924_宏太-KY.md",
+  "source_path": "Pilot_Reports/Apparel Manufacturing/2924_宏太-KY.md",
+  "json_path": "Pilot_Reports_JSON/Apparel Manufacturing/2924_宏太-KY.json",
+  "ticker": "2924",
+  "company_name": "宏太-KY",
+  "title": "# 2924 - 宏太-KY",
+  "sector_folder": "Apparel Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Apparel Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "947 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "783 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "宏太國際 (2924，Cayman Hongtai，原名東凌) 成立於 1988 年，2023 年更名為宏太-KY。公司原以自有品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "黃色小鴨"
+            },
+            {
+              "type": "text",
+              "text": " (Piyo Piyo)」嬰幼兒用品為核心，為台灣嬰幼兒用品知名品牌。2022 年由全球第二大製鞋集團"
+            },
+            {
+              "type": "wikilink",
+              "text": "宏福集團"
+            },
+            {
+              "type": "text",
+              "text": " (張聰淵家族) 入主經營權後，積極轉型跨足不動產開發，旗下設有"
+            },
+            {
+              "type": "wikilink",
+              "text": "志竤建設"
+            },
+            {
+              "type": "text",
+              "text": " (台灣) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "勞德建設"
+            },
+            {
+              "type": "text",
+              "text": " (越南)。嬰幼兒事業銷售通路涵蓋台灣百貨專櫃 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "新光三越"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SOGO"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠東百貨"
+            },
+            {
+              "type": "text",
+              "text": ")、母嬰連鎖 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "丁丁藥局"
+            },
+            {
+              "type": "text",
+              "text": ")、電商 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "momo購物網"
+            },
+            {
+              "type": "text",
+              "text": ") 及美國"
+            },
+            {
+              "type": "wikilink",
+              "text": "Walmart"
+            },
+            {
+              "type": "text",
+              "text": "線上通路。2024 年已處分香港"
+            },
+            {
+              "type": "wikilink",
+              "text": "黃色小鴨"
+            },
+            {
+              "type": "text",
+              "text": "國際子公司股權。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嬰幼兒用品級塑膠材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "紡織布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嬰幼兒服飾用布料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌與開發)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "宏太"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "黃色小鴨"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Piyo Piyo 嬰幼兒品牌；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "志竤建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": "台灣不動產；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "勞德建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": "越南營建)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (零售通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "百貨專櫃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光三越"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SOGO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東百貨"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母嬰連鎖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁丁藥局"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 嬰幼兒用品通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線上銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美國:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線上通路銷售"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "百貨專櫃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光三越"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SOGO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東百貨"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "黃色小鴨"
+                    },
+                    {
+                      "type": "text",
+                      "text": "嬰幼兒用品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母嬰通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁丁藥局"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 嬰幼兒用品連鎖"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線上銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美國:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Walmart"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線上通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "不動產:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "志竤建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "勞德建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (越南) — 新事業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嬰幼兒用品級塑膠材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "布料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嬰幼兒服飾用紡織品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏福集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 策略資源與經營支援"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.20 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "16.49",
+                  "1.90",
+                  "-15.43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "164.55",
+                  "41.32",
+                  "79.57"
+                ],
+                [
+                  "Gross Profit",
+                  "27.87",
+                  "15.18",
+                  "19.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.94",
+                  "36.74",
+                  "23.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.95",
+                  "13.04",
+                  "39.65"
+                ],
+                [
+                  "R&D Exp",
+                  "1.54",
+                  "1.61",
+                  "1.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "45.51",
+                  "31.04",
+                  "48.67"
+                ],
+                [
+                  "Operating Income",
+                  "-34.12",
+                  "-30.51",
+                  "-71.10"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-20.73",
+                  "-73.83",
+                  "-89.36"
+                ],
+                [
+                  "Net Income",
+                  "-67.56",
+                  "-34.30",
+                  "7.53"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-41.06",
+                  "-83.02",
+                  "9.46"
+                ],
+                [
+                  "Op Cash Flow",
+                  "20.78",
+                  "-34.62",
+                  "-34.08"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-14.66",
+                  "-1.69",
+                  "40.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "346.63",
+                  "32.63",
+                  "-10.86"
+                ],
+                [
+                  "CAPEX",
+                  "-0.44",
+                  "-1.24",
+                  "-3.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16.65",
+                  "11.09",
+                  "10.51",
+                  "19.18"
+                ],
+                [
+                  "Gross Profit",
+                  "4.94",
+                  "4.00",
+                  "4.80",
+                  "6.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.69",
+                  "36.13",
+                  "45.72",
+                  "35.12"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3.57",
+                  "3.91",
+                  "3.68",
+                  "4.28"
+                ],
+                [
+                  "R&D Exp",
+                  "0.41",
+                  "0.38",
+                  "0.37",
+                  "0.39"
+                ],
+                [
+                  "General & Admin Exp",
+                  "12.20",
+                  "14.08",
+                  "12.41",
+                  "17.04"
+                ],
+                [
+                  "Operating Income",
+                  "-11.24",
+                  "-14.37",
+                  "-11.66",
+                  "-14.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-67.51",
+                  "-129.58",
+                  "-110.92",
+                  "-78.01"
+                ],
+                [
+                  "Net Income",
+                  "-11.22",
+                  "-14.03",
+                  "-11.46",
+                  "-13.60"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-67.40",
+                  "-126.51",
+                  "-109.04",
+                  "-70.88"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-17.60",
+                  "-55.02",
+                  "-64.81",
+                  "52.14"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.08",
+                  "-0.32",
+                  "-58.78",
+                  "-53.33"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "4.42",
+                  "4.43",
+                  "4.22",
+                  "-0.87"
+                ],
+                [
+                  "CAPEX",
+                  "-0.13",
+                  "-0.24",
+                  "-0.14",
+                  "-0.16"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "黃色小鴨",
+    "宏福集團",
+    "志竤建設",
+    "勞德建設",
+    "新光三越",
+    "SOGO",
+    "遠東百貨",
+    "丁丁藥局",
+    "momo購物網",
+    "Walmart",
+    "黃色小鴨",
+    "黃色小鴨",
+    "志竤建設",
+    "勞德建設",
+    "新光三越",
+    "SOGO",
+    "遠東百貨",
+    "丁丁藥局",
+    "momo購物網",
+    "Walmart",
+    "新光三越",
+    "SOGO",
+    "遠東百貨",
+    "黃色小鴨",
+    "丁丁藥局",
+    "momo購物網",
+    "Walmart",
+    "志竤建設",
+    "勞德建設",
+    "宏福集團"
+  ]
+}

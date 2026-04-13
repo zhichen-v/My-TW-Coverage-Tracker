@@ -1,0 +1,728 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3665_貿聯-KY.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3665_貿聯-KY.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3665_貿聯-KY.json",
+  "ticker": "3665",
+  "company_name": "貿聯-KY",
+  "title": "# 3665 - 貿聯-KY",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "351,903 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "348,187 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "貿聯-KY (BizLink) 是全球領先的客製化 "
+            },
+            {
+              "type": "strong",
+              "text": "連接線束 (Harness)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "連接器 (Connector)"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案領導者。\n公司具備全球化的生產基地 (38 個據點) 與研發中心，產品線跨足工業、數據中心、車用與醫療四大領域。\n核心優勢與亮點：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "AI 伺服器 (HPC) 引領成長"
+            },
+            {
+              "type": "text",
+              "text": ": 已切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " GB200 供應鏈，供應 Power Whip (匯流排"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": ") 等關鍵高電力傳輸組件。此外，亦與 Credo 合作供應主動式乙太網路纜線 (AEC)。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "電動車 (EV) 關鍵先驅"
+            },
+            {
+              "type": "text",
+              "text": ": 於 2006 年起即為 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Tesla]]"
+            },
+            {
+              "type": "text",
+              "text": " 電池管理系統 (BMS) 線束的主要供應商，並擴展至充電樁與高壓線束。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "工業與半導體設備"
+            },
+            {
+              "type": "text",
+              "text": ": 為全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "設備龍頭 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Lam Research"
+            },
+            {
+              "type": "text",
+              "text": ") 與工業"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dyson"
+            },
+            {
+              "type": "text",
+              "text": ") 及醫療電子 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "GE"
+            },
+            {
+              "type": "text",
+              "text": ", 西門子) 提供高階線束與系統整合 (Box Build) 服務。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "高技術護城河"
+            },
+            {
+              "type": "text",
+              "text": ": 擅長處理高電流與高速訊號傳輸的可靠度要求，提供從原型開發 (NPI) 到大規模量產的一站式服務。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 銅線、塑料、電子組件原料。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "貿聯-KY (3665)"
+            },
+            {
+              "type": "text",
+              "text": " - 關鍵連接方案設計、電纜與"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "組裝。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "科技巨頭"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": " (AWS), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Microsoft"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": " (透過合作夥伴)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用大廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "新創品牌。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "半導體設備商"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Lam Research"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "KLA"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Applied Materials"
+            },
+            {
+              "type": "text",
+              "text": "。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "消費與醫療"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dyson"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "HP"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "GE"
+            },
+            {
+              "type": "text",
+              "text": " Healthcare。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "資料中心"
+                },
+                {
+                  "type": "text",
+                  "text": "與 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": "："
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": " (GB200), Credo, AWS, "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Microsoft"
+                },
+                {
+                  "type": "text",
+                  "text": "。\n*   車用："
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Tesla"
+                },
+                {
+                  "type": "text",
+                  "text": " ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "電動車"
+                },
+                {
+                  "type": "text",
+                  "text": " 線束及充電樁)。\n*   工業與醫療："
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Dyson"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Bosch"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Lam Research"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "GE"
+                },
+                {
+                  "type": "text",
+                  "text": " Healthcare, 西門子。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,805.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "37.32",
+                  "21.29",
+                  "4.94",
+                  "7.55",
+                  "24.29"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "71247.27",
+                  "54080.48",
+                  "51051.79"
+                ],
+                [
+                  "Gross Profit",
+                  "22604.60",
+                  "15252.84",
+                  "12586.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.73",
+                  "28.20",
+                  "24.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2953.66",
+                  "2761.31",
+                  "2547.38"
+                ],
+                [
+                  "R&D Exp",
+                  "1818.22",
+                  "1509.57",
+                  "1534.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "5349.63",
+                  "4455.52",
+                  "4221.05"
+                ],
+                [
+                  "Operating Income",
+                  "12483.08",
+                  "6526.43",
+                  "4283.90"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.52",
+                  "12.07",
+                  "8.39"
+                ],
+                [
+                  "Net Income",
+                  "9005.37",
+                  "4396.14",
+                  "2317.36"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.64",
+                  "8.13",
+                  "4.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8595.40",
+                  "6908.91",
+                  "7446.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-10837.86",
+                  "-4376.84",
+                  "-4575.10"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "5312.47",
+                  "-2942.66",
+                  "-942.14"
+                ],
+                [
+                  "CAPEX",
+                  "-3720.25",
+                  "-3460.03",
+                  "-3235.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "19779.96",
+                  "18413.19",
+                  "16933.33",
+                  "16120.78"
+                ],
+                [
+                  "Gross Profit",
+                  "6315.68",
+                  "6122.91",
+                  "5268.88",
+                  "4897.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.93",
+                  "33.25",
+                  "31.12",
+                  "30.38"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "782.40",
+                  "702.29",
+                  "691.03",
+                  "777.95"
+                ],
+                [
+                  "R&D Exp",
+                  "475.59",
+                  "449.99",
+                  "431.48",
+                  "461.16"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1413.20",
+                  "1362.53",
+                  "1268.84",
+                  "1305.07"
+                ],
+                [
+                  "Operating Income",
+                  "3644.49",
+                  "3608.10",
+                  "2877.54",
+                  "2352.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.43",
+                  "19.60",
+                  "16.99",
+                  "14.60"
+                ],
+                [
+                  "Net Income",
+                  "2740.08",
+                  "2628.70",
+                  "2024.48",
+                  "1612.11"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.85",
+                  "14.28",
+                  "11.96",
+                  "10.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4536.99",
+                  "2006.19",
+                  "1144.66",
+                  "907.55"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1981.48",
+                  "-7151.47",
+                  "-585.69",
+                  "-1119.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1006.88",
+                  "6470.89",
+                  "419.13",
+                  "-570.67"
+                ],
+                [
+                  "CAPEX",
+                  "-1207.99",
+                  "-810.44",
+                  "-874.25",
+                  "-827.56"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "NVIDIA",
+    "連接器",
+    "Tesla",
+    "半導體",
+    "Lam Research",
+    "自動化",
+    "Bosch",
+    "Dyson",
+    "GE",
+    "連接器",
+    "Amazon",
+    "Microsoft",
+    "Google",
+    "Tesla",
+    "電動車",
+    "Lam Research",
+    "KLA",
+    "Applied Materials",
+    "Dyson",
+    "HP",
+    "Dell",
+    "GE",
+    "資料中心",
+    "AI",
+    "NVIDIA",
+    "Microsoft",
+    "Tesla",
+    "電動車",
+    "Dyson",
+    "Bosch",
+    "Lam Research",
+    "GE"
+  ]
+}

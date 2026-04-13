@@ -1,0 +1,546 @@
+{
+  "report_id": "Pilot_Reports/Metal Fabrication/1584_精剛.md",
+  "source_path": "Pilot_Reports/Metal Fabrication/1584_精剛.md",
+  "json_path": "Pilot_Reports_JSON/Metal Fabrication/1584_精剛.json",
+  "ticker": "1584",
+  "company_name": "精剛",
+  "title": "# 1584 - 精剛",
+  "sector_folder": "Metal Fabrication",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "[[Meta]]l Fabrication"
+      },
+      {
+        "label": "市值:",
+        "value": "4,926 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,876 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "精剛精密科技 (1584，S-Tech) 為台灣唯一專業生產超合金及"
+            },
+            {
+              "type": "wikilink",
+              "text": "鈦合金"
+            },
+            {
+              "type": "text",
+              "text": "原材料之工廠。具備VIM/VAR/ESR熔煉、鍛造到後段加工完整製程。航太客戶間接供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "Safran"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GE Aerospace"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rolls-Royce"
+            },
+            {
+              "type": "text",
+              "text": "引擎供應鏈。另供應油氣耐腐蝕設備及生醫人工關節。隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣鋼鐵集團"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 國際礦業/金屬貿易; "
+            },
+            {
+              "type": "wikilink",
+              "text": "日本鈦業"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "精剛"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "鈦合金"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "鎳基合金"
+            },
+            {
+              "type": "text",
+              "text": "/超合金原材料)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "航太: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Safran"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "油氣/生醫: 耐腐蝕設備/人工關節"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Safran"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 航太"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "油氣/生醫"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "日本鈦業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "; 國際礦業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "母: "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣鋼鐵集團"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $21.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "49.77",
+                  "13.60",
+                  "1.90",
+                  "1.06",
+                  "30.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2593.82",
+                  "2880.08",
+                  "2748.49"
+                ],
+                [
+                  "Gross Profit",
+                  "308.17",
+                  "522.08",
+                  "357.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.88",
+                  "18.13",
+                  "13.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "36.92",
+                  "57.65",
+                  "46.57"
+                ],
+                [
+                  "R&D Exp",
+                  "19.23",
+                  "18.48",
+                  "10.02"
+                ],
+                [
+                  "General & Admin Exp",
+                  "114.70",
+                  "130.56",
+                  "122.76"
+                ],
+                [
+                  "Operating Income",
+                  "137.31",
+                  "315.40",
+                  "177.98"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.29",
+                  "10.95",
+                  "6.48"
+                ],
+                [
+                  "Net Income",
+                  "101.74",
+                  "309.04",
+                  "506.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.92",
+                  "10.73",
+                  "18.43"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1001.15",
+                  "-349.81",
+                  "140.52"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-484.09",
+                  "-1971.09",
+                  "-731.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-370.99",
+                  "2267.98",
+                  "797.12"
+                ],
+                [
+                  "CAPEX",
+                  "-196.47",
+                  "-1849.68",
+                  "-754.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "637.64",
+                  "663.97",
+                  "676.00",
+                  "640.05"
+                ],
+                [
+                  "Gross Profit",
+                  "89.34",
+                  "61.03",
+                  "105.97",
+                  "96.97"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.01",
+                  "9.19",
+                  "15.68",
+                  "15.15"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.85",
+                  "10.40",
+                  "9.57",
+                  "13.49"
+                ],
+                [
+                  "R&D Exp",
+                  "10.34",
+                  "2.65",
+                  "2.39",
+                  "11.24"
+                ],
+                [
+                  "General & Admin Exp",
+                  "28.22",
+                  "28.33",
+                  "29.29",
+                  "30.58"
+                ],
+                [
+                  "Operating Income",
+                  "41.94",
+                  "19.66",
+                  "64.72",
+                  "41.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.58",
+                  "2.96",
+                  "9.57",
+                  "6.51"
+                ],
+                [
+                  "Net Income",
+                  "48.12",
+                  "-52.26",
+                  "62.24",
+                  "-27.19"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.55",
+                  "-7.87",
+                  "9.21",
+                  "-4.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "300.03",
+                  "207.53",
+                  "245.84",
+                  "-204.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-108.39",
+                  "-59.22",
+                  "-63.51",
+                  "-137.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-41.45",
+                  "29.41",
+                  "-146.17",
+                  "477.81"
+                ],
+                [
+                  "CAPEX",
+                  "-59.31",
+                  "-43.97",
+                  "-62.39",
+                  "-38.19"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Meta",
+    "鈦合金",
+    "Safran",
+    "GE Aerospace",
+    "Rolls-Royce",
+    "台灣鋼鐵集團",
+    "日本鈦業",
+    "鈦合金",
+    "鎳基合金",
+    "Safran",
+    "GE Aerospace",
+    "Rolls-Royce",
+    "Safran",
+    "GE Aerospace",
+    "Rolls-Royce",
+    "日本鈦業",
+    "台灣鋼鐵集團"
+  ]
+}

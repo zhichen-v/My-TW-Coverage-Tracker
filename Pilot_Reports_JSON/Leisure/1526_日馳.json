@@ -1,0 +1,588 @@
+{
+  "report_id": "Pilot_Reports/Leisure/1526_日馳.md",
+  "source_path": "Pilot_Reports/Leisure/1526_日馳.md",
+  "json_path": "Pilot_Reports_JSON/Leisure/1526_日馳.json",
+  "ticker": "1526",
+  "company_name": "日馳",
+  "title": "# 1526 - 日馳",
+  "sector_folder": "Leisure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Leisure"
+      },
+      {
+        "label": "市值:",
+        "value": "1,026 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,409 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "日馳企業股份有限公司 (1526，Sun Race Sturmey-Archer) 成立於 1972 年，主要從事"
+            },
+            {
+              "type": "wikilink",
+              "text": "自行車"
+            },
+            {
+              "type": "text",
+              "text": "變速器及零組件之研發、製造與銷售。公司擁有自有品牌「SunRace」及 2000 年併購之英國百年變速器品牌「"
+            },
+            {
+              "type": "wikilink",
+              "text": "Sturmey-Archer"
+            },
+            {
+              "type": "text",
+              "text": "」，產品涵蓋內變速器、外變速器、大齒盤、飛輪等。日馳鎖定 AM (售後修補) 市場及中低階"
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "組車廠，與"
+            },
+            {
+              "type": "wikilink",
+              "text": "Shimano"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "SRAM"
+            },
+            {
+              "type": "text",
+              "text": "做出市場區隔。近年積極開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動輔助自行車"
+            },
+            {
+              "type": "text",
+              "text": " (E-Bike) 專用傳動系統。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原物料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼材、鋁合金、塑膠料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加工技術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 沖壓、鍛造、CNC 加工、熱處理、表面處理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (傳動零組件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "日馳"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 自行車變速器與傳動零組件製造 (品牌「SunRace」及「"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Sturmey-Archer"
+                    },
+                    {
+                      "type": "text",
+                      "text": "」)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (自行車產業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OEM]]組車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外中小型自行車廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 售後市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球售後維修零件經銷商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "應用領域:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 登山車、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動輔助自行車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (E-Bike)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OEM]]組車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外中小型自行車廠 — 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Shimano"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SRAM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "做市場區隔"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AM 售後市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球售後維修零件經銷商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "E-Bike:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動輔助自行車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌 — 傳動系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋼材與鋁合金供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加工設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CNC 加工機台與熱處理設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.10 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.33",
+                  "0.77",
+                  "63.39"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "771.04",
+                  "720.68",
+                  "995.16"
+                ],
+                [
+                  "Gross Profit",
+                  "167.92",
+                  "151.57",
+                  "287.13"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.78",
+                  "21.03",
+                  "28.85"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "63.07",
+                  "72.31",
+                  "89.01"
+                ],
+                [
+                  "R&D Exp",
+                  "18.15",
+                  "19.18",
+                  "19.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "138.25",
+                  "128.36",
+                  "148.29"
+                ],
+                [
+                  "Operating Income",
+                  "-51.54",
+                  "-68.27",
+                  "30.68"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-6.69",
+                  "-9.47",
+                  "3.08"
+                ],
+                [
+                  "Net Income",
+                  "-6.63",
+                  "-54.70",
+                  "45.50"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.86",
+                  "-7.59",
+                  "4.57"
+                ],
+                [
+                  "Op Cash Flow",
+                  "203.58",
+                  "90.67",
+                  "-163.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-12.70",
+                  "-20.86",
+                  "-158.30"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-100.23",
+                  "-120.36",
+                  "231.03"
+                ],
+                [
+                  "CAPEX",
+                  "-13.52",
+                  "-21.77",
+                  "-160.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "159.66",
+                  "202.39",
+                  "208.41",
+                  "200.58"
+                ],
+                [
+                  "Gross Profit",
+                  "47.63",
+                  "15.90",
+                  "40.59",
+                  "63.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "29.84",
+                  "7.86",
+                  "19.47",
+                  "31.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "15.32",
+                  "16.79",
+                  "15.78",
+                  "15.18"
+                ],
+                [
+                  "R&D Exp",
+                  "4.34",
+                  "3.98",
+                  "4.33",
+                  "5.50"
+                ],
+                [
+                  "General & Admin Exp",
+                  "39.94",
+                  "32.66",
+                  "30.49",
+                  "35.16"
+                ],
+                [
+                  "Operating Income",
+                  "-11.96",
+                  "-37.53",
+                  "-10.01",
+                  "7.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-7.49",
+                  "-18.54",
+                  "-4.80",
+                  "3.97"
+                ],
+                [
+                  "Net Income",
+                  "-4.04",
+                  "4.64",
+                  "-31.50",
+                  "24.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.53",
+                  "2.29",
+                  "-15.11",
+                  "12.10"
+                ],
+                [
+                  "Op Cash Flow",
+                  "13.26",
+                  "58.97",
+                  "89.32",
+                  "42.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1.33",
+                  "-2.24",
+                  "-5.71",
+                  "-3.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-9.71",
+                  "-2.96",
+                  "-48.66",
+                  "-38.90"
+                ],
+                [
+                  "CAPEX",
+                  "-1.46",
+                  "-2.83",
+                  "-5.87",
+                  "-3.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "自行車",
+    "Sturmey-Archer",
+    "OEM",
+    "Shimano",
+    "SRAM",
+    "電動輔助自行車",
+    "Sturmey-Archer",
+    "OEM",
+    "電動輔助自行車",
+    "OEM",
+    "Shimano",
+    "SRAM",
+    "電動輔助自行車"
+  ]
+}

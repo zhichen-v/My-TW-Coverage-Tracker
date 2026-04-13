@@ -1,0 +1,667 @@
+{
+  "report_id": "Pilot_Reports/Real Estate - Diversified/2545_皇翔.md",
+  "source_path": "Pilot_Reports/Real Estate - Diversified/2545_皇翔.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate - Diversified/2545_皇翔.json",
+  "ticker": "2545",
+  "company_name": "皇翔",
+  "title": "# 2545 - 皇翔",
+  "sector_folder": "Real Estate - Diversified",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate - Diversified"
+      },
+      {
+        "label": "市值:",
+        "value": "14,031 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "53,691 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "皇翔建設"
+            },
+            {
+              "type": "text",
+              "text": " (2545，Huang Hsiang Construction) 成立於 1991 年，總部位於台北。公司早期以豪宅開發聞名 (如曾名列亞洲十大豪宅之"
+            },
+            {
+              "type": "wikilink",
+              "text": "皇翔御琚"
+            },
+            {
+              "type": "text",
+              "text": ")。近年積極轉型多元化經營，大力佈局商用不動產及飯店業務：(1) 頂級商辦 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "皇翔臺北廣場"
+            },
+            {
+              "type": "text",
+              "text": " (位於北車特區，採只租不售模式，獲 LEED 銀級及 WELL 銀級認證)；(2) 飯店事業 — 引進日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "藤田觀光集團"
+            },
+            {
+              "type": "text",
+              "text": "旗下"
+            },
+            {
+              "type": "wikilink",
+              "text": "Hotel Gracery"
+            },
+            {
+              "type": "text",
+              "text": "格拉斯麗飯店，以及與"
+            },
+            {
+              "type": "wikilink",
+              "text": "萬豪國際"
+            },
+            {
+              "type": "text",
+              "text": "合作之"
+            },
+            {
+              "type": "wikilink",
+              "text": "士林萬麗酒店"
+            },
+            {
+              "type": "text",
+              "text": "。住宅開發聚焦雙北及板橋精華區。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (土地與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "土地取得:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北市精華區 (信義、大同、士林、板橋)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造施工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內甲級營造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階進口建材及國內基礎建材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與資產營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "皇翔建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 豪宅及商辦開發、資產營運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "皇翔臺北廣場"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 北車特區頂級商辦"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hotel Gracery"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "士林萬麗酒店"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "豪宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高資產客群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外商及大型企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店旅客:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商務及觀光旅客"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "豪宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高資產客群 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "皇翔御琚"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等指標豪宅"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦租戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 外商及大型企業 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "皇翔臺北廣場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店旅客:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Hotel Gracery"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "士林萬麗酒店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "住客"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飯店管理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藤田觀光集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Hotel Gracery)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萬豪國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (士林萬麗酒店)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內甲級營造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階進口建材及國內基礎建材供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $36.95 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.95",
+                  "N/A",
+                  "2.31",
+                  "0.95",
+                  "29.85"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6076.42",
+                  "12392.17",
+                  "4746.09"
+                ],
+                [
+                  "Gross Profit",
+                  "2458.11",
+                  "5361.35",
+                  "1948.69"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "40.45",
+                  "43.26",
+                  "41.06"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "201.97",
+                  "473.71",
+                  "135.85"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "784.17",
+                  "822.06",
+                  "559.54"
+                ],
+                [
+                  "Operating Income",
+                  "1471.97",
+                  "4065.58",
+                  "1253.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "24.22",
+                  "32.81",
+                  "26.41"
+                ],
+                [
+                  "Net Income",
+                  "681.48",
+                  "2966.83",
+                  "761.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.22",
+                  "23.94",
+                  "16.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-5568.00",
+                  "4528.60",
+                  "-852.75"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-22.40",
+                  "-1206.36",
+                  "-914.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "4330.77",
+                  "-2752.86",
+                  "1671.51"
+                ],
+                [
+                  "CAPEX",
+                  "-8.39",
+                  "-21.06",
+                  "-5.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "393.73",
+                  "574.51",
+                  "3656.45",
+                  "1451.73"
+                ],
+                [
+                  "Gross Profit",
+                  "83.21",
+                  "140.41",
+                  "1538.20",
+                  "696.29"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.13",
+                  "24.44",
+                  "42.07",
+                  "47.96"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.38",
+                  "15.35",
+                  "134.43",
+                  "35.82"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "230.17",
+                  "150.10",
+                  "256.42",
+                  "147.49"
+                ],
+                [
+                  "Operating Income",
+                  "-163.34",
+                  "-25.03",
+                  "1147.35",
+                  "512.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-41.49",
+                  "-4.36",
+                  "31.38",
+                  "35.34"
+                ],
+                [
+                  "Net Income",
+                  "-209.55",
+                  "-202.43",
+                  "978.29",
+                  "115.17"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-53.22",
+                  "-35.24",
+                  "26.76",
+                  "7.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-55.19",
+                  "-2903.15",
+                  "-1337.55",
+                  "-1272.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.19",
+                  "-14.96",
+                  "-0.21",
+                  "-5.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-147.03",
+                  "761.56",
+                  "3678.01",
+                  "38.23"
+                ],
+                [
+                  "CAPEX",
+                  "-0.82",
+                  "-1.63",
+                  "-1.75",
+                  "-4.20"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "皇翔建設",
+    "皇翔御琚",
+    "皇翔臺北廣場",
+    "藤田觀光集團",
+    "Hotel Gracery",
+    "萬豪國際",
+    "士林萬麗酒店",
+    "皇翔臺北廣場",
+    "Hotel Gracery",
+    "士林萬麗酒店",
+    "皇翔御琚",
+    "皇翔臺北廣場",
+    "Hotel Gracery",
+    "士林萬麗酒店",
+    "藤田觀光集團",
+    "萬豪國際"
+  ]
+}

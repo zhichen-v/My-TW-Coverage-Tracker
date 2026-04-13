@@ -1,0 +1,761 @@
+{
+  "report_id": "Pilot_Reports/Food Distribution/5902_德記.md",
+  "source_path": "Pilot_Reports/Food Distribution/5902_德記.md",
+  "json_path": "Pilot_Reports_JSON/Food Distribution/5902_德記.json",
+  "ticker": "5902",
+  "company_name": "德記",
+  "title": "# 5902_德記",
+  "sector_folder": "Food Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Defensive"
+      },
+      {
+        "label": "產業:",
+        "value": "Food Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "3,681 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,916 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "德記洋行 (5902) 為隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一集團"
+            },
+            {
+              "type": "text",
+              "text": " (母公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": ")之行銷代理及物流企業，創立於 1867 年台南安平。核心業務涵蓋國際知名食品飲料與酒類品牌之代理進口銷售，代理品牌包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Starbucks"
+            },
+            {
+              "type": "text",
+              "text": " 瓶裝咖啡、"
+            },
+            {
+              "type": "wikilink",
+              "text": "OATLY"
+            },
+            {
+              "type": "text",
+              "text": " 燕麥奶、"
+            },
+            {
+              "type": "wikilink",
+              "text": "森永製菓"
+            },
+            {
+              "type": "text",
+              "text": " 冰品與糖餅、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Jeju 三多水"
+            },
+            {
+              "type": "text",
+              "text": "等。自有品牌擁有「"
+            },
+            {
+              "type": "wikilink",
+              "text": "開喜烏龍茶"
+            },
+            {
+              "type": "text",
+              "text": "」等產品線。酒類代理包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Singha"
+            },
+            {
+              "type": "text",
+              "text": " 啤酒、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Beck's"
+            },
+            {
+              "type": "text",
+              "text": " 啤酒及"
+            },
+            {
+              "type": "wikilink",
+              "text": "馬祖東引高粱"
+            },
+            {
+              "type": "text",
+              "text": "等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (國際品牌原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "咖啡飲料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Starbucks"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (美國)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "植物奶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OATLY"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (瑞典)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "冰品糖餅:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森永製菓"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "啤酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Singha"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (泰國)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Beck's"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (德國)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "烈酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "馬祖東引高粱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "德記洋行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國際品牌代理行銷、自有品牌經營、大宗物資進口)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (7-ELEVEN)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他零售:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (7-ELEVEN)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "外部通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等零售通路"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Starbucks"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OATLY"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "冰品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "森永製菓"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "啤酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Singha"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Beck's"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "烈酒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "馬祖東引高粱"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $38.95 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.55",
+                  "N/A",
+                  "1.61",
+                  "2.85",
+                  "10.99"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2285.06",
+                  "2220.40",
+                  "2110.46"
+                ],
+                [
+                  "Gross Profit",
+                  "547.47",
+                  "524.14",
+                  "474.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "23.96",
+                  "23.61",
+                  "22.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "184.30",
+                  "176.67",
+                  "164.68"
+                ],
+                [
+                  "R&D Exp",
+                  "2.96",
+                  "2.79",
+                  "4.05"
+                ],
+                [
+                  "General & Admin Exp",
+                  "106.49",
+                  "102.33",
+                  "97.65"
+                ],
+                [
+                  "Operating Income",
+                  "253.72",
+                  "242.35",
+                  "207.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.10",
+                  "10.91",
+                  "9.85"
+                ],
+                [
+                  "Net Income",
+                  "211.59",
+                  "199.77",
+                  "173.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.26",
+                  "9.00",
+                  "8.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "216.17",
+                  "297.31",
+                  "224.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "195.97",
+                  "25.47",
+                  "-135.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-164.82",
+                  "-150.51",
+                  "-146.03"
+                ],
+                [
+                  "CAPEX",
+                  "-3.44",
+                  "-4.43",
+                  "-5.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "503.56",
+                  "625.96",
+                  "589.07",
+                  "506.75"
+                ],
+                [
+                  "Gross Profit",
+                  "120.96",
+                  "147.82",
+                  "134.80",
+                  "103.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.02",
+                  "23.61",
+                  "22.88",
+                  "20.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "43.92",
+                  "44.82",
+                  "46.94",
+                  "43.56"
+                ],
+                [
+                  "R&D Exp",
+                  "0.83",
+                  "0.51",
+                  "0.67",
+                  "-0.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "24.94",
+                  "28.64",
+                  "25.62",
+                  "21.93"
+                ],
+                [
+                  "Operating Income",
+                  "51.27",
+                  "73.85",
+                  "61.57",
+                  "38.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.18",
+                  "11.80",
+                  "10.45",
+                  "7.53"
+                ],
+                [
+                  "Net Income",
+                  "42.89",
+                  "62.58",
+                  "50.69",
+                  "32.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.52",
+                  "10.00",
+                  "8.60",
+                  "6.35"
+                ],
+                [
+                  "Op Cash Flow",
+                  "79.78",
+                  "55.17",
+                  "-17.81",
+                  "80.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "198.47",
+                  "-0.96",
+                  "-0.63",
+                  "-0.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.23",
+                  "-2.22",
+                  "-2.21",
+                  "-2.21"
+                ],
+                [
+                  "CAPEX",
+                  "-0.93",
+                  "-1.02",
+                  "-0.63",
+                  "-0.89"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "統一集團",
+    "統一",
+    "Starbucks",
+    "OATLY",
+    "森永製菓",
+    "Jeju 三多水",
+    "開喜烏龍茶",
+    "Singha",
+    "Beck's",
+    "馬祖東引高粱",
+    "Starbucks",
+    "OATLY",
+    "森永製菓",
+    "Singha",
+    "Beck's",
+    "馬祖東引高粱",
+    "統一超商",
+    "家樂福",
+    "全家便利商店",
+    "全聯",
+    "統一超商",
+    "家樂福",
+    "全家便利商店",
+    "全聯",
+    "Starbucks",
+    "OATLY",
+    "森永製菓",
+    "Singha",
+    "Beck's",
+    "馬祖東引高粱"
+  ]
+}

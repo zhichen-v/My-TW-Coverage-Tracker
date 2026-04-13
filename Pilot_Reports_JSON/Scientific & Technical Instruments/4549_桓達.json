@@ -1,0 +1,643 @@
+{
+  "report_id": "Pilot_Reports/Scientific & Technical Instruments/4549_桓達.md",
+  "source_path": "Pilot_Reports/Scientific & Technical Instruments/4549_桓達.md",
+  "json_path": "Pilot_Reports_JSON/Scientific & Technical Instruments/4549_桓達.json",
+  "ticker": "4549",
+  "company_name": "桓達",
+  "title": "# 4549 - 桓達",
+  "sector_folder": "Scientific & Technical Instruments",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Scientific & Technical Instruments"
+      },
+      {
+        "label": "市值:",
+        "value": "5,130 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,495 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "桓達科技股份有限公司 (4549，FineTek) 為製程自動化感測器領導廠商，主打自有品牌「FineTek」。核心產品包括液位計、流量計、壓力與溫度傳送器，廣泛應用於化工、水處理、飼料及食品業。近年成功轉型高科技應用，開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "液冷系統專用感測器 (整合流量/溫度/壓力)，並切入半導體廢液監測與智慧水表市場。客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈之冷卻系統商及"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": "供應鏈之半導體設備廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電子與機構件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、感測器元件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼殼體、精密機構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 防護外殼與接頭"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (感測器製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "桓達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 液位計、流量計、壓力/溫度傳送器之設計、軟韌體開發、組裝與校正"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 液冷系統專用感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 廢液監測設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳統工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 化工、食品、水處理工程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧城市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自來水公司 — 智慧水表"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 液冷系統感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈 — 廢液監測"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "傳統工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 化工、食品、水處理工程商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧城市:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 自來水公司 — 智慧水表"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IC 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬加工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼殼體與精密機構件加工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "感測元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 壓力與溫度感測器元件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $90.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.19",
+                  "12.95",
+                  "4.01",
+                  "2.78",
+                  "16.91"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1280.30",
+                  "1367.40",
+                  "1433.04"
+                ],
+                [
+                  "Gross Profit",
+                  "698.94",
+                  "723.37",
+                  "768.71"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "54.59",
+                  "52.90",
+                  "53.64"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "244.22",
+                  "242.40",
+                  "255.73"
+                ],
+                [
+                  "R&D Exp",
+                  "78.84",
+                  "68.54",
+                  "60.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "104.31",
+                  "99.76",
+                  "99.14"
+                ],
+                [
+                  "Operating Income",
+                  "271.56",
+                  "312.67",
+                  "352.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.21",
+                  "22.87",
+                  "24.63"
+                ],
+                [
+                  "Net Income",
+                  "263.75",
+                  "267.84",
+                  "324.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.60",
+                  "19.59",
+                  "22.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "287.73",
+                  "255.78",
+                  "292.51"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.73",
+                  "-91.21",
+                  "-24.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "181.50",
+                  "-229.68",
+                  "-205.59"
+                ],
+                [
+                  "CAPEX",
+                  "-25.11",
+                  "-48.49",
+                  "-23.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "323.80",
+                  "336.28",
+                  "293.83",
+                  "324.77"
+                ],
+                [
+                  "Gross Profit",
+                  "162.70",
+                  "169.26",
+                  "167.85",
+                  "189.76"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.25",
+                  "50.33",
+                  "57.12",
+                  "58.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "69.53",
+                  "70.27",
+                  "68.21",
+                  "62.60"
+                ],
+                [
+                  "R&D Exp",
+                  "19.98",
+                  "20.66",
+                  "20.68",
+                  "20.66"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.21",
+                  "29.18",
+                  "27.93",
+                  "27.49"
+                ],
+                [
+                  "Operating Income",
+                  "41.98",
+                  "49.16",
+                  "51.03",
+                  "79.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.96",
+                  "14.62",
+                  "17.37",
+                  "24.33"
+                ],
+                [
+                  "Net Income",
+                  "51.41",
+                  "29.23",
+                  "57.65",
+                  "75.29"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.88",
+                  "8.69",
+                  "19.62",
+                  "23.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "13.98",
+                  "41.86",
+                  "86.98",
+                  "39.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "16.70",
+                  "-96.84",
+                  "-127.63",
+                  "1.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-229.00",
+                  "-2.36",
+                  "27.69",
+                  "374.64"
+                ],
+                [
+                  "CAPEX",
+                  "-12.33",
+                  "-7.95",
+                  "-7.29",
+                  "-2.84"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "AI 伺服器",
+    "NVIDIA",
+    "台積電",
+    "聯電",
+    "PCB",
+    "NVIDIA",
+    "台積電",
+    "聯電",
+    "NVIDIA",
+    "台積電",
+    "聯電",
+    "PCB"
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3501_維熹.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3501_維熹.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3501_維熹.json",
+  "ticker": "3501",
+  "company_name": "維熹",
+  "title": "# 3501 - 維熹",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "5,653 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,093 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "維熹 (Well Shin) 為全球主要 "
+            },
+            {
+              "type": "strong",
+              "text": "電源傳輸線"
+            },
+            {
+              "type": "text",
+              "text": " 製造商之一，隸屬於 "
+            },
+            {
+              "type": "strong",
+              "text": "正崴集團"
+            },
+            {
+              "type": "text",
+              "text": " (Foxlink Group)。\n主要產品涵蓋 "
+            },
+            {
+              "type": "strong",
+              "text": "家電電源線"
+            },
+            {
+              "type": "text",
+              "text": " (占營收最大)、"
+            },
+            {
+              "type": "strong",
+              "text": "3C 電子線材"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "電動車充電線/槍"
+            },
+            {
+              "type": "text",
+              "text": "。\n在美國家電市場市佔率高，主要客戶為 "
+            },
+            {
+              "type": "strong",
+              "text": "[[GE]]"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "Whirlpool"
+            },
+            {
+              "type": "text",
+              "text": "。\n"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "領域透過母公司正崴切入 "
+            },
+            {
+              "type": "strong",
+              "text": "[[Tesla]]"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈，並生產自有品牌充電槍。\n近年亦打入 "
+            },
+            {
+              "type": "strong",
+              "text": "低軌衛星 (SpaceX)"
+            },
+            {
+              "type": "text",
+              "text": " 地面接收設備電源線供應鏈。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "銅線"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "PVC/橡膠料"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "端子"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "維熹 (3501)"
+            },
+            {
+              "type": "text",
+              "text": " - 線束抽製與組裝.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "家電"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "GE"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Whirlpool"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "3C"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " (via Foxlink), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "EV"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "ChargePoint"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "Satellite"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "SpaceX"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "GE"
+                },
+                {
+                  "type": "text",
+                  "text": " (奇異) - 美國家電大廠.\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Whirlpool"
+                },
+                {
+                  "type": "text",
+                  "text": " (惠而浦).\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "正崴"
+                },
+                {
+                  "type": "text",
+                  "text": " (Foxlink) - 母公司/通路.\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Tesla"
+                },
+                {
+                  "type": "text",
+                  "text": " (間接及直接)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $47.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.93",
+                  "7.75",
+                  "1.02",
+                  "0.81",
+                  "7.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5539.85",
+                  "5922.19",
+                  "5328.79"
+                ],
+                [
+                  "Gross Profit",
+                  "1110.19",
+                  "1433.63",
+                  "1272.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.04",
+                  "24.21",
+                  "23.88"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "358.67",
+                  "393.83",
+                  "342.29"
+                ],
+                [
+                  "R&D Exp",
+                  "38.27",
+                  "47.26",
+                  "53.05"
+                ],
+                [
+                  "General & Admin Exp",
+                  "284.04",
+                  "312.33",
+                  "264.42"
+                ],
+                [
+                  "Operating Income",
+                  "429.21",
+                  "680.20",
+                  "612.68"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.75",
+                  "11.49",
+                  "11.50"
+                ],
+                [
+                  "Net Income",
+                  "354.49",
+                  "723.44",
+                  "507.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.40",
+                  "12.22",
+                  "9.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "799.25",
+                  "152.66",
+                  "1497.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-881.04",
+                  "-630.85",
+                  "-286.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "229.50",
+                  "-225.15",
+                  "-875.65"
+                ],
+                [
+                  "CAPEX",
+                  "-1175.89",
+                  "-201.81",
+                  "-57.91"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1251.39",
+                  "1356.34",
+                  "1469.73",
+                  "1462.39"
+                ],
+                [
+                  "Gross Profit",
+                  "235.79",
+                  "231.08",
+                  "304.03",
+                  "339.29"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.84",
+                  "17.04",
+                  "20.69",
+                  "23.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "92.49",
+                  "78.95",
+                  "92.27",
+                  "94.97"
+                ],
+                [
+                  "R&D Exp",
+                  "8.28",
+                  "10.19",
+                  "11.54",
+                  "8.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "60.98",
+                  "70.94",
+                  "72.73",
+                  "79.38"
+                ],
+                [
+                  "Operating Income",
+                  "74.03",
+                  "71.00",
+                  "127.49",
+                  "156.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.92",
+                  "5.23",
+                  "8.67",
+                  "10.71"
+                ],
+                [
+                  "Net Income",
+                  "48.76",
+                  "70.79",
+                  "74.94",
+                  "160.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.90",
+                  "5.22",
+                  "5.10",
+                  "10.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19.23",
+                  "81.16",
+                  "553.78",
+                  "145.07"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-63.87",
+                  "-49.01",
+                  "-597.61",
+                  "-170.55"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "19.99",
+                  "-105.68",
+                  "91.21",
+                  "223.99"
+                ],
+                [
+                  "CAPEX",
+                  "-94.51",
+                  "-207.00",
+                  "-842.70",
+                  "-31.68"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "GE",
+    "電動車",
+    "Tesla",
+    "銅線",
+    "PVC/橡膠料",
+    "端子",
+    "GE",
+    "Whirlpool",
+    "Apple",
+    "Google",
+    "Tesla",
+    "ChargePoint",
+    "SpaceX",
+    "GE",
+    "Whirlpool",
+    "正崴",
+    "Tesla"
+  ]
+}

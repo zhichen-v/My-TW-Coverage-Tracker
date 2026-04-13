@@ -1,0 +1,467 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/6832_金鼎科.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/6832_金鼎科.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/6832_金鼎科.json",
+  "ticker": "6832",
+  "company_name": "金鼎科",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,611 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,786 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "金鼎科"
+            },
+            {
+              "type": "text",
+              "text": "聯合科技纖維股份有限公司 (King's "
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": "l Fiber Technologies) 是一家專注於研發及生產耐高溫不鏽鋼"
+            },
+            {
+              "type": "wikilink",
+              "text": "金屬纖維"
+            },
+            {
+              "type": "text",
+              "text": "製品的隱形冠軍。有別於傳統紡織纖維，金鼎科將AISI 316L"
+            },
+            {
+              "type": "wikilink",
+              "text": "不鏽鋼"
+            },
+            {
+              "type": "text",
+              "text": "與其他特殊合金抽絲、編織成布料或氈墊，以自有品牌「King's "
+            },
+            {
+              "type": "wikilink",
+              "text": "Meta"
+            },
+            {
+              "type": "text",
+              "text": "l Fiber」行銷全球。產品具備極佳的耐高溫氧化、吸震緩衝及抗靜電特性。最大應用市場為智慧型手機與汽車儀表板之"
+            },
+            {
+              "type": "wikilink",
+              "text": "曲面玻璃"
+            },
+            {
+              "type": "text",
+              "text": "熱壓成型製程緩衝隔離材料。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "高品質"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "不鏽鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "盤條、特殊耐熱高溫合金線材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "工業化學潤滑劑"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金鼎科:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "金屬纖維"
+                    },
+                    {
+                      "type": "text",
+                      "text": "抽絲、編織布、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "不鏽鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "氈製造"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 3D"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "曲面玻璃"
+                    },
+                    {
+                      "type": "text",
+                      "text": "保護蓋製造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載螢幕強化玻璃廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特種過濾/燃燒機應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伯恩光學"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "藍思科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等大型玻璃蓋板加工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車載儀器玻璃廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣及國際知名特種"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "不鏽鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "材與鎳基合金冶煉廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $61.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.74",
+                  "N/A",
+                  "3.38",
+                  "3.05",
+                  "12.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "477.28",
+                  "443.00",
+                  "447.17"
+                ],
+                [
+                  "Gross Profit",
+                  "241.43",
+                  "240.17",
+                  "238.93"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.59",
+                  "54.21",
+                  "53.43"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "45.47",
+                  "47.16",
+                  "46.40"
+                ],
+                [
+                  "R&D Exp",
+                  "46.29",
+                  "34.56",
+                  "30.04"
+                ],
+                [
+                  "General & Admin Exp",
+                  "43.03",
+                  "46.85",
+                  "45.03"
+                ],
+                [
+                  "Operating Income",
+                  "106.64",
+                  "111.60",
+                  "117.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.34",
+                  "25.19",
+                  "26.27"
+                ],
+                [
+                  "Net Income",
+                  "83.11",
+                  "89.80",
+                  "90.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "17.41",
+                  "20.27",
+                  "20.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "123.90",
+                  "89.47",
+                  "140.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-27.19",
+                  "-30.95",
+                  "-12.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-39.21",
+                  "-46.27",
+                  "-96.19"
+                ],
+                [
+                  "CAPEX",
+                  "-17.62",
+                  "-23.89",
+                  "-15.32"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "金鼎科",
+    "Meta",
+    "金屬纖維",
+    "不鏽鋼",
+    "Meta",
+    "曲面玻璃",
+    "不鏽鋼",
+    "金屬纖維",
+    "不鏽鋼",
+    "曲面玻璃",
+    "伯恩光學",
+    "藍思科技",
+    "不鏽鋼"
+  ]
+}

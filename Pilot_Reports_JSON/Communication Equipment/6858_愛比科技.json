@@ -1,0 +1,555 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/6858_愛比科技.md",
+  "source_path": "Pilot_Reports/Communication Equipment/6858_愛比科技.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/6858_愛比科技.json",
+  "ticker": "6858",
+  "company_name": "愛比科技",
+  "title": "# 6858_愛比科技",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "646 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "671 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "愛比科技 (6858，"
+            },
+            {
+              "type": "wikilink",
+              "text": "IPEVO"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣設計製造之視訊溝通設備品牌公司，以「IPEVO」自有品牌行銷全球。公司專注於開發實物攝影機 (Document Camera)、視訊協作攝影機 (如 V4K PRO、DO-CAM) 及相關 AI 視訊軟體。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "有別於傳統昂貴笨重的視訊設備，IPEVO 產品強調極簡設計、隨插即用與高度可攜性，屢獲 iF、Good Design 等國際設計大獎。產品在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Amazon"
+            },
+            {
+              "type": "text",
+              "text": " 電商平台為同類最暢銷品牌，深受美國 K-12 教育市場信任，已滲透逾 60% 美國公立學校。在遠距教學與混合辦公趨勢下，歐美教育機構及企業為主要客戶群。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學與影像元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學鏡頭模組 (Lens) 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CMOS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 影像感測晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ISP 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 影像訊號處理晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "麥克風:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 收音元件及塑膠金屬外殼"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (自有品牌視訊設備設計行銷)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌營運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "愛比科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (IPEVO 品牌視訊協作攝影機/實物投影機設計與全球行銷)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體開發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "愛比科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AI 視訊溝通軟體)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (教育市場與企業用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美教育:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國 K-12 學校學區採購 (逾 60% 美國公立學校)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 同類產品最暢銷品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 遠距/混合辦公之中大型企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟體相容:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google Meet"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Zoom"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Teams"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 視訊平台"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美教育:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國 K-12 公立學校學區採購 — 逾 60% 滲透率"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電商直銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Amazon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — IPEVO 品牌全球電商通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美遠距/混合辦公企業 — 視訊協作設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高等教育:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國大學院校 — 教學視訊設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代工製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣專業攝影機 EMS 代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CMOS 影像感測器及 ISP 晶片原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學鏡頭模組供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.75 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.30",
+                  "2.01",
+                  "54.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "520.67",
+                  "538.36",
+                  "416.30"
+                ],
+                [
+                  "Gross Profit",
+                  "219.08",
+                  "262.70",
+                  "151.51"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "42.08",
+                  "48.80",
+                  "36.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "135.86",
+                  "156.65",
+                  "118.55"
+                ],
+                [
+                  "R&D Exp",
+                  "70.37",
+                  "91.33",
+                  "63.84"
+                ],
+                [
+                  "General & Admin Exp",
+                  "59.31",
+                  "62.62",
+                  "66.57"
+                ],
+                [
+                  "Operating Income",
+                  "-46.45",
+                  "-47.91",
+                  "-97.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.92",
+                  "-8.90",
+                  "-23.41"
+                ],
+                [
+                  "Net Income",
+                  "-50.34",
+                  "-64.45",
+                  "-25.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-9.67",
+                  "-11.97",
+                  "-6.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "178.70",
+                  "114.71",
+                  "-215.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-10.41",
+                  "-20.69",
+                  "-3.22"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-91.14",
+                  "-92.82",
+                  "208.38"
+                ],
+                [
+                  "CAPEX",
+                  "-10.01",
+                  "-20.73",
+                  "-3.18"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "IPEVO",
+    "Amazon",
+    "CMOS",
+    "Amazon",
+    "Google Meet",
+    "Zoom",
+    "Microsoft Teams",
+    "Amazon"
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4506_崇友.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4506_崇友.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4506_崇友.json",
+  "ticker": "4506",
+  "company_name": "崇友",
+  "title": "# 4506 - 崇友",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "20,710 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,161 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "崇友實業 (4506) 為台灣知名"
+            },
+            {
+              "type": "wikilink",
+              "text": "電梯"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "電扶梯"
+            },
+            {
+              "type": "text",
+              "text": "製造商，與日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "Toshiba"
+            },
+            {
+              "type": "text",
+              "text": "長期技術合作。自有品牌 GFC 及 GENESIS。維保台數逾萬台。客戶含"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北捷運"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "高雄捷運"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北101"
+            },
+            {
+              "type": "text",
+              "text": "及國內主要建設公司如"
+            },
+            {
+              "type": "wikilink",
+              "text": "國泰建設"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "遠雄建設"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "鋼材/"
+            },
+            {
+              "type": "wikilink",
+              "text": "東元"
+            },
+            {
+              "type": "text",
+              "text": "馬達/控制器\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "崇友"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電梯"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "電扶梯"
+            },
+            {
+              "type": "text",
+              "text": "製造/維保; GFC/GENESIS品牌)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅/商辦"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "捷運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高雄捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電扶梯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商辦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北101"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電梯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "維保"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高雄捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電扶梯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台北101"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電梯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "維保"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "國泰建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 住宅/商辦"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Toshiba"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 技術合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": "鋼材; "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東元"
+                    },
+                    {
+                      "type": "text",
+                      "text": "馬達"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $117.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.86",
+                  "20.97",
+                  "3.44",
+                  "3.55",
+                  "11.81"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6020.82",
+                  "5486.42",
+                  "5268.26"
+                ],
+                [
+                  "Gross Profit",
+                  "1958.15",
+                  "1724.15",
+                  "1530.27"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "32.52",
+                  "31.43",
+                  "29.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "155.31",
+                  "154.35",
+                  "145.15"
+                ],
+                [
+                  "R&D Exp",
+                  "44.77",
+                  "43.42",
+                  "40.48"
+                ],
+                [
+                  "General & Admin Exp",
+                  "453.89",
+                  "426.63",
+                  "384.47"
+                ],
+                [
+                  "Operating Income",
+                  "1304.19",
+                  "1099.75",
+                  "960.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.66",
+                  "20.04",
+                  "18.23"
+                ],
+                [
+                  "Net Income",
+                  "1154.32",
+                  "988.56",
+                  "895.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "19.17",
+                  "18.02",
+                  "16.99"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1539.80",
+                  "1187.46",
+                  "1171.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-145.96",
+                  "-133.93",
+                  "-403.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-806.22",
+                  "-717.93",
+                  "-612.62"
+                ],
+                [
+                  "CAPEX",
+                  "-37.39",
+                  "-25.39",
+                  "-37.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1270.28",
+                  "1660.34",
+                  "1497.10",
+                  "1593.10"
+                ],
+                [
+                  "Gross Profit",
+                  "425.31",
+                  "519.95",
+                  "480.88",
+                  "532.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "33.48",
+                  "31.32",
+                  "32.12",
+                  "33.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "37.06",
+                  "41.55",
+                  "39.03",
+                  "37.67"
+                ],
+                [
+                  "R&D Exp",
+                  "11.13",
+                  "12.28",
+                  "10.72",
+                  "10.64"
+                ],
+                [
+                  "General & Admin Exp",
+                  "113.94",
+                  "107.03",
+                  "113.18",
+                  "119.74"
+                ],
+                [
+                  "Operating Income",
+                  "263.18",
+                  "359.10",
+                  "317.94",
+                  "363.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "20.72",
+                  "21.63",
+                  "21.24",
+                  "22.85"
+                ],
+                [
+                  "Net Income",
+                  "259.13",
+                  "322.25",
+                  "276.11",
+                  "296.82"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.40",
+                  "19.41",
+                  "18.44",
+                  "18.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "550.54",
+                  "393.06",
+                  "469.54",
+                  "126.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-39.33",
+                  "-48.77",
+                  "-42.09",
+                  "-15.78"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2.36",
+                  "-799.61",
+                  "-2.44",
+                  "-1.80"
+                ],
+                [
+                  "CAPEX",
+                  "-14.09",
+                  "-12.48",
+                  "-6.12",
+                  "-4.69"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電梯",
+    "電扶梯",
+    "Toshiba",
+    "台北捷運",
+    "高雄捷運",
+    "台北101",
+    "國泰建設",
+    "遠雄建設",
+    "中鋼",
+    "東元",
+    "電梯",
+    "電扶梯",
+    "國泰建設",
+    "遠雄建設",
+    "台北捷運",
+    "高雄捷運",
+    "電扶梯",
+    "台北101",
+    "電梯",
+    "台北捷運",
+    "高雄捷運",
+    "電扶梯",
+    "台北101",
+    "電梯",
+    "國泰建設",
+    "遠雄建設",
+    "Toshiba",
+    "中鋼",
+    "東元"
+  ]
+}

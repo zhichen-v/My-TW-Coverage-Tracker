@@ -1,0 +1,734 @@
+{
+  "report_id": "Pilot_Reports/Aerospace & Defense/2644_中信造船.md",
+  "source_path": "Pilot_Reports/Aerospace & Defense/2644_中信造船.md",
+  "json_path": "Pilot_Reports_JSON/Aerospace & Defense/2644_中信造船.json",
+  "ticker": "2644",
+  "company_name": "中信造船",
+  "title": "# 2644 - 中信造船",
+  "sector_folder": "Aerospace & Defense",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Aerospace & Defense"
+      },
+      {
+        "label": "市值:",
+        "value": "7,117 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "11,896 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "中信造船 (2644，Jong Shyn Shipbuilding) 為台灣規模最大的民營造船廠，由「台灣船王」韓碧祥創辦。公司主要業務涵蓋：(1) 軍艦建造 — 承建海軍輕型巡防艦原型艦 2 艘 (預算 90.5 億元)，搭載"
+            },
+            {
+              "type": "wikilink",
+              "text": "Lockheed Martin"
+            },
+            {
+              "type": "text",
+              "text": " CMS-330 戰鬥管理系統，後續量產 10 艘加速中；(2) 海巡艦艇 — 自 2018 年起承攬"
+            },
+            {
+              "type": "wikilink",
+              "text": "海巡署"
+            },
+            {
+              "type": "text",
+              "text": " 81 艘巡防艦艇計畫 (總值 215 億元)，含 600 噸級安平艦系列；(3) 商船與漁船 — 建造貨輪、客輪、超低溫鮪釣漁船等；(4) 無人艇 — 開發「中信五號」無人艇，年產能逾 200 艘，競標海軍無人艇計畫。旗下子公司高鼎遊艇為亞洲最大鋼鋁遊艇製造商。在手訂單逾 200 億元。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料與系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 造船用鋼板主要供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 船舶鋼結構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "船用引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MTU"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 船用動力系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "戰鬥系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lockheed Martin"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — CMS-330 戰鬥管理系統 (輕型巡防艦)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中山科學研究院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雷達、飛彈與武器整合"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (造船)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中信造船"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (軍艦/海巡艦艇/商船/漁船設計建造、無人艇研製)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高鼎遊艇"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (子公司，鋼鋁豪華遊艇製造)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海軍:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華民國海軍"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 輕型巡防艦、無人艇"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海巡:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "海巡署"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 81 艘各型巡防艦艇"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "研究機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國家海洋研究院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高科技研究船"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "漁業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 遠洋鮪釣漁船業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際遊艇:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球遊艇買家 (透過高鼎遊艇)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海軍:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華民國海軍"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 輕型巡防艦原型艦 2 艘 (90.5 億元)、後續量產 10 艘"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海巡:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "海巡署"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 81 艘巡防艦艇 (215 億元)，含安平艦系列"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "研究機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國家海洋研究院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高科技研究船"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "漁業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 遠洋鮪釣漁船隊 — 超低溫冷凍漁船"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "遊艇:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際遊艇客戶 — 高鼎遊艇品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 造船用鋼板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "世紀鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 船舶結構件"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "船用引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rolls-Royce"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MTU"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GE Aerospace"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Siemens"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 動力系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "戰鬥系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lockheed Martin"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — CMS-330 戰管系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防武器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中山科學研究院"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雷達與飛彈系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $85.80 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "317.78",
+                  "N/A",
+                  "1.45",
+                  "5.31",
+                  "33.75"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4829.99",
+                  "4310.54",
+                  "4240.76"
+                ],
+                [
+                  "Gross Profit",
+                  "298.44",
+                  "321.45",
+                  "333.20"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.18",
+                  "7.46",
+                  "7.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "8.49",
+                  "7.09",
+                  "3.75"
+                ],
+                [
+                  "R&D Exp",
+                  "40.61",
+                  "54.16",
+                  "52.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "120.82",
+                  "106.81",
+                  "107.96"
+                ],
+                [
+                  "Operating Income",
+                  "128.51",
+                  "153.39",
+                  "169.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "2.66",
+                  "3.56",
+                  "3.99"
+                ],
+                [
+                  "Net Income",
+                  "37.15",
+                  "33.99",
+                  "116.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.77",
+                  "0.79",
+                  "2.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "441.35",
+                  "584.12",
+                  "153.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-433.51",
+                  "-99.89",
+                  "282.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-71.67",
+                  "-541.53",
+                  "-272.02"
+                ],
+                [
+                  "CAPEX",
+                  "-203.74",
+                  "-118.46",
+                  "-160.53"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Lockheed Martin",
+    "海巡署",
+    "中鋼",
+    "世紀鋼",
+    "Rolls-Royce",
+    "MTU",
+    "GE Aerospace",
+    "Siemens",
+    "Lockheed Martin",
+    "中山科學研究院",
+    "中華民國海軍",
+    "海巡署",
+    "國家海洋研究院",
+    "中華民國海軍",
+    "海巡署",
+    "國家海洋研究院",
+    "中鋼",
+    "世紀鋼",
+    "Rolls-Royce",
+    "MTU",
+    "GE Aerospace",
+    "Siemens",
+    "Lockheed Martin",
+    "中山科學研究院"
+  ]
+}

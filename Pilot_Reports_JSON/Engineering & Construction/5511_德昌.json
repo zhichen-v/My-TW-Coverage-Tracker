@@ -1,0 +1,584 @@
+{
+  "report_id": "Pilot_Reports/Engineering & Construction/5511_德昌.md",
+  "source_path": "Pilot_Reports/Engineering & Construction/5511_德昌.md",
+  "json_path": "Pilot_Reports_JSON/Engineering & Construction/5511_德昌.json",
+  "ticker": "5511",
+  "company_name": "德昌",
+  "title": "# 5511 - 德昌",
+  "sector_folder": "Engineering & Construction",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Engineering & Construction"
+      },
+      {
+        "label": "市值:",
+        "value": "8,508 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,137 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "德昌營造"
+            },
+            {
+              "type": "text",
+              "text": "為台中地區大型甲級營造廠，主要營業項目為綜合營造業、營建規劃設計及管理業務。公司業務多元，除大量承接民間醫院建物外，亦辦理工業區及產業園區之開發業務。工程業主涵蓋政府機關與民間單位，並需處理營造工程以外之行銷與標售等業務。在手訂單規模約 800 億元，為近年台灣營造業中具代表性之成長標的。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (建材與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東和鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "豐興鋼鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌混凝土:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 區域預拌廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (營造施工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "德昌營造"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 醫院建築、工業區開發、公共工程"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (業主端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大民間醫院（院區新建與擴建）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業區:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 產業園區開發案之進駐企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關（公共工程）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療建築:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 民間醫院（院區新建與擴建工程）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業區開發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 產業園區進駐企業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公部門:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關（公共工程）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼筋:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東和鋼鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "豐興鋼鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水泥:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "亞洲水泥"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "預拌混凝土:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 區域預拌廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電分包:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機電工程分包商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $75.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "7.09",
+                  "N/A",
+                  "0.77",
+                  "1.24",
+                  "4.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "11083.71",
+                  "9395.57",
+                  "10459.96"
+                ],
+                [
+                  "Gross Profit",
+                  "1947.34",
+                  "1406.46",
+                  "1728.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.57",
+                  "14.97",
+                  "16.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "487.57",
+                  "464.44",
+                  "416.88"
+                ],
+                [
+                  "Operating Income",
+                  "1459.77",
+                  "942.02",
+                  "1311.52"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.17",
+                  "10.03",
+                  "12.54"
+                ],
+                [
+                  "Net Income",
+                  "1207.19",
+                  "852.86",
+                  "1150.62"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.89",
+                  "9.08",
+                  "11.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1619.64",
+                  "1123.85",
+                  "925.43"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-159.21",
+                  "-460.40",
+                  "-206.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-750.48",
+                  "-1533.61",
+                  "-52.87"
+                ],
+                [
+                  "CAPEX",
+                  "-110.37",
+                  "-72.85",
+                  "-85.63"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3456.09",
+                  "2997.35",
+                  "2741.82",
+                  "1888.45"
+                ],
+                [
+                  "Gross Profit",
+                  "658.11",
+                  "570.49",
+                  "460.52",
+                  "258.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.04",
+                  "19.03",
+                  "16.80",
+                  "13.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "138.15",
+                  "123.55",
+                  "113.34",
+                  "112.52"
+                ],
+                [
+                  "Operating Income",
+                  "519.96",
+                  "446.94",
+                  "347.19",
+                  "145.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.04",
+                  "14.91",
+                  "12.66",
+                  "7.71"
+                ],
+                [
+                  "Net Income",
+                  "463.00",
+                  "402.99",
+                  "210.22",
+                  "130.99"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.40",
+                  "13.44",
+                  "7.67",
+                  "6.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1109.51",
+                  "313.12",
+                  "161.25",
+                  "35.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-18.47",
+                  "-63.71",
+                  "-27.58",
+                  "-49.45"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-161.96",
+                  "-626.33",
+                  "-124.28",
+                  "162.09"
+                ],
+                [
+                  "CAPEX",
+                  "-24.08",
+                  "-41.48",
+                  "-29.80",
+                  "-15.01"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "德昌營造",
+    "東和鋼鐵",
+    "豐興鋼鐵",
+    "台灣水泥",
+    "亞洲水泥",
+    "東和鋼鐵",
+    "豐興鋼鐵",
+    "台灣水泥",
+    "亞洲水泥"
+  ]
+}

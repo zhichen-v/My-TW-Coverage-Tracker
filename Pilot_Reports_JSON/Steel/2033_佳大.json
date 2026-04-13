@@ -1,0 +1,474 @@
+{
+  "report_id": "Pilot_Reports/Steel/2033_佳大.md",
+  "source_path": "Pilot_Reports/Steel/2033_佳大.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2033_佳大.json",
+  "ticker": "2033",
+  "company_name": "佳大",
+  "title": "# 2033 - 佳大",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "1,344 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,397 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "佳大世界 (2033) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼線"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "PC鋼絞線"
+            },
+            {
+              "type": "text",
+              "text": "製造商，另生產"
+            },
+            {
+              "type": "wikilink",
+              "text": "鍍鋅鐵線"
+            },
+            {
+              "type": "text",
+              "text": "及各式金屬線材。PC鋼絞線用於預力混凝土橋樑及建築。上游線材來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。下游供應營建/橋樑工程。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": " — 線材/盤元\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "佳大"
+            },
+            {
+              "type": "text",
+              "text": " (鋼線/"
+            },
+            {
+              "type": "wikilink",
+              "text": "PC鋼絞線"
+            },
+            {
+              "type": "text",
+              "text": "製造)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "預力混凝土橋樑/建築工程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建業 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PC鋼絞線"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建/橋樑工程 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PC鋼絞線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "建築預力結構"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 線材/盤元"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $16.65 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "47.57",
+                  "72.39",
+                  "1.91",
+                  "1.27",
+                  "27.94"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "702.74",
+                  "577.65",
+                  "586.55"
+                ],
+                [
+                  "Gross Profit",
+                  "100.05",
+                  "77.54",
+                  "52.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.24",
+                  "13.42",
+                  "8.89"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.49",
+                  "11.19",
+                  "10.16"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.39",
+                  "13.07",
+                  "12.98"
+                ],
+                [
+                  "Operating Income",
+                  "30.54",
+                  "16.36",
+                  "-6.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.35",
+                  "2.83",
+                  "-1.03"
+                ],
+                [
+                  "Net Income",
+                  "28.31",
+                  "15.72",
+                  "-3.11"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.03",
+                  "2.72",
+                  "-0.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "71.55",
+                  "73.81",
+                  "58.46"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-85.04",
+                  "2.10",
+                  "-5.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "11.77",
+                  "-74.57",
+                  "-69.88"
+                ],
+                [
+                  "CAPEX",
+                  "-51.15",
+                  "-25.94",
+                  "-5.03"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "176.09",
+                  "181.98",
+                  "179.93",
+                  "156.12"
+                ],
+                [
+                  "Gross Profit",
+                  "25.02",
+                  "24.48",
+                  "28.00",
+                  "19.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.21",
+                  "13.45",
+                  "15.56",
+                  "12.26"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3.72",
+                  "3.40",
+                  "3.87",
+                  "3.23"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2.90",
+                  "2.98",
+                  "4.72",
+                  "2.90"
+                ],
+                [
+                  "Operating Income",
+                  "8.93",
+                  "7.58",
+                  "9.36",
+                  "4.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.07",
+                  "4.16",
+                  "5.20",
+                  "2.95"
+                ],
+                [
+                  "Net Income",
+                  "7.57",
+                  "4.24",
+                  "9.07",
+                  "3.40"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.30",
+                  "2.33",
+                  "5.04",
+                  "2.18"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8.36",
+                  "26.55",
+                  "-6.44",
+                  "19.62"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3.20",
+                  "13.54",
+                  "-14.79",
+                  "17.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "5.13",
+                  "-20.21",
+                  "8.47",
+                  "-73.64"
+                ],
+                [
+                  "CAPEX",
+                  "62.30",
+                  "-18.17",
+                  "-14.79",
+                  "-10.80"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鋼線",
+    "PC鋼絞線",
+    "鍍鋅鐵線",
+    "中鋼",
+    "中鋼",
+    "PC鋼絞線",
+    "PC鋼絞線",
+    "PC鋼絞線",
+    "中鋼"
+  ]
+}

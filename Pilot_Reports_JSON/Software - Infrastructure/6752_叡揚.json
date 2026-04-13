@@ -1,0 +1,724 @@
+{
+  "report_id": "Pilot_Reports/Software - Infrastructure/6752_叡揚.md",
+  "source_path": "Pilot_Reports/Software - Infrastructure/6752_叡揚.md",
+  "json_path": "Pilot_Reports_JSON/Software - Infrastructure/6752_叡揚.json",
+  "ticker": "6752",
+  "company_name": "叡揚",
+  "title": "# {file.replace('.md', '')}",
+  "sector_folder": "Software - Infrastructure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Infrastructure"
+      },
+      {
+        "label": "市值:",
+        "value": "4,346 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,031 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "叡揚資訊股份有限公司 (6752) 為台灣歷史悠久之本土資訊軟體與雲端服務 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SaaS"
+            },
+            {
+              "type": "text",
+              "text": ") 領導廠商，成立逾 35 年。核心業務涵蓋企業知識管理 (KM)、公文管理、人力資源、客戶關係管理 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "CRM"
+            },
+            {
+              "type": "text",
+              "text": ") 及資訊安全解決方案。公司以「Vital 雲端家族」"
+            },
+            {
+              "type": "wikilink",
+              "text": "SaaS"
+            },
+            {
+              "type": "text",
+              "text": " 產品線為主力，並積極導入"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "自然語言處理 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "NLP"
+            },
+            {
+              "type": "text",
+              "text": ") 及大語言模型 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "LLM"
+            },
+            {
+              "type": "text",
+              "text": ")，推出智慧對話機器人 (Chatbot) 等應用。為響應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ESG"
+            },
+            {
+              "type": "text",
+              "text": " 趨勢，叡揚推出零碳雲 (Vital NetZero) 碳盤查系統。客戶以高科技業 (佔近六成) 為主，廣泛服務金融機構、醫療院所與政府單位。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (雲端與技術)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — IaaS 基礎設施"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 模型:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OpenAI"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、開源 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LLM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 大語言模型授權"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料庫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft SQL Server"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 底層資料庫"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟體服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "叡揚資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Vital 雲端 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SaaS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NLP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 應用、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ESG"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 碳盤查系統、企業知識管理)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (企業客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技業 (佔 60%):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體與電子製造業"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大金控銀行 — 公文與知識管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療院所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型公立醫院"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府部會"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技業 (佔約 60%):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體與電子製造業 — 知識管理與公文系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大金控銀行 — 公文流程與 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CRM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療院所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型公立醫院 — 醫療知識管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府單位:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級政府部會 — 公文與檔案管理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 核心雲端基礎設施夥伴"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 技術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OpenAI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 大語言模型技術"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料庫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業資料庫授權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $117.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.92",
+                  "14.61",
+                  "2.15",
+                  "3.11",
+                  "12.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2019.27",
+                  "1735.87",
+                  "1589.96"
+                ],
+                [
+                  "Gross Profit",
+                  "1012.43",
+                  "907.57",
+                  "831.77"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.14",
+                  "52.28",
+                  "52.31"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "242.29",
+                  "230.09",
+                  "203.91"
+                ],
+                [
+                  "R&D Exp",
+                  "223.00",
+                  "180.56",
+                  "170.46"
+                ],
+                [
+                  "General & Admin Exp",
+                  "246.73",
+                  "241.77",
+                  "226.08"
+                ],
+                [
+                  "Operating Income",
+                  "300.41",
+                  "255.15",
+                  "231.33"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.88",
+                  "14.70",
+                  "14.55"
+                ],
+                [
+                  "Net Income",
+                  "274.33",
+                  "216.00",
+                  "198.82"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.59",
+                  "12.44",
+                  "12.50"
+                ],
+                [
+                  "Op Cash Flow",
+                  "318.37",
+                  "337.62",
+                  "207.99"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-321.01",
+                  "-36.81",
+                  "-42.48"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-151.19",
+                  "-245.49",
+                  "-83.41"
+                ],
+                [
+                  "CAPEX",
+                  "-16.33",
+                  "-7.63",
+                  "-26.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "580.09",
+                  "493.54",
+                  "488.67",
+                  "456.97"
+                ],
+                [
+                  "Gross Profit",
+                  "304.69",
+                  "249.29",
+                  "237.80",
+                  "220.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "52.52",
+                  "50.51",
+                  "48.66",
+                  "48.29"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "69.28",
+                  "57.55",
+                  "57.00",
+                  "58.47"
+                ],
+                [
+                  "R&D Exp",
+                  "60.58",
+                  "56.56",
+                  "52.75",
+                  "53.12"
+                ],
+                [
+                  "General & Admin Exp",
+                  "73.01",
+                  "63.60",
+                  "58.64",
+                  "51.48"
+                ],
+                [
+                  "Operating Income",
+                  "101.82",
+                  "71.58",
+                  "69.42",
+                  "57.59"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "17.55",
+                  "14.50",
+                  "14.21",
+                  "12.60"
+                ],
+                [
+                  "Net Income",
+                  "87.94",
+                  "58.14",
+                  "79.23",
+                  "49.02"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.16",
+                  "11.78",
+                  "16.21",
+                  "10.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "205.30",
+                  "85.76",
+                  "21.49",
+                  "5.82"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "11.51",
+                  "-284.47",
+                  "-35.29",
+                  "-12.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4.82",
+                  "-5.01",
+                  "-136.29",
+                  "-5.06"
+                ],
+                [
+                  "CAPEX",
+                  "-1.12",
+                  "-7.00",
+                  "-2.75",
+                  "-5.45"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "SaaS",
+    "CRM",
+    "SaaS",
+    "AI",
+    "NLP",
+    "LLM",
+    "ESG",
+    "Microsoft Azure",
+    "AWS",
+    "OpenAI",
+    "LLM",
+    "Oracle",
+    "Microsoft SQL Server",
+    "SaaS",
+    "AI",
+    "NLP",
+    "ESG",
+    "CRM",
+    "Microsoft Azure",
+    "OpenAI",
+    "Oracle"
+  ]
+}

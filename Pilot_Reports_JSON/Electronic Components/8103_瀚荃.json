@@ -1,0 +1,699 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/8103_瀚荃.md",
+  "source_path": "Pilot_Reports/Electronic Components/8103_瀚荃.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/8103_瀚荃.json",
+  "ticker": "8103",
+  "company_name": "瀚荃",
+  "title": "# 8103 - 瀚荃",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,575 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,192 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "瀚荃 (8103，CviLux) 為台灣專業連接器與線材組件製造商，成立於 1990 年，為全球知名 EMS 廠之合格供應商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心產品涵蓋：(1) 連接器 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "FFC"
+            },
+            {
+              "type": "text",
+              "text": " 連接器、板對板連接器、USB Type-C、HDMI、LVDS、Fakra 車用連接器等全系列產品；(2) 軟性排線與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "FFC"
+            },
+            {
+              "type": "text",
+              "text": " 排線、"
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": " 軟性電路板；(3) 線束組裝 — 筆電、伺服器、車用及工控線束；(4) 無線模組 — "
+            },
+            {
+              "type": "wikilink",
+              "text": "Bluetooth"
+            },
+            {
+              "type": "text",
+              "text": "、Wi-Fi、NFC 模組；(5) 智慧生活 — HomeKit 智慧插座、空氣清淨機等。營收結構中伺服器與網通占比最高且持續成長 (2024 Q3 達 33%，年增 26%)，筆電次之，光電產品亦快速成長 (2024 Q3 年增 67%)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬端子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅合金精密沖壓端子供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工程塑膠連接器殼體射出廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[FPC]] 基材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性銅箔基板 (FCCL) 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電線電纜供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (連接器與線材製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "連接器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "瀚荃"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FFC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 連接器、板對板連接器、USB Type-C 等)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線束組裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "瀚荃"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (筆電、伺服器、車用線束)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無線模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "瀚荃"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bluetooth"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、Wi-Fi、NFC 模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器與網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 伺服器 ODM 廠與網通設備商 — 營收占比最高"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆記型電腦:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球筆電 ODM 廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "汽車電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用線束與連接器應用"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光電設備製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球伺服器 ODM 與網通設備商 — 營收占比最高 (33%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "筆電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球筆電 ODM 大廠 — 鍵盤排線與內部連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 汽車零組件 Tier 1 廠 — 車用線束與 Fakra 連接器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光電產品製造商 — 2024 年成長最快領域"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬端子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 銅合金精密沖壓件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "塑膠射出:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工程塑膠連接器殼體廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[FPC]] 基材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 軟性銅箔基板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "線材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電線電纜與被動元件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $85.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.00",
+                  "10.19",
+                  "1.66",
+                  "1.47",
+                  "4.77"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3355.45",
+                  "3188.14",
+                  "2958.62"
+                ],
+                [
+                  "Gross Profit",
+                  "1255.34",
+                  "1108.43",
+                  "1008.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "37.41",
+                  "34.77",
+                  "34.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "255.34",
+                  "243.87",
+                  "226.89"
+                ],
+                [
+                  "R&D Exp",
+                  "154.25",
+                  "133.64",
+                  "135.88"
+                ],
+                [
+                  "General & Admin Exp",
+                  "390.05",
+                  "364.76",
+                  "347.07"
+                ],
+                [
+                  "Operating Income",
+                  "455.70",
+                  "366.16",
+                  "298.38"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.58",
+                  "11.49",
+                  "10.08"
+                ],
+                [
+                  "Net Income",
+                  "338.81",
+                  "338.51",
+                  "217.91"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.10",
+                  "10.62",
+                  "7.37"
+                ],
+                [
+                  "Op Cash Flow",
+                  "646.23",
+                  "654.96",
+                  "714.13"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-219.26",
+                  "-394.31",
+                  "-209.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-274.32",
+                  "-159.62",
+                  "-312.05"
+                ],
+                [
+                  "CAPEX",
+                  "-266.73",
+                  "-131.34",
+                  "-102.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "891.95",
+                  "850.83",
+                  "738.23",
+                  "829.29"
+                ],
+                [
+                  "Gross Profit",
+                  "349.07",
+                  "318.87",
+                  "252.08",
+                  "258.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.14",
+                  "37.48",
+                  "34.15",
+                  "31.20"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "81.37",
+                  "54.59",
+                  "58.79",
+                  "66.06"
+                ],
+                [
+                  "R&D Exp",
+                  "46.64",
+                  "34.13",
+                  "33.73",
+                  "38.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "118.47",
+                  "89.17",
+                  "87.78",
+                  "98.96"
+                ],
+                [
+                  "Operating Income",
+                  "102.59",
+                  "140.97",
+                  "71.79",
+                  "54.99"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.50",
+                  "16.57",
+                  "9.72",
+                  "6.63"
+                ],
+                [
+                  "Net Income",
+                  "117.01",
+                  "38.92",
+                  "67.49",
+                  "85.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.12",
+                  "4.57",
+                  "9.14",
+                  "10.34"
+                ],
+                [
+                  "Op Cash Flow",
+                  "145.97",
+                  "141.07",
+                  "173.31",
+                  "180.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17.94",
+                  "-218.21",
+                  "70.69",
+                  "-131.32"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-102.78",
+                  "43.68",
+                  "-13.62",
+                  "-50.65"
+                ],
+                [
+                  "CAPEX",
+                  "-61.56",
+                  "-40.16",
+                  "-22.82",
+                  "-38.71"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "FPC",
+    "FFC",
+    "FPC",
+    "FFC",
+    "FPC",
+    "Bluetooth",
+    "FPC",
+    "FPC",
+    "FFC",
+    "Bluetooth",
+    "FPC"
+  ]
+}

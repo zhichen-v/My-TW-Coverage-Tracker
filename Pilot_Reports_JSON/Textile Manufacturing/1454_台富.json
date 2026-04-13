@@ -1,0 +1,479 @@
+{
+  "report_id": "Pilot_Reports/Textile Manufacturing/1454_台富.md",
+  "source_path": "Pilot_Reports/Textile Manufacturing/1454_台富.md",
+  "json_path": "Pilot_Reports_JSON/Textile Manufacturing/1454_台富.json",
+  "ticker": "1454",
+  "company_name": "台富",
+  "title": "# 1454 - 台富",
+  "sector_folder": "Textile Manufacturing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Textile Manufacturing"
+      },
+      {
+        "label": "市值:",
+        "value": "1,581 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,600 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "台富"
+            },
+            {
+              "type": "text",
+              "text": "食品工業 (Taiwan Taffeta Fabric，雖名為食品工業但主業為紡織) 專注於特多龍 (Tetoron) 梭織布之生產。產品包括彈性布、緹花布及各類機能性布料。公司持續推廣自有品牌「ElasLana」，主打仿毛感的高彈性纖維布料，應用於都會休閒與戶外服飾。生產基地設於桃園及越南。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "採購聚酯紗線 (來自"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新纖"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "尼龍紗線"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "織布，染整委外加工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (品牌/成衣)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "成衣廠、品牌商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美及日本戶外休閒品牌如"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Columbia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Uniqlo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "供應鏈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新纖"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠東新"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等國內化纖廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $12.95 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "1.03",
+                  "1.16",
+                  "-28.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1537.00",
+                  "1623.57",
+                  "1513.54"
+                ],
+                [
+                  "Gross Profit",
+                  "30.14",
+                  "116.61",
+                  "139.15"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "1.96",
+                  "7.18",
+                  "9.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "83.89",
+                  "90.91",
+                  "86.33"
+                ],
+                [
+                  "R&D Exp",
+                  "10.59",
+                  "9.94",
+                  "9.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "62.45",
+                  "65.53",
+                  "64.65"
+                ],
+                [
+                  "Operating Income",
+                  "-127.40",
+                  "-50.46",
+                  "-22.38"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.29",
+                  "-3.11",
+                  "-1.48"
+                ],
+                [
+                  "Net Income",
+                  "-136.99",
+                  "12.21",
+                  "19.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-8.91",
+                  "0.75",
+                  "1.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-12.94",
+                  "47.52",
+                  "130.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-290.50",
+                  "-87.95",
+                  "-48.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "247.37",
+                  "-102.47",
+                  "-31.71"
+                ],
+                [
+                  "CAPEX",
+                  "-71.72",
+                  "-31.61",
+                  "-31.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "357.71",
+                  "412.60",
+                  "404.60",
+                  "390.87"
+                ],
+                [
+                  "Gross Profit",
+                  "-2.01",
+                  "15.09",
+                  "25.57",
+                  "14.28"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-0.56",
+                  "3.66",
+                  "6.32",
+                  "3.65"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "22.26",
+                  "23.12",
+                  "20.14",
+                  "24.39"
+                ],
+                [
+                  "R&D Exp",
+                  "2.17",
+                  "2.84",
+                  "2.68",
+                  "2.35"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.15",
+                  "15.19",
+                  "17.43",
+                  "10.51"
+                ],
+                [
+                  "Operating Income",
+                  "-40.62",
+                  "-26.15",
+                  "-14.82",
+                  "-23.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.36",
+                  "-6.34",
+                  "-3.66",
+                  "-5.91"
+                ],
+                [
+                  "Net Income",
+                  "-51.63",
+                  "-63.32",
+                  "-8.10",
+                  "-17.38"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-14.43",
+                  "-15.35",
+                  "-2.00",
+                  "-4.45"
+                ],
+                [
+                  "Op Cash Flow",
+                  "6.62",
+                  "9.66",
+                  "-25.81",
+                  "12.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-6.75",
+                  "-158.10",
+                  "-128.10",
+                  "-17.06"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-0.56",
+                  "139.49",
+                  "104.49",
+                  "-20.51"
+                ],
+                [
+                  "CAPEX",
+                  "-6.83",
+                  "-5.54",
+                  "-55.58",
+                  "-4.20"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台富",
+    "南亞",
+    "新纖",
+    "Columbia",
+    "Uniqlo",
+    "南亞",
+    "新纖",
+    "遠東新"
+  ]
+}

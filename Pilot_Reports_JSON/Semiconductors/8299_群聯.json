@@ -1,0 +1,595 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/8299_群聯.md",
+  "source_path": "Pilot_Reports/Semiconductors/8299_群聯.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/8299_群聯.json",
+  "ticker": "8299",
+  "company_name": "群聯",
+  "title": "# 8299 - 群聯",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "361,815 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "347,703 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "群"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": "子 (8299，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Phison"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NAND Flash"
+            },
+            {
+              "type": "text",
+              "text": " 儲存控制晶片及解決方案領導廠商，每年全球銷售超過 6 億顆控制晶片。產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SSD"
+            },
+            {
+              "type": "text",
+              "text": " 控制晶片 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "PCIe"
+            },
+            {
+              "type": "text",
+              "text": "/SATA)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "eMMC"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "UFS"
+            },
+            {
+              "type": "text",
+              "text": "、SD 及 USB 介面控制器，從 IP 授權到晶片設計至系統整合之完整方案，服務消費、工業及企業級市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (NAND 原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NAND Flash:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kioxia"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (合作夥伴)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (控制晶片設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NAND 控制器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "群聯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球 NAND Flash 控制晶片龍頭，年銷 6 億+顆)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (儲存品牌)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kingston"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (最大客戶)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM/ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球品牌及 OEM/ODM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kingston"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NAND 合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kioxia"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OEM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球品牌及 OEM/ODM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NAND Flash:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Kioxia"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "慧榮科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Maxio Technology"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,660.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "41.85",
+                  "15.74",
+                  "4.98",
+                  "6.02",
+                  "38.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "72664.09",
+                  "58935.51",
+                  "48221.63"
+                ],
+                [
+                  "Gross Profit",
+                  "24998.65",
+                  "19107.76",
+                  "16164.44"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.40",
+                  "32.42",
+                  "33.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1647.03",
+                  "1694.47",
+                  "1277.48"
+                ],
+                [
+                  "R&D Exp",
+                  "13775.49",
+                  "12585.64",
+                  "10305.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1201.42",
+                  "1279.99",
+                  "959.93"
+                ],
+                [
+                  "Operating Income",
+                  "8374.70",
+                  "3547.66",
+                  "3621.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.53",
+                  "6.02",
+                  "7.51"
+                ],
+                [
+                  "Net Income",
+                  "8739.18",
+                  "7953.21",
+                  "3624.43"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.03",
+                  "13.49",
+                  "7.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1597.54",
+                  "2094.09",
+                  "-1696.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1908.27",
+                  "3903.14",
+                  "-1364.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3108.67",
+                  "-672.82",
+                  "258.30"
+                ],
+                [
+                  "CAPEX",
+                  "-1925.61",
+                  "-1669.37",
+                  "-768.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "22798.66",
+                  "18136.80",
+                  "17890.07",
+                  "13838.57"
+                ],
+                [
+                  "Gross Profit",
+                  "9547.31",
+                  "5914.01",
+                  "5224.40",
+                  "4312.94"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.88",
+                  "32.61",
+                  "29.20",
+                  "31.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "555.06",
+                  "374.21",
+                  "370.54",
+                  "347.23"
+                ],
+                [
+                  "R&D Exp",
+                  "5254.38",
+                  "3706.84",
+                  "2247.90",
+                  "2566.37"
+                ],
+                [
+                  "General & Admin Exp",
+                  "437.72",
+                  "310.13",
+                  "209.97",
+                  "243.60"
+                ],
+                [
+                  "Operating Income",
+                  "3300.15",
+                  "1522.82",
+                  "2395.99",
+                  "1155.74"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.48",
+                  "8.40",
+                  "13.39",
+                  "8.35"
+                ],
+                [
+                  "Net Income",
+                  "4628.55",
+                  "2225.49",
+                  "744.58",
+                  "1140.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.30",
+                  "12.27",
+                  "4.16",
+                  "8.24"
+                ],
+                [
+                  "Op Cash Flow",
+                  "3537.75",
+                  "1782.13",
+                  "-5071.27",
+                  "1348.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-499.12",
+                  "-607.40",
+                  "-688.17",
+                  "-113.57"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "485.57",
+                  "-1976.66",
+                  "1900.93",
+                  "-3518.51"
+                ],
+                [
+                  "CAPEX",
+                  "-226.24",
+                  "-639.70",
+                  "-748.90",
+                  "-310.77"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "聯電",
+    "Phison",
+    "NAND Flash",
+    "SSD",
+    "PCIe",
+    "eMMC",
+    "UFS",
+    "Kioxia",
+    "Micron",
+    "Kingston",
+    "Kingston",
+    "Kioxia",
+    "Kioxia",
+    "Micron",
+    "慧榮科技",
+    "Maxio Technology"
+  ]
+}

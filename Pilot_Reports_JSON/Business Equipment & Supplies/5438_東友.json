@@ -1,0 +1,531 @@
+{
+  "report_id": "Pilot_Reports/Business Equipment & Supplies/5438_東友.md",
+  "source_path": "Pilot_Reports/Business Equipment & Supplies/5438_東友.md",
+  "json_path": "Pilot_Reports_JSON/Business Equipment & Supplies/5438_東友.json",
+  "ticker": "5438",
+  "company_name": "東友",
+  "title": "# 5438 - 東友",
+  "sector_folder": "Business Equipment & Supplies",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Business Equipment & Supplies"
+      },
+      {
+        "label": "市值:",
+        "value": "2,273 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,150 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東友科技 (Teco Image Systems) 成立於 1997 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "桃園"
+            },
+            {
+              "type": "text",
+              "text": "，為 "
+            },
+            {
+              "type": "strong",
+              "text": "東元集團 (TECO)"
+            },
+            {
+              "type": "text",
+              "text": " 成員。公司為全球知名 "
+            },
+            {
+              "type": "strong",
+              "text": "多功能事務機 (MFP)"
+            },
+            {
+              "type": "text",
+              "text": " 之 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 製造商。主要產品涵蓋雷射印表機、掃描器、標籤列印機及 3D 列印機。近年積極轉型，透過 3D 列印技術切入 "
+            },
+            {
+              "type": "strong",
+              "text": "無人機"
+            },
+            {
+              "type": "text",
+              "text": " 領域，提供機身輕量化解決方案，並成為台灣無人機國家隊成員。此外，亦代理 JVC 品牌產品。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備零組件採購)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎料件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購塑膠粒、各式 IC 控制晶片、精密無刷馬達及光學感測器等電機零組件。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (事務機與新興載具代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "研發製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "東友 (5438)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (東元集團旗下 MFP 多功能事務機 ODM/OEM 專業代工大廠，產製雷射印表機與掃描機，近期並運用 3D 列印技術投入無人機輕量化機身與系統平台開發)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (品牌廠與應用單位)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球大宗辦公室自動化品牌商、歐洲工業級設備廠以及無人機應用服務業者或國防政府單位。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國際事務大廠 (主力代工):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球知名辦公室自動化 (OA) 品牌廠，如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Canon"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (佳能)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Ricoh"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (理光)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (惠普)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Epson"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (愛普生) 及 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Konica Minolta"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等企業級巨頭。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新興技術客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 德國彩色工業標籤機大廠、日本切割繪圖機客戶，以及導入東友系統進行產品驗證之國內外無人機大廠與政府相關單位。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件廠與集團資源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應光學感測晶片與步進馬達之國內外電子零組件廠商，並得協同母集團 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東元"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (1504) 之機電資源。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $20.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "38.11",
+                  "N/A",
+                  "1.75",
+                  "0.50",
+                  "78.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1297.59",
+                  "1333.85",
+                  "1196.67"
+                ],
+                [
+                  "Gross Profit",
+                  "199.44",
+                  "237.13",
+                  "184.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "15.37",
+                  "17.78",
+                  "15.44"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "25.46",
+                  "26.11",
+                  "33.39"
+                ],
+                [
+                  "R&D Exp",
+                  "89.79",
+                  "96.34",
+                  "96.24"
+                ],
+                [
+                  "General & Admin Exp",
+                  "123.87",
+                  "140.68",
+                  "148.58"
+                ],
+                [
+                  "Operating Income",
+                  "-39.68",
+                  "-26.00",
+                  "-93.48"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.06",
+                  "-1.95",
+                  "-7.81"
+                ],
+                [
+                  "Net Income",
+                  "40.67",
+                  "86.90",
+                  "7.12"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.13",
+                  "6.51",
+                  "0.59"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19.35",
+                  "26.57",
+                  "-27.69"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "137.92",
+                  "138.94",
+                  "295.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "92.89",
+                  "-283.83",
+                  "-192.06"
+                ],
+                [
+                  "CAPEX",
+                  "-16.55",
+                  "-19.28",
+                  "-14.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "271.77",
+                  "304.82",
+                  "420.90",
+                  "300.09"
+                ],
+                [
+                  "Gross Profit",
+                  "40.56",
+                  "47.54",
+                  "64.91",
+                  "46.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.93",
+                  "15.60",
+                  "15.42",
+                  "15.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.33",
+                  "6.78",
+                  "6.12",
+                  "6.23"
+                ],
+                [
+                  "R&D Exp",
+                  "22.08",
+                  "25.40",
+                  "20.01",
+                  "22.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "34.74",
+                  "29.77",
+                  "28.61",
+                  "30.73"
+                ],
+                [
+                  "Operating Income",
+                  "-22.59",
+                  "-14.41",
+                  "10.17",
+                  "-12.85"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-8.31",
+                  "-4.73",
+                  "2.42",
+                  "-4.28"
+                ],
+                [
+                  "Net Income",
+                  "-16.19",
+                  "50.43",
+                  "-4.13",
+                  "10.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.96",
+                  "16.54",
+                  "-0.98",
+                  "3.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "21.18",
+                  "71.73",
+                  "-44.66",
+                  "-28.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-19.75",
+                  "175.17",
+                  "-3.01",
+                  "-14.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "0.78",
+                  "-81.92",
+                  "181.24",
+                  "-7.21"
+                ],
+                [
+                  "CAPEX",
+                  "-2.11",
+                  "-0.31",
+                  "-4.60",
+                  "-9.53"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "桃園",
+    "ODM",
+    "Canon",
+    "Ricoh",
+    "HP",
+    "Epson",
+    "Konica Minolta",
+    "東元"
+  ]
+}

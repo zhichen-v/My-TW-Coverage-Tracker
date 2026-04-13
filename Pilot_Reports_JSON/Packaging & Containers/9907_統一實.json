@@ -1,0 +1,622 @@
+{
+  "report_id": "Pilot_Reports/Packaging & Containers/9907_統一實.md",
+  "source_path": "Pilot_Reports/Packaging & Containers/9907_統一實.md",
+  "json_path": "Pilot_Reports_JSON/Packaging & Containers/9907_統一實.json",
+  "ticker": "9907",
+  "company_name": "統一實",
+  "title": "# 9907 - 統一實",
+  "sector_folder": "Packaging & Containers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Packaging & Containers"
+      },
+      {
+        "label": "市值:",
+        "value": "28,425 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "31,505 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "統一實業股份有限公司成立於 1969 年，總部位於台灣台南，為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "（1216）集團成員。統一實為國內最大且亞洲第一的馬口鐵廠，在中國大陸規模僅次於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "寶鋼"
+            },
+            {
+              "type": "text",
+              "text": "，具備從馬口鐵基板、中游馬口鐵鍍錫到下游製罐之垂直整合競爭優勢。主要產品包括馬口鐵基板及鍍錫板、馬口鐵印刷與製罐、"
+            },
+            {
+              "type": "wikilink",
+              "text": "PET"
+            },
+            {
+              "type": "text",
+              "text": " 瓶包材、飲料充填代工（PET 瓶、"
+            },
+            {
+              "type": "wikilink",
+              "text": "利樂包"
+            },
+            {
+              "type": "text",
+              "text": "、塑膠瓶蓋）及新型鋁瓶罐（NBC）。2024 年產品營收結構中鐵產品佔約 53%、飲料包裝產品佔約 47%。統一實近年積極擴產，於無錫、漳州及北京新增飲料無菌充填生產線，同時中國大陸市場新增 "
+            },
+            {
+              "type": "wikilink",
+              "text": "紅牛"
+            },
+            {
+              "type": "text",
+              "text": "（Red Bull）能量飲料及東鵬大咖啡等重要客戶。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (鋼材與原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "熱軋鋼捲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外鋼廠供應基板原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PET 樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 瓶胚原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "錫錠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬口鐵鍍錫用原料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (包裝材料製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "統一實 (9907):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬口鐵基板製造、鍍錫加工、彩印製罐、PET 瓶胚及充填代工、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "利樂包"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 充填、NBC 鋁瓶罐生產"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料產業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 啤酒罐、茶飲、果汁、運動飲料、咖啡飲品之包材及充填代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "食品產業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 食品罐頭用馬口鐵"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業用途:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬口鐵板銷售予其他製罐廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團內部:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（1216）為最主要關係人客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中國大陸飲料客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "紅牛"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（Red Bull）能量飲料、東鵬大咖啡等"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣飲料食品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣菸酒"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國內各大飲料品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 其他製罐廠採購馬口鐵板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外熱軋鋼捲供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "錫錠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際錫金屬供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PET 樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 原料供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.24",
+                  "13.64",
+                  "0.62",
+                  "1.33",
+                  "5.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "45638.49",
+                  "44859.30",
+                  "35240.20"
+                ],
+                [
+                  "Gross Profit",
+                  "6452.06",
+                  "5474.90",
+                  "3340.12"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.14",
+                  "12.20",
+                  "9.48"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1883.02",
+                  "1942.99",
+                  "1143.47"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1380.80",
+                  "1291.04",
+                  "1147.26"
+                ],
+                [
+                  "Operating Income",
+                  "3188.23",
+                  "2240.87",
+                  "1049.38"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.99",
+                  "5.00",
+                  "2.98"
+                ],
+                [
+                  "Net Income",
+                  "2152.31",
+                  "1532.76",
+                  "681.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.72",
+                  "3.42",
+                  "1.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5550.02",
+                  "3132.27",
+                  "3329.41"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2052.99",
+                  "-1317.72",
+                  "-1047.86"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3538.87",
+                  "-1351.08",
+                  "-1946.41"
+                ],
+                [
+                  "CAPEX",
+                  "-2071.07",
+                  "-1333.52",
+                  "-1051.31"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9656.31",
+                  "12781.57",
+                  "11455.35",
+                  "11379.84"
+                ],
+                [
+                  "Gross Profit",
+                  "1136.03",
+                  "1858.34",
+                  "1835.12",
+                  "1340.27"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.76",
+                  "14.54",
+                  "16.02",
+                  "11.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "396.15",
+                  "526.68",
+                  "498.80",
+                  "556.39"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "316.57",
+                  "333.90",
+                  "379.97",
+                  "319.70"
+                ],
+                [
+                  "Operating Income",
+                  "423.31",
+                  "997.76",
+                  "956.35",
+                  "464.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.38",
+                  "7.81",
+                  "8.35",
+                  "4.08"
+                ],
+                [
+                  "Net Income",
+                  "376.18",
+                  "533.34",
+                  "667.88",
+                  "399.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.90",
+                  "4.17",
+                  "5.83",
+                  "3.51"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1946.56",
+                  "2195.70",
+                  "-260.45",
+                  "1787.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-781.74",
+                  "-409.50",
+                  "-518.35",
+                  "-272.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1557.71",
+                  "-1591.65",
+                  "716.75",
+                  "-1637.94"
+                ],
+                [
+                  "CAPEX",
+                  "-791.87",
+                  "-410.85",
+                  "-519.76",
+                  "-276.12"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "統一",
+    "寶鋼",
+    "PET",
+    "利樂包",
+    "紅牛",
+    "PET",
+    "利樂包",
+    "統一",
+    "紅牛",
+    "台灣菸酒",
+    "PET"
+  ]
+}

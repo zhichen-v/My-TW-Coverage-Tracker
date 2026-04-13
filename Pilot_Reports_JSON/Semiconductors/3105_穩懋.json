@@ -1,0 +1,690 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3105_穩懋.md",
+  "source_path": "Pilot_Reports/Semiconductors/3105_穩懋.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3105_穩懋.json",
+  "ticker": "3105",
+  "company_name": "穩懋",
+  "title": "# 3105 - [[穩懋]]",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "196,708 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "202,643 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "穩懋"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": " (Win Semiconductors) 是 "
+            },
+            {
+              "type": "strong",
+              "text": "全球最大"
+            },
+            {
+              "type": "text",
+              "text": " 的化合物"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶圓代工廠 (Pure-play Foundry)，市佔率超過 70%。\n公司專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "砷化鎵 (GaAs)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[氮化鎵]] (GaN)"
+            },
+            {
+              "type": "text",
+              "text": " 製程技術，是無線通訊領域的關鍵供應商。\n核心產品與技術優勢：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "功率放大器 (PA)"
+            },
+            {
+              "type": "text",
+              "text": ": 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 手機、Wi-Fi 6E/7 路由器不可或缺的關鍵元件。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "光電元件 (Optoelectronics)"
+            },
+            {
+              "type": "text",
+              "text": ": 生產 "
+            },
+            {
+              "type": "strong",
+              "text": "3D 感測 ([[VCSEL]])"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "LiDAR"
+            },
+            {
+              "type": "text",
+              "text": " 雷射晶片，廣泛應用於 FaceID 與智慧駕駛。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "先進製程技術"
+            },
+            {
+              "type": "text",
+              "text": ": 具備 HBT, pHEMT, BiHEMT, GaN-on-SiC 等多樣化製程，滿足高頻、高功率需求。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "AI 與衛星佈局"
+            },
+            {
+              "type": "text",
+              "text": ": 積極切入 "
+            },
+            {
+              "type": "strong",
+              "text": "AI [[資料中心]]"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": ") 與 "
+            },
+            {
+              "type": "strong",
+              "text": "[[低軌衛星]]"
+            },
+            {
+              "type": "text",
+              "text": " 供應鏈，與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Broadcom"
+            },
+            {
+              "type": "text",
+              "text": " 等大廠合作緊密。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "晶圓代工 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[穩懋]] (3105)"
+            },
+            {
+              "type": "text",
+              "text": " - 提供化合物"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "晶圓代工服務。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游 ([[磊晶]])"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "2455_全新|全新"
+            },
+            {
+              "type": "text",
+              "text": " (主要供應商), IQE.\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游應用"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "手機 PA"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " (主要終端), "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "網通"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 基地台、Wi-Fi AP、衛星接收站 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SpaceX"
+            },
+            {
+              "type": "text",
+              "text": ").\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "光通訊"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "光收發模組。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "IC 設計大廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Broadcom"
+                },
+                {
+                  "type": "text",
+                  "text": " (最大客戶), "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Qualcomm"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Qorvo"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Skyworks"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "光學元件廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Lumentum"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[磊晶]]片"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "2455_全新|全新"
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $464.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "116.29",
+                  "60.23",
+                  "11.82",
+                  "4.73",
+                  "44.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "16638.53",
+                  "17457.71",
+                  "15836.50"
+                ],
+                [
+                  "Gross Profit",
+                  "4026.09",
+                  "4041.97",
+                  "3469.16"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.20",
+                  "23.15",
+                  "21.91"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "449.26",
+                  "442.23",
+                  "420.26"
+                ],
+                [
+                  "R&D Exp",
+                  "1600.29",
+                  "1690.75",
+                  "1845.77"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1259.29",
+                  "1146.87",
+                  "1258.96"
+                ],
+                [
+                  "Operating Income",
+                  "717.25",
+                  "762.12",
+                  "-55.82"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.31",
+                  "4.37",
+                  "-0.35"
+                ],
+                [
+                  "Net Income",
+                  "1693.80",
+                  "768.13",
+                  "-79.66"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.18",
+                  "4.40",
+                  "-0.50"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4952.97",
+                  "4900.01",
+                  "4269.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "5112.28",
+                  "-1055.50",
+                  "-2753.17"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-8280.00",
+                  "-8938.76",
+                  "-1676.15"
+                ],
+                [
+                  "CAPEX",
+                  "-1762.11",
+                  "-1276.19",
+                  "-3298.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4794.45",
+                  "4487.88",
+                  "3780.40",
+                  "3575.80"
+                ],
+                [
+                  "Gross Profit",
+                  "1524.55",
+                  "1205.25",
+                  "697.89",
+                  "598.41"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "31.80",
+                  "26.86",
+                  "18.46",
+                  "16.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "128.47",
+                  "106.94",
+                  "109.96",
+                  "103.89"
+                ],
+                [
+                  "R&D Exp",
+                  "403.70",
+                  "376.86",
+                  "391.56",
+                  "428.17"
+                ],
+                [
+                  "General & Admin Exp",
+                  "325.35",
+                  "335.83",
+                  "315.24",
+                  "282.88"
+                ],
+                [
+                  "Operating Income",
+                  "667.02",
+                  "385.63",
+                  "-118.87",
+                  "-216.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.91",
+                  "8.59",
+                  "-3.14",
+                  "-6.06"
+                ],
+                [
+                  "Net Income",
+                  "1028.88",
+                  "1070.26",
+                  "-420.97",
+                  "15.63"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.46",
+                  "23.85",
+                  "-11.14",
+                  "0.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1434.32",
+                  "1774.87",
+                  "646.30",
+                  "1097.49"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-72.24",
+                  "5418.99",
+                  "-194.00",
+                  "-40.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-143.15",
+                  "-6836.01",
+                  "-362.17",
+                  "-938.67"
+                ],
+                [
+                  "CAPEX",
+                  "-384.58",
+                  "-950.60",
+                  "-316.53",
+                  "-110.40"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "穩懋",
+    "穩懋",
+    "半導體",
+    "半導體",
+    "氮化鎵",
+    "5G",
+    "VCSEL",
+    "資料中心",
+    "光通訊",
+    "低軌衛星",
+    "Broadcom",
+    "穩懋",
+    "半導體",
+    "磊晶",
+    "2455_全新|全新",
+    "Apple",
+    "Samsung",
+    "5G",
+    "SpaceX",
+    "AI",
+    "伺服器",
+    "Broadcom",
+    "Qualcomm",
+    "Qorvo",
+    "Skyworks",
+    "Lumentum",
+    "磊晶",
+    "2455_全新|全新"
+  ]
+}

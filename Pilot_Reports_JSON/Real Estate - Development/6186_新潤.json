@@ -1,0 +1,552 @@
+{
+  "report_id": "Pilot_Reports/Real Estate - Development/6186_新潤.md",
+  "source_path": "Pilot_Reports/Real Estate - Development/6186_新潤.md",
+  "json_path": "Pilot_Reports_JSON/Real Estate - Development/6186_新潤.json",
+  "ticker": "6186",
+  "company_name": "新潤",
+  "title": "# 6186_新潤",
+  "sector_folder": "Real Estate - Development",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Real Estate"
+      },
+      {
+        "label": "產業:",
+        "value": "Real Estate - Development"
+      },
+      {
+        "label": "市值:",
+        "value": "7,991 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "14,638 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "新潤興業"
+            },
+            {
+              "type": "text",
+              "text": " (6186) 專注於北台灣都會區之知名房地產開發商。公司早年為驅動 IC 設計公司，2011 年成功轉型營建業。推案策略明確，主攻大台北及桃園地區具發展潛力之重劃區 (如新莊塭仔圳、桃園青埔、機捷 A10 站等)，鎖定「首購族」與首換族群。新潤以高性價比、中小坪數及主打健康防疫概念之「養生宅」(標配防霾紗窗、淨水系統) 建立品牌差異化。代銷合作夥伴包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "海悅國際"
+            },
+            {
+              "type": "text",
+              "text": "。建材採購包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣水泥"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "國產建材實業"
+            },
+            {
+              "type": "text",
+              "text": "預拌混凝土等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (土地與營造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "土地取得:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大台北及桃園重劃區 (新莊塭仔圳、桃園青埔、機捷沿線)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造施工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內甲級營造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、鋼筋、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國產建材實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "預拌混凝土"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (開發與銷售)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新潤興業"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 首購及首換住宅開發銷售"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "購屋族群:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大台北及桃園年輕首購族、小家庭換屋族"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "住宅買方:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大台北及桃園首購族、首換族 — 中小坪數養生宅"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "營造廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內甲級營造廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣水泥"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、鋼筋、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國產建材實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": "預拌混凝土"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "海悅國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 代銷合作夥伴"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 防霾紗窗、淨水系統等健康宅設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $41.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "5.28",
+                  "N/A",
+                  "0.85",
+                  "1.56",
+                  "7.87"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9454.67",
+                  "9115.31",
+                  "3657.47"
+                ],
+                [
+                  "Gross Profit",
+                  "2687.45",
+                  "2160.21",
+                  "905.07"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.42",
+                  "23.70",
+                  "24.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "641.14",
+                  "811.67",
+                  "252.43"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "205.31",
+                  "166.36",
+                  "101.48"
+                ],
+                [
+                  "Operating Income",
+                  "1841.01",
+                  "1182.18",
+                  "551.16"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.47",
+                  "12.97",
+                  "15.07"
+                ],
+                [
+                  "Net Income",
+                  "1522.39",
+                  "971.23",
+                  "445.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "16.10",
+                  "10.65",
+                  "12.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2795.04",
+                  "2161.69",
+                  "572.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "532.81",
+                  "-536.81",
+                  "-363.50"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3544.21",
+                  "-435.47",
+                  "-208.64"
+                ],
+                [
+                  "CAPEX",
+                  "-9.93",
+                  "-5.53",
+                  "-16.74"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "315.12",
+                  "3217.31",
+                  "3673.23",
+                  "2249.00"
+                ],
+                [
+                  "Gross Profit",
+                  "141.95",
+                  "885.46",
+                  "1039.22",
+                  "620.83"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.05",
+                  "27.52",
+                  "28.29",
+                  "27.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.73",
+                  "209.16",
+                  "237.89",
+                  "132.35"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "31.00",
+                  "57.89",
+                  "75.06",
+                  "41.36"
+                ],
+                [
+                  "Operating Income",
+                  "49.22",
+                  "618.40",
+                  "726.27",
+                  "447.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.62",
+                  "19.22",
+                  "19.77",
+                  "19.88"
+                ],
+                [
+                  "Net Income",
+                  "49.72",
+                  "499.07",
+                  "613.26",
+                  "360.34"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.78",
+                  "15.51",
+                  "16.70",
+                  "16.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-1263.13",
+                  "1519.76",
+                  "1966.36",
+                  "572.05"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "46.14",
+                  "216.31",
+                  "-158.72",
+                  "429.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "126.34",
+                  "-1311.61",
+                  "-705.01",
+                  "-1653.93"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-0.57",
+                  "-0.96",
+                  "-8.41"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新潤興業",
+    "海悅國際",
+    "台灣水泥",
+    "國產建材實業",
+    "台灣水泥",
+    "國產建材實業",
+    "台灣水泥",
+    "國產建材實業",
+    "海悅國際"
+  ]
+}

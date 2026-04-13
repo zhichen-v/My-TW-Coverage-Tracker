@@ -1,0 +1,725 @@
+{
+  "report_id": "Pilot_Reports/Chemicals/6729_機光科技.md",
+  "source_path": "Pilot_Reports/Chemicals/6729_機光科技.md",
+  "json_path": "Pilot_Reports_JSON/Chemicals/6729_機光科技.json",
+  "ticker": "6729",
+  "company_name": "機光科技",
+  "title": "# 6729 - 機光科技",
+  "sector_folder": "Chemicals",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Chemicals"
+      },
+      {
+        "label": "市值:",
+        "value": "1,827 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,674 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "機光科技 (6729，Luminescence Technology / Lumtec) 為台灣唯一完全自主研發之"
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": "有機發光材料製造商，產品行銷逾 70 國。核心產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": " 發光/傳輸材料、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TADF"
+            },
+            {
+              "type": "text",
+              "text": " (熱活化延遲螢光) 材料、"
+            },
+            {
+              "type": "wikilink",
+              "text": "OPV"
+            },
+            {
+              "type": "text",
+              "text": " (有機光伏) 材料、"
+            },
+            {
+              "type": "wikilink",
+              "text": "鈣鈦礦太陽能電池"
+            },
+            {
+              "type": "text",
+              "text": "材料、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚醯亞胺"
+            },
+            {
+              "type": "text",
+              "text": " (PI) 單體及 ITO 玻璃。毛利率約 65%。下游客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "Merck"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dow"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "3M"
+            },
+            {
+              "type": "text",
+              "text": "等全球 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": " 材料巨頭。PI 單體供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "達邁"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台虹"
+            },
+            {
+              "type": "text",
+              "text": "等 PI 膜廠用於軟性電路板及手機散熱。重要股東及共同開發夥伴為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台化"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "有機中間體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球精密化學品供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "共同開發:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 重要股東及技術夥伴"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": "材料/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TADF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPV"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鈣鈦礦太陽能電池"
+                    },
+                    {
+                      "type": "text",
+                      "text": "材料/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單體)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OLED]] 材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Merck"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dow"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3M"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中間體/材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "達邁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單體供軟板/散熱"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 [[OLED]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — 氛圍/裝飾 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 照明"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "學術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " MIT、Stanford、Oxford — 客製材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[OLED]] 材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Merck"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dow"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3M"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 材料巨頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "達邁"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台虹"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際車廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 裝飾照明"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "有機中間體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球精密化學品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "技術夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 股東及共同開發"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $72.60 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "103.71",
+                  "N/A",
+                  "13.32",
+                  "6.06",
+                  "52.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "112.94",
+                  "100.30",
+                  "107.94"
+                ],
+                [
+                  "Gross Profit",
+                  "73.46",
+                  "69.25",
+                  "76.95"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "65.04",
+                  "69.04",
+                  "71.29"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "12.85",
+                  "12.18",
+                  "12.69"
+                ],
+                [
+                  "R&D Exp",
+                  "18.66",
+                  "17.87",
+                  "15.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "28.24",
+                  "28.14",
+                  "24.90"
+                ],
+                [
+                  "Operating Income",
+                  "13.71",
+                  "11.07",
+                  "24.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.14",
+                  "11.03",
+                  "22.45"
+                ],
+                [
+                  "Net Income",
+                  "17.40",
+                  "29.30",
+                  "25.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "15.40",
+                  "29.21",
+                  "23.41"
+                ],
+                [
+                  "Op Cash Flow",
+                  "28.09",
+                  "32.31",
+                  "39.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.04",
+                  "-14.60",
+                  "-27.75"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-57.46",
+                  "-9.18",
+                  "-22.16"
+                ],
+                [
+                  "CAPEX",
+                  "-8.10",
+                  "-51.26",
+                  "-4.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OLED",
+    "OLED",
+    "TADF",
+    "OPV",
+    "鈣鈦礦太陽能電池",
+    "聚醯亞胺",
+    "Merck",
+    "Dow",
+    "3M",
+    "OLED",
+    "達邁",
+    "台虹",
+    "台化",
+    "台化",
+    "OLED",
+    "TADF",
+    "OPV",
+    "鈣鈦礦太陽能電池",
+    "聚醯亞胺",
+    "OLED",
+    "Merck",
+    "Dow",
+    "3M",
+    "OLED",
+    "達邁",
+    "台虹",
+    "聚醯亞胺",
+    "OLED",
+    "OLED",
+    "OLED",
+    "Merck",
+    "Dow",
+    "3M",
+    "OLED",
+    "達邁",
+    "台虹",
+    "聚醯亞胺",
+    "OLED",
+    "台化"
+  ]
+}

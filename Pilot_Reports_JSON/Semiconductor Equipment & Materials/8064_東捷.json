@@ -1,0 +1,630 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/8064_東捷.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/8064_東捷.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/8064_東捷.json",
+  "ticker": "8064",
+  "company_name": "東捷",
+  "title": "# 8064 - 東捷",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "11,208 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,669 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "東捷科技 (8064) 是"
+            },
+            {
+              "type": "wikilink",
+              "text": "東台精機"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下的半導體及面板設備製造商，位於台南科學園區。公司初期專注於 IC 封裝測試設備，1999 年切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "面板"
+            },
+            {
+              "type": "text",
+              "text": "設備產業，開發自動化、製程、檢測及"
+            },
+            {
+              "type": "wikilink",
+              "text": "雷射"
+            },
+            {
+              "type": "text",
+              "text": "修補設備。近年積極拓展半導體封裝設備，自 2019 年進入主要封裝廠的檢測及自動化設備市場。產品涵蓋廠務自動化、雷射應用、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AOI"
+            },
+            {
+              "type": "text",
+              "text": " 光學檢測、物流及"
+            },
+            {
+              "type": "wikilink",
+              "text": "真空製程"
+            },
+            {
+              "type": "text",
+              "text": "設備。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密鏡頭及光源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雷射源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 雷射加工用光源"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東台精機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團資源)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (設備製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/半導體設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "東捷"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AOI 檢測、雷射修補、自動化設備)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (面板與封裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等面板製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等封裝廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等面板製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等封裝廠檢測及自動化設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東台精機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團整合)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學/雷射:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密光學及雷射元件供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "牧德"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AOI 檢測)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "由田"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自動化)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $68.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "50.00",
+                  "125.93",
+                  "3.90",
+                  "3.52",
+                  "25.62"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2870.68",
+                  "2603.89",
+                  "2990.45"
+                ],
+                [
+                  "Gross Profit",
+                  "810.09",
+                  "685.31",
+                  "666.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "28.22",
+                  "26.32",
+                  "22.29"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "153.63",
+                  "148.33",
+                  "167.40"
+                ],
+                [
+                  "R&D Exp",
+                  "176.21",
+                  "195.34",
+                  "213.67"
+                ],
+                [
+                  "General & Admin Exp",
+                  "261.35",
+                  "261.52",
+                  "271.44"
+                ],
+                [
+                  "Operating Income",
+                  "218.91",
+                  "80.11",
+                  "13.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.63",
+                  "3.08",
+                  "0.47"
+                ],
+                [
+                  "Net Income",
+                  "224.78",
+                  "130.50",
+                  "158.42"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.83",
+                  "5.01",
+                  "5.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "650.03",
+                  "680.75",
+                  "230.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-41.68",
+                  "-322.86",
+                  "9.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-220.19",
+                  "-390.69",
+                  "-318.12"
+                ],
+                [
+                  "CAPEX",
+                  "-57.09",
+                  "-49.31",
+                  "-10.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1080.09",
+                  "759.71",
+                  "512.66",
+                  "518.22"
+                ],
+                [
+                  "Gross Profit",
+                  "415.26",
+                  "267.99",
+                  "158.84",
+                  "-32.00"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.45",
+                  "35.28",
+                  "30.98",
+                  "-6.17"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "38.52",
+                  "37.81",
+                  "38.61",
+                  "38.69"
+                ],
+                [
+                  "R&D Exp",
+                  "45.76",
+                  "39.11",
+                  "37.21",
+                  "54.13"
+                ],
+                [
+                  "General & Admin Exp",
+                  "87.14",
+                  "61.94",
+                  "53.27",
+                  "59.00"
+                ],
+                [
+                  "Operating Income",
+                  "243.84",
+                  "129.14",
+                  "29.75",
+                  "-183.82"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "22.58",
+                  "17.00",
+                  "5.80",
+                  "-35.47"
+                ],
+                [
+                  "Net Income",
+                  "250.77",
+                  "107.65",
+                  "-25.64",
+                  "-108.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "23.22",
+                  "14.17",
+                  "-5.00",
+                  "-20.84"
+                ],
+                [
+                  "Op Cash Flow",
+                  "305.85",
+                  "34.32",
+                  "69.08",
+                  "240.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-28.92",
+                  "0.54",
+                  "-3.67",
+                  "-9.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-35.39",
+                  "-62.34",
+                  "-41.39",
+                  "-81.06"
+                ],
+                [
+                  "CAPEX",
+                  "0.58",
+                  "-31.80",
+                  "-5.37",
+                  "-20.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "東台精機",
+    "面板",
+    "雷射",
+    "AOI",
+    "真空製程",
+    "東台精機",
+    "友達光電",
+    "群創光電",
+    "日月光投控",
+    "友達光電",
+    "群創光電",
+    "日月光投控",
+    "東台精機",
+    "牧德",
+    "由田"
+  ]
+}

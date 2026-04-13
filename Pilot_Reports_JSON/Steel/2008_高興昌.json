@@ -1,0 +1,495 @@
+{
+  "report_id": "Pilot_Reports/Steel/2008_高興昌.md",
+  "source_path": "Pilot_Reports/Steel/2008_高興昌.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2008_高興昌.json",
+  "ticker": "2008",
+  "company_name": "高興昌",
+  "title": "# 2008 - 高興昌",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "5,334 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,925 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "高興昌鋼鐵 (2008) 專業"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼管"
+            },
+            {
+              "type": "text",
+              "text": "廠 (佔營收96%)。產品含"
+            },
+            {
+              "type": "wikilink",
+              "text": "鍍鋅鋼管"
+            },
+            {
+              "type": "text",
+              "text": "/鋼管樁/API管。上游"
+            },
+            {
+              "type": "wikilink",
+              "text": "熱軋鋼捲"
+            },
+            {
+              "type": "text",
+              "text": "來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": "。下游含營建 (鋼管樁)、公共工程 (橋樑/港灣) 及石化 (API管線)。另佈局高雄"
+            },
+            {
+              "type": "wikilink",
+              "text": "不動產"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "中鋼"
+            },
+            {
+              "type": "text",
+              "text": " — "
+            },
+            {
+              "type": "wikilink",
+              "text": "熱軋鋼捲"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "高興昌"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼管"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "鍍鋅鋼管"
+            },
+            {
+              "type": "text",
+              "text": "/API管)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " 營建/公共工程/石化; "
+            },
+            {
+              "type": "wikilink",
+              "text": "不動產"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建 — 鋼管樁/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鍍鋅鋼管"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "公共工程 — 橋樑/港灣"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "石化 — API管線"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熱軋鋼捲"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $27.95 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "41.10",
+                  "N/A",
+                  "2.93",
+                  "1.43",
+                  "36.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1818.50",
+                  "1458.37",
+                  "1460.30"
+                ],
+                [
+                  "Gross Profit",
+                  "305.48",
+                  "220.83",
+                  "201.53"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.80",
+                  "15.14",
+                  "13.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.87",
+                  "37.97",
+                  "35.14"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "82.03",
+                  "82.29",
+                  "77.75"
+                ],
+                [
+                  "Operating Income",
+                  "161.58",
+                  "100.57",
+                  "88.64"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.89",
+                  "6.90",
+                  "6.07"
+                ],
+                [
+                  "Net Income",
+                  "130.02",
+                  "48.73",
+                  "432.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.15",
+                  "3.34",
+                  "29.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "169.55",
+                  "211.63",
+                  "109.61"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-277.55",
+                  "-378.51",
+                  "723.55"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "55.04",
+                  "26.44",
+                  "-591.49"
+                ],
+                [
+                  "CAPEX",
+                  "-28.28",
+                  "-43.87",
+                  "-39.63"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "360.43",
+                  "462.99",
+                  "537.15",
+                  "457.92"
+                ],
+                [
+                  "Gross Profit",
+                  "64.07",
+                  "79.47",
+                  "86.91",
+                  "75.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.77",
+                  "17.16",
+                  "16.18",
+                  "16.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "6.52",
+                  "6.17",
+                  "25.54",
+                  "23.64"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22.90",
+                  "20.87",
+                  "19.23",
+                  "19.03"
+                ],
+                [
+                  "Operating Income",
+                  "34.65",
+                  "52.43",
+                  "42.14",
+                  "32.36"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.61",
+                  "11.32",
+                  "7.84",
+                  "7.07"
+                ],
+                [
+                  "Net Income",
+                  "-0.64",
+                  "57.87",
+                  "62.24",
+                  "10.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.18",
+                  "12.50",
+                  "11.59",
+                  "2.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "31.13",
+                  "78.07",
+                  "108.51",
+                  "-48.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-153.97",
+                  "-5.01",
+                  "-3.70",
+                  "-114.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "82.44",
+                  "-98.44",
+                  "-28.87",
+                  "99.91"
+                ],
+                [
+                  "CAPEX",
+                  "-6.22",
+                  "-2.62",
+                  "-11.22",
+                  "-8.22"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "鋼管",
+    "鍍鋅鋼管",
+    "熱軋鋼捲",
+    "中鋼",
+    "不動產",
+    "中鋼",
+    "熱軋鋼捲",
+    "鋼管",
+    "鍍鋅鋼管",
+    "不動產",
+    "鍍鋅鋼管",
+    "中鋼",
+    "熱軋鋼捲"
+  ]
+}

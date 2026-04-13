@@ -1,0 +1,633 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3141_晶宏.md",
+  "source_path": "Pilot_Reports/Semiconductors/3141_晶宏.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3141_晶宏.json",
+  "ticker": "3141",
+  "company_name": "晶宏",
+  "title": "# 3141 - 晶宏",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "3,158 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,173 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晶宏半導體 (3141) 是全球"
+            },
+            {
+              "type": "wikilink",
+              "text": "電子貨架標籤"
+            },
+            {
+              "type": "text",
+              "text": " (ESL) 驅動晶片龍頭，市占率達 55%，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "元太科技"
+            },
+            {
+              "type": "text",
+              "text": "轉投資公司。公司核心產品包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "STN 驅動 IC"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電子紙驅動 IC"
+            },
+            {
+              "type": "text",
+              "text": " (EPD)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "觸控 IC"
+            },
+            {
+              "type": "text",
+              "text": " (車用五線電阻式) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "馬達驅動 IC"
+            },
+            {
+              "type": "text",
+              "text": "。產品主要應用於電子書閱讀器、電子貨架標籤、車用儀表、工業控制及醫療設備，外銷占比達 87%。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晶宏"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電子紙驅動 IC、STN 驅動 IC、觸控及馬達驅動 IC)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "合資:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "超炫科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "創王光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "合資開發 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMOLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 驅動 IC)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電子紙與終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子紙模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元太科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (E Ink，最大客戶)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子貨架標籤:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美零售連鎖通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用儀表及中控面板"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子紙:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元太科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (E Ink，母公司及最大客戶)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子貨架標籤:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美零售連鎖通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用顯示:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用儀表及觸控面板廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣晶圓代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封測服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "旭曜"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (STN)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Epson"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (EPD)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $42.45 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "80.09",
+                  "N/A",
+                  "1.96",
+                  "1.26",
+                  "30.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1614.12",
+                  "1507.39",
+                  "1852.88"
+                ],
+                [
+                  "Gross Profit",
+                  "566.21",
+                  "580.25",
+                  "639.86"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "35.08",
+                  "38.49",
+                  "34.53"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "70.49",
+                  "92.01",
+                  "83.12"
+                ],
+                [
+                  "R&D Exp",
+                  "372.90",
+                  "360.84",
+                  "336.34"
+                ],
+                [
+                  "General & Admin Exp",
+                  "103.64",
+                  "120.22",
+                  "121.69"
+                ],
+                [
+                  "Operating Income",
+                  "19.14",
+                  "2.67",
+                  "98.39"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.19",
+                  "0.18",
+                  "5.31"
+                ],
+                [
+                  "Net Income",
+                  "39.95",
+                  "87.02",
+                  "84.17"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.48",
+                  "5.77",
+                  "4.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "232.37",
+                  "322.69",
+                  "387.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-679.01",
+                  "-106.48",
+                  "-124.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-121.51",
+                  "515.71",
+                  "-608.83"
+                ],
+                [
+                  "CAPEX",
+                  "-513.13",
+                  "-152.08",
+                  "-95.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "384.96",
+                  "459.14",
+                  "335.31",
+                  "388.95"
+                ],
+                [
+                  "Gross Profit",
+                  "148.43",
+                  "144.07",
+                  "146.14",
+                  "151.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "38.56",
+                  "31.38",
+                  "43.58",
+                  "38.92"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.62",
+                  "17.22",
+                  "16.79",
+                  "19.80"
+                ],
+                [
+                  "R&D Exp",
+                  "116.03",
+                  "77.58",
+                  "88.02",
+                  "114.99"
+                ],
+                [
+                  "General & Admin Exp",
+                  "27.79",
+                  "25.02",
+                  "26.75",
+                  "32.70"
+                ],
+                [
+                  "Operating Income",
+                  "-14.05",
+                  "24.25",
+                  "14.58",
+                  "-16.11"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-3.65",
+                  "5.28",
+                  "4.35",
+                  "-4.14"
+                ],
+                [
+                  "Net Income",
+                  "35.89",
+                  "-50.59",
+                  "26.36",
+                  "24.10"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.32",
+                  "-11.02",
+                  "7.86",
+                  "6.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "117.84",
+                  "-32.05",
+                  "44.29",
+                  "138.30"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-87.11",
+                  "-71.59",
+                  "-534.12",
+                  "-87.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-113.01",
+                  "-224.01",
+                  "257.92",
+                  "58.56"
+                ],
+                [
+                  "CAPEX",
+                  "-36.12",
+                  "-18.70",
+                  "-433.44",
+                  "-77.45"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電子貨架標籤",
+    "元太科技",
+    "STN 驅動 IC",
+    "電子紙驅動 IC",
+    "觸控 IC",
+    "馬達驅動 IC",
+    "超炫科技",
+    "創王光電",
+    "AMOLED",
+    "元太科技",
+    "元太科技",
+    "旭曜",
+    "矽創",
+    "Epson"
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2344_華邦電.md",
+  "source_path": "Pilot_Reports/Semiconductors/2344_華邦電.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2344_華邦電.json",
+  "ticker": "2344",
+  "company_name": "華邦電",
+  "title": "# 2344 - 華邦電",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "420,750 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "452,101 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華邦電子 (Winbond Electronics Corporation) 成立於 1987 年，隸屬於"
+            },
+            {
+              "type": "strong",
+              "text": "華新麗華集團"
+            },
+            {
+              "type": "text",
+              "text": "，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "台中"
+            },
+            {
+              "type": "text",
+              "text": "。公司是全球少數同時擁有 "
+            },
+            {
+              "type": "strong",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": " (利基型) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "Flash"
+            },
+            {
+              "type": "text",
+              "text": " (NOR/"
+            },
+            {
+              "type": "wikilink",
+              "text": "NAND"
+            },
+            {
+              "type": "text",
+              "text": ") 產品線的 IDM "
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "大廠。華邦電以自有品牌行銷，專注於中低容量的利基型"
+            },
+            {
+              "type": "wikilink",
+              "text": "記憶體"
+            },
+            {
+              "type": "text",
+              "text": "市場，避開與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Samsung"
+            },
+            {
+              "type": "text",
+              "text": ", Hynix, "
+            },
+            {
+              "type": "wikilink",
+              "text": "Micron"
+            },
+            {
+              "type": "text",
+              "text": " 在標準型 PC/Server "
+            },
+            {
+              "type": "wikilink",
+              "text": "DRAM"
+            },
+            {
+              "type": "text",
+              "text": " 的直接競爭。公司也是全球"
+            },
+            {
+              "type": "strong",
+              "text": "序列式 NOR Flash (Serial NOR Flash)"
+            },
+            {
+              "type": "text",
+              "text": " 的領導供應商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[矽晶圓]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購自"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團關係企業) 等。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "物聯網"
+                    },
+                    {
+                      "type": "text",
+                      "text": "裝置、穿戴裝置、各種需要儲存程式碼 (Code Storage) 的電子產品。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/工控:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、儀表板、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工業電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等高可靠度需求應用。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Wi-Fi 路由器、數據機。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "應用廣泛:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 遍佈全球各大"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "消費性電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、車用及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "網通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "品牌，客戶群極為分散且廣泛。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 為 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等供應 BIOS 相關 Flash。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "環球晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GlobalWafers)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $93.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "106.25",
+                  "4.63",
+                  "4.71",
+                  "3.90",
+                  "25.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "89406.17",
+                  "81609.77",
+                  "75006.08"
+                ],
+                [
+                  "Gross Profit",
+                  "31196.13",
+                  "24001.11",
+                  "22395.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.89",
+                  "29.41",
+                  "29.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "2448.24",
+                  "2283.10",
+                  "2128.76"
+                ],
+                [
+                  "R&D Exp",
+                  "18186.46",
+                  "16406.50",
+                  "16957.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "4903.70",
+                  "4792.44",
+                  "4915.17"
+                ],
+                [
+                  "Operating Income",
+                  "5657.73",
+                  "519.06",
+                  "-1606.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.33",
+                  "0.64",
+                  "-2.14"
+                ],
+                [
+                  "Net Income",
+                  "3961.93",
+                  "601.00",
+                  "-1146.52"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.43",
+                  "0.74",
+                  "-1.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "11182.76",
+                  "11125.88",
+                  "3601.47"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7657.85",
+                  "-16657.82",
+                  "-13031.55"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1561.41",
+                  "2526.92",
+                  "6350.33"
+                ],
+                [
+                  "CAPEX",
+                  "-6869.79",
+                  "-17532.88",
+                  "-14119.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "26625.07",
+                  "21017.96",
+                  "19992.62",
+                  "18692.00"
+                ],
+                [
+                  "Gross Profit",
+                  "11146.22",
+                  "4762.62",
+                  "5121.77",
+                  "5081.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.86",
+                  "22.66",
+                  "25.62",
+                  "27.18"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "695.34",
+                  "577.03",
+                  "573.44",
+                  "582.59"
+                ],
+                [
+                  "R&D Exp",
+                  "4863.45",
+                  "4368.93",
+                  "4277.23",
+                  "4044.65"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1442.17",
+                  "1086.73",
+                  "1217.65",
+                  "1227.43"
+                ],
+                [
+                  "Operating Income",
+                  "4145.25",
+                  "-1270.07",
+                  "-946.55",
+                  "-773.44"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.57",
+                  "-6.04",
+                  "-4.73",
+                  "-4.14"
+                ],
+                [
+                  "Net Income",
+                  "3422.35",
+                  "-1312.43",
+                  "-1091.14",
+                  "-648.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.85",
+                  "-6.24",
+                  "-5.46",
+                  "-3.47"
+                ],
+                [
+                  "Op Cash Flow",
+                  "5516.32",
+                  "2437.39",
+                  "392.68",
+                  "2550.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2167.12",
+                  "-1824.10",
+                  "-2045.21",
+                  "-3369.96"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4865.02",
+                  "2442.63",
+                  "5456.64",
+                  "-565.00"
+                ],
+                [
+                  "CAPEX",
+                  "-2273.19",
+                  "-1482.02",
+                  "-1618.31",
+                  "-3379.44"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台中",
+    "NAND",
+    "記憶體",
+    "記憶體",
+    "Samsung",
+    "Micron",
+    "DRAM",
+    "矽晶圓",
+    "環球晶",
+    "物聯網",
+    "ADAS",
+    "工業電腦",
+    "消費性電子",
+    "網通",
+    "Dell",
+    "HP",
+    "環球晶"
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4431_敏成健康.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4431_敏成健康.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4431_敏成健康.json",
+  "ticker": "4431",
+  "company_name": "敏成健康",
+  "title": "# 4431 - 敏成健康",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "654 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "584 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "敏成健康科技 (4431，Mytrex Health Technologies) 為亞洲領先之"
+            },
+            {
+              "type": "wikilink",
+              "text": "熔噴不織布"
+            },
+            {
+              "type": "text",
+              "text": "製造商，曾獲國家產業創新獎。核心技術為熔噴超細纖維 (1-5 微米) 與靜電駐極處理。三大事業：(1) 靜電濾材 — 醫用口罩濾材、工業防護濾材、"
+            },
+            {
+              "type": "wikilink",
+              "text": "HEPA"
+            },
+            {
+              "type": "text",
+              "text": "過濾材；(2) 複合不織布 — 冷卻液過濾、空調濾網、車用座艙濾材；(3) 布草租賃 — 醫療院所被服/手術衣清洗租賃物流及藥品銷售。上游"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚丙烯"
+            },
+            {
+              "type": "text",
+              "text": " (PP) 樹脂來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "李長榮化工"
+            },
+            {
+              "type": "text",
+              "text": "等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PP 樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "李長榮化工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚丙烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "熔噴專用樹脂"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "敏成"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熔噴不織布"
+                    },
+                    {
+                      "type": "text",
+                      "text": "抽絲/靜電處理/複合加工)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療防護:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 口罩廠 — 濾材中間層"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業過濾:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 空調/液體過濾設備廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HEPA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療布草:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內醫療院所 — 布草租賃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 口罩廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "熔噴不織布"
+                    },
+                    {
+                      "type": "text",
+                      "text": "濾材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 過濾設備廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HEPA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "濾材"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療院所:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 布草租賃服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PP 樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "李長榮化工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $17.90 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.34",
+                  "1.11",
+                  "-1091.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1758.68",
+                  "1292.97",
+                  "1471.55"
+                ],
+                [
+                  "Gross Profit",
+                  "221.55",
+                  "192.34",
+                  "239.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.60",
+                  "14.88",
+                  "16.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "175.04",
+                  "161.68",
+                  "172.80"
+                ],
+                [
+                  "R&D Exp",
+                  "2.86",
+                  "12.30",
+                  "16.39"
+                ],
+                [
+                  "General & Admin Exp",
+                  "162.73",
+                  "132.57",
+                  "137.94"
+                ],
+                [
+                  "Operating Income",
+                  "-76.86",
+                  "-70.56",
+                  "-46.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.37",
+                  "-5.46",
+                  "-3.18"
+                ],
+                [
+                  "Net Income",
+                  "-82.38",
+                  "-56.22",
+                  "-91.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.68",
+                  "-4.35",
+                  "-6.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "31.63",
+                  "-4.25",
+                  "72.48"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "63.36",
+                  "-268.29",
+                  "-87.91"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-40.38",
+                  "5.41",
+                  "-59.84"
+                ],
+                [
+                  "CAPEX",
+                  "-15.04",
+                  "-25.02",
+                  "-43.31"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "熔噴不織布",
+    "HEPA",
+    "聚丙烯",
+    "台塑",
+    "李長榮化工",
+    "台塑",
+    "李長榮化工",
+    "聚丙烯",
+    "熔噴不織布",
+    "HEPA",
+    "熔噴不織布",
+    "HEPA",
+    "台塑",
+    "李長榮化工"
+  ]
+}

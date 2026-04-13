@@ -1,0 +1,724 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/6916_華凌.md",
+  "source_path": "Pilot_Reports/Electronic Components/6916_華凌.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/6916_華凌.json",
+  "ticker": "6916",
+  "company_name": "華凌",
+  "title": "# 6916_華凌",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,242 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,585 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華凌光電 (6916，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Winstar Display"
+            },
+            {
+              "type": "text",
+              "text": ") 深耕近三十年，為專業利基型顯示器製造商。不同於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "友達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": " 專注大尺寸消費型面板，華凌專攻「少量多樣」的工業控制與特殊應用市場。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務結構與動能：(1) 工控顯示器 — TFT、STN 液晶顯示器，應用於工業自動化機台、醫療儀器及軍事航太儀表，具備十年不斷鏈長期供貨能力；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "PMOLED"
+            },
+            {
+              "type": "text",
+              "text": " 自發光顯示器 — 新一代自發光顯示技術，應用於小尺寸工控面板；(3) "
+            },
+            {
+              "type": "wikilink",
+              "text": "電子紙"
+            },
+            {
+              "type": "text",
+              "text": " — 電子紙顯示模組。公司提供 One-Stop Shopping 一站式顯示解決方案，從 STN、TFT 到 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OLED"
+            },
+            {
+              "type": "text",
+              "text": " 與電子紙皆可供應。主要客戶為全球工業自動化、醫療檢測與網通基礎設施廠商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (顯示材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 LCD 驅動顯示晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 偏光板、LED 背光模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "有機材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 發光有機材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (顯示器製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TFT 顯示器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華凌"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (工控級 TFT 液晶顯示器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "STN 顯示器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華凌"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (STN 液晶模組)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PM[[OLED]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華凌"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (自發光 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OLED"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 顯示器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子紙:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華凌"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電子紙顯示模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (工控與醫療)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球工控機械與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工業電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": "廠 — 工業級顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療儀器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療檢測與手術儀器廠 — 醫療級顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網通基礎設施廠 — 顯示面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 白色家電廠 — 小尺寸顯示模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球工控機械與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "工業電腦"
+                    },
+                    {
+                      "type": "text",
+                      "text": "製造商 — 工業級顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療儀器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫療檢測與手術儀器開發商 — 醫療級顯示器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 網通基礎設施廠 — 顯示面板模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 白色家電製造商 — 小尺寸顯示模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LCD 驅動顯示晶片供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板材料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 偏光板與 LED 背光模組供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.40 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.62",
+                  "1.19",
+                  "71.27"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2033.92",
+                  "2229.23",
+                  "2999.26"
+                ],
+                [
+                  "Gross Profit",
+                  "490.96",
+                  "576.60",
+                  "816.92"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.14",
+                  "25.87",
+                  "27.24"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "134.46",
+                  "128.46",
+                  "113.45"
+                ],
+                [
+                  "R&D Exp",
+                  "145.94",
+                  "118.79",
+                  "124.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "219.97",
+                  "205.54",
+                  "225.32"
+                ],
+                [
+                  "Operating Income",
+                  "-9.42",
+                  "123.80",
+                  "354.01"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.46",
+                  "5.55",
+                  "11.80"
+                ],
+                [
+                  "Net Income",
+                  "31.71",
+                  "80.81",
+                  "289.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.56",
+                  "3.62",
+                  "9.66"
+                ],
+                [
+                  "Op Cash Flow",
+                  "133.44",
+                  "301.39",
+                  "503.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-258.09",
+                  "-47.49",
+                  "-81.38"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-42.01",
+                  "16.66",
+                  "-122.37"
+                ],
+                [
+                  "CAPEX",
+                  "-237.15",
+                  "-69.72",
+                  "-46.52"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "503.89",
+                  "500.23",
+                  "515.86",
+                  "490.05"
+                ],
+                [
+                  "Gross Profit",
+                  "120.99",
+                  "102.08",
+                  "136.43",
+                  "127.67"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.01",
+                  "20.41",
+                  "26.45",
+                  "26.05"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "35.27",
+                  "40.56",
+                  "37.95",
+                  "35.88"
+                ],
+                [
+                  "R&D Exp",
+                  "40.60",
+                  "42.15",
+                  "41.28",
+                  "36.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "54.34",
+                  "64.97",
+                  "62.52",
+                  "62.05"
+                ],
+                [
+                  "Operating Income",
+                  "-9.21",
+                  "-45.60",
+                  "-5.32",
+                  "-6.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.83",
+                  "-9.12",
+                  "-1.03",
+                  "-1.42"
+                ],
+                [
+                  "Net Income",
+                  "-3.61",
+                  "-63.08",
+                  "0.86",
+                  "16.19"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.72",
+                  "-12.61",
+                  "0.17",
+                  "3.30"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-24.71",
+                  "-19.57",
+                  "-21.59",
+                  "122.31"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-59.31",
+                  "-110.87",
+                  "-89.45",
+                  "-72.27"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "34.12",
+                  "36.51",
+                  "4.14",
+                  "9.87"
+                ],
+                [
+                  "CAPEX",
+                  "-41.13",
+                  "-93.14",
+                  "-100.53",
+                  "-56.70"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Winstar Display",
+    "友達",
+    "群創",
+    "PMOLED",
+    "電子紙",
+    "OLED",
+    "聯詠",
+    "OLED",
+    "OLED",
+    "OLED",
+    "工業電腦",
+    "工業電腦"
+  ]
+}

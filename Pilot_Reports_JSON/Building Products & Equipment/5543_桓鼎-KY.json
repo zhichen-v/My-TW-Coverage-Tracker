@@ -1,0 +1,630 @@
+{
+  "report_id": "Pilot_Reports/Building Products & Equipment/5543_桓鼎-KY.md",
+  "source_path": "Pilot_Reports/Building Products & Equipment/5543_桓鼎-KY.md",
+  "json_path": "Pilot_Reports_JSON/Building Products & Equipment/5543_桓鼎-KY.json",
+  "ticker": "5543",
+  "company_name": "桓鼎-KY",
+  "title": "# 5543 - 桓鼎-KY",
+  "sector_folder": "Building Products & Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Building Products & Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "1,278 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,150 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "桓鼎國際股份有限公司 (5543) 為一家正處於「建材轉型綠能」的企業。主要業務板塊包含：(一) 綠能業務 — 透過子公司佐茂及統量電能，切入儲能、不斷電系統 (UPS)、電動載具電池模組製造，並與"
+            },
+            {
+              "type": "wikilink",
+              "text": "輝能科技"
+            },
+            {
+              "type": "text",
+              "text": " (ProLogium) 合作開發"
+            },
+            {
+              "type": "wikilink",
+              "text": "固態電池"
+            },
+            {
+              "type": "text",
+              "text": "應用及「B.E.S.T 分散式儲能牆」；(二) 建材業務 — 金屬天花板、隔間牆，應用於機場、捷運、藥廠；(三) 營造工程 — 承攬社會住宅等公共工程。公司目標打造「綠能生態圈」，整合電池製造與節能建材。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (電池芯與原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "固態電池技術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "輝能科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ProLogium) 簽署戰略 MOU 整合材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "基礎電芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 向日韓及中國大型電芯製造商採購高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鋰電池"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電芯"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬建材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 採購鋼材及鋁材用以製造裝飾建材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (綠能轉型與模組整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池模組製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過子公司佐茂及統量電能進行精密電池與三電整合設計"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲能整合:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "桓鼎-KY (5543)"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 開發「B.E.S.T 分散式儲能牆」"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建材製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬天花板、隔間牆製造"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動載具與基建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動自行車"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (E-Bike)、無人機、EV 充電站儲充方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "利基電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧穿戴裝置、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及人形機器人儲能需求"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共營建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應歐洲、美國及台灣 (機場、捷運、藥廠) 金屬裝飾建材"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠色充電能源:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "馳諾瓦科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (飛宏子公司，合作 EV 充電站儲充整合)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動載具品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "茁壯創能"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台端"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3432，電動二輪車 ODM 廠)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公共工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型營造廠及公共建設業主"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "關鍵技術夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "輝能科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ProLogium，"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "固態電池"
+                    },
+                    {
+                      "type": "text",
+                      "text": "應用技術與材料)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "上游電池與金屬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際大型電芯供應商與金屬原物料商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $28.10 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "4.07",
+                  "0.42",
+                  "3.06",
+                  "-28.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3403.31",
+                  "3265.14",
+                  "3556.64"
+                ],
+                [
+                  "Gross Profit",
+                  "495.38",
+                  "383.59",
+                  "463.68"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.56",
+                  "11.75",
+                  "13.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "208.52",
+                  "169.73",
+                  "188.24"
+                ],
+                [
+                  "R&D Exp",
+                  "113.11",
+                  "105.32",
+                  "81.62"
+                ],
+                [
+                  "General & Admin Exp",
+                  "207.40",
+                  "165.17",
+                  "146.63"
+                ],
+                [
+                  "Operating Income",
+                  "-33.66",
+                  "-56.63",
+                  "47.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.99",
+                  "-1.73",
+                  "1.33"
+                ],
+                [
+                  "Net Income",
+                  "-231.07",
+                  "-99.04",
+                  "-60.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-6.79",
+                  "-3.03",
+                  "-1.71"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-33.26",
+                  "316.28",
+                  "55.41"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.55",
+                  "-215.91",
+                  "-272.03"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-239.41",
+                  "21.70",
+                  "179.16"
+                ],
+                [
+                  "CAPEX",
+                  "-189.70",
+                  "-150.60",
+                  "-129.53"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "735.31",
+                  "727.31",
+                  "756.54",
+                  "858.38"
+                ],
+                [
+                  "Gross Profit",
+                  "87.22",
+                  "103.11",
+                  "86.33",
+                  "109.84"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.86",
+                  "14.18",
+                  "11.41",
+                  "12.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "39.01",
+                  "42.80",
+                  "39.34",
+                  "69.22"
+                ],
+                [
+                  "R&D Exp",
+                  "22.78",
+                  "24.51",
+                  "22.18",
+                  "34.65"
+                ],
+                [
+                  "General & Admin Exp",
+                  "41.01",
+                  "44.59",
+                  "43.56",
+                  "77.05"
+                ],
+                [
+                  "Operating Income",
+                  "-15.57",
+                  "-8.80",
+                  "-18.74",
+                  "-71.08"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.12",
+                  "-1.21",
+                  "-2.48",
+                  "-8.28"
+                ],
+                [
+                  "Net Income",
+                  "-25.23",
+                  "-53.98",
+                  "-6.93",
+                  "-223.65"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.43",
+                  "-7.42",
+                  "-0.92",
+                  "-26.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-16.17",
+                  "-42.45",
+                  "10.77",
+                  "150.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "56.37",
+                  "-76.58",
+                  "-4.29",
+                  "-54.68"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "82.82",
+                  "33.63",
+                  "36.96",
+                  "-58.59"
+                ],
+                [
+                  "CAPEX",
+                  "-80.80",
+                  "-61.46",
+                  "-16.60",
+                  "-16.57"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "輝能科技",
+    "固態電池",
+    "輝能科技",
+    "鋰電池",
+    "電動自行車",
+    "低軌衛星",
+    "馳諾瓦科技",
+    "茁壯創能",
+    "台端",
+    "輝能科技",
+    "固態電池"
+  ]
+}

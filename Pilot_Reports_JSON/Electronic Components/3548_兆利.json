@@ -1,0 +1,787 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3548_兆利.md",
+  "source_path": "Pilot_Reports/Electronic Components/3548_兆利.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3548_兆利.json",
+  "ticker": "3548",
+  "company_name": "兆利",
+  "title": "# 3548 - 兆利",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "5,575 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,750 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "兆利 (3548，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Jarllytec"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球前三大筆電樞紐 (Hinge) 製造商，近年成功切入摺疊手機鉸鏈市場成為核心成長引擎。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "業務結構與動能：(1) 摺疊手機 — 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Huawei"
+            },
+            {
+              "type": "text",
+              "text": " 摺疊機主力鉸鏈供應商，同時供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OPPO"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "小米"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌，摺疊手機營收占比已過半，獲利能力顯著優於傳統 NB 鉸鏈；(2) NB/Monitor — 供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Dell"
+            },
+            {
+              "type": "text",
+              "text": " 等品牌筆電鉸鏈，透過 "
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "英業達"
+            },
+            {
+              "type": "text",
+              "text": " 等 ODM 廠出貨；(3) 摺疊 PC — 市場預期未來有望切入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " 摺疊產品供應鏈。核心技術為精密多軸鉸鏈設計與 MIM (金屬粉末射出成型) 製程。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (金屬與精密零件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MIM 零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬粉末射出成型零件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼與特殊鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密軸承:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型軸承與彈簧供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鉸鏈設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "摺疊手機鉸鏈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "兆利"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (多軸摺疊鉸鏈)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 鉸鏈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "兆利"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (筆電轉軸設計製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Monitor 鉸鏈:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "兆利"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (顯示器支架與轉軸)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (手機品牌與NB ODM)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "摺疊手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Huawei"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "小米"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 摺疊手機鉸鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NB 鉸鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英業達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NB 鉸鏈代工出貨"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "摺疊手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Huawei"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 摺疊機主力鉸鏈供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "摺疊手機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "OPPO"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "小米"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 摺疊手機鉸鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 筆電鉸鏈"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB ODM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英業達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NB 鉸鏈代工出貨"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MIM 零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金屬粉末射出成型零件供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 不鏽鋼與特殊鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 微型軸承與彈簧供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $82.30 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "25.09",
+                  "7.06",
+                  "0.55",
+                  "0.96",
+                  "5.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9578.17",
+                  "8220.66",
+                  "7020.61"
+                ],
+                [
+                  "Gross Profit",
+                  "1586.12",
+                  "1483.25",
+                  "1403.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.56",
+                  "18.04",
+                  "20.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "247.87",
+                  "222.06",
+                  "348.01"
+                ],
+                [
+                  "R&D Exp",
+                  "268.06",
+                  "223.79",
+                  "220.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "523.46",
+                  "452.63",
+                  "372.38"
+                ],
+                [
+                  "Operating Income",
+                  "546.75",
+                  "584.76",
+                  "462.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.71",
+                  "7.11",
+                  "6.59"
+                ],
+                [
+                  "Net Income",
+                  "576.76",
+                  "535.28",
+                  "473.97"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.02",
+                  "6.51",
+                  "6.75"
+                ],
+                [
+                  "Op Cash Flow",
+                  "448.90",
+                  "973.19",
+                  "1148.76"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-506.20",
+                  "-461.22",
+                  "-199.36"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "254.04",
+                  "-321.67",
+                  "-119.01"
+                ],
+                [
+                  "CAPEX",
+                  "-606.09",
+                  "-367.06",
+                  "-263.79"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2024.63",
+                  "2707.35",
+                  "2627.91",
+                  "2766.31"
+                ],
+                [
+                  "Gross Profit",
+                  "232.17",
+                  "352.32",
+                  "319.33",
+                  "425.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.47",
+                  "13.01",
+                  "12.15",
+                  "15.40"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "53.99",
+                  "58.33",
+                  "59.19",
+                  "82.72"
+                ],
+                [
+                  "R&D Exp",
+                  "58.13",
+                  "65.78",
+                  "59.03",
+                  "69.25"
+                ],
+                [
+                  "General & Admin Exp",
+                  "104.60",
+                  "109.45",
+                  "122.00",
+                  "142.04"
+                ],
+                [
+                  "Operating Income",
+                  "15.45",
+                  "118.76",
+                  "79.10",
+                  "131.95"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.76",
+                  "4.39",
+                  "3.01",
+                  "4.77"
+                ],
+                [
+                  "Net Income",
+                  "45.78",
+                  "-52.23",
+                  "56.05",
+                  "175.36"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.26",
+                  "-1.93",
+                  "2.13",
+                  "6.34"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2.16",
+                  "-341.66",
+                  "747.55",
+                  "-68.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "247.87",
+                  "-598.22",
+                  "-715.71",
+                  "615.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-137.90",
+                  "44.06",
+                  "1199.88",
+                  "-96.56"
+                ],
+                [
+                  "CAPEX",
+                  "32.19",
+                  "-109.67",
+                  "-306.77",
+                  "-121.53"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Jarllytec",
+    "Huawei",
+    "OPPO",
+    "小米",
+    "Apple",
+    "Dell",
+    "廣達",
+    "英業達",
+    "Apple",
+    "Huawei",
+    "OPPO",
+    "小米",
+    "Apple",
+    "Dell",
+    "廣達",
+    "英業達",
+    "Huawei",
+    "OPPO",
+    "小米",
+    "Apple",
+    "Dell",
+    "廣達",
+    "英業達"
+  ]
+}

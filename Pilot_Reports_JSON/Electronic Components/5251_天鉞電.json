@@ -1,0 +1,827 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5251_天鉞電.md",
+  "source_path": "Pilot_Reports/Electronic Components/5251_天鉞電.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5251_天鉞電.json",
+  "ticker": "5251",
+  "company_name": "天鉞電",
+  "title": "# 5251 - 天鉞電",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,042 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "754 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "天鉞電子 (5251，"
+            },
+            {
+              "type": "wikilink",
+              "text": "JSW Pacific"
+            },
+            {
+              "type": "text",
+              "text": ") 為 "
+            },
+            {
+              "type": "strong",
+              "text": "智慧安防 (Smart Security)"
+            },
+            {
+              "type": "text",
+              "text": " 解決方案供應商，早期以無線電話起家，後成功轉型 DIY 安防產品。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "核心業務：(1) "
+            },
+            {
+              "type": "strong",
+              "text": "智慧攝影機 (Smart Camera)"
+            },
+            {
+              "type": "text",
+              "text": " — 戶外電池機、PTZ 攝影機、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 影像辨識視訊門鈴；(2) "
+            },
+            {
+              "type": "strong",
+              "text": "電子鎖 (Smart Lock)"
+            },
+            {
+              "type": "text",
+              "text": " — 整合影像辨識與遠端控制之智慧門禁系統；(3) "
+            },
+            {
+              "type": "strong",
+              "text": "安防訂閱服務 (SaaS)"
+            },
+            {
+              "type": "text",
+              "text": " — 從純硬體代工轉向雲端安防訂閱制，與保全公司合作；(4) "
+            },
+            {
+              "type": "strong",
+              "text": "代理業務"
+            },
+            {
+              "type": "text",
+              "text": " — 獨家代理日本 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Optex"
+            },
+            {
+              "type": "text",
+              "text": " 感測器與德國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ABUS"
+            },
+            {
+              "type": "text",
+              "text": " 安防產品，打入國內 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 資料中心與工廠安防市場。公司以 ODM 模式服務歐美 DIY 安防品牌，產品行銷全球。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (安防電子元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SoC 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "海思"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 安防攝影機處理器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "影像感測器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CMOS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Sensor 供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " WiFi/藍牙/4G 無線通訊模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (安防產品設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智慧攝影機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "天鉞電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ODM 設計/軟韌體開發)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子鎖:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "天鉞電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (影像辨識智慧門禁)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代理產品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Optex"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感測器、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABUS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防產品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (安防終端市場)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美 DIY 連鎖賣場如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Home Depot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lowe's"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美 DIY 安防品牌 — ODM 代工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保全業者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中保科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光保全"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國內系統整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工廠/資料中心:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Optex"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感測器打入國內安防供應鏈"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美 DIY 安防品牌 — 智慧攝影機/門鈴 ODM 代工 (主要營收)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Home Depot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lowe's"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 北美 DIY 安防零售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "保全系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中保科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光保全"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國內保全業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代理專案:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 資料中心與工廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Optex"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感測器代理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代理原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Optex"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本感測器大廠) — 獨家代理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代理原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ABUS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (德國安防品牌) — 代理銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SoC 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 安防攝影機處理器供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $30.90 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "1030.00",
+                  "N/A",
+                  "3.41",
+                  "2.53",
+                  "-188.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "305.38",
+                  "276.82",
+                  "179.15"
+                ],
+                [
+                  "Gross Profit",
+                  "121.06",
+                  "110.27",
+                  "59.27"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "39.64",
+                  "39.84",
+                  "33.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "66.12",
+                  "60.56",
+                  "52.18"
+                ],
+                [
+                  "R&D Exp",
+                  "26.40",
+                  "24.62",
+                  "25.78"
+                ],
+                [
+                  "General & Admin Exp",
+                  "40.80",
+                  "41.98",
+                  "45.48"
+                ],
+                [
+                  "Operating Income",
+                  "-12.26",
+                  "-16.88",
+                  "-64.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-4.01",
+                  "-6.10",
+                  "-35.82"
+                ],
+                [
+                  "Net Income",
+                  "1.00",
+                  "1.99",
+                  "-61.88"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.33",
+                  "0.72",
+                  "-34.54"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-13.93",
+                  "-35.09",
+                  "1.40"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "131.45",
+                  "-12.00",
+                  "-19.63"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-4.95",
+                  "-6.87",
+                  "-5.89"
+                ],
+                [
+                  "CAPEX",
+                  "-3.54",
+                  "-3.17",
+                  "-1.08"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "65.15",
+                  "69.85",
+                  "73.37",
+                  "97.01"
+                ],
+                [
+                  "Gross Profit",
+                  "32.41",
+                  "25.20",
+                  "29.49",
+                  "33.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "49.74",
+                  "36.08",
+                  "40.20",
+                  "35.00"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.55",
+                  "15.71",
+                  "16.31",
+                  "15.54"
+                ],
+                [
+                  "R&D Exp",
+                  "5.16",
+                  "6.74",
+                  "7.30",
+                  "7.20"
+                ],
+                [
+                  "General & Admin Exp",
+                  "8.70",
+                  "10.09",
+                  "10.97",
+                  "11.04"
+                ],
+                [
+                  "Operating Income",
+                  "0.00",
+                  "-7.34",
+                  "-5.10",
+                  "0.17"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.00",
+                  "-10.50",
+                  "-6.95",
+                  "0.18"
+                ],
+                [
+                  "Net Income",
+                  "5.42",
+                  "5.29",
+                  "-13.93",
+                  "4.23"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.31",
+                  "7.57",
+                  "-18.99",
+                  "4.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-19.62",
+                  "-1.87",
+                  "23.35",
+                  "-15.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "21.99",
+                  "75.73",
+                  "13.66",
+                  "20.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.20",
+                  "-1.02",
+                  "-1.25",
+                  "-1.49"
+                ],
+                [
+                  "CAPEX",
+                  "-1.46",
+                  "-0.70",
+                  "-1.28",
+                  "-0.10"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "JSW Pacific",
+    "AI",
+    "Optex",
+    "ABUS",
+    "AI",
+    "海思",
+    "聯詠",
+    "CMOS",
+    "Optex",
+    "ABUS",
+    "Home Depot",
+    "Lowe's",
+    "中保科技",
+    "新光保全",
+    "Optex",
+    "Home Depot",
+    "Lowe's",
+    "中保科技",
+    "新光保全",
+    "AI",
+    "Optex",
+    "Optex",
+    "ABUS"
+  ]
+}

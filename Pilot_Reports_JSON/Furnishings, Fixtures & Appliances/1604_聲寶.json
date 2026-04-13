@@ -1,0 +1,678 @@
+{
+  "report_id": "Pilot_Reports/Furnishings, Fixtures & Appliances/1604_聲寶.md",
+  "source_path": "Pilot_Reports/Furnishings, Fixtures & Appliances/1604_聲寶.md",
+  "json_path": "Pilot_Reports_JSON/Furnishings, Fixtures & Appliances/1604_聲寶.json",
+  "ticker": "1604",
+  "company_name": "聲寶",
+  "title": "# 1604 - 聲寶",
+  "sector_folder": "Furnishings, Fixtures & Appliances",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Furnishings, Fixtures & Appliances"
+      },
+      {
+        "label": "市值:",
+        "value": "9,419 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "15,734 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "聲寶 (1604，Sampo Corporation) 成立於 1936 年，總部位於桃園，為台灣老牌家電大廠。以自有品牌「SAMPO」行銷，產品涵蓋空調、冰箱、洗衣機、電視及各式小家電。聲寶集團旗下子公司"
+            },
+            {
+              "type": "wikilink",
+              "text": "瑞智精密"
+            },
+            {
+              "type": "text",
+              "text": " (4532) 為全球前十大壓縮機製造商，確保關鍵零件垂直整合供應。聲寶透過"
+            },
+            {
+              "type": "wikilink",
+              "text": "全國電子"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "燦坤"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "家樂福"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "momo購物網"
+            },
+            {
+              "type": "text",
+              "text": "等通路銷售，並深耕建設公司新建案配套市場。近年積極發展餐飲品牌「莞固和食」及樂齡宅「橘青春」等多角化事業。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (關鍵零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壓縮機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞智精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (4532，聲寶子公司) — 冷氣/冰箱壓縮機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (2409)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3481) — 電視面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "其他:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 馬達、IC、不鏽鋼板、塑膠粒"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (品牌與製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "聲寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 家電設計、組裝、品牌行銷及全台售後服務網絡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (通路與終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全國電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燦坤"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建設公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 新建案家電配套"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府標案:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 機關採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全國電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "燦坤"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "家樂福"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "momo購物網"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — B2C 通路銷售"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建設公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內建商 — 新建案配套家電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府機關:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 公家單位採購"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "壓縮機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞智精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (4532，子公司) — 冷氣/冰箱用壓縮機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電視面板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外 IC 及被動元件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.82",
+                  "N/A",
+                  "1.04",
+                  "1.06",
+                  "17.43"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "9049.77",
+                  "9493.81",
+                  "8888.94"
+                ],
+                [
+                  "Gross Profit",
+                  "1690.44",
+                  "1857.70",
+                  "1729.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.68",
+                  "19.57",
+                  "19.46"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "412.47",
+                  "400.70",
+                  "404.01"
+                ],
+                [
+                  "R&D Exp",
+                  "118.65",
+                  "111.77",
+                  "113.59"
+                ],
+                [
+                  "General & Admin Exp",
+                  "711.09",
+                  "679.50",
+                  "604.31"
+                ],
+                [
+                  "Operating Income",
+                  "448.23",
+                  "665.74",
+                  "607.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "4.95",
+                  "7.01",
+                  "6.84"
+                ],
+                [
+                  "Net Income",
+                  "618.42",
+                  "761.70",
+                  "727.80"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.83",
+                  "8.02",
+                  "8.19"
+                ],
+                [
+                  "Op Cash Flow",
+                  "702.85",
+                  "516.44",
+                  "821.97"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1230.03",
+                  "-1332.74",
+                  "-1006.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "516.96",
+                  "670.58",
+                  "455.72"
+                ],
+                [
+                  "CAPEX",
+                  "-1265.51",
+                  "-1371.82",
+                  "-1313.29"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2099.66",
+                  "2058.06",
+                  "2431.06",
+                  "2460.99"
+                ],
+                [
+                  "Gross Profit",
+                  "368.39",
+                  "397.31",
+                  "450.48",
+                  "462.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.55",
+                  "19.30",
+                  "18.53",
+                  "18.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "113.78",
+                  "97.72",
+                  "99.37",
+                  "101.61"
+                ],
+                [
+                  "R&D Exp",
+                  "31.16",
+                  "30.32",
+                  "28.80",
+                  "28.38"
+                ],
+                [
+                  "General & Admin Exp",
+                  "149.44",
+                  "162.66",
+                  "193.46",
+                  "193.41"
+                ],
+                [
+                  "Operating Income",
+                  "74.01",
+                  "106.61",
+                  "128.86",
+                  "138.74"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.53",
+                  "5.18",
+                  "5.30",
+                  "5.64"
+                ],
+                [
+                  "Net Income",
+                  "148.58",
+                  "131.49",
+                  "131.86",
+                  "206.49"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.08",
+                  "6.39",
+                  "5.42",
+                  "8.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "229.62",
+                  "508.52",
+                  "-78.99",
+                  "43.70"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-257.89",
+                  "-619.79",
+                  "-160.70",
+                  "-191.65"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "51.94",
+                  "93.15",
+                  "278.05",
+                  "93.82"
+                ],
+                [
+                  "CAPEX",
+                  "-228.82",
+                  "-606.47",
+                  "-281.36",
+                  "-148.85"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "瑞智精密",
+    "全國電子",
+    "燦坤",
+    "家樂福",
+    "momo購物網",
+    "瑞智精密",
+    "友達",
+    "群創",
+    "全國電子",
+    "燦坤",
+    "家樂福",
+    "momo購物網",
+    "全國電子",
+    "燦坤",
+    "家樂福",
+    "momo購物網",
+    "瑞智精密",
+    "友達",
+    "群創"
+  ]
+}

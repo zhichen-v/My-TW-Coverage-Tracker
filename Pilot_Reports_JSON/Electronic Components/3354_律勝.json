@@ -1,0 +1,773 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3354_律勝.md",
+  "source_path": "Pilot_Reports/Electronic Components/3354_律勝.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3354_律勝.json",
+  "ticker": "3354",
+  "company_name": "律勝",
+  "title": "# 3354 - 律勝",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "1,932 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,683 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "律勝科技 (3354，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Microcosm"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣專業軟板材料 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "FPC"
+            },
+            {
+              "type": "text",
+              "text": " Materials) 製造商。主要產品為軟性"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "基板 (FCCL)、保護膠片 (Cover Layer)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚醯亞胺"
+            },
+            {
+              "type": "text",
+              "text": " (PI) 薄膜及相關功能性材料。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "技術亮點與成長動能：(1) 透明 PI — 自主研發 Mpior 透明"
+            },
+            {
+              "type": "wikilink",
+              "text": "聚醯亞胺"
+            },
+            {
+              "type": "text",
+              "text": "產品，應用於摺疊手機、摺疊筆電與穿戴式裝置顯示蓋板；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 高速材料 — 開發低介電損耗 FCCL，因應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": " 高頻傳輸需求；(3) 半導體材料 — 跨足半導體封裝用 PI 材料市場。下游客戶涵蓋台系與陸系主要軟板廠，產品終端應用於智慧型手機、穿戴裝置、汽車電子及半導體封裝。兩岸主要面板廠為透明 PI 合作夥伴。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (化學原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 單體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 二酐與二胺化學原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長春石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電解"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "離型膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 離型膜供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "溶劑:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特種溶劑供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (軟板材料製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "FCCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "律勝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (軟性"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "Cover Layer:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "律勝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (保護膠片)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 薄膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "律勝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": "薄膜/透明 PI)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (軟板廠與面板廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台郡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造用 FCCL"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 兩岸面板廠 — 摺疊螢幕透明 PI 材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封裝廠 — 封裝用 PI 材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧型手機、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電動車"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、穿戴裝置"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台郡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臻鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造用 FCCL 與 Cover Layer"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 兩岸主要面板廠 — 摺疊螢幕透明 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聚醯亞胺"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 半導體封裝廠 — 封裝用 PI 材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅箔:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長春石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電解"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PI 原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 二酐與二胺化學原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "離型膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 離型膜供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $27.55 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "19.58",
+                  "2.41",
+                  "-31.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "98.66",
+                  "127.69",
+                  "109.84"
+                ],
+                [
+                  "Gross Profit",
+                  "12.14",
+                  "13.22",
+                  "-14.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "12.31",
+                  "10.35",
+                  "-13.41"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.23",
+                  "9.77",
+                  "8.55"
+                ],
+                [
+                  "R&D Exp",
+                  "63.09",
+                  "76.77",
+                  "80.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "26.59",
+                  "30.01",
+                  "28.99"
+                ],
+                [
+                  "Operating Income",
+                  "-90.77",
+                  "-103.33",
+                  "-132.53"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-92.00",
+                  "-80.92",
+                  "-120.66"
+                ],
+                [
+                  "Net Income",
+                  "-58.71",
+                  "-23.55",
+                  "-83.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-59.50",
+                  "-18.44",
+                  "-76.20"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-66.60",
+                  "-61.90",
+                  "-47.03"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "64.90",
+                  "32.24",
+                  "29.90"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-99.56",
+                  "-129.01",
+                  "-47.76"
+                ],
+                [
+                  "CAPEX",
+                  "-17.28",
+                  "-9.49",
+                  "-12.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "23.82",
+                  "23.43",
+                  "26.11",
+                  "26.78"
+                ],
+                [
+                  "Gross Profit",
+                  "4.52",
+                  "1.31",
+                  "3.37",
+                  "2.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.97",
+                  "5.59",
+                  "12.91",
+                  "11.04"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3.38",
+                  "3.23",
+                  "3.41",
+                  "2.33"
+                ],
+                [
+                  "R&D Exp",
+                  "13.46",
+                  "15.68",
+                  "17.37",
+                  "19.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6.74",
+                  "6.87",
+                  "6.34",
+                  "7.67"
+                ],
+                [
+                  "Operating Income",
+                  "-19.06",
+                  "-24.47",
+                  "-23.75",
+                  "-27.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-80.03",
+                  "-104.43",
+                  "-90.96",
+                  "-100.89"
+                ],
+                [
+                  "Net Income",
+                  "-9.12",
+                  "-37.01",
+                  "-10.57",
+                  "1.08"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-38.31",
+                  "-157.95",
+                  "-40.48",
+                  "4.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-33.51",
+                  "-20.16",
+                  "-14.38",
+                  "-6.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "33.03",
+                  "7.41",
+                  "-3.62",
+                  "-57.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1.17",
+                  "0.31",
+                  "-49.80",
+                  "2.00"
+                ],
+                [
+                  "CAPEX",
+                  "-3.71",
+                  "-6.54",
+                  "-3.15",
+                  "-1.14"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Microcosm",
+    "FPC",
+    "銅箔",
+    "聚醯亞胺",
+    "聚醯亞胺",
+    "5G",
+    "5G",
+    "長春石化",
+    "銅箔",
+    "銅箔",
+    "聚醯亞胺",
+    "台郡",
+    "臻鼎",
+    "FPC",
+    "電動車",
+    "台郡",
+    "臻鼎",
+    "FPC",
+    "聚醯亞胺",
+    "長春石化",
+    "銅箔"
+  ]
+}

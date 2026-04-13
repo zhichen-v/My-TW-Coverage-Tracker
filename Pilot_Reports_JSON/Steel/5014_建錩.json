@@ -1,0 +1,528 @@
+{
+  "report_id": "Pilot_Reports/Steel/5014_建錩.md",
+  "source_path": "Pilot_Reports/Steel/5014_建錩.md",
+  "json_path": "Pilot_Reports_JSON/Steel/5014_建錩.json",
+  "ticker": "5014",
+  "company_name": "建錩",
+  "title": "# 5014 - 建錩",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "1,878 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,067 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "建錩實業 (Chien Shing / Chain Chon) 為專業 "
+            },
+            {
+              "type": "strong",
+              "text": "不鏽鋼捲板通路與加工中心"
+            },
+            {
+              "type": "text",
+              "text": " (Coil Center)。\n經營模式類似「鋼鐵服務業」，提供：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "裁剪加工"
+            },
+            {
+              "type": "text",
+              "text": ": 將上游鋼捲裁剪成客戶所需尺寸之板材、條類。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "表面處理"
+            },
+            {
+              "type": "text",
+              "text": ": 磨砂、拋光、鏡面處理。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "物流配送"
+            },
+            {
+              "type": "text",
+              "text": ": 「一廠下單，全球配送」。\n主要市場在 "
+            },
+            {
+              "type": "strong",
+              "text": "中國"
+            },
+            {
+              "type": "text",
+              "text": " (華東/華南) 與台灣，亦佈局東南亞與美國。\n產品應用於：家電 (Dishwasher, Fridge)、廚具、建材、汽車飾條、化工桶槽。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "建錩 (5014)"
+            },
+            {
+              "type": "text",
+              "text": " - 不鏽鋼裁剪加工與通路 (Distributor/Service Center).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 不鏽鋼煉鋼/熱軋廠 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "太鋼"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "浦項"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "華新"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "燁聯"
+            },
+            {
+              "type": "text",
+              "text": ", 日本鋼廠).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": 家電廠, 廚具廠, "
+            },
+            {
+              "type": "wikilink",
+              "text": "營造"
+            },
+            {
+              "type": "text",
+              "text": "廠, 汽車零組件廠."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "家電"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "GE"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Electrolux"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Fisher & Paykel"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "其他"
+                },
+                {
+                  "type": "text",
+                  "text": ": 建築裝潢工程, 汽車配件廠."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "鋼廠"
+                },
+                {
+                  "type": "text",
+                  "text": ": 中國與台灣各大不鏽鋼廠 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "太鋼不銹"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "華新麗華"
+                },
+                {
+                  "type": "text",
+                  "text": ")."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $10.25 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.13",
+                  "0.72",
+                  "111.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "14953.03",
+                  "16330.75",
+                  "15610.20"
+                ],
+                [
+                  "Gross Profit",
+                  "366.07",
+                  "586.85",
+                  "605.70"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "2.45",
+                  "3.59",
+                  "3.88"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "158.54",
+                  "189.09",
+                  "176.15"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "300.40",
+                  "363.71",
+                  "323.14"
+                ],
+                [
+                  "Operating Income",
+                  "-92.87",
+                  "34.05",
+                  "106.40"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.62",
+                  "0.21",
+                  "0.68"
+                ],
+                [
+                  "Net Income",
+                  "-437.03",
+                  "216.02",
+                  "25.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-2.92",
+                  "1.32",
+                  "0.16"
+                ],
+                [
+                  "Op Cash Flow",
+                  "117.26",
+                  "-222.38",
+                  "809.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "2504.20",
+                  "-216.74",
+                  "-2207.46"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2661.77",
+                  "467.62",
+                  "1457.25"
+                ],
+                [
+                  "CAPEX",
+                  "-79.39",
+                  "-280.46",
+                  "-1081.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3996.89",
+                  "3859.83",
+                  "3832.44",
+                  "3263.88"
+                ],
+                [
+                  "Gross Profit",
+                  "50.51",
+                  "99.17",
+                  "105.01",
+                  "111.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "1.26",
+                  "2.57",
+                  "2.74",
+                  "3.41"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "30.47",
+                  "41.38",
+                  "41.86",
+                  "44.83"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "74.48",
+                  "78.21",
+                  "73.48",
+                  "74.23"
+                ],
+                [
+                  "Operating Income",
+                  "-54.44",
+                  "-20.41",
+                  "-10.33",
+                  "-7.70"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.36",
+                  "-0.53",
+                  "-0.27",
+                  "-0.24"
+                ],
+                [
+                  "Net Income",
+                  "-127.53",
+                  "19.72",
+                  "-328.84",
+                  "-0.38"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.19",
+                  "0.51",
+                  "-8.58",
+                  "-0.01"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23.96",
+                  "-38.07",
+                  "-62.88",
+                  "194.26"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "290.51",
+                  "2595.98",
+                  "-45.73",
+                  "-336.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-384.19",
+                  "-2947.35",
+                  "490.86",
+                  "178.91"
+                ],
+                [
+                  "CAPEX",
+                  "-13.37",
+                  "-13.51",
+                  "-15.48",
+                  "-37.03"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "太鋼",
+    "浦項",
+    "華新",
+    "燁聯",
+    "營造",
+    "GE",
+    "Electrolux",
+    "Fisher & Paykel",
+    "太鋼不銹",
+    "華新麗華"
+  ]
+}

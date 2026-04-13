@@ -1,0 +1,600 @@
+{
+  "report_id": "Pilot_Reports/Solar/6839_開陽能源.md",
+  "source_path": "Pilot_Reports/Solar/6839_開陽能源.md",
+  "json_path": "Pilot_Reports_JSON/Solar/6839_開陽能源.json",
+  "ticker": "6839",
+  "company_name": "開陽能源",
+  "title": "# 6839 - [[開陽能源]]",
+  "sector_folder": "Solar",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Solar"
+      },
+      {
+        "label": "市值:",
+        "value": "1,070 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,969 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "開陽能源股份有限公司 (6839) 為台灣知名在地綠能集團，全方位太陽光電系統投資與建置商。主要業務涵蓋五大板塊："
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1. "
+            },
+            {
+              "type": "strong",
+              "text": "太陽能電廠[[EPC]]："
+            },
+            {
+              "type": "text",
+              "text": " 提供從案場開發、申請、施工到併網之統包工程服務，能因應台灣土地特性推動農電共生與漁電共生案場。未來2-3年"
+            },
+            {
+              "type": "wikilink",
+              "text": "EPC"
+            },
+            {
+              "type": "text",
+              "text": "工程建設容量預計超過300MW。\n2. "
+            },
+            {
+              "type": "strong",
+              "text": "電廠維運 (O&M)："
+            },
+            {
+              "type": "text",
+              "text": " 已完工電廠之長期維運管理。\n3. "
+            },
+            {
+              "type": "strong",
+              "text": "電廠投資 ([[IPP]])："
+            },
+            {
+              "type": "text",
+              "text": " 自持電廠進行長期售電。\n4. "
+            },
+            {
+              "type": "strong",
+              "text": "[[儲能]]系統："
+            },
+            {
+              "type": "text",
+              "text": " 儲能輔助服務投資與併網。\n5. "
+            },
+            {
+              "type": "strong",
+              "text": "綠電交易："
+            },
+            {
+              "type": "text",
+              "text": " 綠電憑證銷售與轉供。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "受惠於台灣能源轉型政策與企業綠電需求，"
+            },
+            {
+              "type": "wikilink",
+              "text": "EPC"
+            },
+            {
+              "type": "text",
+              "text": "工程收入與"
+            },
+            {
+              "type": "wikilink",
+              "text": "儲能"
+            },
+            {
+              "type": "text",
+              "text": "輔助服務為主要成長動能。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合再生"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等國內模組大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "逆變器："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外直/交流轉換變流器供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[儲能]]電池："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋰電池儲能櫃供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "重電設備："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高低壓配電盤及鋼構建材供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (工程服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "開陽能源 (6839)："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型太陽能電廠"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "EPC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "統包工程、漁電共生案場開發、電廠長期維運、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "儲能"
+                    },
+                    {
+                      "type": "text",
+                      "text": "系統併網投資"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台電]]："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 躉購費率收購電力"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業用戶："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 竹科"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與電子廠購買綠電憑證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電廠投資方："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 民間電廠投資者、地方政府機關"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力躉購："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "綠電憑證："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 竹科大型"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與電子廠（有"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RE100"
+                    },
+                    {
+                      "type": "text",
+                      "text": "需求）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電廠投資方："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 民間電廠投資者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "太陽能模組："
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯合再生"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "元晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等國內模組大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "逆變器與重電："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內大型機電、變流器及重電設備製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[儲能]]電池："
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鋰電池儲能櫃供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $13.05 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.58",
+                  "0.61",
+                  "-248.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1808.46",
+                  "2190.28",
+                  "3930.99"
+                ],
+                [
+                  "Gross Profit",
+                  "-44.05",
+                  "322.92",
+                  "383.73"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-2.44",
+                  "14.74",
+                  "9.76"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "16.26",
+                  "17.64",
+                  "16.85"
+                ],
+                [
+                  "R&D Exp",
+                  "18.27",
+                  "19.45",
+                  "18.27"
+                ],
+                [
+                  "General & Admin Exp",
+                  "161.45",
+                  "188.01",
+                  "198.41"
+                ],
+                [
+                  "Operating Income",
+                  "-240.04",
+                  "97.80",
+                  "150.20"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-13.27",
+                  "4.47",
+                  "3.82"
+                ],
+                [
+                  "Net Income",
+                  "-216.49",
+                  "110.58",
+                  "121.61"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-11.97",
+                  "5.05",
+                  "3.09"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-85.22",
+                  "-560.76",
+                  "202.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-327.89",
+                  "-490.13",
+                  "-617.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "372.78",
+                  "820.82",
+                  "701.94"
+                ],
+                [
+                  "CAPEX",
+                  "-349.69",
+                  "-552.06",
+                  "-1024.50"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "開陽能源",
+    "EPC",
+    "EPC",
+    "IPP",
+    "儲能",
+    "EPC",
+    "儲能",
+    "聯合再生",
+    "元晶",
+    "儲能",
+    "EPC",
+    "儲能",
+    "台電",
+    "半導體",
+    "台電",
+    "半導體",
+    "RE100",
+    "聯合再生",
+    "元晶",
+    "儲能"
+  ]
+}

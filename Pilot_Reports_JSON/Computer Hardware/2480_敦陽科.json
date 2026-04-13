@@ -1,0 +1,936 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2480_敦陽科.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2480_敦陽科.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2480_敦陽科.json",
+  "ticker": "2480",
+  "company_name": "敦陽科",
+  "title": "# 2480 - 敦陽科",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "15,050 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "14,431 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "敦陽科技 (2480，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Stark Technology"
+            },
+            {
+              "type": "text",
+              "text": ") 成立於 1993 年，總部位於台北。公司為台灣領導級資訊系統整合商 (SI)，專注於企業 IT 基礎建設之代理、整合與顧問服務，核心能力涵蓋伺服器、儲存設備、網路通訊、資訊安全及雲端服務。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要代理品牌超過數十家國際大廠，涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " (AI 伺服器)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "NetApp"
+            },
+            {
+              "type": "text",
+              "text": " (儲存)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Cisco"
+            },
+            {
+              "type": "text",
+              "text": " (網路)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Palo Alto Networks"
+            },
+            {
+              "type": "text",
+              "text": " (資安)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Oracle"
+            },
+            {
+              "type": "text",
+              "text": " (資料庫) 等。客戶群以高科技製造業、電信業及金融業為主，其中半導體大廠 "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": " 為重要客戶。近年積極發展 AI 算力租賃 (GPUaaS) 及 MDR 資安託管服務，從傳統設備經銷轉型為高附加價值之技術顧問型通路商。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (國際 IT 軟硬體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — AI GPU 伺服器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲存設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NetApp"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業級儲存解決方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業網路通訊設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資訊安全:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Palo Alto Networks"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fortinet"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 次世代防火牆與資安解決方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資料庫:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Oracle"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業資料庫軟體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google Cloud"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 公有雲平台"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (系統整合與顧問服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "SI 服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "敦陽科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (IT 架構規劃、軟硬體整合部署、維運服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 租賃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "敦陽科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GPUaaS AI 算力租賃)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資安託管:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "敦陽科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (MDR 資安監控託管服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (企業客戶端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — IT 基礎設施"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠傳電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 資通訊系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大金控及銀行 — 資訊安全與儲存設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業 IT 基礎設施整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠傳電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 資通訊系統整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金融:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內各大金控及銀行 — 資安與儲存設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 運算:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型企業、研究機構及學校 — GPU 算力租賃服務"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "政府:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 政府機關及教育機構 — IT 系統標案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — GPU 伺服器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儲存:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NetApp"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 企業儲存平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Cisco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 網路交換與路由設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "資安:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Palo Alto Networks"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Fortinet"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 資安解決方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google Cloud"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $141.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.58",
+                  "14.94",
+                  "1.79",
+                  "4.28",
+                  "14.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8394.37",
+                  "7536.75",
+                  "7270.86"
+                ],
+                [
+                  "Gross Profit",
+                  "2039.82",
+                  "1885.27",
+                  "1786.37"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.30",
+                  "25.01",
+                  "24.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "98.99",
+                  "91.22",
+                  "90.31"
+                ],
+                [
+                  "General & Admin Exp",
+                  "941.91",
+                  "872.82",
+                  "833.33"
+                ],
+                [
+                  "Operating Income",
+                  "998.92",
+                  "921.23",
+                  "862.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.90",
+                  "12.22",
+                  "11.87"
+                ],
+                [
+                  "Net Income",
+                  "851.29",
+                  "798.06",
+                  "783.24"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.14",
+                  "10.59",
+                  "10.77"
+                ],
+                [
+                  "Op Cash Flow",
+                  "549.73",
+                  "101.57",
+                  "1179.79"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-212.74",
+                  "-119.41",
+                  "-39.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-399.46",
+                  "-653.92",
+                  "-833.86"
+                ],
+                [
+                  "CAPEX",
+                  "-119.68",
+                  "-177.34",
+                  "-66.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2188.88",
+                  "2179.44",
+                  "2068.03",
+                  "2233.86"
+                ],
+                [
+                  "Gross Profit",
+                  "527.11",
+                  "508.93",
+                  "518.47",
+                  "521.64"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.08",
+                  "23.35",
+                  "25.07",
+                  "23.35"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "24.16",
+                  "23.55",
+                  "23.71",
+                  "23.43"
+                ],
+                [
+                  "General & Admin Exp",
+                  "267.82",
+                  "221.55",
+                  "232.35",
+                  "235.94"
+                ],
+                [
+                  "Operating Income",
+                  "235.12",
+                  "263.84",
+                  "262.41",
+                  "262.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.74",
+                  "12.11",
+                  "12.69",
+                  "11.74"
+                ],
+                [
+                  "Net Income",
+                  "219.55",
+                  "203.61",
+                  "238.41",
+                  "209.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.03",
+                  "9.34",
+                  "11.53",
+                  "9.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-119.06",
+                  "386.59",
+                  "13.95",
+                  "92.28"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-69.15",
+                  "7.71",
+                  "-2.39",
+                  "47.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "247.31",
+                  "-3.79",
+                  "-73.41",
+                  "1.34"
+                ],
+                [
+                  "CAPEX",
+                  "-5.26",
+                  "-6.78",
+                  "-8.65",
+                  "-3.22"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Stark Technology",
+    "NVIDIA",
+    "NetApp",
+    "Cisco",
+    "Palo Alto Networks",
+    "Oracle",
+    "台積電",
+    "NVIDIA",
+    "NetApp",
+    "Cisco",
+    "Palo Alto Networks",
+    "Fortinet",
+    "Oracle",
+    "AWS",
+    "Microsoft Azure",
+    "Google Cloud",
+    "台積電",
+    "聯電",
+    "中華電信",
+    "遠傳電信",
+    "台積電",
+    "聯電",
+    "中華電信",
+    "遠傳電信",
+    "NVIDIA",
+    "NetApp",
+    "Cisco",
+    "Palo Alto Networks",
+    "Fortinet",
+    "AWS",
+    "Microsoft Azure",
+    "Google Cloud"
+  ]
+}

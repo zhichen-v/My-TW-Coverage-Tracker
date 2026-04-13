@@ -1,0 +1,610 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6526_達發.md",
+  "source_path": "Pilot_Reports/Semiconductors/6526_達發.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6526_達發.json",
+  "ticker": "6526",
+  "company_name": "達發",
+  "title": "# 6526 - 達發",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "79,481 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "69,294 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "達發科技 (6526，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Airoha"
+            },
+            {
+              "type": "text",
+              "text": ") 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯發科"
+            },
+            {
+              "type": "text",
+              "text": "子公司，專注於無線音訊 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SoC"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bluetooth"
+            },
+            {
+              "type": "text",
+              "text": " 晶片及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Wi-Fi"
+            },
+            {
+              "type": "text",
+              "text": " 連接方案。產品應用於真無線耳機 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "TWS"
+            },
+            {
+              "type": "text",
+              "text": ")、智慧音箱、穿戴裝置及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": " 連接。公司為全球 TWS 藍牙音訊晶片主要供應商之一。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (晶圓代工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (先進製程)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (集團)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (IC 設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "藍牙/Wi-Fi SoC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "達發"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    },
+                    {
+                      "type": "text",
+                      "text": "子公司，TWS/藍牙/Wi-Fi 晶片)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (音訊與 IoT)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TWS 耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 TWS 耳機品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IoT 連接裝置品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TWS 耳機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 TWS 耳機品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "IoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " IoT 連接裝置品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯發科"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Qualcomm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞昱"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BES"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (恒玄科技)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $474.50 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "27.40",
+                  "16.93",
+                  "3.80",
+                  "4.11",
+                  "18.90"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "20926.19",
+                  "19122.10",
+                  "13575.56"
+                ],
+                [
+                  "Gross Profit",
+                  "10865.08",
+                  "10004.93",
+                  "6322.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "51.92",
+                  "52.32",
+                  "46.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "839.75",
+                  "682.72",
+                  "442.46"
+                ],
+                [
+                  "R&D Exp",
+                  "6405.58",
+                  "5910.71",
+                  "4443.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "712.19",
+                  "535.66",
+                  "425.41"
+                ],
+                [
+                  "Operating Income",
+                  "2907.57",
+                  "2875.84",
+                  "1010.61"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.89",
+                  "15.04",
+                  "7.44"
+                ],
+                [
+                  "Net Income",
+                  "2900.76",
+                  "2691.95",
+                  "969.31"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.86",
+                  "14.08",
+                  "7.14"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4114.90",
+                  "5092.36",
+                  "3853.96"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1285.81",
+                  "-1529.68",
+                  "-1346.94"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-2158.09",
+                  "-800.65",
+                  "2975.70"
+                ],
+                [
+                  "CAPEX",
+                  "-1090.04",
+                  "-1799.35",
+                  "-1997.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4550.87",
+                  "5630.51",
+                  "5522.29",
+                  "5222.52"
+                ],
+                [
+                  "Gross Profit",
+                  "2440.52",
+                  "2937.03",
+                  "2787.97",
+                  "2699.55"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "53.63",
+                  "52.16",
+                  "50.49",
+                  "51.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "188.17",
+                  "199.33",
+                  "227.04",
+                  "225.21"
+                ],
+                [
+                  "R&D Exp",
+                  "1623.76",
+                  "1714.31",
+                  "1546.05",
+                  "1521.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "151.51",
+                  "146.32",
+                  "198.37",
+                  "215.98"
+                ],
+                [
+                  "Operating Income",
+                  "477.08",
+                  "877.06",
+                  "816.51",
+                  "736.92"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.48",
+                  "15.58",
+                  "14.79",
+                  "14.11"
+                ],
+                [
+                  "Net Income",
+                  "554.90",
+                  "837.66",
+                  "778.05",
+                  "730.15"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.19",
+                  "14.88",
+                  "14.09",
+                  "13.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "664.91",
+                  "1489.64",
+                  "1102.61",
+                  "857.74"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-402.70",
+                  "-388.91",
+                  "-129.08",
+                  "-365.12"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-17.76",
+                  "-2110.42",
+                  "-14.00",
+                  "-15.91"
+                ],
+                [
+                  "CAPEX",
+                  "-255.41",
+                  "-320.07",
+                  "-176.35",
+                  "-338.21"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Airoha",
+    "聯發科",
+    "SoC",
+    "Bluetooth",
+    "Wi-Fi",
+    "TWS",
+    "物聯網",
+    "台積電",
+    "聯發科",
+    "聯發科",
+    "台積電",
+    "聯發科",
+    "Qualcomm",
+    "瑞昱",
+    "BES"
+  ]
+}

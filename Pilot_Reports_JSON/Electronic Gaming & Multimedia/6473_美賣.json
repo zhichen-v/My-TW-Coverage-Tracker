@@ -1,0 +1,532 @@
+{
+  "report_id": "Pilot_Reports/Electronic Gaming & Multimedia/6473_美賣.md",
+  "source_path": "Pilot_Reports/Electronic Gaming & Multimedia/6473_美賣.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Gaming & Multimedia/6473_美賣.json",
+  "ticker": "6473",
+  "company_name": "美賣",
+  "title": "# 6473_美賣",
+  "sector_folder": "Electronic Gaming & Multimedia",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Communication Services"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Gaming & Multimedia"
+      },
+      {
+        "label": "市值:",
+        "value": "319 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "283 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "美賣科技 (6473，meimaii，前身為好玩家) 為台灣社群電商平台營運商，2022 年由遊戲公司好玩家正式更名轉型。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "公司早期以代理營運女性向線上遊戲起家，近年全面轉型為 KOL 社群團購電商媒合平台。核心商業模式為透過自建平台媒合關鍵意見領袖 (KOL)、團媽與各大消費性產品供應商，提供從選品、金流、物流到客服的一站式社群團購服務。目前已累計與超過 500 位網紅、藝人及 KOL 合作。公司運用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LINE"
+            },
+            {
+              "type": "text",
+              "text": " 官方帳號重塑客服流程，一站管理消費者、KOL 及供應商互動。在微網紅經濟與社群帶貨風潮下，美賣聚焦台灣社群電商市佔率拓展，涵蓋 3C 家電、美妝保養、食品、生活選物等品類。金流服務整合 "
+            },
+            {
+              "type": "wikilink",
+              "text": "綠界科技"
+            },
+            {
+              "type": "text",
+              "text": " 等第三方支付工具，物流則與主要宅配業者合作。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (品牌與供應商)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外 3C 家電、美妝保養、食品、生活選物品牌製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等第三方支付服務商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流配送:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 宅配通等物流車隊"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群電商平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "美賣科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (KOL 媒合、選品、金流、物流一站式服務)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LINE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 官方帳號 — 客服與互動管理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "內容行銷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " KOL/網紅媒合與代營運服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銷售端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "KOL/網紅:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 關鍵意見領袖、團媽、直播主 — 社群帶貨"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Facebook"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Instagram"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LINE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 社群導購"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過社群網路購買商品之消費者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "KOL/網紅:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超過 500 位網紅、藝人與 KOL — 社群帶貨合作"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "終端消費者:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過社群團購購買商品之消費群眾"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外民生消費品牌製造商及代理商 — 產品供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等第三方支付 — 交易金流處理"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "社群工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "LINE"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 官方帳號與客服互動平台"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物流配送:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 宅配通等物流業者 — 商品配送服務"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $7.97 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "3.28",
+                  "1.66",
+                  "-6.82"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "152.85",
+                  "173.41",
+                  "180.49"
+                ],
+                [
+                  "Gross Profit",
+                  "97.20",
+                  "120.52",
+                  "167.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "63.59",
+                  "69.50",
+                  "92.80"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "98.81",
+                  "113.44",
+                  "142.09"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "44.93",
+                  "39.04",
+                  "32.24"
+                ],
+                [
+                  "Operating Income",
+                  "-46.54",
+                  "-31.96",
+                  "-6.84"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-30.45",
+                  "-18.43",
+                  "-3.79"
+                ],
+                [
+                  "Net Income",
+                  "-41.58",
+                  "-39.95",
+                  "-11.76"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-27.20",
+                  "-23.04",
+                  "-6.52"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-39.22",
+                  "-47.95",
+                  "17.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "7.34",
+                  "-29.08",
+                  "26.25"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "112.30",
+                  "18.06",
+                  "-36.65"
+                ],
+                [
+                  "CAPEX",
+                  "-0.14",
+                  "-9.60",
+                  "-1.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "LINE",
+    "綠界科技",
+    "綠界科技",
+    "LINE",
+    "Facebook",
+    "Instagram",
+    "LINE",
+    "綠界科技",
+    "LINE"
+  ]
+}

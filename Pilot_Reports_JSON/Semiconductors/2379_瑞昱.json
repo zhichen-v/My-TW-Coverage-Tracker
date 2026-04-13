@@ -1,0 +1,626 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2379_瑞昱.md",
+  "source_path": "Pilot_Reports/Semiconductors/2379_瑞昱.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2379_瑞昱.json",
+  "ticker": "2379",
+  "company_name": "瑞昱",
+  "title": "# 2379 - [[瑞昱]]",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "261,880 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "211,895 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "瑞昱"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "瑞昱"
+            },
+            {
+              "type": "text",
+              "text": " Semiconductor) 成立於 1987 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司為全球知名 "
+            },
+            {
+              "type": "strong",
+              "text": "IC 設計 (Fabless)"
+            },
+            {
+              "type": "text",
+              "text": " 公司，以「螃蟹」商標聞名 (Crab)。"
+            },
+            {
+              "type": "wikilink",
+              "text": "瑞昱"
+            },
+            {
+              "type": "text",
+              "text": "在 "
+            },
+            {
+              "type": "strong",
+              "text": "網通 (Network)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "音效 (Audio)"
+            },
+            {
+              "type": "text",
+              "text": " 晶片領域具有全球領導地位。主要產品包括乙太網路控制晶片、Wi-Fi 晶片、藍牙晶片、Switch 控制器、Audio Codec (PC 音效晶片市佔極高)、電視/顯示器控制晶片及其它電腦周邊 IC。近年積極佈局車用乙太網路及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 運算相關晶片。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (製造/封測)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (UMC)."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝測試:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日月光投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (ASE), "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "矽品"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (SPIL), 華泰."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC/NB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 幾乎所有品牌的 PC/NB 主機板都採用其 Audio Codec 及 Lan/Wi-Fi 晶片。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 路由器, Switch, 寬頻設備."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電視, 機上盒, TWS 耳機, 藍牙裝置."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用乙太網路 (Automotive Ethernet)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", Asus, Acer, MSI."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Tp-link, D-Link, 主要電視品牌."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 近期傳出打入 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 供應鏈 (SSD Controller/Switch)。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (長期合作夥伴)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $508.00 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "18.12",
+                  "13.81",
+                  "2.13",
+                  "5.02",
+                  "12.86"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "122706.37",
+                  "113393.70",
+                  "95179.28"
+                ],
+                [
+                  "Gross Profit",
+                  "61373.68",
+                  "57161.84",
+                  "40748.06"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "50.02",
+                  "50.41",
+                  "42.81"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5983.95",
+                  "4793.10",
+                  "3864.72"
+                ],
+                [
+                  "R&D Exp",
+                  "35124.99",
+                  "33543.62",
+                  "26434.29"
+                ],
+                [
+                  "General & Admin Exp",
+                  "5875.68",
+                  "5328.74",
+                  "3768.59"
+                ],
+                [
+                  "Operating Income",
+                  "14389.06",
+                  "13496.37",
+                  "6680.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.73",
+                  "11.90",
+                  "7.02"
+                ],
+                [
+                  "Net Income",
+                  "14753.25",
+                  "15291.44",
+                  "9152.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.02",
+                  "13.49",
+                  "9.62"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23015.34",
+                  "23934.09",
+                  "17896.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-16380.28",
+                  "-9707.17",
+                  "1084.47"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-7615.84",
+                  "-10065.84",
+                  "-22938.81"
+                ],
+                [
+                  "CAPEX",
+                  "-4664.69",
+                  "-3994.85",
+                  "-3627.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "26278.47",
+                  "29491.14",
+                  "31914.36",
+                  "35022.40"
+                ],
+                [
+                  "Gross Profit",
+                  "12635.48",
+                  "14651.82",
+                  "16029.39",
+                  "18056.99"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "48.08",
+                  "49.68",
+                  "50.23",
+                  "51.56"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1233.35",
+                  "1434.67",
+                  "1607.41",
+                  "1708.53"
+                ],
+                [
+                  "R&D Exp",
+                  "7694.28",
+                  "8643.99",
+                  "9054.31",
+                  "9732.41"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1391.43",
+                  "1454.70",
+                  "1364.42",
+                  "1665.12"
+                ],
+                [
+                  "Operating Income",
+                  "2316.42",
+                  "3118.46",
+                  "4003.25",
+                  "4950.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.81",
+                  "10.57",
+                  "12.54",
+                  "14.14"
+                ],
+                [
+                  "Net Income",
+                  "2653.85",
+                  "3428.79",
+                  "3909.05",
+                  "4761.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.10",
+                  "11.63",
+                  "12.25",
+                  "13.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1972.45",
+                  "6950.66",
+                  "6380.47",
+                  "7711.77"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2397.17",
+                  "2283.06",
+                  "-4874.38",
+                  "-11391.80"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3020.98",
+                  "-2962.39",
+                  "-972.94",
+                  "-659.53"
+                ],
+                [
+                  "CAPEX",
+                  "-1517.41",
+                  "-659.08",
+                  "-981.88",
+                  "-1506.33"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "瑞昱",
+    "瑞昱",
+    "半導體",
+    "瑞昱",
+    "新竹",
+    "瑞昱",
+    "AI",
+    "台積電",
+    "聯電",
+    "日月光投控",
+    "矽品",
+    "HP",
+    "Dell",
+    "Lenovo",
+    "NVIDIA",
+    "台積電",
+    "聯電"
+  ]
+}

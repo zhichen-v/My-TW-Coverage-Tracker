@@ -1,0 +1,546 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/6548_長科.md",
+  "source_path": "Pilot_Reports/Semiconductors/6548_長科.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/6548_長科.json",
+  "ticker": "6548",
+  "company_name": "長科",
+  "title": "# 6548_長科",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "47,722 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "46,829 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "長華科技股份有限公司 (6548，長科*) 隸屬於長華集團，是全球排名第二的"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "IC"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "(Leadframe)製造巨擘。長科*專精於各式"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "的研發與製造，涵蓋傳統的Non-QFN及先進的QFN(四方平面無引腳)封裝"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "是晶片封裝中負責訊號傳輸與"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "的極關鍵材料。受惠於"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI[[伺服器"
+            },
+            {
+              "type": "text",
+              "text": "]]高壓直流電源(HVDC)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "第三代[[半導體"
+            },
+            {
+              "type": "text",
+              "text": "]]("
+            },
+            {
+              "type": "wikilink",
+              "text": "碳化矽"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "氮化鎵"
+            },
+            {
+              "type": "text",
+              "text": ")對大電流與高效"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "的嚴苛要求，長科*的車用及工控高階"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "需求強勁，並積極擴建馬來西亞新廠以就近供應國際IDM大廠。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 高品質銅合金"
+            },
+            {
+              "type": "wikilink",
+              "text": "銅箔"
+            },
+            {
+              "type": "text",
+              "text": "、鐵鎳合金、電鍍用化學藥水及貴金屬(如金、銀、鈀)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": **長華科技(長科*)** ("
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "IC及LED"
+            },
+            {
+              "type": "wikilink",
+              "text": "導線架"
+            },
+            {
+              "type": "text",
+              "text": "之沖壓/"
+            },
+            {
+              "type": "wikilink",
+              "text": "蝕刻"
+            },
+            {
+              "type": "text",
+              "text": "製造與電鍍加工)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "封裝測試代工廠(OSAT)及全球整合元件製造大廠(IDM)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   英飛凌("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Infineon"
+                },
+                {
+                  "type": "text",
+                  "text": ")、德州儀器(TI)等全球前三大美系與歐系車用/電源IDM巨頭。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   日本及德國頂級特殊金屬合金材料供應商，以及精密沖壓/"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "蝕刻"
+                },
+                {
+                  "type": "text",
+                  "text": "設備商。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $51.70 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "31.91",
+                  "23.94",
+                  "3.55",
+                  "4.33",
+                  "19.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "13428.20",
+                  "11986.79",
+                  "11581.25"
+                ],
+                [
+                  "Gross Profit",
+                  "2914.42",
+                  "2885.29",
+                  "2600.51"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.70",
+                  "24.07",
+                  "22.45"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "249.96",
+                  "224.59",
+                  "210.49"
+                ],
+                [
+                  "R&D Exp",
+                  "388.39",
+                  "431.12",
+                  "420.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "596.50",
+                  "576.18",
+                  "524.27"
+                ],
+                [
+                  "Operating Income",
+                  "1679.57",
+                  "1653.39",
+                  "1445.23"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "12.51",
+                  "13.79",
+                  "12.48"
+                ],
+                [
+                  "Net Income",
+                  "1503.25",
+                  "1895.82",
+                  "1564.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.19",
+                  "15.82",
+                  "13.51"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1878.58",
+                  "1814.19",
+                  "2761.78"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-849.27",
+                  "-1276.07",
+                  "-2885.82"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-775.97",
+                  "-1531.01",
+                  "-273.89"
+                ],
+                [
+                  "CAPEX",
+                  "-938.75",
+                  "-356.57",
+                  "-1212.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3502.78",
+                  "3248.66",
+                  "3180.43",
+                  "3168.79"
+                ],
+                [
+                  "Gross Profit",
+                  "749.39",
+                  "672.92",
+                  "704.13",
+                  "748.35"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "21.39",
+                  "20.71",
+                  "22.14",
+                  "23.62"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "63.72",
+                  "60.31",
+                  "58.98",
+                  "59.58"
+                ],
+                [
+                  "R&D Exp",
+                  "84.73",
+                  "104.40",
+                  "94.33",
+                  "93.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "144.06",
+                  "143.51",
+                  "140.65",
+                  "164.24"
+                ],
+                [
+                  "Operating Income",
+                  "456.88",
+                  "364.70",
+                  "410.17",
+                  "431.35"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "13.04",
+                  "11.23",
+                  "12.90",
+                  "13.61"
+                ],
+                [
+                  "Net Income",
+                  "470.04",
+                  "101.71",
+                  "417.07",
+                  "526.16"
+                ],
+                [
+                  "Net Margin (%)",
+                  "13.42",
+                  "3.13",
+                  "13.11",
+                  "16.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "550.75",
+                  "382.21",
+                  "572.82",
+                  "547.57"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1807.09",
+                  "602.84",
+                  "557.10",
+                  "-331.54"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-417.80",
+                  "676.88",
+                  "-222.47",
+                  "-710.95"
+                ],
+                [
+                  "CAPEX",
+                  "-172.57",
+                  "-171.29",
+                  "-97.07",
+                  "-111.50"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "半導體",
+    "導線架",
+    "導線架",
+    "導線架",
+    "導線架",
+    "散熱",
+    "AI[[伺服器",
+    "電動車",
+    "第三代[[半導體",
+    "碳化矽",
+    "氮化鎵",
+    "散熱",
+    "導線架",
+    "銅箔",
+    "半導體",
+    "導線架",
+    "蝕刻",
+    "半導體",
+    "Infineon",
+    "蝕刻"
+  ]
+}

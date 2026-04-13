@@ -1,0 +1,491 @@
+{
+  "report_id": "Pilot_Reports/Steel/2028_威致.md",
+  "source_path": "Pilot_Reports/Steel/2028_威致.md",
+  "json_path": "Pilot_Reports_JSON/Steel/2028_威致.json",
+  "ticker": "2028",
+  "company_name": "威致",
+  "title": "# 2028 - 威致",
+  "sector_folder": "Steel",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Basic Materials"
+      },
+      {
+        "label": "產業:",
+        "value": "Steel"
+      },
+      {
+        "label": "市值:",
+        "value": "5,913 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "8,293 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "威致鋼鐵 (2028) 為"
+            },
+            {
+              "type": "wikilink",
+              "text": "電爐"
+            },
+            {
+              "type": "text",
+              "text": "煉鋼廠，主要生產"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼筋"
+            },
+            {
+              "type": "text",
+              "text": "及扁鋼。近年取得"
+            },
+            {
+              "type": "wikilink",
+              "text": "IATF 16949"
+            },
+            {
+              "type": "text",
+              "text": "認證切入汽車用鋼。外銷逾200萬噸零客訴。規劃鋼筋加工成型廠 (2026年完工) 實現產銷一條龍。上游以國內外廢鋼為主。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " 國內外廢鋼回收\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "威致"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "電爐"
+            },
+            {
+              "type": "text",
+              "text": "煉鋼→"
+            },
+            {
+              "type": "wikilink",
+              "text": "鋼筋"
+            },
+            {
+              "type": "text",
+              "text": "/扁鋼; "
+            },
+            {
+              "type": "wikilink",
+              "text": "IATF 16949"
+            },
+            {
+              "type": "text",
+              "text": "汽車鋼)"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "title": "下游",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建業 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鋼筋"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "汽車鋼 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IATF 16949"
+                    },
+                    {
+                      "type": "text",
+                      "text": "認證)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "2026年鋼筋加工成型廠投產"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "營建業 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鋼筋"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "汽車零件 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IATF 16949"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "text",
+                      "text": "國內外廢鋼回收商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $18.25 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "65.18",
+                  "N/A",
+                  "0.69",
+                  "1.25",
+                  "16.10"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "8513.54",
+                  "10196.13",
+                  "10484.17"
+                ],
+                [
+                  "Gross Profit",
+                  "334.26",
+                  "556.83",
+                  "684.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "3.93",
+                  "5.46",
+                  "6.53"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "91.71",
+                  "62.86",
+                  "57.09"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "0.00",
+                  "10.84"
+                ],
+                [
+                  "General & Admin Exp",
+                  "102.42",
+                  "120.14",
+                  "110.07"
+                ],
+                [
+                  "Operating Income",
+                  "140.13",
+                  "373.83",
+                  "506.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.65",
+                  "3.67",
+                  "4.83"
+                ],
+                [
+                  "Net Income",
+                  "89.45",
+                  "316.20",
+                  "415.22"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.05",
+                  "3.10",
+                  "3.96"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1648.18",
+                  "173.74",
+                  "322.86"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-299.76",
+                  "-983.61",
+                  "-703.07"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-1398.37",
+                  "891.04",
+                  "110.75"
+                ],
+                [
+                  "CAPEX",
+                  "-332.39",
+                  "-977.63",
+                  "-703.54"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2190.95",
+                  "1744.33",
+                  "2379.11",
+                  "2199.15"
+                ],
+                [
+                  "Gross Profit",
+                  "120.17",
+                  "3.09",
+                  "114.52",
+                  "96.47"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.49",
+                  "0.18",
+                  "4.81",
+                  "4.39"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "22.19",
+                  "22.38",
+                  "25.11",
+                  "22.02"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.55",
+                  "21.56",
+                  "27.55",
+                  "27.76"
+                ],
+                [
+                  "Operating Income",
+                  "72.43",
+                  "-40.85",
+                  "61.86",
+                  "46.69"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.31",
+                  "-2.34",
+                  "2.60",
+                  "2.12"
+                ],
+                [
+                  "Net Income",
+                  "58.84",
+                  "-40.30",
+                  "47.46",
+                  "23.44"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.69",
+                  "-2.31",
+                  "1.99",
+                  "1.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "25.07",
+                  "534.24",
+                  "709.72",
+                  "379.16"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "4.38",
+                  "-241.82",
+                  "9.19",
+                  "-71.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-60.66",
+                  "-251.45",
+                  "-709.29",
+                  "-376.97"
+                ],
+                [
+                  "CAPEX",
+                  "-102.19",
+                  "-132.97",
+                  "-35.88",
+                  "-61.35"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電爐",
+    "鋼筋",
+    "IATF 16949",
+    "電爐",
+    "鋼筋",
+    "IATF 16949",
+    "鋼筋",
+    "IATF 16949",
+    "鋼筋",
+    "IATF 16949"
+  ]
+}

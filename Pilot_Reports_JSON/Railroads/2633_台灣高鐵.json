@@ -1,0 +1,789 @@
+{
+  "report_id": "Pilot_Reports/Railroads/2633_台灣高鐵.md",
+  "source_path": "Pilot_Reports/Railroads/2633_台灣高鐵.md",
+  "json_path": "Pilot_Reports_JSON/Railroads/2633_台灣高鐵.json",
+  "ticker": "2633",
+  "company_name": "台灣高鐵",
+  "title": "# 2633 - 台灣高鐵",
+  "sector_folder": "Railroads",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Railroads"
+      },
+      {
+        "label": "市值:",
+        "value": "148,868 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "358,167 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台灣高鐵 (2633，Taiwan High Speed Rail Corp.) 成立於 1998 年，以 BOT 模式興建營運全長 350 公里之高速鐵路系統，連結南港至左營共 12 站。核心業務涵蓋：(1) 高速鐵路客運 — 年運量逾 7,000 萬人次，採用"
+            },
+            {
+              "type": "wikilink",
+              "text": "新幹線"
+            },
+            {
+              "type": "text",
+              "text": "技術之 700T 型列車 34 組；(2) 新世代列車 — 2023 年與"
+            },
+            {
+              "type": "wikilink",
+              "text": "日立製作所"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "東芝"
+            },
+            {
+              "type": "text",
+              "text": "聯盟簽約採購 12 組 "
+            },
+            {
+              "type": "wikilink",
+              "text": "N700S"
+            },
+            {
+              "type": "text",
+              "text": " 列車 (命名 "
+            },
+            {
+              "type": "wikilink",
+              "text": "N700ST"
+            },
+            {
+              "type": "text",
+              "text": ")，總金額約 289 億台幣；(3) 附屬事業 — 站內商業空間租賃 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "統一超商"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "星巴克"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "摩斯漢堡"
+            },
+            {
+              "type": "text",
+              "text": "等)、車站廣告、停車場經營；(4) 票證整合 — 支援"
+            },
+            {
+              "type": "wikilink",
+              "text": "悠遊卡"
+            },
+            {
+              "type": "text",
+              "text": "聯名信用卡感應乘車。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (列車與系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "既有列車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "川崎重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日立製作所"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 700T 型列車"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新世代列車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日立製作所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東芝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯盟 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "N700ST"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 列車 12 組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電維修:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東芝"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 機電與軌道系統維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "在地化零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內逾 130 家精密機械廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鐵路營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "台灣高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (高速鐵路客運服務、場站經營、維修保養)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (旅客與商業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "旅客:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一般大眾、商務旅客、觀光客"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "站內商業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "星巴克"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "摩斯漢堡"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "票證合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "悠遊卡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "一般旅客:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣西部走廊通勤/商務/觀光旅客"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業會員:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 逾 3,000 家企業簽約戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "站內承租商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "星巴克"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "摩斯漢堡"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "新世代列車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日立製作所"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東芝"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯盟 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "N700ST"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 12 組 (289 億台幣)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "既有列車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "川崎重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 700T 技轉與維修"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "機電維修:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "三菱重工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東芝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "票證:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "悠遊卡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $26.45 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.23",
+                  "19.31",
+                  "2.72",
+                  "2.05",
+                  "10.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "54648.46",
+                  "53185.66",
+                  "49812.02"
+                ],
+                [
+                  "Gross Profit",
+                  "23641.28",
+                  "23356.96",
+                  "22193.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.26",
+                  "43.92",
+                  "44.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "21500.30",
+                  "21495.63",
+                  "20532.02"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "39.34",
+                  "40.42",
+                  "41.22"
+                ],
+                [
+                  "Net Income",
+                  "6580.19",
+                  "6451.43",
+                  "7824.28"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.04",
+                  "12.13",
+                  "15.71"
+                ],
+                [
+                  "Op Cash Flow",
+                  "20691.03",
+                  "16695.33",
+                  "27751.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9558.09",
+                  "-7458.13",
+                  "-12875.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-10634.04",
+                  "-22518.31",
+                  "-13871.98"
+                ],
+                [
+                  "CAPEX",
+                  "-9947.62",
+                  "-8219.23",
+                  "-6134.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "14540.35",
+                  "13360.89",
+                  "13373.63",
+                  "13435.17"
+                ],
+                [
+                  "Gross Profit",
+                  "6284.64",
+                  "5605.00",
+                  "6218.12",
+                  "5793.69"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.22",
+                  "41.95",
+                  "46.50",
+                  "43.12"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "Operating Income",
+                  "5645.02",
+                  "5088.96",
+                  "5734.07",
+                  "5302.86"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "38.82",
+                  "38.09",
+                  "42.88",
+                  "39.47"
+                ],
+                [
+                  "Net Income",
+                  "1568.27",
+                  "1626.67",
+                  "1862.29",
+                  "1351.08"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.79",
+                  "12.17",
+                  "13.93",
+                  "10.06"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8210.64",
+                  "5708.34",
+                  "6793.03",
+                  "8631.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9354.50",
+                  "4426.14",
+                  "-4526.05",
+                  "-9078.20"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-23.23",
+                  "-1598.31",
+                  "-56.60",
+                  "-6623.61"
+                ],
+                [
+                  "CAPEX",
+                  "-3046.58",
+                  "-3777.97",
+                  "-1484.89",
+                  "-1412.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新幹線",
+    "日立製作所",
+    "東芝",
+    "N700S",
+    "N700ST",
+    "統一超商",
+    "星巴克",
+    "摩斯漢堡",
+    "悠遊卡",
+    "川崎重工",
+    "日立製作所",
+    "日立製作所",
+    "東芝",
+    "N700ST",
+    "三菱重工",
+    "東芝",
+    "統一超商",
+    "星巴克",
+    "摩斯漢堡",
+    "悠遊卡",
+    "統一超商",
+    "星巴克",
+    "摩斯漢堡",
+    "日立製作所",
+    "東芝",
+    "N700ST",
+    "川崎重工",
+    "三菱重工",
+    "東芝",
+    "悠遊卡"
+  ]
+}

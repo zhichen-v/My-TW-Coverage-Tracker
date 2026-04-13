@@ -1,0 +1,505 @@
+{
+  "report_id": "Pilot_Reports/Tools & Accessories/6705_振躍精密.md",
+  "source_path": "Pilot_Reports/Tools & Accessories/6705_振躍精密.md",
+  "json_path": "Pilot_Reports_JSON/Tools & Accessories/6705_振躍精密.json",
+  "ticker": "6705",
+  "company_name": "振躍精密",
+  "title": "# 6705_振躍精密",
+  "sector_folder": "Tools & Accessories",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Tools & Accessories"
+      },
+      {
+        "label": "市值:",
+        "value": "1,323 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,406 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "振躍精密 (6705，MARTAS Precision Slide) 為專業精密鋼珠滑軌製造商，以自有品牌「MARTAS」行銷全球。早期以 "
+            },
+            {
+              "type": "wikilink",
+              "text": "OEM"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "ODM"
+            },
+            {
+              "type": "text",
+              "text": " 代工起家，逐步發展為中高階滑軌領域之知名品牌。核心產品涵蓋：(1) 辦公家具 (OA) 滑軌 — 為美國 OA 家具龍頭 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Herman Miller"
+            },
+            {
+              "type": "text",
+              "text": " 之世界級金牌供應商；(2) 汽車機構件滑軌；(3) 家電滑軌 (烤箱/冰箱)；(4) "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "機櫃專用高負重精密滑軌 — 近年重點成長領域。憑藉卓越的金屬沖壓加工與滑動系統設計，持續優化產品組合與獲利結構。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 冷軋鋼捲等鋼材原料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密鋼珠軸承、表面處理藥劑"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "振躍精密"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 金屬沖壓、組裝、表面處理 (電鍍/防鏽)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OA 家具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Herman Miller"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Haworth"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IKEA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、美系/中系一線伺服器代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Philips"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等國際家電品牌"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "OA 家具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Herman Miller"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (世界級金牌供應商)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Haworth"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家居:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IKEA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、美系/中系 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "代工廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家電:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Philips"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "冷軋鋼板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內外高階冷軋鋼板材料加工廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $73.50 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "25.52",
+                  "N/A",
+                  "3.39",
+                  "4.39",
+                  "16.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "381.92",
+                  "296.04",
+                  "394.21"
+                ],
+                [
+                  "Gross Profit",
+                  "165.94",
+                  "94.42",
+                  "148.59"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "43.45",
+                  "31.90",
+                  "37.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "41.31",
+                  "28.01",
+                  "40.67"
+                ],
+                [
+                  "R&D Exp",
+                  "19.32",
+                  "18.70",
+                  "18.74"
+                ],
+                [
+                  "General & Admin Exp",
+                  "45.45",
+                  "40.85",
+                  "46.62"
+                ],
+                [
+                  "Operating Income",
+                  "59.86",
+                  "6.86",
+                  "42.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.67",
+                  "2.32",
+                  "10.80"
+                ],
+                [
+                  "Net Income",
+                  "53.65",
+                  "2.09",
+                  "36.68"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.05",
+                  "0.71",
+                  "9.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "73.25",
+                  "52.48",
+                  "104.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-9.84",
+                  "-12.30",
+                  "-17.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-111.75",
+                  "6.88",
+                  "-79.55"
+                ],
+                [
+                  "CAPEX",
+                  "-9.88",
+                  "-10.65",
+                  "-16.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "OEM",
+    "ODM",
+    "Herman Miller",
+    "AI 伺服器",
+    "Herman Miller",
+    "Haworth",
+    "IKEA",
+    "Dell",
+    "Philips",
+    "Herman Miller",
+    "Haworth",
+    "IKEA",
+    "Dell",
+    "AI 伺服器",
+    "Philips"
+  ]
+}

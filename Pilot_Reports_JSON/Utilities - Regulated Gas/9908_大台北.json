@@ -1,0 +1,613 @@
+{
+  "report_id": "Pilot_Reports/Utilities - Regulated Gas/9908_大台北.md",
+  "source_path": "Pilot_Reports/Utilities - Regulated Gas/9908_大台北.md",
+  "json_path": "Pilot_Reports_JSON/Utilities - Regulated Gas/9908_大台北.json",
+  "ticker": "9908",
+  "company_name": "大台北",
+  "title": "# 9908 - 大台北",
+  "sector_folder": "Utilities - Regulated Gas",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Utilities"
+      },
+      {
+        "label": "產業:",
+        "value": "Utilities - Regulated Gas"
+      },
+      {
+        "label": "市值:",
+        "value": "14,976 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,342 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "大台北區瓦斯股份有限公司成立於1964年，總部位於台北市，為大台北地區最大且歷史最悠久之天然氣公用事業。核心業務為透過管線網絡向台北市及新北市部分地區之家庭與商業用戶供應天然氣，用戶數達數十萬戶。業務涵蓋：（1）"
+            },
+            {
+              "type": "strong",
+              "text": "天然氣銷售："
+            },
+            {
+              "type": "text",
+              "text": " 向"
+            },
+            {
+              "type": "wikilink",
+              "text": "台灣中油"
+            },
+            {
+              "type": "text",
+              "text": "採購天然氣並經自有管線供應用戶，為主要營收來源；（2）"
+            },
+            {
+              "type": "strong",
+              "text": "瓦斯器具銷售："
+            },
+            {
+              "type": "text",
+              "text": " 銷售熱水器、瓦斯爐、排油煙機、瓦斯衣物乾燥機等器具；（3）"
+            },
+            {
+              "type": "strong",
+              "text": "管線施工："
+            },
+            {
+              "type": "text",
+              "text": " 天然氣管線新設與汰換工程。此外亦涉足電信網路、辦公大樓租賃、證券投資及營建業務。費率受"
+            },
+            {
+              "type": "wikilink",
+              "text": "經濟部"
+            },
+            {
+              "type": "text",
+              "text": "核定管制，營運具高度穩定性。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (天然氣供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "天然氣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CPC，天然氣獨家供應商）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "瓦斯器具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "櫻花"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "林內"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等熱水器與瓦斯爐品牌"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "管線設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PE管"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、鋼管、瓦斯表、安全設備供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (輸配與服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大台北瓦斯"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 天然氣管線輸配、瓦斯器具銷售、管線施工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家庭用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北市及新北市部分地區之數十萬戶家庭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 餐飲業、飯店、商辦大樓等"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "家庭用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台北市及新北市數十萬戶家庭住宅天然氣用戶（最大客戶群）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "商業用戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 餐飲業、飯店、商辦大樓等商業天然氣用戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "瓦斯器具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 家庭與商業用戶（熱水器、瓦斯爐等器具銷售）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "天然氣:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（CPC，天然氣獨家供應來源）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "瓦斯器具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "櫻花"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "林內"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（熱水器與瓦斯爐品牌）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "管線設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PE管"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、鋼管、瓦斯表供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $29.90 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.38",
+                  "N/A",
+                  "4.41",
+                  "1.09",
+                  "10.26"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3374.03",
+                  "3317.86",
+                  "3468.82"
+                ],
+                [
+                  "Gross Profit",
+                  "775.37",
+                  "749.56",
+                  "892.38"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.98",
+                  "22.59",
+                  "25.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "42.12",
+                  "41.59",
+                  "38.77"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "238.16",
+                  "243.91",
+                  "210.09"
+                ],
+                [
+                  "Operating Income",
+                  "492.74",
+                  "462.13",
+                  "639.27"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.60",
+                  "13.93",
+                  "18.43"
+                ],
+                [
+                  "Net Income",
+                  "863.87",
+                  "856.38",
+                  "1159.90"
+                ],
+                [
+                  "Net Margin (%)",
+                  "25.60",
+                  "25.81",
+                  "33.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1028.66",
+                  "979.83",
+                  "1288.43"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1306.87",
+                  "-1138.26",
+                  "-828.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-633.49",
+                  "-651.57",
+                  "-584.25"
+                ],
+                [
+                  "CAPEX",
+                  "-446.05",
+                  "-436.88",
+                  "-480.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "822.46",
+                  "845.12",
+                  "944.71",
+                  "845.15"
+                ],
+                [
+                  "Gross Profit",
+                  "157.59",
+                  "224.22",
+                  "210.22",
+                  "143.61"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "19.16",
+                  "26.53",
+                  "22.25",
+                  "16.99"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "13.35",
+                  "8.95",
+                  "9.04",
+                  "12.81"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "65.61",
+                  "51.64",
+                  "50.83",
+                  "72.73"
+                ],
+                [
+                  "Operating Income",
+                  "78.69",
+                  "163.45",
+                  "149.70",
+                  "56.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "9.57",
+                  "19.34",
+                  "15.85",
+                  "6.74"
+                ],
+                [
+                  "Net Income",
+                  "91.26",
+                  "221.44",
+                  "141.64",
+                  "84.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.10",
+                  "26.20",
+                  "14.99",
+                  "9.98"
+                ],
+                [
+                  "Op Cash Flow",
+                  "218.63",
+                  "215.99",
+                  "162.71",
+                  "187.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1244.12",
+                  "-27.73",
+                  "-123.96",
+                  "-1204.44"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1.49",
+                  "100.96",
+                  "1.27",
+                  "-3.75"
+                ],
+                [
+                  "CAPEX",
+                  "-88.87",
+                  "-103.15",
+                  "-121.75",
+                  "-106.66"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台灣中油",
+    "經濟部",
+    "台灣中油",
+    "櫻花",
+    "林內",
+    "PE管",
+    "台灣中油",
+    "櫻花",
+    "林內",
+    "PE管"
+  ]
+}

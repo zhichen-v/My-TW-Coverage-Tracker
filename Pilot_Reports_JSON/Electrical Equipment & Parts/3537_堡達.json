@@ -1,0 +1,493 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/3537_堡達.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/3537_堡達.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/3537_堡達.json",
+  "ticker": "3537",
+  "company_name": "堡達",
+  "title": "# 3537 - 堡達",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "2,463 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,504 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "堡達 (3537) 代理"
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": "全線被動元件及主動元件。下游含"
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "。另供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            },
+            {
+              "type": "text",
+              "text": "台灣 CO2 熱泵。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "上游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "Panasonic"
+            },
+            {
+              "type": "text",
+              "text": " (主要原廠)\n"
+            },
+            {
+              "type": "strong",
+              "text": "中游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "strong",
+              "text": "堡達"
+            },
+            {
+              "type": "text",
+              "text": " (代理/技術支援)\n"
+            },
+            {
+              "type": "strong",
+              "text": "下游:"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "仁寶"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "華碩"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Google"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "廣達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "仁寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Google"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "Panasonic"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $43.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.98",
+                  "N/A",
+                  "0.84",
+                  "1.93",
+                  "10.91"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2921.43",
+                  "2822.28",
+                  "2836.01"
+                ],
+                [
+                  "Gross Profit",
+                  "414.12",
+                  "413.85",
+                  "406.40"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.18",
+                  "14.66",
+                  "14.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "127.71",
+                  "145.75",
+                  "146.56"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "73.80",
+                  "73.05",
+                  "69.75"
+                ],
+                [
+                  "Operating Income",
+                  "212.60",
+                  "195.05",
+                  "190.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.28",
+                  "6.91",
+                  "6.70"
+                ],
+                [
+                  "Net Income",
+                  "141.19",
+                  "206.68",
+                  "148.92"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.83",
+                  "7.32",
+                  "5.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "227.27",
+                  "128.62",
+                  "170.94"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "1.24",
+                  "-16.55",
+                  "-18.31"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-119.47",
+                  "-153.84",
+                  "-200.18"
+                ],
+                [
+                  "CAPEX",
+                  "-0.75",
+                  "-0.31",
+                  "-4.46"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "745.13",
+                  "741.56",
+                  "748.56",
+                  "686.18"
+                ],
+                [
+                  "Gross Profit",
+                  "106.79",
+                  "93.99",
+                  "87.64",
+                  "125.69"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "14.33",
+                  "12.67",
+                  "11.71",
+                  "18.32"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "35.48",
+                  "28.41",
+                  "29.55",
+                  "34.27"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "19.04",
+                  "20.01",
+                  "15.63",
+                  "19.13"
+                ],
+                [
+                  "Operating Income",
+                  "52.27",
+                  "45.57",
+                  "42.47",
+                  "72.30"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "7.01",
+                  "6.14",
+                  "5.67",
+                  "10.54"
+                ],
+                [
+                  "Net Income",
+                  "67.95",
+                  "70.58",
+                  "-66.61",
+                  "69.27"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.12",
+                  "9.52",
+                  "-8.90",
+                  "10.10"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-34.27",
+                  "27.39",
+                  "92.85",
+                  "141.31"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.02",
+                  "0.23",
+                  "1.46",
+                  "-0.42"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-90.72",
+                  "40.94",
+                  "-37.77",
+                  "-31.93"
+                ],
+                [
+                  "CAPEX",
+                  "0.00",
+                  "-0.32",
+                  "-0.12",
+                  "-0.32"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Panasonic",
+    "廣達",
+    "仁寶",
+    "華碩",
+    "Google",
+    "Panasonic",
+    "廣達",
+    "仁寶",
+    "華碩",
+    "Google",
+    "廣達",
+    "仁寶",
+    "華碩",
+    "Google",
+    "Panasonic"
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "report_id": "Pilot_Reports/Specialty Industrial Machinery/4575_銓寶.md",
+  "source_path": "Pilot_Reports/Specialty Industrial Machinery/4575_銓寶.md",
+  "json_path": "Pilot_Reports_JSON/Specialty Industrial Machinery/4575_銓寶.json",
+  "ticker": "4575",
+  "company_name": "銓寶",
+  "title": "# 4575 - 銓寶",
+  "sector_folder": "Specialty Industrial Machinery",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Specialty Industrial Machinery"
+      },
+      {
+        "label": "市值:",
+        "value": "911 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,129 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "銓寶工業 (4575，ChumPower) 雙主軸事業：(1) 台灣最大"
+            },
+            {
+              "type": "wikilink",
+              "text": "PET"
+            },
+            {
+              "type": "text",
+              "text": "吹瓶機製造商 (佔全國 85% 出口額，全球逾 4,000 台裝機量，行銷 103 國)；(2) 台灣最大精密鑽夾頭製造商 (40 年經驗)。吹瓶機下游為全球飲料包裝廠如"
+            },
+            {
+              "type": "wikilink",
+              "text": "統一"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "康師傅"
+            },
+            {
+              "type": "text",
+              "text": "等。精密夾頭供應國際電動工具品牌如"
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Makita"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Milwaukee"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "TTI"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鑄件/鋼材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鑄件及特殊鋼材供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及控制器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銓寶"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "吹瓶機整機/整廠輸出；精密鑽夾頭)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料包裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康師傅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等全球飲料充填廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Makita"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Milwaukee"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TTI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精密夾頭"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "飲料包裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康師傅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等全球充填廠 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "吹瓶機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電動工具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Makita"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Milwaukee"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TTI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 精密夾頭"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零組件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鑄件/鋼材/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "伺服馬達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/控制器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.55 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "16.82",
+                  "N/A",
+                  "0.99",
+                  "0.83",
+                  "19.11"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "993.10",
+                  "1033.63",
+                  "1054.87"
+                ],
+                [
+                  "Gross Profit",
+                  "269.42",
+                  "262.90",
+                  "252.96"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "27.13",
+                  "25.43",
+                  "23.98"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "77.44",
+                  "82.44",
+                  "79.31"
+                ],
+                [
+                  "R&D Exp",
+                  "42.69",
+                  "38.37",
+                  "33.22"
+                ],
+                [
+                  "General & Admin Exp",
+                  "110.43",
+                  "103.36",
+                  "115.14"
+                ],
+                [
+                  "Operating Income",
+                  "38.86",
+                  "38.74",
+                  "25.28"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.91",
+                  "3.75",
+                  "2.40"
+                ],
+                [
+                  "Net Income",
+                  "78.22",
+                  "53.98",
+                  "65.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.88",
+                  "5.22",
+                  "6.23"
+                ],
+                [
+                  "Op Cash Flow",
+                  "173.26",
+                  "286.09",
+                  "129.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7.99",
+                  "1.16",
+                  "484.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-182.31",
+                  "-305.50",
+                  "-724.40"
+                ],
+                [
+                  "CAPEX",
+                  "-5.21",
+                  "-4.30",
+                  "-8.07"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "PET",
+    "統一",
+    "康師傅",
+    "Bosch",
+    "Makita",
+    "Milwaukee",
+    "TTI",
+    "伺服馬達",
+    "PET",
+    "統一",
+    "康師傅",
+    "Bosch",
+    "Makita",
+    "Milwaukee",
+    "TTI",
+    "統一",
+    "康師傅",
+    "PET",
+    "Bosch",
+    "Makita",
+    "Milwaukee",
+    "TTI",
+    "伺服馬達"
+  ]
+}

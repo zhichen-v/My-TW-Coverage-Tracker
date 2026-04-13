@@ -1,0 +1,666 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/4938_和碩.md",
+  "source_path": "Pilot_Reports/Computer Hardware/4938_和碩.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/4938_和碩.json",
+  "ticker": "4938",
+  "company_name": "和碩",
+  "title": "# 4938 - [[和碩]]",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "207,600 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "181,901 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "和碩"
+            },
+            {
+              "type": "text",
+              "text": "聯合科技 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "和碩"
+            },
+            {
+              "type": "text",
+              "text": " Corp.) 為全球前三大 "
+            },
+            {
+              "type": "strong",
+              "text": "電子代工製造服務 (EMS/ODM)"
+            },
+            {
+              "type": "text",
+              "text": " 大廠，自 "
+            },
+            {
+              "type": "strong",
+              "text": "[[華碩]]"
+            },
+            {
+              "type": "text",
+              "text": " 分拆獨立。\n業務涵蓋三大領域：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "通訊產品"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[iPhone]]"
+            },
+            {
+              "type": "text",
+              "text": " 組裝 (主力營收), 網通設備 (路由器, 交換器).\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "資訊產品"
+            },
+            {
+              "type": "text",
+              "text": ": 筆記型電腦 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "NB"
+            },
+            {
+              "type": "text",
+              "text": "), 桌機, 主機板.\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "消費性電子"
+            },
+            {
+              "type": "text",
+              "text": ": 遊戲機 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Sony"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "PS5"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Xbox"
+            },
+            {
+              "type": "text",
+              "text": "), 平板電腦 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "iPad"
+            },
+            {
+              "type": "text",
+              "text": "), 穿戴裝置.\n近年積極佈局 "
+            },
+            {
+              "type": "strong",
+              "text": "電動車 ([[電動車]])"
+            },
+            {
+              "type": "text",
+              "text": " (特斯拉中控台/充電樁) 與 "
+            },
+            {
+              "type": "strong",
+              "text": "5G/O-RAN"
+            },
+            {
+              "type": "text",
+              "text": " 伺服器領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游 (本體)"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "[[和碩]] (4938)"
+            },
+            {
+              "type": "text",
+              "text": " - 最終產品組裝 (System Assembly).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Qualcomm"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "零組件"
+            },
+            {
+              "type": "text",
+              "text": ": 面板, 記憶體, 機殼 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "鎧勝-KY"
+            },
+            {
+              "type": "text",
+              "text": " 已併入), PCB ("
+            },
+            {
+              "type": "wikilink",
+              "text": "景碩"
+            },
+            {
+              "type": "text",
+              "text": " - 關係企業).\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "客戶"
+            },
+            {
+              "type": "text",
+              "text": ": 全球國際品牌大廠 (Brand Owners)."
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "通訊"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Apple]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (iPhone 組裝二哥).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "消費電"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Microsoft]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (Surface, Xbox), "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Sony]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (PlayStation).\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "車用"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[Tesla]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (中控台, 充電樁)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "IC"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AMD"
+                },
+                {
+                  "type": "text",
+                  "text": ", Nvidia.\n*   "
+                },
+                {
+                  "type": "strong",
+                  "text": "PCB/載板"
+                },
+                {
+                  "type": "text",
+                  "text": ": "
+                },
+                {
+                  "type": "strong",
+                  "text": "[[景碩]]"
+                },
+                {
+                  "type": "text",
+                  "text": " (3189)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $77.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "14.31",
+                  "11.99",
+                  "0.19",
+                  "1.00",
+                  "7.12"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1117160.38",
+                  "1125348.52",
+                  "1256783.39"
+                ],
+                [
+                  "Gross Profit",
+                  "42501.26",
+                  "46032.79",
+                  "46106.36"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "3.80",
+                  "4.09",
+                  "3.67"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5202.16",
+                  "4711.01",
+                  "4740.20"
+                ],
+                [
+                  "R&D Exp",
+                  "16101.32",
+                  "16125.08",
+                  "15888.70"
+                ],
+                [
+                  "General & Admin Exp",
+                  "9589.10",
+                  "12696.12",
+                  "10724.81"
+                ],
+                [
+                  "Operating Income",
+                  "11608.68",
+                  "12500.59",
+                  "14752.66"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.04",
+                  "1.11",
+                  "1.17"
+                ],
+                [
+                  "Net Income",
+                  "14402.60",
+                  "16876.88",
+                  "15712.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.29",
+                  "1.50",
+                  "1.25"
+                ],
+                [
+                  "Op Cash Flow",
+                  "19639.60",
+                  "55948.23",
+                  "87378.60"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-16832.74",
+                  "-21266.47",
+                  "-20799.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-3165.05",
+                  "-20418.40",
+                  "-48649.19"
+                ],
+                [
+                  "CAPEX",
+                  "-21891.45",
+                  "-17302.85",
+                  "-21204.73"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "319527.99",
+                  "257863.12",
+                  "267335.78",
+                  "272433.48"
+                ],
+                [
+                  "Gross Profit",
+                  "13056.53",
+                  "10902.15",
+                  "8377.37",
+                  "10165.21"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "4.09",
+                  "4.23",
+                  "3.13",
+                  "3.73"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1372.96",
+                  "1391.80",
+                  "1250.31",
+                  "1187.09"
+                ],
+                [
+                  "R&D Exp",
+                  "4374.85",
+                  "3967.98",
+                  "3709.59",
+                  "4048.91"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2871.77",
+                  "2324.45",
+                  "1946.46",
+                  "2446.43"
+                ],
+                [
+                  "Operating Income",
+                  "4436.96",
+                  "3217.92",
+                  "1471.01",
+                  "2482.79"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.39",
+                  "1.25",
+                  "0.55",
+                  "0.91"
+                ],
+                [
+                  "Net Income",
+                  "5266.95",
+                  "4544.90",
+                  "287.39",
+                  "4303.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.65",
+                  "1.76",
+                  "0.11",
+                  "1.58"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-3983.03",
+                  "20352.47",
+                  "17941.50",
+                  "-14671.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1933.35",
+                  "-7061.56",
+                  "-3182.10",
+                  "-4655.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3843.38",
+                  "-13561.44",
+                  "-7891.28",
+                  "14444.29"
+                ],
+                [
+                  "CAPEX",
+                  "-5186.04",
+                  "-9006.87",
+                  "-1791.42",
+                  "-5907.11"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "和碩",
+    "和碩",
+    "和碩",
+    "華碩",
+    "iPhone",
+    "NB",
+    "Sony",
+    "PS5",
+    "Xbox",
+    "iPad",
+    "電動車",
+    "和碩",
+    "台積電",
+    "Intel",
+    "Qualcomm",
+    "鎧勝-KY",
+    "景碩",
+    "Apple",
+    "Microsoft",
+    "Sony",
+    "Tesla",
+    "Intel",
+    "AMD",
+    "景碩"
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "report_id": "Pilot_Reports/Software - Infrastructure/7819_精誠金融.md",
+  "source_path": "Pilot_Reports/Software - Infrastructure/7819_精誠金融.md",
+  "json_path": "Pilot_Reports_JSON/Software - Infrastructure/7819_精誠金融.json",
+  "ticker": "7819",
+  "company_name": "精誠金融",
+  "title": "# 7819 - 精誠金融",
+  "sector_folder": "Software - Infrastructure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Infrastructure"
+      },
+      {
+        "label": "市值:",
+        "value": "17,790 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,759 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "精誠金融科技股份有限公司 (7819) 為台灣線下實體店面刷卡終端設備市場之絕對領導者，由台灣軟體業龍頭"
+            },
+            {
+              "type": "wikilink",
+              "text": "精誠資訊"
+            },
+            {
+              "type": "text",
+              "text": " (6214) 分拆上市。公司掌握全台逾七成刷卡終端設備銷售市佔率，以及超過半數之維修保養業務。服務涵蓋多品牌刷卡機代理銷售、全台刷卡機維運與特店商化服務、信用卡收單系統建置、電子發票與第三方支付加值服務。主要客戶為各大信用卡收單銀行與大型連鎖零售集團。2022 年獲"
+            },
+            {
+              "type": "wikilink",
+              "text": "綠界科技"
+            },
+            {
+              "type": "text",
+              "text": "策略入股後，積極跨入數位支付市場，推展點數支付、電子發票與第三方行動支付方案。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (刷卡機原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "刷卡終端:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VeriFone"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、PAX (百富)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "虹堡"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Castles) — 刷卡機硬體原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加密模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 金流後台加密運算模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "精誠資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (6214) — 企業後台系統支援"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (金流設備服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精誠金融科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (刷卡終端設備代理銷售、維運商化服務、收單系統建置、電子發票與第三方支付)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (銀行與零售)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "收單銀行:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯邦銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等 — 刷卡機佈建"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售集團:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等大型連鎖通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 數位支付合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "收單銀行:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯邦銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新光銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等各大收單銀行 — 刷卡機佈建與維運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等大型連鎖零售集團"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型電子支付與第三方支付業者"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "刷卡機原廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VeriFone"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、PAX (百富)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "虹堡"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Castles) — 終端硬體"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "精誠資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (6214) — 企業系統骨幹與品牌支持"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "策略夥伴:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "綠界科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 第三方支付合作"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $81.00 as of 2026-03-26 | TTM 截至 2024-12-31 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "22.88",
+                  "N/A",
+                  "36.85",
+                  "4.08",
+                  "22.65"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "482.79",
+                  "474.88"
+                ],
+                [
+                  "Gross Profit",
+                  "226.99",
+                  "203.74"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "47.02",
+                  "42.90"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "92.65",
+                  "83.04"
+                ],
+                [
+                  "R&D Exp",
+                  "14.84",
+                  "8.11"
+                ],
+                [
+                  "General & Admin Exp",
+                  "49.75",
+                  "13.54"
+                ],
+                [
+                  "Operating Income",
+                  "69.75",
+                  "99.04"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.45",
+                  "20.86"
+                ],
+                [
+                  "Net Income",
+                  "55.96",
+                  "80.51"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.59",
+                  "16.95"
+                ],
+                [
+                  "Op Cash Flow",
+                  "11.00",
+                  "199.62"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-37.76",
+                  "-52.66"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-11.90",
+                  "-73.60"
+                ],
+                [
+                  "CAPEX",
+                  "-44.34",
+                  "-18.13"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2024-12-31",
+                "2024-09-30"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "148.73",
+                  "156.96",
+                  "106.32"
+                ],
+                [
+                  "Gross Profit",
+                  "67.93",
+                  "72.04",
+                  "49.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.67",
+                  "45.89",
+                  "46.93"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "26.55",
+                  "19.58",
+                  "17.00"
+                ],
+                [
+                  "R&D Exp",
+                  "1.53",
+                  "2.91",
+                  "6.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "14.62",
+                  "11.86",
+                  "18.02"
+                ],
+                [
+                  "Operating Income",
+                  "25.22",
+                  "37.69",
+                  "8.00"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.96",
+                  "24.01",
+                  "7.52"
+                ],
+                [
+                  "Net Income",
+                  "18.92",
+                  "29.83",
+                  "6.71"
+                ],
+                [
+                  "Net Margin (%)",
+                  "12.72",
+                  "19.01",
+                  "6.31"
+                ],
+                [
+                  "Op Cash Flow",
+                  "26.28",
+                  "49.77",
+                  "-19.06"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "11.97",
+                  "-23.02",
+                  "12.94"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-47.70",
+                  "-3.74",
+                  "-3.95"
+                ],
+                [
+                  "CAPEX",
+                  "-1.70",
+                  "-6.57",
+                  "-6.65"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "精誠資訊",
+    "綠界科技",
+    "VeriFone",
+    "虹堡",
+    "精誠資訊",
+    "聯邦銀行",
+    "新光銀行",
+    "萊爾富",
+    "綠界科技",
+    "聯邦銀行",
+    "新光銀行",
+    "萊爾富",
+    "VeriFone",
+    "虹堡",
+    "精誠資訊",
+    "綠界科技"
+  ]
+}

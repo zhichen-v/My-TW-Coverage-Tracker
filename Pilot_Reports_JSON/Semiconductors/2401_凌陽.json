@@ -1,0 +1,517 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2401_凌陽.md",
+  "source_path": "Pilot_Reports/Semiconductors/2401_凌陽.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2401_凌陽.json",
+  "ticker": "2401",
+  "company_name": "凌陽",
+  "title": "# 2401 - 凌陽",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "11,622 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "9,558 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "凌陽科技 (Sunplus Technology) 成立於 1990 年，總部位於台灣"
+            },
+            {
+              "type": "wikilink",
+              "text": "新竹"
+            },
+            {
+              "type": "text",
+              "text": "。公司早期以消費性 IC (如玩具、語音、DVD 晶片) 起家，近年積極轉型，專注於 "
+            },
+            {
+              "type": "strong",
+              "text": "車用電子 (Automotive)"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "strong",
+              "text": "智慧音訊 (Audito)"
+            },
+            {
+              "type": "text",
+              "text": " 晶片。主要產品包括車載資通訊娛樂系統 (Infotainment) SoC、Display Audio SoC、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 晶片及 Soundbar 音訊處理晶片。凌陽透過集團子公司佈局不同領域，如凌陽創新 (ISP)、凌通 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": ") 等，形成完整戰線。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (製造/封測)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (UMC)."
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 超豐, 華泰等。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游應用",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Display Audio (車用影音系統)、數位儀表板、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (盲點偵測、360環景)。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Soundbar (聲霸)、攜帶式 DVD (利基市場)、伴唱機。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 後裝市場 (Aftermarket) 為主，近年積極打入前裝 (OE) 市場，客戶包括中國及日本車廠之 Tier 1 供應商。"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 主要 Soundbar 品牌及代工廠。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $19.75 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "9.83",
+                  "1.84",
+                  "1.42",
+                  "25.38"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "6303.14",
+                  "6434.09",
+                  "5535.42"
+                ],
+                [
+                  "Gross Profit",
+                  "2935.11",
+                  "3114.92",
+                  "2524.24"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "46.57",
+                  "48.41",
+                  "45.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "335.39",
+                  "328.21",
+                  "218.38"
+                ],
+                [
+                  "R&D Exp",
+                  "2182.90",
+                  "2153.36",
+                  "2040.28"
+                ],
+                [
+                  "General & Admin Exp",
+                  "508.96",
+                  "526.42",
+                  "512.46"
+                ],
+                [
+                  "Operating Income",
+                  "-94.91",
+                  "106.55",
+                  "-247.35"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.51",
+                  "1.66",
+                  "-4.47"
+                ],
+                [
+                  "Net Income",
+                  "-215.49",
+                  "258.97",
+                  "-493.15"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.42",
+                  "4.02",
+                  "-8.91"
+                ],
+                [
+                  "Op Cash Flow",
+                  "487.60",
+                  "771.63",
+                  "1099.56"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-343.84",
+                  "267.49",
+                  "-767.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-298.96",
+                  "-224.51",
+                  "-667.08"
+                ],
+                [
+                  "CAPEX",
+                  "-474.50",
+                  "-294.54",
+                  "-273.85"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1496.87",
+                  "1558.46",
+                  "1705.78",
+                  "1542.03"
+                ],
+                [
+                  "Gross Profit",
+                  "683.47",
+                  "715.16",
+                  "785.16",
+                  "751.32"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.66",
+                  "45.89",
+                  "46.03",
+                  "48.72"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "112.20",
+                  "64.57",
+                  "94.22",
+                  "64.40"
+                ],
+                [
+                  "R&D Exp",
+                  "564.06",
+                  "556.54",
+                  "521.68",
+                  "540.61"
+                ],
+                [
+                  "General & Admin Exp",
+                  "140.23",
+                  "127.45",
+                  "118.28",
+                  "123.00"
+                ],
+                [
+                  "Operating Income",
+                  "-134.78",
+                  "-33.39",
+                  "50.79",
+                  "22.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-9.00",
+                  "-2.14",
+                  "2.98",
+                  "1.46"
+                ],
+                [
+                  "Net Income",
+                  "-63.17",
+                  "-80.93",
+                  "-33.72",
+                  "-37.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-4.22",
+                  "-5.19",
+                  "-1.98",
+                  "-2.44"
+                ],
+                [
+                  "Op Cash Flow",
+                  "193.02",
+                  "328.89",
+                  "-51.15",
+                  "16.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-342.03",
+                  "82.17",
+                  "57.53",
+                  "-141.51"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "118.64",
+                  "-460.08",
+                  "61.77",
+                  "-19.29"
+                ],
+                [
+                  "CAPEX",
+                  "-87.60",
+                  "-166.74",
+                  "-148.88",
+                  "-71.28"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "新竹",
+    "ADAS",
+    "MCU",
+    "台積電",
+    "聯電",
+    "ADAS",
+    "台積電",
+    "聯電"
+  ]
+}

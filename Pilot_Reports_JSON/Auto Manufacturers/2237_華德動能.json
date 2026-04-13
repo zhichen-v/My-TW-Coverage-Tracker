@@ -1,0 +1,858 @@
+{
+  "report_id": "Pilot_Reports/Auto Manufacturers/2237_華德動能.md",
+  "source_path": "Pilot_Reports/Auto Manufacturers/2237_華德動能.md",
+  "json_path": "Pilot_Reports_JSON/Auto Manufacturers/2237_華德動能.json",
+  "ticker": "2237",
+  "company_name": "華德動能",
+  "title": "# 2237 - 華德動能",
+  "sector_folder": "Auto Manufacturers",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "label": "產業:",
+        "value": "Auto Manufacturers"
+      },
+      {
+        "label": "市值:",
+        "value": "3,818 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,780 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華德動能科技 (2237，RAC Electric Vehicles) 為台灣電動巴士領導製造商，國內市佔率約 30%，累計逾 500 輛電動巴士營運中，為台灣首家通過認證之純電動巴士廠商。母公司為"
+            },
+            {
+              "type": "wikilink",
+              "text": "車王電子"
+            },
+            {
+              "type": "text",
+              "text": " (持股約 55%)，提供 BMS 電池管理系統整合，電池芯採用日本"
+            },
+            {
+              "type": "wikilink",
+              "text": "AESC"
+            },
+            {
+              "type": "text",
+              "text": "，通過歐洲 ECE-R100-2 安全認證。驅動馬達採用"
+            },
+            {
+              "type": "wikilink",
+              "text": "東元電機"
+            },
+            {
+              "type": "text",
+              "text": "、充電系統採用"
+            },
+            {
+              "type": "wikilink",
+              "text": "飛宏科技"
+            },
+            {
+              "type": "text",
+              "text": "。2025 年訂單涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "大都會客運"
+            },
+            {
+              "type": "text",
+              "text": " (27 輛)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "首都客運"
+            },
+            {
+              "type": "text",
+              "text": " (25 輛)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "東南客運"
+            },
+            {
+              "type": "text",
+              "text": " (32 輛)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "巨業交通"
+            },
+            {
+              "type": "text",
+              "text": " (28 輛)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "統聯客運"
+            },
+            {
+              "type": "text",
+              "text": " (21 輛)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "欣欣客運"
+            },
+            {
+              "type": "text",
+              "text": " (17 輛) 等全台主要客運業者。桃園大園廠為主要生產基地，產能從年產 100 輛擴至 700 輛以上，"
+            },
+            {
+              "type": "wikilink",
+              "text": "車王電子"
+            },
+            {
+              "type": "text",
+              "text": "台中港新廠年產能可達 1,700 台。積極拓展日本及東南亞外銷市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (三電與零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "BMS 電池系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "車王電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司) — 電池管理系統整合"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AESC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本) — 通過歐洲 ECE-R100-2 安全認證"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東元電機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 電動巴士驅動馬達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "充電系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "飛宏科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 充電設備"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "華德動能"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (電動巴士底盤研發、整車組裝，桃園大園廠；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "車王電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "台中港新廠年產能 1,700 台)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (客運業者)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北部:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大都會客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "首都客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臺北客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣欣客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "指南客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新竹客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統聯客運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中南部:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "巨業交通"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高雄客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南台灣客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "屏東客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南投客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中壢客運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本客運業者 (拓展中)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶 (2025 年訂單)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北部客運:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大都會客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (27 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "首都客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (25 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東南客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (32 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "臺北客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "欣欣客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (17 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "指南客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統聯客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (21 輛)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "桃竹苗:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新竹客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中壢客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3 輛)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中南部:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "巨業交通"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (28 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高雄客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "屏東客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (9 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南投客運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (3 輛)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南台灣客運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海外:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本客運業者 (拓展中)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "BMS 系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "車王電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (母公司) — 電池管理系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電池芯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AESC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本) — 歐洲安全認證電池"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東元電機"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "充電設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "飛宏科技"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $31.35 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "74.64",
+                  "N/A",
+                  "2.32",
+                  "3.47",
+                  "54.61"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1287.21",
+                  "1900.55",
+                  "909.50"
+                ],
+                [
+                  "Gross Profit",
+                  "71.44",
+                  "40.59",
+                  "-19.89"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.55",
+                  "2.14",
+                  "-2.19"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "46.91",
+                  "39.06",
+                  "24.50"
+                ],
+                [
+                  "R&D Exp",
+                  "79.53",
+                  "67.97",
+                  "37.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "94.36",
+                  "86.90",
+                  "92.41"
+                ],
+                [
+                  "Operating Income",
+                  "-149.36",
+                  "-153.33",
+                  "-173.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-11.60",
+                  "-8.07",
+                  "-19.12"
+                ],
+                [
+                  "Net Income",
+                  "-200.23",
+                  "-154.16",
+                  "-184.55"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-15.55",
+                  "-8.11",
+                  "-20.29"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-7.57",
+                  "-784.63",
+                  "-296.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-124.42",
+                  "-54.29",
+                  "-103.89"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "60.17",
+                  "829.42",
+                  "160.23"
+                ],
+                [
+                  "CAPEX",
+                  "-28.45",
+                  "-52.37",
+                  "-110.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "車王電子",
+    "AESC",
+    "東元電機",
+    "飛宏科技",
+    "大都會客運",
+    "首都客運",
+    "東南客運",
+    "巨業交通",
+    "統聯客運",
+    "欣欣客運",
+    "車王電子",
+    "車王電子",
+    "AESC",
+    "東元電機",
+    "飛宏科技",
+    "車王電子",
+    "大都會客運",
+    "首都客運",
+    "臺北客運",
+    "欣欣客運",
+    "東南客運",
+    "指南客運",
+    "新竹客運",
+    "統聯客運",
+    "巨業交通",
+    "高雄客運",
+    "南台灣客運",
+    "屏東客運",
+    "南投客運",
+    "中壢客運",
+    "大都會客運",
+    "首都客運",
+    "東南客運",
+    "臺北客運",
+    "欣欣客運",
+    "指南客運",
+    "統聯客運",
+    "新竹客運",
+    "中壢客運",
+    "巨業交通",
+    "高雄客運",
+    "屏東客運",
+    "南投客運",
+    "南台灣客運",
+    "車王電子",
+    "AESC",
+    "東元電機",
+    "飛宏科技"
+  ]
+}

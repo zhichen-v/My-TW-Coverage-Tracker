@@ -1,0 +1,757 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3362_先進光.md",
+  "source_path": "Pilot_Reports/Electronic Components/3362_先進光.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3362_先進光.json",
+  "ticker": "3362",
+  "company_name": "先進光",
+  "title": "# 3362 - 先進光",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "14,017 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "19,054 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "先進光 (3362，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Ability Opto"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球筆記型電腦鏡頭 (NB Lens) 龍頭，全球市佔率超過 70%。產品涵蓋塑膠鏡片、玻璃鏡片及鏡頭模組。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "除穩固 NB 市場外，積極佈局三大成長領域：(1) 車用鏡頭 — 供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Volvo"
+            },
+            {
+              "type": "text",
+              "text": " 等歐系車廠 (透過 Tier 1)，產品涵蓋環景鏡頭、行車紀錄器與 DMS 駕駛監控系統鏡頭，車用營收占比已提升至約 10%；(2) 平板/NB 高階鏡頭 — 供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Apple"
+            },
+            {
+              "type": "text",
+              "text": " iPad/MacBook 高階鏡頭模組；(3) 指紋辨識 — 透過子公司科雅光電發展指紋辨識模組。受惠於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": " 普及與 Windows Hello 帶動高階 NB 鏡頭需求。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學材料與元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學塑膠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 聚碳酸酯 (PC) 光學塑膠粒"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學玻璃原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "音圈馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " VCM 自動對焦馬達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密光學模具"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (鏡頭設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "先進光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球 NB 鏡頭市佔 70%)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用鏡頭:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "先進光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/環景/DMS 車用鏡頭)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "指紋辨識:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 科雅光電 (指紋辨識模組)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (NB 品牌、車廠與消費電子)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — NB 鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Apple]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — iPad/MacBook 高階鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volvo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (透過 Tier 1) — 車用環景/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鏡頭模組廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " NB 鏡頭模組組裝廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "NB 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HP"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lenovo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 全球前五大 NB 品牌鏡頭"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[Apple]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Apple"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — iPad/MacBook 高階鏡頭模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Volvo"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (透過 Tier 1) — 車用環景/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 鏡頭"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學塑膠與玻璃原料供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "VCM 馬達:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 音圈馬達自動對焦模組供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "模具:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精密光學模具廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $98.40 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "3.25",
+                  "3.80",
+                  "30.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4316.60",
+                  "4278.31",
+                  "3995.84"
+                ],
+                [
+                  "Gross Profit",
+                  "819.18",
+                  "1040.50",
+                  "1049.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.98",
+                  "24.32",
+                  "26.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "128.31",
+                  "110.46",
+                  "90.34"
+                ],
+                [
+                  "R&D Exp",
+                  "297.62",
+                  "270.99",
+                  "221.19"
+                ],
+                [
+                  "General & Admin Exp",
+                  "352.15",
+                  "311.12",
+                  "257.89"
+                ],
+                [
+                  "Operating Income",
+                  "41.10",
+                  "347.93",
+                  "480.31"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "0.95",
+                  "8.13",
+                  "12.02"
+                ],
+                [
+                  "Net Income",
+                  "-153.74",
+                  "378.91",
+                  "400.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-3.56",
+                  "8.86",
+                  "10.03"
+                ],
+                [
+                  "Op Cash Flow",
+                  "210.96",
+                  "608.07",
+                  "767.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-900.58",
+                  "-2567.22",
+                  "-806.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "690.62",
+                  "2092.59",
+                  "115.28"
+                ],
+                [
+                  "CAPEX",
+                  "-956.27",
+                  "-2289.89",
+                  "-1006.15"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1091.00",
+                  "1127.86",
+                  "1087.67",
+                  "1010.07"
+                ],
+                [
+                  "Gross Profit",
+                  "199.41",
+                  "164.17",
+                  "240.53",
+                  "215.07"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.28",
+                  "14.56",
+                  "22.11",
+                  "21.29"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "35.19",
+                  "34.52",
+                  "29.94",
+                  "28.66"
+                ],
+                [
+                  "R&D Exp",
+                  "93.64",
+                  "69.75",
+                  "77.31",
+                  "56.93"
+                ],
+                [
+                  "General & Admin Exp",
+                  "81.33",
+                  "88.79",
+                  "91.81",
+                  "90.22"
+                ],
+                [
+                  "Operating Income",
+                  "-10.75",
+                  "-28.89",
+                  "41.48",
+                  "39.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-0.99",
+                  "-2.56",
+                  "3.81",
+                  "3.89"
+                ],
+                [
+                  "Net Income",
+                  "11.88",
+                  "10.78",
+                  "-214.54",
+                  "38.14"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.09",
+                  "0.96",
+                  "-19.72",
+                  "3.78"
+                ],
+                [
+                  "Op Cash Flow",
+                  "143.81",
+                  "-27.87",
+                  "64.36",
+                  "30.66"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-242.77",
+                  "-236.61",
+                  "-69.83",
+                  "-351.37"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "131.16",
+                  "173.75",
+                  "42.80",
+                  "342.91"
+                ],
+                [
+                  "CAPEX",
+                  "-235.50",
+                  "-231.78",
+                  "-175.29",
+                  "-313.70"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Ability Opto",
+    "Volvo",
+    "Apple",
+    "ADAS",
+    "ADAS",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "華碩",
+    "Apple",
+    "Apple",
+    "Volvo",
+    "ADAS",
+    "Dell",
+    "HP",
+    "Lenovo",
+    "華碩",
+    "Apple",
+    "Apple",
+    "Volvo",
+    "ADAS"
+  ]
+}

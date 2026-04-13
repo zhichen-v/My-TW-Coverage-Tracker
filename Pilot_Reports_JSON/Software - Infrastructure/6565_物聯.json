@@ -1,0 +1,485 @@
+{
+  "report_id": "Pilot_Reports/Software - Infrastructure/6565_物聯.md",
+  "source_path": "Pilot_Reports/Software - Infrastructure/6565_物聯.md",
+  "json_path": "Pilot_Reports_JSON/Software - Infrastructure/6565_物聯.json",
+  "ticker": "6565",
+  "company_name": "物聯",
+  "title": "# 6565_物聯",
+  "sector_folder": "Software - Infrastructure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Infrastructure"
+      },
+      {
+        "label": "市值:",
+        "value": "522 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "409 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "物聯智慧股份有限公司 (6565，ThroughTek) 專注於"
+            },
+            {
+              "type": "wikilink",
+              "text": "物聯網"
+            },
+            {
+              "type": "text",
+              "text": " 與 AIoT 領域之雲端軟體平台服務商 (PaaS/SaaS)。核心產品為自主研發之「Kalay」雲端平台，專精於海量高畫質影像資料的安全連線與跨裝置整合，已授權全球超過 40 億台影像監控設備連線，服務遍及 120 餘國。物聯智慧協助硬體設備商快速將安防攝影機、智慧家電及嬰兒監視器等產品連上雲端，提供影像串流、雲端錄影存儲及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": "邊緣運算加值服務。近年積極拓展北美 DIY 安防品牌及日本大型電信通路，以標準化軟體授權創造穩定經常性收入。2025 年與"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "集團旗下星科國際合作，推動 AI 機器人結合 Kalay 雲端影像平台。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (雲端與技術)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公有雲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 雲端基礎設施 IaaS"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 演算法:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 開源 AI 模型與資安技術"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (平台服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "物聯智慧"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Kalay "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "物聯網"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 影像雲端平台營運、AIoT 軟體授權與開發服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 DIY 家用安防品牌 — 攝影機雲端連線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信營運商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本前三大電信商 — 智慧家庭方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "旗下星科國際 — AI 機器人雲端影像整合"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "安防品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美主要 DIY 家用安防品牌大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本前三大電信商之一 — 智慧家庭解決方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "旗下星科國際 — Kalay 雲端影像整合"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端基礎設施:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AWS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft Azure"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — IaaS 層級運算支持"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI 技術:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 開源 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 模型與演算法授權"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $19.30 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "19.30",
+                  "N/A",
+                  "1.60",
+                  "4.65",
+                  "23.21"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "352.38",
+                  "267.97",
+                  "156.26"
+                ],
+                [
+                  "Gross Profit",
+                  "161.00",
+                  "133.86",
+                  "94.98"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "45.69",
+                  "49.95",
+                  "60.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "47.40",
+                  "41.20",
+                  "34.59"
+                ],
+                [
+                  "R&D Exp",
+                  "36.12",
+                  "45.16",
+                  "40.35"
+                ],
+                [
+                  "General & Admin Exp",
+                  "48.19",
+                  "50.04",
+                  "49.79"
+                ],
+                [
+                  "Operating Income",
+                  "29.30",
+                  "-2.53",
+                  "-29.75"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "8.31",
+                  "-0.95",
+                  "-19.04"
+                ],
+                [
+                  "Net Income",
+                  "27.14",
+                  "3.65",
+                  "-30.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.70",
+                  "1.36",
+                  "-19.49"
+                ],
+                [
+                  "Op Cash Flow",
+                  "52.60",
+                  "14.74",
+                  "-26.87"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-13.02",
+                  "2.05",
+                  "11.99"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-16.88",
+                  "10.71",
+                  "-8.40"
+                ],
+                [
+                  "CAPEX",
+                  "-3.26",
+                  "-2.11",
+                  "-1.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "物聯網",
+    "AI",
+    "鴻海",
+    "AWS",
+    "Microsoft Azure",
+    "物聯網",
+    "鴻海",
+    "鴻海",
+    "AWS",
+    "Microsoft Azure",
+    "AI"
+  ]
+}

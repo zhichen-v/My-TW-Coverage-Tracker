@@ -1,0 +1,695 @@
+{
+  "report_id": "Pilot_Reports/Software - Application/8416_實威.md",
+  "source_path": "Pilot_Reports/Software - Application/8416_實威.md",
+  "json_path": "Pilot_Reports_JSON/Software - Application/8416_實威.json",
+  "ticker": "8416",
+  "company_name": "實威",
+  "title": "# 8416 - 實威",
+  "sector_folder": "Software - Application",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Application"
+      },
+      {
+        "label": "市值:",
+        "value": "4,754 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,282 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "實威國際 (8416，SolidWizard) 成立於 1997 年，為法國 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Dassault Systemes"
+            },
+            {
+              "type": "text",
+              "text": " 在亞洲最大專業代理商。公司代理銷售 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SOLIDWORKS"
+            },
+            {
+              "type": "text",
+              "text": " 3D CAD 設計軟體及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "3DEXPERIENCE"
+            },
+            {
+              "type": "text",
+              "text": " 雲端協同設計管理平台，涵蓋 CAD、CAE 驗證分析 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "SIMULIA"
+            },
+            {
+              "type": "text",
+              "text": ")、PDM/PLM 管理軟體等全方位產品線。此外，智慧製造業務提供 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Markforged"
+            },
+            {
+              "type": "text",
+              "text": " 與 "
+            },
+            {
+              "type": "wikilink",
+              "text": "3D Systems"
+            },
+            {
+              "type": "text",
+              "text": " 3D 列印機、Artec 3D 逆向掃描及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Universal Robots"
+            },
+            {
+              "type": "text",
+              "text": " 協作機器人。至今在台灣及中國地區已輔導超過 10,000 家企業與教育單位。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (軟體與硬體原廠)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D CAD/PLM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dassault Systemes"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SOLIDWORKS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3DEXPERIENCE"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SIMULIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Markforged"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D Systems"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "協作機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Universal Robots"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 掃描:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Artec、SCANTEC"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (代理與顧問)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軟硬體代理:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "實威國際"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (軟體銷售、顧問導入、教育訓練、售後服務)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "製造業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內機械、電子、汽車零組件等製造業 R&D 部門"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "教育機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級大專院校與技職體系"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療/航太:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階設計與模擬分析應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "製造業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內機械、電子、汽車零組件製造業 (超過 10,000 家企業)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "教育機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各級大專院校與技職體系"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療/航太:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高階設計與模擬分析應用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D CAD/PLM:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dassault Systemes"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SOLIDWORKS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3DEXPERIENCE"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 列印:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Markforged"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "3D Systems"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "協作機器人:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Universal Robots"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $168.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "13.32",
+                  "N/A",
+                  "2.80",
+                  "2.85",
+                  "9.44"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1541.91",
+                  "1447.16",
+                  "1394.37"
+                ],
+                [
+                  "Gross Profit",
+                  "765.88",
+                  "756.57",
+                  "747.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "49.67",
+                  "52.28",
+                  "53.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "232.40",
+                  "224.08",
+                  "202.17"
+                ],
+                [
+                  "R&D Exp",
+                  "112.09",
+                  "108.01",
+                  "97.72"
+                ],
+                [
+                  "General & Admin Exp",
+                  "83.15",
+                  "79.10",
+                  "75.36"
+                ],
+                [
+                  "Operating Income",
+                  "338.24",
+                  "345.38",
+                  "372.56"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "21.94",
+                  "23.87",
+                  "26.72"
+                ],
+                [
+                  "Net Income",
+                  "310.50",
+                  "288.61",
+                  "306.09"
+                ],
+                [
+                  "Net Margin (%)",
+                  "20.14",
+                  "19.94",
+                  "21.95"
+                ],
+                [
+                  "Op Cash Flow",
+                  "338.52",
+                  "265.46",
+                  "303.72"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1.90",
+                  "-12.39",
+                  "-4.80"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-230.99",
+                  "-230.13",
+                  "-231.09"
+                ],
+                [
+                  "CAPEX",
+                  "-1.90",
+                  "-14.07",
+                  "-4.80"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "402.12",
+                  "370.25",
+                  "396.15",
+                  "515.26"
+                ],
+                [
+                  "Gross Profit",
+                  "206.69",
+                  "194.23",
+                  "195.94",
+                  "251.75"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "51.40",
+                  "52.46",
+                  "49.46",
+                  "48.86"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "60.35",
+                  "56.31",
+                  "63.15",
+                  "61.29"
+                ],
+                [
+                  "R&D Exp",
+                  "28.32",
+                  "28.39",
+                  "30.38",
+                  "28.14"
+                ],
+                [
+                  "General & Admin Exp",
+                  "18.76",
+                  "18.97",
+                  "21.18",
+                  "23.05"
+                ],
+                [
+                  "Operating Income",
+                  "99.27",
+                  "90.56",
+                  "81.23",
+                  "139.26"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "24.69",
+                  "24.46",
+                  "20.50",
+                  "27.03"
+                ],
+                [
+                  "Net Income",
+                  "84.47",
+                  "71.23",
+                  "79.66",
+                  "122.13"
+                ],
+                [
+                  "Net Margin (%)",
+                  "21.01",
+                  "19.24",
+                  "20.11",
+                  "23.70"
+                ],
+                [
+                  "Op Cash Flow",
+                  "97.09",
+                  "116.65",
+                  "65.58",
+                  "121.65"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-0.65",
+                  "-0.75",
+                  "0.18",
+                  "-1.05"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-226.98",
+                  "-1.29",
+                  "-1.28",
+                  "-1.54"
+                ],
+                [
+                  "CAPEX",
+                  "-0.64",
+                  "-0.32",
+                  "-1.10",
+                  "-1.05"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Dassault Systemes",
+    "SOLIDWORKS",
+    "3DEXPERIENCE",
+    "SIMULIA",
+    "Markforged",
+    "3D Systems",
+    "Universal Robots",
+    "Dassault Systemes",
+    "SOLIDWORKS",
+    "3DEXPERIENCE",
+    "SIMULIA",
+    "Markforged",
+    "3D Systems",
+    "Universal Robots",
+    "Dassault Systemes",
+    "SOLIDWORKS",
+    "3DEXPERIENCE",
+    "Markforged",
+    "3D Systems",
+    "Universal Robots"
+  ]
+}

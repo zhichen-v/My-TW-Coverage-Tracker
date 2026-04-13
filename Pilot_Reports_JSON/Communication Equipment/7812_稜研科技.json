@@ -1,0 +1,657 @@
+{
+  "report_id": "Pilot_Reports/Communication Equipment/7812_稜研科技.md",
+  "source_path": "Pilot_Reports/Communication Equipment/7812_稜研科技.md",
+  "json_path": "Pilot_Reports_JSON/Communication Equipment/7812_稜研科技.json",
+  "ticker": "7812",
+  "company_name": "稜研科技",
+  "title": "# 7812 - 稜研科技*",
+  "sector_folder": "Communication Equipment",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Communication Equipment"
+      },
+      {
+        "label": "市值:",
+        "value": "4,869 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "3,934 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "稜研科技 (7812，"
+            },
+            {
+              "type": "wikilink",
+              "text": "TMYTEK"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣專精毫米波 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "mmWave"
+            },
+            {
+              "type": "text",
+              "text": ") 相位陣列天線 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Phased Array Antenna"
+            },
+            {
+              "type": "text",
+              "text": ") 技術之新創公司，成立於 2014 年，總部位於台北內湖。公司以 Fabless 模式運營，專注於主動式電子掃描陣列 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "AESA"
+            },
+            {
+              "type": "text",
+              "text": ") 雷達與天線模組之研發設計，核心技術可應用於 "
+            },
+            {
+              "type": "wikilink",
+              "text": "5G"
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "wikilink",
+              "text": "6G"
+            },
+            {
+              "type": "text",
+              "text": " 毫米波基地台、"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": " 通訊、自駕車雷達及國防無人機偵測防衛。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "稜研已完成 B 輪 12 億元募資，"
+            },
+            {
+              "type": "wikilink",
+              "text": "英業達"
+            },
+            {
+              "type": "text",
+              "text": " 為第二大股東並提供製造設計資源，策略投資人另包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "聯茂電子"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "穩懋半導體"
+            },
+            {
+              "type": "text",
+              "text": "、多摩川電子及國泰創投。產品已銷往全球超過 35 國，涵蓋印度 5G 毫米波大規模佈建、日本高空通訊平台 (HAPS) 專案及台灣國防無人機應用。公司亦開發 50x50 公分天線模組，可拼組連結同步衛星訊號，佈局從地面到太空之完整毫米波生態系。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (射頻晶片與基板材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "射頻晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高頻 RFIC 及相位陣列晶片設計廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "砷化鎵代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "穩懋半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 化合物半導體代工 ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "砷化鎵"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高頻基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高頻低損耗 PCB 材料"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (毫米波天線模組設計)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "天線模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "稜研科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AESA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 相位陣列天線模組、毫米波波束成型方案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "測試儀器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "稜研科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (毫米波射頻量測與開發套件)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電信與國防應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "5G 毫米波佈建:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印度電信業者大規模 mmWave 基地台專案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高空通訊平台:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本 HAPS 空中基地台計畫"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防應用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣軍方無人機偵測雷達"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際通訊設備商 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 地面天線模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "5G 毫米波:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 印度電信業者 — 全球最大規模毫米波佈建專案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "HAPS 通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本高空平台通訊系統開發商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國防軍工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣軍方 — 無人機偵測防衛雷達系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "自駕車:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本頂尖車載系統開發商 — 車用雷達感測器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "全球佈局:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 遍及 35 國之網通、國防與衛星通訊客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "EMS 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "英業達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (第二大股東，模組量產製造設計)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "砷化鎵晶圓:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "穩懋半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 化合物半導體策略投資人"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB 材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯茂電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 高頻基板材料"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "精密組裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 廣運集團 — 自動化設備支援"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $81.10 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "27.41",
+                  "4.55",
+                  "-24.24"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "143.09",
+                  "103.05",
+                  "80.48"
+                ],
+                [
+                  "Gross Profit",
+                  "107.86",
+                  "73.66",
+                  "54.14"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "75.38",
+                  "71.48",
+                  "67.27"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "77.07",
+                  "60.57",
+                  "52.23"
+                ],
+                [
+                  "R&D Exp",
+                  "168.88",
+                  "113.42",
+                  "86.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.98",
+                  "26.30",
+                  "0.00"
+                ],
+                [
+                  "Operating Income",
+                  "-181.06",
+                  "-126.63",
+                  "-112.15"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-126.54",
+                  "-122.89",
+                  "-139.36"
+                ],
+                [
+                  "Net Income",
+                  "-149.36",
+                  "-113.81",
+                  "-101.83"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-104.38",
+                  "-110.44",
+                  "-126.53"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-74.61",
+                  "-52.67",
+                  "-105.36"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-588.11",
+                  "9.46",
+                  "-45.79"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "804.07",
+                  "352.01",
+                  "39.45"
+                ],
+                [
+                  "CAPEX",
+                  "-24.58",
+                  "-14.02",
+                  "-12.20"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "TMYTEK",
+    "mmWave",
+    "Phased Array Antenna",
+    "AESA",
+    "5G",
+    "6G",
+    "低軌衛星",
+    "英業達",
+    "聯茂電子",
+    "穩懋半導體",
+    "穩懋半導體",
+    "砷化鎵",
+    "聯茂電子",
+    "AESA",
+    "低軌衛星",
+    "英業達",
+    "穩懋半導體",
+    "聯茂電子"
+  ]
+}

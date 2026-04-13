@@ -1,0 +1,419 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3717_聯嘉投控.md",
+  "source_path": "Pilot_Reports/Electronic Components/3717_聯嘉投控.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3717_聯嘉投控.json",
+  "ticker": "3717",
+  "company_name": "聯嘉投控",
+  "title": "# 3717 - 聯嘉投控",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,552 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "6,082 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "strong",
+              "text": "聯嘉投控"
+            },
+            {
+              "type": "text",
+              "text": " (3717) (子公司 "
+            },
+            {
+              "type": "strong",
+              "text": "聯嘉光電"
+            },
+            {
+              "type": "text",
+              "text": ", EOI) 為全球領先之 LED 車用光源模組供應商，專注於創新 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": " 技術在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "汽車電子"
+            },
+            {
+              "type": "text",
+              "text": " 之應用。主要產品涵蓋 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED 車燈模組"
+            },
+            {
+              "type": "text",
+              "text": " (尾燈、方向燈、晝行燈)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "LED 元件"
+            },
+            {
+              "type": "text",
+              "text": " 及節能照明解決方案。聯嘉以獨家專利之 "
+            },
+            {
+              "type": "strong",
+              "text": "[[UniFlex Linear]]"
+            },
+            {
+              "type": "text",
+              "text": " 導光技術聞名，成功打入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GM"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Ford"
+            },
+            {
+              "type": "text",
+              "text": " 等國際車廠供應鏈，特別是在 "
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": " (EV) 領域擁有高市佔率。公司總部位於台灣竹南科學園區，並於中國及美國密西根州設有生產基地。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "聯嘉位於 LED 車用產業鏈的"
+            },
+            {
+              "type": "strong",
+              "text": "中下游模組與系統端"
+            },
+            {
+              "type": "text",
+              "text": "：\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": "：採購 "
+            },
+            {
+              "type": "wikilink",
+              "text": "LED 晶粒"
+            },
+            {
+              "type": "text",
+              "text": " (Chip) 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "封裝"
+            },
+            {
+              "type": "text",
+              "text": " 元件 (Package)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": "：進行 "
+            },
+            {
+              "type": "wikilink",
+              "text": "車燈模組"
+            },
+            {
+              "type": "text",
+              "text": " 設計、光學模擬、SMT 打件及組裝測試。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": "：交貨予國際 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tier 1"
+            },
+            {
+              "type": "text",
+              "text": " 車燈總成廠 (如 Magna, Hella) 或直接供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "車廠"
+            },
+            {
+              "type": "text",
+              "text": " (OEM)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "financials": {
+      "heading": "主要客戶及供應商",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "主要客戶 (Tier 1 / OEM)"
+            },
+            {
+              "type": "text",
+              "text": "：\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "[[電動車]]"
+            },
+            {
+              "type": "text",
+              "text": "："
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": " (Model 3/Y 尾燈模組主要供應商)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rivian"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Fisker"
+            },
+            {
+              "type": "text",
+              "text": "。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "傳統車廠"
+            },
+            {
+              "type": "text",
+              "text": "："
+            },
+            {
+              "type": "wikilink",
+              "text": "GM"
+            },
+            {
+              "type": "text",
+              "text": " (通用汽車)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Ford"
+            },
+            {
+              "type": "text",
+              "text": " (福特)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Stellantis"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Porsche"
+            },
+            {
+              "type": "text",
+              "text": " (保時捷)。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車燈廠"
+            },
+            {
+              "type": "text",
+              "text": "："
+            },
+            {
+              "type": "wikilink",
+              "text": "Magna"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Hella"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Flex-N-Gate"
+            },
+            {
+              "type": "text",
+              "text": "。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "主要供應商"
+            },
+            {
+              "type": "text",
+              "text": "：\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "LED 晶粒"
+            },
+            {
+              "type": "text",
+              "text": "："
+            },
+            {
+              "type": "wikilink",
+              "text": "晶電"
+            },
+            {
+              "type": "text",
+              "text": " (富采)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "歐司朗"
+            },
+            {
+              "type": "text",
+              "text": " (Osram)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "日亞化"
+            },
+            {
+              "type": "text",
+              "text": " (Nichia)。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    }
+  },
+  "wikilinks": [
+    "LED",
+    "汽車電子",
+    "LED 車燈模組",
+    "LED 元件",
+    "UniFlex Linear",
+    "Tesla",
+    "GM",
+    "Ford",
+    "電動車",
+    "LED 晶粒",
+    "封裝",
+    "車燈模組",
+    "Tier 1",
+    "車廠",
+    "電動車",
+    "Tesla",
+    "Rivian",
+    "Fisker",
+    "GM",
+    "Ford",
+    "Stellantis",
+    "Porsche",
+    "Magna",
+    "Hella",
+    "Flex-N-Gate",
+    "晶電",
+    "歐司朗",
+    "日亞化"
+  ]
+}

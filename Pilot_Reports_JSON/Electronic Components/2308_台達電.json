@@ -1,0 +1,729 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2308_台達電.md",
+  "source_path": "Pilot_Reports/Electronic Components/2308_台達電.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2308_台達電.json",
+  "ticker": "2308",
+  "company_name": "台達電",
+  "title": "# 2308 - [[台達電]]",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "4,026,192 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,006,432 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台達電 (2308) 是全球最大的"
+            },
+            {
+              "type": "wikilink",
+              "text": "交換式電源供應器"
+            },
+            {
+              "type": "text",
+              "text": "製造商，以自有品牌 DELTA 行銷全球。產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器電源"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "工業自動化"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動車"
+            },
+            {
+              "type": "text",
+              "text": "充電、"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "電源及"
+            },
+            {
+              "type": "wikilink",
+              "text": "綠能"
+            },
+            {
+              "type": "text",
+              "text": "解決方案。公司為美系 Tier 1 CSP "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "text",
+              "text": "電源最大供應商，預計成為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " DGX GB200 中 DC/DC 及 AC/DC 電源主要供應商。產能分布中國 60%、泰國、台灣及印度。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "被動元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電容"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "電感"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "變壓器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IGBT"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "碳化矽"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 元件"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (電源與自動化)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電源供應:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球最大交換式電源，"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AI 伺服器"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/EV 充電/工業自動化)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI/[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、北美 CSP 業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[電動車]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Audi"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、全球 EV 充電樁"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球工業自動化客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI/[[資料中心]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Microsoft"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、北美 CSP"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[電動車]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Audi"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、全球 EV 充電業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業自動化:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球工業客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "功率元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MOSFET"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "IGBT"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/SiC 供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "被動元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 電容/電感供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群光"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $1,550.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "61.36",
+                  "28.92",
+                  "7.26",
+                  "15.02",
+                  "36.09"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "554885.17",
+                  "421147.56",
+                  "401226.50"
+                ],
+                [
+                  "Gross Profit",
+                  "190156.56",
+                  "136580.17",
+                  "117213.03"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.27",
+                  "32.43",
+                  "29.21"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "34726.49",
+                  "27828.06",
+                  "24136.04"
+                ],
+                [
+                  "R&D Exp",
+                  "48742.71",
+                  "41574.77",
+                  "36047.85"
+                ],
+                [
+                  "General & Admin Exp",
+                  "22336.40",
+                  "19392.39",
+                  "15951.95"
+                ],
+                [
+                  "Operating Income",
+                  "84350.96",
+                  "47784.95",
+                  "41077.18"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "15.20",
+                  "11.35",
+                  "10.24"
+                ],
+                [
+                  "Net Income",
+                  "60108.40",
+                  "35228.58",
+                  "33392.67"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.83",
+                  "8.36",
+                  "8.32"
+                ],
+                [
+                  "Op Cash Flow",
+                  "98474.28",
+                  "72894.96",
+                  "71086.41"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-53214.21",
+                  "-40360.02",
+                  "-33501.69"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-9401.40",
+                  "-11117.58",
+                  "-10478.06"
+                ],
+                [
+                  "CAPEX",
+                  "-47152.79",
+                  "-35074.38",
+                  "-28299.66"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "161613.10",
+                  "124035.09",
+                  "118919.41",
+                  "114202.48"
+                ],
+                [
+                  "Gross Profit",
+                  "55903.20",
+                  "44048.86",
+                  "37788.42",
+                  "35136.31"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "34.59",
+                  "35.51",
+                  "31.78",
+                  "30.77"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "10263.81",
+                  "7950.35",
+                  "7597.40",
+                  "7992.85"
+                ],
+                [
+                  "R&D Exp",
+                  "13055.22",
+                  "11845.28",
+                  "11063.40",
+                  "11161.86"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6098.21",
+                  "5373.04",
+                  "4974.90",
+                  "5294.11"
+                ],
+                [
+                  "Operating Income",
+                  "26485.96",
+                  "18880.20",
+                  "14152.72",
+                  "10687.49"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "16.39",
+                  "15.22",
+                  "11.90",
+                  "9.36"
+                ],
+                [
+                  "Net Income",
+                  "17323.69",
+                  "13948.04",
+                  "10230.94",
+                  "7177.56"
+                ],
+                [
+                  "Net Margin (%)",
+                  "10.72",
+                  "11.25",
+                  "8.60",
+                  "6.28"
+                ],
+                [
+                  "Op Cash Flow",
+                  "38157.08",
+                  "27326.97",
+                  "16266.61",
+                  "21704.18"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-17142.36",
+                  "-10405.49",
+                  "-11843.46",
+                  "-13322.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-15519.85",
+                  "2555.52",
+                  "14638.38",
+                  "-14646.67"
+                ],
+                [
+                  "CAPEX",
+                  "-16328.35",
+                  "-10915.69",
+                  "-9150.31",
+                  "-12838.97"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台達電",
+    "交換式電源供應器",
+    "伺服器電源",
+    "工業自動化",
+    "電動車",
+    "資料中心",
+    "綠能",
+    "AI 伺服器",
+    "NVIDIA",
+    "電容",
+    "電感",
+    "變壓器",
+    "MOSFET",
+    "IGBT",
+    "碳化矽",
+    "AI 伺服器",
+    "資料中心",
+    "NVIDIA",
+    "Microsoft",
+    "電動車",
+    "Audi",
+    "資料中心",
+    "NVIDIA",
+    "Microsoft",
+    "電動車",
+    "Audi",
+    "MOSFET",
+    "IGBT",
+    "光寶科技",
+    "群光"
+  ]
+}

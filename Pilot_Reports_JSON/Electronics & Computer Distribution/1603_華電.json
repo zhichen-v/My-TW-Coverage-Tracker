@@ -1,0 +1,668 @@
+{
+  "report_id": "Pilot_Reports/Electronics & Computer Distribution/1603_華電.md",
+  "source_path": "Pilot_Reports/Electronics & Computer Distribution/1603_華電.md",
+  "json_path": "Pilot_Reports_JSON/Electronics & Computer Distribution/1603_華電.json",
+  "ticker": "1603",
+  "company_name": "華電",
+  "title": "# 1603 - 華電",
+  "sector_folder": "Electronics & Computer Distribution",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronics & Computer Distribution"
+      },
+      {
+        "label": "市值:",
+        "value": "5,274 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "4,727 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "華電股份有限公司 (1603) 成立於 1961 年，總部位於台灣新北市。公司主要業務分為兩大類："
+            },
+            {
+              "type": "wikilink",
+              "text": "電線電纜"
+            },
+            {
+              "type": "text",
+              "text": "及鋁窗帷幕牆。電纜產品涵蓋低壓至高壓等級，供應"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "及公共工程使用；鋁窗產品以「華電鋁窗」品牌銷售，供應建築營造業。近年公司亦涉足房地產開發及"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "電廠投資。華電為台灣歷史悠久之電纜製造商，受惠於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "強韌電網計畫之 193 億電纜標案釋單，電纜營收動能轉強。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金屬材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一銅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 銅元、鋁錠供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化工原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PVC/PE 塑膠粒、玻璃"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造加工)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電纜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (伸線、絞線、被覆及聯合檢驗)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁窗:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "華電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (擠型、陽極處理/塗裝、加工組裝)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "公用事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 輸配電工程"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電信工程:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 通信線纜"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "建築營造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內建設公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電纜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (輸配電工程)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華電信"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、國內統包工程商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鋁窗:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 建設公司如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "遠雄建設"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "興富發"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等營造廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "第一銅"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 銅元/鋁錠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化工原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PVC/PE 塑膠粒供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華榮"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (1608)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大亞"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (1609)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "合機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (1618)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $33.20 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "10.18",
+                  "N/A",
+                  "0.96",
+                  "0.71",
+                  "7.51"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5522.41",
+                  "4537.97",
+                  "4011.99"
+                ],
+                [
+                  "Gross Profit",
+                  "727.44",
+                  "619.21",
+                  "605.20"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.17",
+                  "13.65",
+                  "15.08"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "77.81",
+                  "87.66",
+                  "78.14"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "92.44",
+                  "65.82",
+                  "62.96"
+                ],
+                [
+                  "Operating Income",
+                  "588.61",
+                  "495.08",
+                  "491.91"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.66",
+                  "10.91",
+                  "12.26"
+                ],
+                [
+                  "Net Income",
+                  "518.17",
+                  "451.93",
+                  "474.17"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.38",
+                  "9.96",
+                  "11.82"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-237.61",
+                  "385.64",
+                  "-450.21"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-177.78",
+                  "-36.46",
+                  "-118.60"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "346.80",
+                  "-317.48",
+                  "583.32"
+                ],
+                [
+                  "CAPEX",
+                  "-190.20",
+                  "-40.88",
+                  "-33.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1428.10",
+                  "1243.58",
+                  "1425.07",
+                  "1425.65"
+                ],
+                [
+                  "Gross Profit",
+                  "130.51",
+                  "177.05",
+                  "198.56",
+                  "221.33"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.14",
+                  "14.24",
+                  "13.93",
+                  "15.53"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "20.83",
+                  "19.14",
+                  "17.88",
+                  "19.96"
+                ],
+                [
+                  "R&D Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "General & Admin Exp",
+                  "25.94",
+                  "23.03",
+                  "23.69",
+                  "19.78"
+                ],
+                [
+                  "Operating Income",
+                  "91.61",
+                  "142.81",
+                  "165.09",
+                  "189.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "6.41",
+                  "11.48",
+                  "11.58",
+                  "13.26"
+                ],
+                [
+                  "Net Income",
+                  "37.07",
+                  "190.66",
+                  "153.06",
+                  "137.38"
+                ],
+                [
+                  "Net Margin (%)",
+                  "2.60",
+                  "15.33",
+                  "10.74",
+                  "9.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "157.35",
+                  "236.58",
+                  "-209.94",
+                  "-421.60"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-50.19",
+                  "-108.18",
+                  "-26.24",
+                  "6.83"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-267.21",
+                  "-39.85",
+                  "257.85",
+                  "396.00"
+                ],
+                [
+                  "CAPEX",
+                  "-73.75",
+                  "-62.92",
+                  "-28.27",
+                  "-25.27"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "電線電纜",
+    "台電",
+    "太陽能",
+    "台電",
+    "第一銅",
+    "華新麗華",
+    "台電",
+    "中華電信",
+    "台電",
+    "中華電信",
+    "遠雄建設",
+    "興富發",
+    "第一銅",
+    "華新麗華",
+    "華榮",
+    "大亞",
+    "合機"
+  ]
+}

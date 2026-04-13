@@ -1,0 +1,654 @@
+{
+  "report_id": "Pilot_Reports/Software - Infrastructure/6035_悠遊卡.md",
+  "source_path": "Pilot_Reports/Software - Infrastructure/6035_悠遊卡.md",
+  "json_path": "Pilot_Reports_JSON/Software - Infrastructure/6035_悠遊卡.json",
+  "ticker": "6035",
+  "company_name": "悠遊卡",
+  "title": "# 6035_悠遊卡",
+  "sector_folder": "Software - Infrastructure",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Software - Infrastructure"
+      },
+      {
+        "label": "市值:",
+        "value": "3,775 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "2,780 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "悠遊卡股份有限公司 (6035) 為台灣電子票證與電子支付領域市佔率超過九成的龍頭企業。公司專注於交通及小額消費場域，提供「"
+            },
+            {
+              "type": "wikilink",
+              "text": "悠遊卡"
+            },
+            {
+              "type": "text",
+              "text": "」電子票證與「悠遊付」電子支付雙核心服務。悠遊卡累積超過 1,800 個品牌通路合作，合計約 35 萬個支付點，廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北捷運"
+            },
+            {
+              "type": "text",
+              "text": "、公車、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台鐵"
+            },
+            {
+              "type": "text",
+              "text": "、便利商店及零售通路。公司為公股與民股共同經營之企業，主要股東包含"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北市政府"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北捷運"
+            },
+            {
+              "type": "text",
+              "text": "及多家金融機構。營收以手續費、聯名卡發卡回饋金及加值服務為主，受惠於台灣無現金支付滲透率持續提升。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (卡片製造與系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "卡片製造:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NFC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 晶片供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統整合:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 票證閘門與讀卡機硬體供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "金流通道:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "財金資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 跨行支付清算"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (票證與支付營運)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "悠遊卡公司"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "悠遊卡"
+                    },
+                    {
+                      "type": "text",
+                      "text": "電子票證發行、悠遊付電子支付平台營運、品牌聯名卡合作)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用場域)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大眾運輸:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、公車、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高雄捷運"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費支付:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 百貨、餐飲、停車場等小額消費場域"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "大眾運輸:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、各縣市公車業者"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "零售通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "統一超商"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全家便利商店"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "萊爾富"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 小額消費扣款"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "聯名卡合作:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰世華銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台新銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "玉山銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北富邦銀行"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中國信託"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 悠遊聯名卡發行"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶片供應:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NXP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NFC"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 感應晶片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "清算系統:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "財金資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 跨行金流清算"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "系統建置:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 票證系統整合與讀卡機硬體商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $53.20 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "17.44",
+                  "N/A",
+                  "1.96",
+                  "3.31",
+                  "29.84"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1964.36",
+                  "1927.95",
+                  "1656.30"
+                ],
+                [
+                  "Gross Profit",
+                  "1038.30",
+                  "1036.18",
+                  "833.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "52.86",
+                  "53.75",
+                  "50.32"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "382.29",
+                  "386.38",
+                  "326.18"
+                ],
+                [
+                  "R&D Exp",
+                  "103.88",
+                  "93.03",
+                  "90.32"
+                ],
+                [
+                  "General & Admin Exp",
+                  "444.84",
+                  "433.34",
+                  "384.18"
+                ],
+                [
+                  "Operating Income",
+                  "276.36",
+                  "251.71",
+                  "73.72"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.07",
+                  "13.06",
+                  "4.45"
+                ],
+                [
+                  "Net Income",
+                  "232.96",
+                  "201.21",
+                  "60.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "11.86",
+                  "10.44",
+                  "3.64"
+                ],
+                [
+                  "Op Cash Flow",
+                  "606.91",
+                  "346.96",
+                  "144.91"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-125.06",
+                  "-139.33",
+                  "-172.41"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-200.15",
+                  "-98.38",
+                  "-63.90"
+                ],
+                [
+                  "CAPEX",
+                  "-120.86",
+                  "-135.47",
+                  "-174.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "悠遊卡",
+    "台北捷運",
+    "台鐵",
+    "台北市政府",
+    "台北捷運",
+    "NXP",
+    "NFC",
+    "財金資訊",
+    "悠遊卡",
+    "台北捷運",
+    "台鐵",
+    "高雄捷運",
+    "統一超商",
+    "全家便利商店",
+    "萊爾富",
+    "台北捷運",
+    "台鐵",
+    "統一超商",
+    "全家便利商店",
+    "萊爾富",
+    "國泰世華銀行",
+    "台新銀行",
+    "玉山銀行",
+    "台北富邦銀行",
+    "中國信託",
+    "NXP",
+    "NFC",
+    "財金資訊"
+  ]
+}

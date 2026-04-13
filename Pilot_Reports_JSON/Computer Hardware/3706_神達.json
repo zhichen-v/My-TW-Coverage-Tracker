@@ -1,0 +1,893 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/3706_神達.md",
+  "source_path": "Pilot_Reports/Computer Hardware/3706_神達.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/3706_神達.json",
+  "ticker": "3706",
+  "company_name": "神達",
+  "title": "# 3706 - 神達",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "106,177 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "99,053 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "神達控股 (3706，"
+            },
+            {
+              "type": "wikilink",
+              "text": "MiTAC Holdings"
+            },
+            {
+              "type": "text",
+              "text": ") 為台灣老牌資通訊集團，旗下核心子公司 "
+            },
+            {
+              "type": "strong",
+              "text": "神雲科技"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "MiTAC Computing"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球前六大伺服器代工廠，擁有超過 30 年伺服器設計製造經驗。神雲科技於 2024 年完成品牌整合，將旗下 "
+            },
+            {
+              "type": "wikilink",
+              "text": "TYAN"
+            },
+            {
+              "type": "text",
+              "text": " (泰安) 品牌與 MiTAC 統一為單一伺服器品牌。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "神雲科技具備從主機板設計、系統組裝到韌體開發的垂直整合能力，產品涵蓋 AI/HPC 高效能運算伺服器 (搭載 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " GPU 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": " Instinct 加速卡)、雲端伺服器、邊緣運算伺服器及液冷解決方案。集團另有 "
+            },
+            {
+              "type": "strong",
+              "text": "神達數位"
+            },
+            {
+              "type": "text",
+              "text": " 經營行車記錄器品牌 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Mio"
+            },
+            {
+              "type": "text",
+              "text": "、車用導航及智慧城市 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AIoT"
+            },
+            {
+              "type": "text",
+              "text": " 方案，以及工業電腦事業布局工廠自動化與智慧交通。受惠北美 CSP 客戶大舉擴建 AI 資料中心，2025 年月營收屢創新高。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (伺服器關鍵零組件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Xeon 6)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (EPYC) — 伺服器 CPU"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU/加速卡:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (H100/B200/GB200)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Instinct MI300X) — AI 訓練與推論"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SK Hynix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "HBM"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 及伺服器 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DRAM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "PCB/載板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高層數伺服器主機板 PCB"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (伺服器設計製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AI/HPC 伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "神雲科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (GPU 伺服器、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GB200 NVL72 整機櫃)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "雲端/邊緣伺服器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "神雲科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TYAN"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌通路伺服器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "液冷方案:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "神雲科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AI 叢集液冷散熱解決方案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/AIoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "神達數位"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mio"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 行車記錄器、智慧城市方案)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (雲端服務商與企業客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美大型雲端服務商 — AI 資料中心伺服器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中東市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中東主權基金資料中心 — AI 伺服器新興市場"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球企業及研究機構 — HPC 高效能運算叢集"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美 CSP:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 北美大型雲端服務商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " GB200 NVL72 整機櫃及 AI 伺服器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "伺服器品牌/代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Dell"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、浪潮 — 伺服器主機板及系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "中東市場:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 中東主權基金資料中心 — AI 基礎設施建置"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用/消費:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球車用電子及消費性電子市場 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Mio"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 行車記錄器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "處理器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Intel"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Xeon 6)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (EPYC)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "GPU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "NVIDIA"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (H100/B200/GB200)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "AMD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Instinct)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Samsung"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SK Hynix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "散熱/液冷:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 液冷模組及散熱方案供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $80.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "15.47",
+                  "7.86",
+                  "1.01",
+                  "1.55",
+                  "15.88"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "105577.03",
+                  "61359.85",
+                  "35536.01"
+                ],
+                [
+                  "Gross Profit",
+                  "11979.97",
+                  "7368.40",
+                  "4489.81"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.35",
+                  "12.01",
+                  "12.63"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1391.38",
+                  "1179.56",
+                  "1014.38"
+                ],
+                [
+                  "R&D Exp",
+                  "3597.32",
+                  "3074.62",
+                  "2502.83"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1616.81",
+                  "1330.59",
+                  "1209.19"
+                ],
+                [
+                  "Operating Income",
+                  "5374.46",
+                  "1783.64",
+                  "-236.59"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.09",
+                  "2.91",
+                  "-0.67"
+                ],
+                [
+                  "Net Income",
+                  "6837.80",
+                  "3958.65",
+                  "1783.63"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.48",
+                  "6.45",
+                  "5.02"
+                ],
+                [
+                  "Op Cash Flow",
+                  "418.74",
+                  "1479.43",
+                  "4708.32"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "4024.67",
+                  "-1024.13",
+                  "-278.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "6377.60",
+                  "-703.91",
+                  "-3819.40"
+                ],
+                [
+                  "CAPEX",
+                  "-2171.44",
+                  "-797.23",
+                  "-568.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "30525.83",
+                  "24761.87",
+                  "26624.17",
+                  "23665.16"
+                ],
+                [
+                  "Gross Profit",
+                  "3060.69",
+                  "3285.46",
+                  "2854.33",
+                  "2779.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "10.03",
+                  "13.27",
+                  "10.72",
+                  "11.75"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "376.01",
+                  "355.24",
+                  "331.85",
+                  "328.28"
+                ],
+                [
+                  "R&D Exp",
+                  "966.82",
+                  "866.43",
+                  "910.51",
+                  "853.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "507.55",
+                  "391.73",
+                  "359.39",
+                  "358.15"
+                ],
+                [
+                  "Operating Income",
+                  "1210.31",
+                  "1672.07",
+                  "1252.59",
+                  "1239.50"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.96",
+                  "6.75",
+                  "4.70",
+                  "5.24"
+                ],
+                [
+                  "Net Income",
+                  "1949.17",
+                  "2059.47",
+                  "1487.16",
+                  "1342.00"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.39",
+                  "8.32",
+                  "5.59",
+                  "5.67"
+                ],
+                [
+                  "Op Cash Flow",
+                  "6937.56",
+                  "3147.15",
+                  "-5049.44",
+                  "-4616.53"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "5295.71",
+                  "-514.47",
+                  "-368.33",
+                  "-388.24"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-943.03",
+                  "-1375.04",
+                  "5982.46",
+                  "2713.22"
+                ],
+                [
+                  "CAPEX",
+                  "-587.71",
+                  "-888.66",
+                  "-351.60",
+                  "-343.47"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "MiTAC Holdings",
+    "MiTAC Computing",
+    "TYAN",
+    "NVIDIA",
+    "AMD",
+    "Mio",
+    "AIoT",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "AMD",
+    "Samsung",
+    "SK Hynix",
+    "Micron",
+    "HBM",
+    "DRAM",
+    "NVIDIA",
+    "TYAN",
+    "Mio",
+    "NVIDIA",
+    "Dell",
+    "Mio",
+    "Intel",
+    "AMD",
+    "NVIDIA",
+    "AMD",
+    "Samsung",
+    "SK Hynix",
+    "Micron"
+  ]
+}

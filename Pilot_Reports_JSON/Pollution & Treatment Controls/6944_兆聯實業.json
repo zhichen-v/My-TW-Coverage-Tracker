@@ -1,0 +1,679 @@
+{
+  "report_id": "Pilot_Reports/Pollution & Treatment Controls/6944_兆聯實業.md",
+  "source_path": "Pilot_Reports/Pollution & Treatment Controls/6944_兆聯實業.md",
+  "json_path": "Pilot_Reports_JSON/Pollution & Treatment Controls/6944_兆聯實業.json",
+  "ticker": "6944",
+  "company_name": "兆聯實業",
+  "title": "# 6944_兆聯實業",
+  "sector_folder": "Pollution & Treatment Controls",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Pollution & Treatment Controls"
+      },
+      {
+        "label": "市值:",
+        "value": "60,200 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "54,715 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "兆聯實業股份有限公司為頂級半導體廠房水務工程公司，專為高科技晶圓廠提供「水循環」全方位解決方案。半導體製程極度耗水且對"
+            },
+            {
+              "type": "wikilink",
+              "text": "超純水"
+            },
+            {
+              "type": "text",
+              "text": "（UPW）純淨度要求達極致標準，同時排出之各式化學工業廢水須符合嚴苛環保排放與回收率標準。兆聯提供從"
+            },
+            {
+              "type": "wikilink",
+              "text": "超純水"
+            },
+            {
+              "type": "text",
+              "text": "製造系統、廢水回收處理到廠內代營運（O&M）之一條龍水務統包服務。憑藉極高之系統妥善率，兆聯幾乎成為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "海內外擴廠（含美國亞利桑那州廠）不可或缺之水系統御用工程夥伴。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (水處理設備與材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RO膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 日本及歐美高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RO逆滲透膜"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（如"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東麗"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Toray）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "離子交換樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 特殊離子交換樹脂供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "儀器儀表:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精準水質檢測分析儀器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "管閥件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型抗酸鹼PVC/不鏽鋼管閥件與水泵浦"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (水務工程EPC與O&M)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "兆聯實業"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 半導體廠房"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "超純水"
+                    },
+                    {
+                      "type": "text",
+                      "text": "系統設計施工、工業廢水處理及回收系統EPC統包、水處理系統代營運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（絕對核心客戶，台灣及美國亞利桑那廠）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等記憶體廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板及"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "PCB"
+                    },
+                    {
+                      "type": "text",
+                      "text": "大廠之水處理系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "晶圓代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（絕對核心主力客戶，隨其全球擴廠佈局至美國亞利桑那州）"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "記憶體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Micron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "等記憶體廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板/科技:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各大面板及科技廠之"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "超純水"
+                    },
+                    {
+                      "type": "text",
+                      "text": "與廢水處理"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "RO膜:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東麗"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（Toray，日本）等高階"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "RO逆滲透膜"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "離子交換樹脂:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 歐美特殊離子交換樹脂供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "水質分析:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 精準水質檢測儀器儀表供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工程分包:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 基礎水電管線土建施工分包商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $785.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "24.69",
+                  "19.68",
+                  "3.56",
+                  "7.50",
+                  "17.22"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10300.19",
+                  "9012.89",
+                  "10033.00"
+                ],
+                [
+                  "Gross Profit",
+                  "2348.52",
+                  "1821.03",
+                  "956.45"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.80",
+                  "20.20",
+                  "9.53"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "62.03",
+                  "57.25",
+                  "45.54"
+                ],
+                [
+                  "General & Admin Exp",
+                  "365.16",
+                  "328.06",
+                  "288.55"
+                ],
+                [
+                  "Operating Income",
+                  "1921.33",
+                  "1435.72",
+                  "622.36"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "18.65",
+                  "15.93",
+                  "6.20"
+                ],
+                [
+                  "Net Income",
+                  "1512.09",
+                  "1069.90",
+                  "395.35"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.68",
+                  "11.87",
+                  "3.94"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1721.54",
+                  "2071.15",
+                  "1258.20"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "233.00",
+                  "-524.07",
+                  "-240.28"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-571.09",
+                  "-2108.84",
+                  "-180.55"
+                ],
+                [
+                  "CAPEX",
+                  "-377.82",
+                  "-136.49",
+                  "-65.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4785.72",
+                  "3731.74",
+                  "3039.80",
+                  "3085.25"
+                ],
+                [
+                  "Gross Profit",
+                  "1090.16",
+                  "783.37",
+                  "669.22",
+                  "726.30"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.78",
+                  "20.99",
+                  "22.02",
+                  "23.54"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "R&D Exp",
+                  "23.34",
+                  "17.33",
+                  "17.28",
+                  "20.38"
+                ],
+                [
+                  "General & Admin Exp",
+                  "140.79",
+                  "107.80",
+                  "130.08",
+                  "106.78"
+                ],
+                [
+                  "Operating Income",
+                  "926.04",
+                  "658.24",
+                  "521.85",
+                  "599.13"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "19.35",
+                  "17.64",
+                  "17.17",
+                  "19.42"
+                ],
+                [
+                  "Net Income",
+                  "683.06",
+                  "510.75",
+                  "419.15",
+                  "484.18"
+                ],
+                [
+                  "Net Margin (%)",
+                  "14.27",
+                  "13.69",
+                  "13.79",
+                  "15.69"
+                ],
+                [
+                  "Op Cash Flow",
+                  "597.50",
+                  "-203.96",
+                  "564.23",
+                  "1065.19"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-337.56",
+                  "-66.00",
+                  "-402.70",
+                  "-230.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-733.35",
+                  "2466.28",
+                  "-13.44",
+                  "35.54"
+                ],
+                [
+                  "CAPEX",
+                  "-21.76",
+                  "-59.70",
+                  "-395.35",
+                  "-233.12"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "超純水",
+    "超純水",
+    "台積電",
+    "RO逆滲透膜",
+    "東麗",
+    "超純水",
+    "台積電",
+    "Micron",
+    "南亞科技",
+    "PCB",
+    "台積電",
+    "Micron",
+    "南亞科技",
+    "超純水",
+    "東麗",
+    "RO逆滲透膜"
+  ]
+}

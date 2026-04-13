@@ -1,0 +1,783 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/2340_台亞.md",
+  "source_path": "Pilot_Reports/Semiconductors/2340_台亞.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/2340_台亞.json",
+  "ticker": "2340",
+  "company_name": "台亞",
+  "title": "# 2340 - 台亞",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "12,370 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "16,369 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "台亞半導體 (2340) 是一家專注於"
+            },
+            {
+              "type": "wikilink",
+              "text": "化合物半導體"
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "與"
+            },
+            {
+              "type": "wikilink",
+              "text": "LED"
+            },
+            {
+              "type": "text",
+              "text": "晶粒製造的光電半導體廠商，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "富采投控"
+            },
+            {
+              "type": "text",
+              "text": "集團成員。公司核心技術涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "砷化鎵"
+            },
+            {
+              "type": "text",
+              "text": " (GaAs) 及"
+            },
+            {
+              "type": "wikilink",
+              "text": "磷化銦鎵"
+            },
+            {
+              "type": "text",
+              "text": " (InGaP) "
+            },
+            {
+              "type": "wikilink",
+              "text": "磊晶"
+            },
+            {
+              "type": "text",
+              "text": "製程，產品包括紅外線發光元件、可見光 LED 晶粒、"
+            },
+            {
+              "type": "wikilink",
+              "text": "光感測元件"
+            },
+            {
+              "type": "text",
+              "text": "及"
+            },
+            {
+              "type": "wikilink",
+              "text": "VCSEL"
+            },
+            {
+              "type": "text",
+              "text": " 雷射元件，廣泛應用於光通訊、消費電子、車用照明及工業感測等領域。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料與設備)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[磊晶]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 砷化鎵晶圓供應商如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友電工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Freiberger"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MO[[CVD]] 設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "設備商如 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Aixtron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Veeco"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 ([[磊晶]]與晶粒製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED/光電晶粒:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "台亞半導體"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (化合物半導體"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "磊晶"
+                    },
+                    {
+                      "type": "text",
+                      "text": "及晶粒製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團協同:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 母公司 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "富采投控"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 旗下 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "隆達電子"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (封裝與終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東貝光電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用照明:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用 LED 模組廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光環科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、光收發模組廠"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "LED 封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "億光電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "光寶科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "東貝光電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團內部:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "晶元光電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "隆達電子"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (富采集團內部供應)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光通訊模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光收發模組廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[磊晶]]基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "住友電工"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Freiberger"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Aixtron"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Veeco"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (MO"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CVD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 設備)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "特殊氣體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高純度化學氣體供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $28.25 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "51.36",
+                  "2.86",
+                  "1.89",
+                  "-62.16"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "4326.28",
+                  "4299.90",
+                  "3972.28"
+                ],
+                [
+                  "Gross Profit",
+                  "-137.63",
+                  "505.25",
+                  "930.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-3.18",
+                  "11.75",
+                  "23.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "80.72",
+                  "97.40",
+                  "120.17"
+                ],
+                [
+                  "R&D Exp",
+                  "572.82",
+                  "483.80",
+                  "231.23"
+                ],
+                [
+                  "General & Admin Exp",
+                  "495.33",
+                  "536.52",
+                  "497.65"
+                ],
+                [
+                  "Operating Income",
+                  "-1286.51",
+                  "-612.46",
+                  "81.38"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-29.74",
+                  "-14.24",
+                  "2.05"
+                ],
+                [
+                  "Net Income",
+                  "-1261.65",
+                  "-510.09",
+                  "307.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-29.16",
+                  "-11.86",
+                  "7.73"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-300.95",
+                  "-105.11",
+                  "317.29"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-963.98",
+                  "-2413.24",
+                  "-2855.87"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1515.48",
+                  "2820.93",
+                  "1518.56"
+                ],
+                [
+                  "CAPEX",
+                  "-1058.68",
+                  "-2804.36",
+                  "-3089.56"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1063.19",
+                  "1150.97",
+                  "966.64",
+                  "1108.72"
+                ],
+                [
+                  "Gross Profit",
+                  "-101.32",
+                  "36.23",
+                  "-41.58",
+                  "34.43"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-9.53",
+                  "3.15",
+                  "-4.30",
+                  "3.11"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "18.79",
+                  "21.90",
+                  "25.75",
+                  "23.16"
+                ],
+                [
+                  "R&D Exp",
+                  "110.79",
+                  "166.93",
+                  "162.94",
+                  "154.10"
+                ],
+                [
+                  "General & Admin Exp",
+                  "120.18",
+                  "107.83",
+                  "134.92",
+                  "141.92"
+                ],
+                [
+                  "Operating Income",
+                  "-351.09",
+                  "-260.43",
+                  "-365.18",
+                  "-284.76"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-33.02",
+                  "-22.63",
+                  "-37.78",
+                  "-25.68"
+                ],
+                [
+                  "Net Income",
+                  "-300.17",
+                  "-376.68",
+                  "-342.31",
+                  "-248.26"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-28.23",
+                  "-32.73",
+                  "-35.41",
+                  "-22.39"
+                ],
+                [
+                  "Op Cash Flow",
+                  "310.31",
+                  "-77.08",
+                  "-448.63",
+                  "-54.35"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-150.60",
+                  "-418.81",
+                  "-171.68",
+                  "-748.49"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "330.25",
+                  "440.36",
+                  "656.45",
+                  "689.78"
+                ],
+                [
+                  "CAPEX",
+                  "-161.87",
+                  "-270.13",
+                  "-242.94",
+                  "-1060.37"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "化合物半導體",
+    "磊晶",
+    "LED",
+    "富采投控",
+    "砷化鎵",
+    "磷化銦鎵",
+    "磊晶",
+    "光感測元件",
+    "VCSEL",
+    "磊晶",
+    "住友電工",
+    "Freiberger",
+    "CVD",
+    "磊晶",
+    "Aixtron",
+    "Veeco",
+    "磊晶",
+    "磊晶",
+    "富采投控",
+    "晶元光電",
+    "隆達電子",
+    "億光電子",
+    "光寶科技",
+    "東貝光電",
+    "光環科技",
+    "億光電子",
+    "光寶科技",
+    "東貝光電",
+    "晶元光電",
+    "隆達電子",
+    "磊晶",
+    "住友電工",
+    "Freiberger",
+    "Aixtron",
+    "Veeco",
+    "CVD"
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "report_id": "Pilot_Reports/Oil & Gas Refining & Marketing/6505_台塑化.md",
+  "source_path": "Pilot_Reports/Oil & Gas Refining & Marketing/6505_台塑化.md",
+  "json_path": "Pilot_Reports_JSON/Oil & Gas Refining & Marketing/6505_台塑化.json",
+  "ticker": "6505",
+  "company_name": "台塑化",
+  "title": "# 6505 - [[台塑]]化",
+  "sector_folder": "Oil & Gas Refining & Marketing",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Energy"
+      },
+      {
+        "label": "產業:",
+        "value": "Oil & Gas Refining & Marketing"
+      },
+      {
+        "label": "市值:",
+        "value": "519,165 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "422,151 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": "石化 (6505，Formosa Petrochemical / FPCC) 為台灣唯一民營石油煉製業者，隸屬"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑集團"
+            },
+            {
+              "type": "text",
+              "text": "，1992 年由"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "南亞塑膠"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台化"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "福懋"
+            },
+            {
+              "type": "text",
+              "text": "等共同投資設立，主要生產基地位於雲林縣麥寮鄉六輕工業區。核心業務涵蓋三大事業體：(1) 油品事業 (佔營收約 62%) — 煉油年產能約 54 萬桶/日，生產汽油、柴油、航空燃油、液化石油氣、燃料油、瀝青、潤滑油基礎油等，內銷透過全台約 600 座"
+            },
+            {
+              "type": "wikilink",
+              "text": "台塑"
+            },
+            {
+              "type": "text",
+              "text": "加油站 (市占約 24%)，外銷至新加坡、菲律賓、越南等地；(2) 石化事業 (佔營收約 32%) — 擁有 3 座輕油裂解廠 (烯烴廠)，"
+            },
+            {
+              "type": "wikilink",
+              "text": "乙烯"
+            },
+            {
+              "type": "text",
+              "text": "年產能約 313 萬噸 (國內市占約 69%)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "丙烯"
+            },
+            {
+              "type": "text",
+              "text": "約 251 萬噸，為台灣最大石化基本原料供應商；(3) 公用事業 (佔營收約 6%) — 汽電共生系統供應麥寮園區各工廠蒸汽、電力及工業用水。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原油與原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原油供應:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際原油供應商 — 中東、非洲、美洲等產油國"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化原料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台灣中油"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 國內另一煉油與石化原料供應體系"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (煉油與石化)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[台塑]]化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (原油煉製、輕油裂解產"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "乙烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丙烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁二烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BTX"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、汽電共生)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (石化加工與油品通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化下游:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PE/PVC 等塑膠加工；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — PS/ABS/PTA 等化纖原料；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "南亞塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 塑膠加工與電子材料；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國喬石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — SM/PS；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台橡"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 合成橡膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "油品通路 (內銷):"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "山隆通運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 油品運輸與加油站經營；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "全國加油站"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 加油站通路；"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "福懋"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 加油站經營"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空燃油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 航空煤油供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "石化原料 (佔營收約 32%):"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台塑"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "乙烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "下游，生產 PE/PVC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丙烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BTX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 下游，生產 PS/ABS/PTA"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "南亞塑膠"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 石化原料下游加工"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "國喬石化"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — SM/PS 生產"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "台橡"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "丁二烯"
+                    },
+                    {
+                      "type": "text",
+                      "text": "下游，合成橡膠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "油品內銷 (佔營收約 62%):"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "山隆通運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 油品運輸與加油站"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "全國加油站"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 加油站通路"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "福懋"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 加油站經營"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 航空燃油"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "原油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際原油供應商 (中東、美洲產油國)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "集團關聯:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台塑集團"
+                    },
+                    {
+                      "type": "text",
+                      "text": "各關係企業"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $54.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "52.40",
+                  "23.81",
+                  "0.83",
+                  "1.46",
+                  "20.18"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "626159.10",
+                  "663823.05",
+                  "712576.19"
+                ],
+                [
+                  "Gross Profit",
+                  "22068.30",
+                  "10313.78",
+                  "27022.66"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "3.52",
+                  "1.55",
+                  "3.79"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "5913.93",
+                  "5889.14",
+                  "6477.18"
+                ],
+                [
+                  "R&D Exp",
+                  "351.09",
+                  "373.17",
+                  "405.46"
+                ],
+                [
+                  "General & Admin Exp",
+                  "4924.82",
+                  "4726.96",
+                  "4800.24"
+                ],
+                [
+                  "Operating Income",
+                  "10878.47",
+                  "-675.48",
+                  "15339.78"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.74",
+                  "-0.10",
+                  "2.15"
+                ],
+                [
+                  "Net Income",
+                  "9875.33",
+                  "5970.92",
+                  "21888.84"
+                ],
+                [
+                  "Net Margin (%)",
+                  "1.58",
+                  "0.90",
+                  "3.07"
+                ],
+                [
+                  "Op Cash Flow",
+                  "43492.36",
+                  "9202.39",
+                  "45384.12"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "4988.10",
+                  "-8204.08",
+                  "-7867.08"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-23817.21",
+                  "-16196.01",
+                  "-36118.88"
+                ],
+                [
+                  "CAPEX",
+                  "-6488.10",
+                  "-9483.70",
+                  "-8390.30"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "143815.07",
+                  "145547.48",
+                  "173267.29",
+                  "148820.05"
+                ],
+                [
+                  "Gross Profit",
+                  "8152.37",
+                  "-4646.93",
+                  "6604.76",
+                  "2388.50"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "5.67",
+                  "-3.19",
+                  "3.81",
+                  "1.60"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1364.83",
+                  "1518.70",
+                  "1531.98",
+                  "1484.22"
+                ],
+                [
+                  "R&D Exp",
+                  "93.17",
+                  "87.09",
+                  "88.38",
+                  "91.87"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1387.08",
+                  "1187.37",
+                  "1200.18",
+                  "1095.35"
+                ],
+                [
+                  "Operating Income",
+                  "5307.29",
+                  "-7440.09",
+                  "3784.21",
+                  "-282.94"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.69",
+                  "-5.11",
+                  "2.18",
+                  "-0.19"
+                ],
+                [
+                  "Net Income",
+                  "5110.99",
+                  "-7504.50",
+                  "3684.79",
+                  "1294.59"
+                ],
+                [
+                  "Net Margin (%)",
+                  "3.55",
+                  "-5.16",
+                  "2.13",
+                  "0.87"
+                ],
+                [
+                  "Op Cash Flow",
+                  "8243.89",
+                  "6656.11",
+                  "13016.29",
+                  "16594.15"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "6086.72",
+                  "-479.34",
+                  "790.98",
+                  "-1334.43"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-6108.14",
+                  "-887.07",
+                  "-4947.77",
+                  "-994.12"
+                ],
+                [
+                  "CAPEX",
+                  "-2658.98",
+                  "-1224.42",
+                  "-1264.63",
+                  "-2892.76"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "台塑",
+    "台塑",
+    "台塑集團",
+    "台塑",
+    "南亞塑膠",
+    "台化",
+    "福懋",
+    "台塑",
+    "乙烯",
+    "丙烯",
+    "台灣中油",
+    "台塑",
+    "乙烯",
+    "丙烯",
+    "丁二烯",
+    "BTX",
+    "台塑",
+    "台化",
+    "南亞塑膠",
+    "國喬石化",
+    "台橡",
+    "山隆通運",
+    "全國加油站",
+    "福懋",
+    "中華航空",
+    "台塑",
+    "乙烯",
+    "台化",
+    "丙烯",
+    "BTX",
+    "南亞塑膠",
+    "國喬石化",
+    "台橡",
+    "丁二烯",
+    "山隆通運",
+    "全國加油站",
+    "福懋",
+    "中華航空",
+    "台塑集團"
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/6599_普達系統.md",
+  "source_path": "Pilot_Reports/Computer Hardware/6599_普達系統.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/6599_普達系統.json",
+  "ticker": "6599",
+  "company_name": "普達系統",
+  "title": "# 6599_普達系統",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "1,218 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "908 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "捷迅股份有限公司 (6599，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Jetwell Logistics"
+            },
+            {
+              "type": "text",
+              "text": ") 是一家提供全球整合型跨境物流服務的國際承攬業者。捷迅以進出口報關業務起家，後續擴展至航空及海運貨物承攬，目前空運承攬佔其營收近八成。有別於傳統貨代，捷迅擁有自行開發的全球物流系統 (GLS)，能提供客戶海空運、陸運、保稅倉儲及 VMI (供應商管理庫存) 的「一站式」服務。捷迅在全球 (美、港、中、星、馬) 設有多個據點，並積極佈局高經濟價值的跨境電商物流與高科技電子零組件物流。面對全球地緣政治與「兩段式供應鏈」的崛起，捷迅的高效物流調度能"
+            },
+            {
+              "type": "wikilink",
+              "text": "力成"
+            },
+            {
+              "type": "text",
+              "text": "為其贏得國際大廠訂單的核心優勢。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (運力提供者)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空運力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等國際航空公司提供機腹及全貨機艙位"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海運運力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球各大海運船公司 (航商) 提供貨櫃運力"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (國際物流承攬服務)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "貨物承攬:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "捷迅"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (國際海/空運貨物承攬、進出口報關)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "加值服務:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "捷迅"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (跨境電商物流、VMI 倉儲管理、陸運配送)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端託運客戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大聯大"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等台灣重量級電子大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "跨境電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型跨境電商平台及品牌廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "高科技電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華碩"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台達電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "大聯大"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "宏碁"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等台灣電子大廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "跨境電商:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大型跨境電商平台及品牌廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "航空公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中華航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "長榮航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "國泰航空"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等提供機腹與全貨機艙位"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "海運船公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際貨櫃船公司提供海運運力"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "內陸運輸:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 各國當地內陸運輸及報關行合作夥伴"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $58.00 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "21.64",
+                  "N/A",
+                  "0.90",
+                  "2.20",
+                  "9.71"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "1171.60",
+                  "693.22",
+                  "765.84"
+                ],
+                [
+                  "Gross Profit",
+                  "286.74",
+                  "179.73",
+                  "174.85"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "24.47",
+                  "25.93",
+                  "22.83"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "94.86",
+                  "77.80",
+                  "75.24"
+                ],
+                [
+                  "R&D Exp",
+                  "23.08",
+                  "22.76",
+                  "20.98"
+                ],
+                [
+                  "General & Admin Exp",
+                  "101.44",
+                  "65.54",
+                  "70.59"
+                ],
+                [
+                  "Operating Income",
+                  "67.37",
+                  "13.64",
+                  "8.05"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.75",
+                  "1.97",
+                  "1.05"
+                ],
+                [
+                  "Net Income",
+                  "58.31",
+                  "17.30",
+                  "5.50"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.98",
+                  "2.50",
+                  "0.72"
+                ],
+                [
+                  "Op Cash Flow",
+                  "31.49",
+                  "127.30",
+                  "-3.73"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-62.65",
+                  "-2.63",
+                  "-5.19"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-8.38",
+                  "-14.82",
+                  "-59.05"
+                ],
+                [
+                  "CAPEX",
+                  "-2.68",
+                  "-2.57",
+                  "-5.17"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Jetwell Logistics",
+    "力成",
+    "中華航空",
+    "長榮航空",
+    "國泰航空",
+    "鴻海",
+    "華碩",
+    "台達電",
+    "佳世達",
+    "大聯大",
+    "宏碁",
+    "鴻海",
+    "華碩",
+    "台達電",
+    "佳世達",
+    "大聯大",
+    "宏碁",
+    "中華航空",
+    "長榮航空",
+    "國泰航空"
+  ]
+}

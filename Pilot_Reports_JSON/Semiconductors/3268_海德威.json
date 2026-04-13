@@ -1,0 +1,548 @@
+{
+  "report_id": "Pilot_Reports/Semiconductors/3268_海德威.md",
+  "source_path": "Pilot_Reports/Semiconductors/3268_海德威.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductors/3268_海德威.json",
+  "ticker": "3268",
+  "company_name": "海德威",
+  "title": "# 3268 - 海德威",
+  "sector_folder": "Semiconductors",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductors"
+      },
+      {
+        "label": "市值:",
+        "value": "542 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "704 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "海德威電子 (3268) 提供 IC 晶片系統整合服務與"
+            },
+            {
+              "type": "wikilink",
+              "text": "嵌入式系統"
+            },
+            {
+              "type": "text",
+              "text": "設計，運用 "
+            },
+            {
+              "type": "wikilink",
+              "text": "MCU"
+            },
+            {
+              "type": "text",
+              "text": " 進行軟韌體開發。產品涵蓋視訊模組、音訊模組、工業控制、觸控、顯示驅動及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AIoT"
+            },
+            {
+              "type": "text",
+              "text": "/RF 等應用方案。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (IC 供應)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MCU 晶片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凌陽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新唐"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "盛群"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 等 MCU 供應"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (系統整合)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "嵌入式設計:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "海德威"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (MCU 軟韌體開發、系統整合方案)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端應用)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " USB Camera、電子琴、馬達控制"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控設備客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "AIoT:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 無線充電及觸控方案"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費電子:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 台灣及中國消費電子 OEM/ODM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "工業控制:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 工控設備製造商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "MCU:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "凌陽"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "新唐"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "盛群"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 嵌入式系統設計公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $15.60 as of 2026-04-12 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "0.59",
+                  "1.18",
+                  "-35.14"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "922.21",
+                  "972.65",
+                  "1050.45"
+                ],
+                [
+                  "Gross Profit",
+                  "58.14",
+                  "62.41",
+                  "68.80"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "6.30",
+                  "6.42",
+                  "6.55"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17.78",
+                  "19.88",
+                  "19.52"
+                ],
+                [
+                  "R&D Exp",
+                  "29.43",
+                  "28.28",
+                  "25.82"
+                ],
+                [
+                  "General & Admin Exp",
+                  "32.85",
+                  "34.36",
+                  "31.27"
+                ],
+                [
+                  "Operating Income",
+                  "-21.91",
+                  "-20.11",
+                  "-7.81"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.38",
+                  "-2.07",
+                  "-0.74"
+                ],
+                [
+                  "Net Income",
+                  "-46.34",
+                  "8.83",
+                  "-6.57"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-5.02",
+                  "0.91",
+                  "-0.63"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-13.04",
+                  "-32.36",
+                  "53.93"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "36.53",
+                  "-141.85",
+                  "43.76"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-85.70",
+                  "101.06",
+                  "4.47"
+                ],
+                [
+                  "CAPEX",
+                  "-2.12",
+                  "-2.10",
+                  "-1.55"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "205.59",
+                  "235.88",
+                  "291.00",
+                  "189.73"
+                ],
+                [
+                  "Gross Profit",
+                  "15.60",
+                  "12.72",
+                  "15.74",
+                  "14.08"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "7.59",
+                  "5.39",
+                  "5.41",
+                  "7.42"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4.42",
+                  "4.71",
+                  "4.01",
+                  "4.64"
+                ],
+                [
+                  "R&D Exp",
+                  "7.76",
+                  "7.51",
+                  "6.71",
+                  "7.45"
+                ],
+                [
+                  "General & Admin Exp",
+                  "7.41",
+                  "8.58",
+                  "8.25",
+                  "8.61"
+                ],
+                [
+                  "Operating Income",
+                  "-3.98",
+                  "-8.08",
+                  "-3.22",
+                  "-6.62"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.94",
+                  "-3.43",
+                  "-1.11",
+                  "-3.49"
+                ],
+                [
+                  "Net Income",
+                  "2.00",
+                  "-0.91",
+                  "-45.22",
+                  "-2.21"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.98",
+                  "-0.38",
+                  "-15.54",
+                  "-1.17"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23.27",
+                  "-19.13",
+                  "19.71",
+                  "-36.89"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-2.76",
+                  "-1.34",
+                  "1.90",
+                  "38.72"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-20.04",
+                  "-9.20",
+                  "-4.12",
+                  "-52.35"
+                ],
+                [
+                  "CAPEX",
+                  "-1.27",
+                  "-0.10",
+                  "-0.52",
+                  "-0.22"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "嵌入式系統",
+    "MCU",
+    "AIoT",
+    "凌陽",
+    "新唐",
+    "盛群",
+    "凌陽",
+    "新唐",
+    "盛群"
+  ]
+}

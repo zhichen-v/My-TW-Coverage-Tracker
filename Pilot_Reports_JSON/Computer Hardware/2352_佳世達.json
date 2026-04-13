@@ -1,0 +1,778 @@
+{
+  "report_id": "Pilot_Reports/Computer Hardware/2352_佳世達.md",
+  "source_path": "Pilot_Reports/Computer Hardware/2352_佳世達.md",
+  "json_path": "Pilot_Reports_JSON/Computer Hardware/2352_佳世達.json",
+  "ticker": "2352",
+  "company_name": "佳世達",
+  "title": "# 2352 - 佳世達",
+  "sector_folder": "Computer Hardware",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Computer Hardware"
+      },
+      {
+        "label": "市值:",
+        "value": "37,616 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "122,606 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "佳世達科技 (2352，"
+            },
+            {
+              "type": "wikilink",
+              "text": "Qisda Corporation"
+            },
+            {
+              "type": "text",
+              "text": ") 成立於 1984 年，總部位於桃園，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "明基"
+            },
+            {
+              "type": "text",
+              "text": " ("
+            },
+            {
+              "type": "wikilink",
+              "text": "BenQ"
+            },
+            {
+              "type": "text",
+              "text": ") 集團核心公司，以設計製造服務 (DMS) 起家，現已轉型為橫跨資訊、醫療、智能方案、網路通訊及材料科學之大艦隊集團。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "五大事業群：(1) DMS 代工：顯示器、投影機、網路攝影機；(2) 品牌行銷："
+            },
+            {
+              "type": "wikilink",
+              "text": "BenQ"
+            },
+            {
+              "type": "text",
+              "text": " 品牌顯示器、投影機、dvLED 顯示方案；(3) 醫療服務：經營兩家大型綜合醫院，醫療耗材及設備之 ODM/OEM，醫療事業近年成長 19%；(4) 智能方案：智慧企業、智慧製造、智慧教育、AI 邊緣運算 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "Edge AI"
+            },
+            {
+              "type": "text",
+              "text": ")，成長達 20%；(5) 網通事業：LAN/WAN 網通設備及行動寬頻產品。旗下重要子公司包括"
+            },
+            {
+              "type": "wikilink",
+              "text": "明泰科技"
+            },
+            {
+              "type": "text",
+              "text": " (Alpha Networks，網通)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "友通資訊"
+            },
+            {
+              "type": "text",
+              "text": " (DFI，嵌入式 IPC)、Partner Tech (POS 系統) 等。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (面板與電子元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AUO)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 液晶面板/dvLED 模組"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 投影機光學引擎 (DLP/LCD 投影技術)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電子元件:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "MLCC"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、IC 晶片、記憶體模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (DMS 設計製造與集團事業)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DMS 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (顯示器/投影機/攝影機代工)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BenQ"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (顯示器/投影機/dvLED 品牌)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療事業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (兩家綜合醫院、醫療耗材設備)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "智能方案:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "佳世達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (智慧製造/教育/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Edge AI"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端客戶與通路)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "消費通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 IT 通路商 — BenQ 品牌產品"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫院及醫療器材經銷商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 製造業及教育機構 — 智能方案"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "網通品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 透過子公司"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "明泰科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": "服務全球網通客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "品牌通路:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球 IT 通路商 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BenQ"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 品牌顯示器/投影機/dvLED"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療機構:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 醫院及醫療器材經銷商 — 醫療耗材及設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "企業客戶:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 智慧製造及智慧教育解決方案終端客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "DMS 代工:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際品牌客戶 — 顯示器及投影機 ODM 代工"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友達"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (AUO)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "群創"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Innolux) — 液晶面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學引擎:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " DLP/LCD 投影光學引擎供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "子公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "明泰科技"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Alpha Networks)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "友通資訊"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (DFI) — 集團事業協同"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療設備:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際醫療設備零組件供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $23.80 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "37.19",
+                  "12.05",
+                  "0.18",
+                  "1.32",
+                  "14.64"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "207904.50",
+                  "201666.20",
+                  "203594.78"
+                ],
+                [
+                  "Gross Profit",
+                  "35020.81",
+                  "33181.42",
+                  "33075.90"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "16.84",
+                  "16.45",
+                  "16.25"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "17979.67",
+                  "15741.18",
+                  "14955.09"
+                ],
+                [
+                  "R&D Exp",
+                  "6989.24",
+                  "6650.66",
+                  "6943.94"
+                ],
+                [
+                  "General & Admin Exp",
+                  "6496.56",
+                  "6304.92",
+                  "6198.41"
+                ],
+                [
+                  "Operating Income",
+                  "3555.34",
+                  "4484.65",
+                  "4978.46"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.71",
+                  "2.22",
+                  "2.45"
+                ],
+                [
+                  "Net Income",
+                  "1142.60",
+                  "2163.95",
+                  "2975.73"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.55",
+                  "1.07",
+                  "1.46"
+                ],
+                [
+                  "Op Cash Flow",
+                  "9105.89",
+                  "3301.38",
+                  "13611.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-7287.23",
+                  "-8793.97",
+                  "-8773.55"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-975.85",
+                  "4822.19",
+                  "-10518.02"
+                ],
+                [
+                  "CAPEX",
+                  "-5792.43",
+                  "-5781.54",
+                  "-5335.35"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "52161.24",
+                  "52532.30",
+                  "53463.95",
+                  "49747.01"
+                ],
+                [
+                  "Gross Profit",
+                  "8897.05",
+                  "8874.87",
+                  "8627.43",
+                  "8621.46"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "17.06",
+                  "16.89",
+                  "16.14",
+                  "17.33"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "4578.21",
+                  "4573.24",
+                  "4503.27",
+                  "4324.95"
+                ],
+                [
+                  "R&D Exp",
+                  "1787.18",
+                  "1776.87",
+                  "1755.38",
+                  "1669.81"
+                ],
+                [
+                  "General & Admin Exp",
+                  "1701.83",
+                  "1601.42",
+                  "1583.97",
+                  "1609.35"
+                ],
+                [
+                  "Operating Income",
+                  "829.83",
+                  "923.35",
+                  "784.82",
+                  "1017.35"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "1.59",
+                  "1.76",
+                  "1.47",
+                  "2.05"
+                ],
+                [
+                  "Net Income",
+                  "52.16",
+                  "251.25",
+                  "356.24",
+                  "482.95"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.10",
+                  "0.48",
+                  "0.67",
+                  "0.97"
+                ],
+                [
+                  "Op Cash Flow",
+                  "2935.02",
+                  "2869.30",
+                  "2405.56",
+                  "896.01"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-3192.58",
+                  "-1507.32",
+                  "-193.29",
+                  "-2394.04"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "1634.32",
+                  "-3078.10",
+                  "609.70",
+                  "-141.75"
+                ],
+                [
+                  "CAPEX",
+                  "-1360.27",
+                  "-1594.15",
+                  "-1324.93",
+                  "-1513.09"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "Qisda Corporation",
+    "明基",
+    "BenQ",
+    "BenQ",
+    "Edge AI",
+    "明泰科技",
+    "友通資訊",
+    "友達",
+    "群創",
+    "MLCC",
+    "BenQ",
+    "Edge AI",
+    "明泰科技",
+    "BenQ",
+    "友達",
+    "群創",
+    "明泰科技",
+    "友通資訊"
+  ]
+}

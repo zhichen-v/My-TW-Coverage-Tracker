@@ -1,0 +1,778 @@
+{
+  "report_id": "Pilot_Reports/Electrical Equipment & Parts/1514_亞力.md",
+  "source_path": "Pilot_Reports/Electrical Equipment & Parts/1514_亞力.md",
+  "json_path": "Pilot_Reports_JSON/Electrical Equipment & Parts/1514_亞力.json",
+  "ticker": "1514",
+  "company_name": "亞力",
+  "title": "# 1514 - 亞力",
+  "sector_folder": "Electrical Equipment & Parts",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Industrials"
+      },
+      {
+        "label": "產業:",
+        "value": "Electrical Equipment & Parts"
+      },
+      {
+        "label": "市值:",
+        "value": "31,015 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "32,079 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "亞力電機 (1514，Allis Electric) 為台灣重電設備領導廠商，產品涵蓋變壓器 (含模塑型)、高低壓配電盤、氣封型開關及真空斷路器。電力電子事業含"
+            },
+            {
+              "type": "wikilink",
+              "text": "UPS"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "太陽能"
+            },
+            {
+              "type": "text",
+              "text": "逆變器、"
+            },
+            {
+              "type": "wikilink",
+              "text": "電動巴士"
+            },
+            {
+              "type": "text",
+              "text": "充電樁及微電網。亦為軌道工業 ("
+            },
+            {
+              "type": "wikilink",
+              "text": "高鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台北捷運"
+            },
+            {
+              "type": "text",
+              "text": ") 提供電力/號誌/監控系統機電統包。受惠"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "強韌電網計畫、"
+            },
+            {
+              "type": "wikilink",
+              "text": "半導體"
+            },
+            {
+              "type": "text",
+              "text": "廠擴廠及"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI 伺服器"
+            },
+            {
+              "type": "wikilink",
+              "text": "資料中心"
+            },
+            {
+              "type": "text",
+              "text": "電源設備。客戶涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "台積電"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "聯電"
+            },
+            {
+              "type": "text",
+              "text": "。上游矽鋼片來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "日本製鐵"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "POSCO"
+            },
+            {
+              "type": "text",
+              "text": "，銅材來自"
+            },
+            {
+              "type": "wikilink",
+              "text": "華新麗華"
+            },
+            {
+              "type": "text",
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽鋼片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本製鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "POSCO"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (製造與工程)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "亞力"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (變壓器/配電盤/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "UPS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/充電樁/軌道機電統包)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (終端)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 強韌電網計畫"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 擴廠用電"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軌道:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 機電系統"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 強韌電網"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "半導體:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台積電"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 擴廠用電設備"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "軌道:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "高鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台北捷運"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽鋼片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "日本製鐵"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "POSCO"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅材:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $114.50 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "35.45",
+                  "24.41",
+                  "2.93",
+                  "4.89",
+                  "27.83"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "10570.66",
+                  "8877.88",
+                  "9483.39"
+                ],
+                [
+                  "Gross Profit",
+                  "1980.86",
+                  "1703.72",
+                  "1685.88"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "18.74",
+                  "19.19",
+                  "17.78"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "505.46",
+                  "466.38",
+                  "413.00"
+                ],
+                [
+                  "R&D Exp",
+                  "130.89",
+                  "121.50",
+                  "123.52"
+                ],
+                [
+                  "General & Admin Exp",
+                  "263.56",
+                  "221.85",
+                  "190.68"
+                ],
+                [
+                  "Operating Income",
+                  "1080.94",
+                  "893.98",
+                  "958.67"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.23",
+                  "10.07",
+                  "10.11"
+                ],
+                [
+                  "Net Income",
+                  "893.31",
+                  "801.22",
+                  "751.70"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.45",
+                  "9.02",
+                  "7.93"
+                ],
+                [
+                  "Op Cash Flow",
+                  "488.68",
+                  "693.67",
+                  "-105.84"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-88.54",
+                  "-105.79",
+                  "-161.64"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "262.16",
+                  "-323.45",
+                  "347.89"
+                ],
+                [
+                  "CAPEX",
+                  "-113.18",
+                  "-155.21",
+                  "-229.34"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3165.70",
+                  "2811.62",
+                  "2576.35",
+                  "2016.99"
+                ],
+                [
+                  "Gross Profit",
+                  "635.05",
+                  "498.65",
+                  "470.13",
+                  "377.02"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "20.06",
+                  "17.74",
+                  "18.25",
+                  "18.69"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "152.28",
+                  "123.40",
+                  "129.57",
+                  "100.21"
+                ],
+                [
+                  "R&D Exp",
+                  "31.03",
+                  "35.29",
+                  "32.68",
+                  "31.89"
+                ],
+                [
+                  "General & Admin Exp",
+                  "82.06",
+                  "64.32",
+                  "65.78",
+                  "51.40"
+                ],
+                [
+                  "Operating Income",
+                  "369.68",
+                  "275.65",
+                  "242.10",
+                  "193.51"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "11.68",
+                  "9.80",
+                  "9.40",
+                  "9.59"
+                ],
+                [
+                  "Net Income",
+                  "301.36",
+                  "242.30",
+                  "188.19",
+                  "161.45"
+                ],
+                [
+                  "Net Margin (%)",
+                  "9.52",
+                  "8.62",
+                  "7.30",
+                  "8.00"
+                ],
+                [
+                  "Op Cash Flow",
+                  "998.77",
+                  "-244.55",
+                  "194.00",
+                  "-459.54"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-64.44",
+                  "-15.25",
+                  "-22.81",
+                  "13.95"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-705.33",
+                  "329.19",
+                  "386.44",
+                  "251.86"
+                ],
+                [
+                  "CAPEX",
+                  "-48.45",
+                  "-21.14",
+                  "-26.70",
+                  "-16.90"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "UPS",
+    "太陽能",
+    "電動巴士",
+    "高鐵",
+    "台鐵",
+    "台北捷運",
+    "台電",
+    "半導體",
+    "AI 伺服器",
+    "資料中心",
+    "台電",
+    "台積電",
+    "聯電",
+    "日本製鐵",
+    "POSCO",
+    "華新麗華",
+    "日本製鐵",
+    "POSCO",
+    "華新麗華",
+    "UPS",
+    "台電",
+    "台積電",
+    "聯電",
+    "高鐵",
+    "台鐵",
+    "台北捷運",
+    "台電",
+    "台積電",
+    "聯電",
+    "高鐵",
+    "台鐵",
+    "台北捷運",
+    "日本製鐵",
+    "POSCO",
+    "華新麗華"
+  ]
+}

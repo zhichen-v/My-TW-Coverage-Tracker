@@ -1,0 +1,703 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3653_健策.md",
+  "source_path": "Pilot_Reports/Electronic Components/3653_健策.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3653_健策.json",
+  "ticker": "3653",
+  "company_name": "健策",
+  "title": "# 3653 - 健策",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "578,861 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "562,535 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "健策精密 (Kenmec) 為台灣最大的 "
+            },
+            {
+              "type": "strong",
+              "text": "均熱片 (Vapor Chamber)"
+            },
+            {
+              "type": "text",
+              "text": " 供應商，也是全球精密沖壓及"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "解決方案的領導者。\n公司產品廣泛應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " 運算、車用電子及通訊領域。\n核心優勢與亮點：\n1.  "
+            },
+            {
+              "type": "strong",
+              "text": "[[AI 伺服器]]供應鏈"
+            },
+            {
+              "type": "text",
+              "text": ": 為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": " 及 "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": " 的關鍵供應商，供應其 GPU 與 CPU 所需的高階均熱片與"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "模組。\n2.  "
+            },
+            {
+              "type": "strong",
+              "text": "散熱技術領先"
+            },
+            {
+              "type": "text",
+              "text": ": 具備冷鍛均熱片、真空腔"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "技術，並積極佈局 "
+            },
+            {
+              "type": "wikilink",
+              "text": "AI"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "所需的 "
+            },
+            {
+              "type": "strong",
+              "text": "液冷"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "模組與微通道蓋板 (MCL)。\n3.  "
+            },
+            {
+              "type": "strong",
+              "text": "伺服器扣件 (ILM)"
+            },
+            {
+              "type": "text",
+              "text": ": 具備"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "處理器"
+            },
+            {
+              "type": "wikilink",
+              "text": "連接器"
+            },
+            {
+              "type": "text",
+              "text": "緊固件 (ILM) 的設計與製造能力，在"
+            },
+            {
+              "type": "wikilink",
+              "text": "伺服器"
+            },
+            {
+              "type": "text",
+              "text": "市場具備極高市佔。\n4.  "
+            },
+            {
+              "type": "strong",
+              "text": "自動化能量"
+            },
+            {
+              "type": "text",
+              "text": ": 具備自有"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "設備開發團隊，支援生產線高度"
+            },
+            {
+              "type": "wikilink",
+              "text": "自動化"
+            },
+            {
+              "type": "text",
+              "text": "，提升產品良率與交期競爭力。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "*   "
+            },
+            {
+              "type": "strong",
+              "text": "上游"
+            },
+            {
+              "type": "text",
+              "text": ": 銅材、導熱材料、電子組件原料。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "中游"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "strong",
+              "text": "健策 (3653)"
+            },
+            {
+              "type": "text",
+              "text": " - 均熱片、ILM 扣件、"
+            },
+            {
+              "type": "wikilink",
+              "text": "散熱"
+            },
+            {
+              "type": "text",
+              "text": "模組設計製造。\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "下游"
+            },
+            {
+              "type": "text",
+              "text": ":\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "處理器大廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "AMD"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "Intel"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "NVIDIA"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "伺服器代工廠"
+            },
+            {
+              "type": "text",
+              "text": ": "
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "廣達"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "wikilink",
+              "text": "緯創"
+            },
+            {
+              "type": "text",
+              "text": ".\n*   "
+            },
+            {
+              "type": "strong",
+              "text": "車用與通訊"
+            },
+            {
+              "type": "text",
+              "text": ": 汽車 Tier-1 供應商, 基站設備業者。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "*   知名"
+                },
+                {
+                  "type": "wikilink",
+                  "text": "半導體"
+                },
+                {
+                  "type": "text",
+                  "text": "巨頭："
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AMD"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "Intel"
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "NVIDIA"
+                },
+                {
+                  "type": "text",
+                  "text": "。\n*   "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "雲端服務"
+                },
+                {
+                  "type": "text",
+                  "text": "供應商 ("
+                },
+                {
+                  "type": "wikilink",
+                  "text": "CSP"
+                },
+                {
+                  "type": "text",
+                  "text": ") 的 "
+                },
+                {
+                  "type": "wikilink",
+                  "text": "AI"
+                },
+                {
+                  "type": "text",
+                  "text": " 加速器專案。\n*   歐系與美系車用電子客戶。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $3,945.00 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "109.89",
+                  "31.14",
+                  "28.55",
+                  "25.03",
+                  "79.33"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "20275.58",
+                  "14278.19",
+                  "12062.66"
+                ],
+                [
+                  "Gross Profit",
+                  "8433.99",
+                  "5365.47",
+                  "4042.42"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.60",
+                  "37.58",
+                  "33.51"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "241.21",
+                  "182.24",
+                  "195.65"
+                ],
+                [
+                  "R&D Exp",
+                  "739.82",
+                  "597.52",
+                  "527.28"
+                ],
+                [
+                  "General & Admin Exp",
+                  "954.82",
+                  "787.15",
+                  "642.53"
+                ],
+                [
+                  "Operating Income",
+                  "6498.13",
+                  "3798.56",
+                  "2676.96"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "32.05",
+                  "26.60",
+                  "22.19"
+                ],
+                [
+                  "Net Income",
+                  "5277.16",
+                  "3427.78",
+                  "2298.19"
+                ],
+                [
+                  "Net Margin (%)",
+                  "26.03",
+                  "24.01",
+                  "19.05"
+                ],
+                [
+                  "Op Cash Flow",
+                  "4773.52",
+                  "2890.68",
+                  "3057.22"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1013.58",
+                  "-2563.08",
+                  "-286.81"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "3076.72",
+                  "-2215.01",
+                  "-1917.00"
+                ],
+                [
+                  "CAPEX",
+                  "-1193.53",
+                  "-632.02",
+                  "-467.93"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "5272.37",
+                  "5069.50",
+                  "5181.40",
+                  "4752.30"
+                ],
+                [
+                  "Gross Profit",
+                  "2174.73",
+                  "1975.65",
+                  "2149.12",
+                  "2134.49"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "41.25",
+                  "38.97",
+                  "41.48",
+                  "44.91"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "67.83",
+                  "59.63",
+                  "56.20",
+                  "57.56"
+                ],
+                [
+                  "R&D Exp",
+                  "202.02",
+                  "193.78",
+                  "166.06",
+                  "177.97"
+                ],
+                [
+                  "General & Admin Exp",
+                  "256.58",
+                  "237.82",
+                  "227.43",
+                  "232.99"
+                ],
+                [
+                  "Operating Income",
+                  "1648.30",
+                  "1484.42",
+                  "1699.44",
+                  "1665.97"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "31.26",
+                  "29.28",
+                  "32.80",
+                  "35.06"
+                ],
+                [
+                  "Net Income",
+                  "1429.02",
+                  "1355.93",
+                  "1121.26",
+                  "1370.96"
+                ],
+                [
+                  "Net Margin (%)",
+                  "27.10",
+                  "26.75",
+                  "21.64",
+                  "28.85"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1502.29",
+                  "891.28",
+                  "953.35",
+                  "1426.60"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-564.15",
+                  "-11.30",
+                  "-192.58",
+                  "-245.56"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-12.56",
+                  "-2084.44",
+                  "5185.68",
+                  "-11.96"
+                ],
+                [
+                  "CAPEX",
+                  "-376.39",
+                  "-340.38",
+                  "-216.69",
+                  "-260.08"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "散熱",
+    "伺服器",
+    "AI",
+    "AI 伺服器",
+    "AMD",
+    "Intel",
+    "NVIDIA",
+    "散熱",
+    "散熱",
+    "AI",
+    "伺服器",
+    "散熱",
+    "伺服器",
+    "連接器",
+    "伺服器",
+    "自動化",
+    "自動化",
+    "散熱",
+    "AMD",
+    "Intel",
+    "NVIDIA",
+    "鴻海",
+    "廣達",
+    "緯創",
+    "半導體",
+    "AMD",
+    "Intel",
+    "NVIDIA",
+    "雲端服務",
+    "CSP",
+    "AI"
+  ]
+}

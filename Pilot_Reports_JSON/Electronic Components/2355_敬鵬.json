@@ -1,0 +1,845 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/2355_敬鵬.md",
+  "source_path": "Pilot_Reports/Electronic Components/2355_敬鵬.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/2355_敬鵬.json",
+  "ticker": "2355",
+  "company_name": "敬鵬",
+  "title": "# 2355 - 敬鵬",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "17,867 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "13,106 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "敬鵬工業 (2355) 是全球第四大"
+            },
+            {
+              "type": "wikilink",
+              "text": "車用 PCB"
+            },
+            {
+              "type": "text",
+              "text": " 製造商，全球市占率約 10%。車用板占 2024 年營收約 78%，網通板占 10%，工業應用占 8%。主要客戶為全球前 20 大汽車電子系統大廠，包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Bosch"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Denso"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Continental"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Magna"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Delphi"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Visteon"
+            },
+            {
+              "type": "text",
+              "text": "。歐洲合作品牌包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "VW"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Stellantis"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Toyota"
+            },
+            {
+              "type": "text",
+              "text": "，美國合作包括 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Lucid Motors"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Rivian"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GM"
+            },
+            {
+              "type": "text",
+              "text": "。產能分布台灣 55%、中國 37%、泰國 8%。已取得 AS 9100 航太認證，切入"
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "板。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車規級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "化學品:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 高可靠度 PCB 製程化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (車用 PCB 製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用 PCB:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "敬鵬"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (全球第四大車用 PCB，台灣/中國/泰國廠)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (車用 Tier 1)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐洲:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Magna"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Visteon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美國:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lucid Motors"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rivian"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[低軌衛星]]:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": " PCB 客戶"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐系 Tier 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Bosch"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Continental"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Denso"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Magna"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Visteon"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "美系車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Lucid Motors"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Rivian"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GM"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "歐系品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "VW"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Stellantis"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Toyota"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "CCL:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車規級"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "銅箔"
+                    },
+                    {
+                      "type": "text",
+                      "text": "基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "競爭同業:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "定穎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (台灣車用 PCB)、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "CMK"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (日本)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $44.95 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "26.76",
+                  "27.75",
+                  "1.13",
+                  "1.03",
+                  "10.60"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "15780.87",
+                  "16355.21",
+                  "16749.42"
+                ],
+                [
+                  "Gross Profit",
+                  "1815.17",
+                  "2370.16",
+                  "2189.58"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "11.50",
+                  "14.49",
+                  "13.07"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "448.03",
+                  "435.60",
+                  "369.50"
+                ],
+                [
+                  "R&D Exp",
+                  "322.64",
+                  "338.57",
+                  "330.01"
+                ],
+                [
+                  "General & Admin Exp",
+                  "516.89",
+                  "522.70",
+                  "532.94"
+                ],
+                [
+                  "Operating Income",
+                  "527.61",
+                  "1073.30",
+                  "957.14"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "3.34",
+                  "6.56",
+                  "5.71"
+                ],
+                [
+                  "Net Income",
+                  "634.32",
+                  "1132.42",
+                  "763.03"
+                ],
+                [
+                  "Net Margin (%)",
+                  "4.02",
+                  "6.92",
+                  "4.56"
+                ],
+                [
+                  "Op Cash Flow",
+                  "1669.46",
+                  "1809.33",
+                  "2395.34"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1231.25",
+                  "-2989.27",
+                  "-1126.15"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "-838.90",
+                  "-521.81",
+                  "-92.51"
+                ],
+                [
+                  "CAPEX",
+                  "-874.33",
+                  "-668.60",
+                  "-286.89"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "3990.93",
+                  "3858.69",
+                  "4090.81",
+                  "3840.45"
+                ],
+                [
+                  "Gross Profit",
+                  "557.40",
+                  "331.31",
+                  "443.42",
+                  "483.05"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "13.97",
+                  "8.59",
+                  "10.84",
+                  "12.58"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "117.92",
+                  "112.70",
+                  "109.55",
+                  "107.85"
+                ],
+                [
+                  "R&D Exp",
+                  "83.51",
+                  "73.75",
+                  "79.05",
+                  "86.33"
+                ],
+                [
+                  "General & Admin Exp",
+                  "132.75",
+                  "124.22",
+                  "133.50",
+                  "126.43"
+                ],
+                [
+                  "Operating Income",
+                  "223.22",
+                  "20.63",
+                  "121.31",
+                  "162.45"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "5.59",
+                  "0.53",
+                  "2.97",
+                  "4.23"
+                ],
+                [
+                  "Net Income",
+                  "254.25",
+                  "74.25",
+                  "97.49",
+                  "208.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "6.37",
+                  "1.92",
+                  "2.38",
+                  "5.42"
+                ],
+                [
+                  "Op Cash Flow",
+                  "219.64",
+                  "392.17",
+                  "755.85",
+                  "301.80"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-442.07",
+                  "309.00",
+                  "-100.66",
+                  "-997.53"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "143.52",
+                  "-830.47",
+                  "-82.86",
+                  "-69.09"
+                ],
+                [
+                  "CAPEX",
+                  "-171.30",
+                  "-212.86",
+                  "-184.47",
+                  "-305.70"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "車用 PCB",
+    "Bosch",
+    "Denso",
+    "Continental",
+    "Magna",
+    "Delphi",
+    "Visteon",
+    "VW",
+    "Stellantis",
+    "Toyota",
+    "Tesla",
+    "Lucid Motors",
+    "Rivian",
+    "GM",
+    "低軌衛星",
+    "銅箔",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "Magna",
+    "Visteon",
+    "Tesla",
+    "Lucid Motors",
+    "Rivian",
+    "GM",
+    "低軌衛星",
+    "低軌衛星",
+    "Bosch",
+    "Continental",
+    "Denso",
+    "Magna",
+    "Visteon",
+    "Tesla",
+    "Lucid Motors",
+    "Rivian",
+    "GM",
+    "VW",
+    "Stellantis",
+    "Toyota",
+    "銅箔",
+    "定穎",
+    "CMK"
+  ]
+}

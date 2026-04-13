@@ -1,0 +1,493 @@
+{
+  "report_id": "Pilot_Reports/Semiconductor Equipment & Materials/6787_晶瑞光.md",
+  "source_path": "Pilot_Reports/Semiconductor Equipment & Materials/6787_晶瑞光.md",
+  "json_path": "Pilot_Reports_JSON/Semiconductor Equipment & Materials/6787_晶瑞光.json",
+  "ticker": "6787",
+  "company_name": "晶瑞光",
+  "title": "# 6787_晶瑞光",
+  "sector_folder": "Semiconductor Equipment & Materials",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Semiconductor Equipment & Materials"
+      },
+      {
+        "label": "市值:",
+        "value": "2,073 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "1,785 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "晶瑞光 (6787) 是一家專業的光學"
+            },
+            {
+              "type": "wikilink",
+              "text": "濾光片"
+            },
+            {
+              "type": "text",
+              "text": "及光學元件製造商，產品涵蓋"
+            },
+            {
+              "type": "wikilink",
+              "text": "窄帶通過濾光片"
+            },
+            {
+              "type": "text",
+              "text": " (NBPF)、"
+            },
+            {
+              "type": "wikilink",
+              "text": "藍色玻璃"
+            },
+            {
+              "type": "text",
+              "text": "濾光片 (NBG)、UVIR/IR Cut 濾光片、高反射濾光片、抗反射濾光片、分光鏡及二向色濾光片。產品應用於"
+            },
+            {
+              "type": "wikilink",
+              "text": "3D 感測"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ToF"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "ADAS"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "DMS"
+            },
+            {
+              "type": "text",
+              "text": " 及黃光製程。近年開發雙光模組及黃光製程產品，瞄準商用"
+            },
+            {
+              "type": "wikilink",
+              "text": "無人機"
+            },
+            {
+              "type": "text",
+              "text": "、智慧監控及"
+            },
+            {
+              "type": "wikilink",
+              "text": "協作機器人"
+            },
+            {
+              "type": "text",
+              "text": "等新興應用。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (光學材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學級玻璃基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍍膜材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 薄膜鍍膜用靶材及化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (光學元件製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "濾光片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "晶瑞光"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (NBPF/NBG/IR Cut 濾光片及光學鍍膜)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (模組與系統)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 手機及車用 3D 感測模組廠"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "ADAS/DMS:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用先進駕駛輔助系統"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無人機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 商用無人機雙光模組"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "3D 感測:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 手機及車用 3D 感測模組製造商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "ADAS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "DMS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 車用光學客戶"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "無人機:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國內商用無人機廠商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "光學玻璃:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 光學級玻璃基板供應"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "鍍膜材料:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 薄膜靶材及化學品"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.60 as of 2026-03-26 | TTM 截至 2025-06-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "N/A",
+                  "N/A",
+                  "17.14",
+                  "2.94",
+                  "-13.58"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "157.09",
+                  "110.30",
+                  "71.24"
+                ],
+                [
+                  "Gross Profit",
+                  "-77.47",
+                  "-65.23",
+                  "-77.72"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "-49.31",
+                  "-59.14",
+                  "-109.10"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "14.02",
+                  "10.72",
+                  "5.17"
+                ],
+                [
+                  "R&D Exp",
+                  "64.21",
+                  "59.08",
+                  "41.92"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.54",
+                  "36.91",
+                  "32.01"
+                ],
+                [
+                  "Operating Income",
+                  "-198.23",
+                  "-171.94",
+                  "-156.83"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-126.19",
+                  "-155.89",
+                  "-220.14"
+                ],
+                [
+                  "Net Income",
+                  "-213.35",
+                  "-184.66",
+                  "-161.77"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-135.81",
+                  "-167.42",
+                  "-227.08"
+                ],
+                [
+                  "Op Cash Flow",
+                  "-135.65",
+                  "-97.07",
+                  "-95.42"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-125.99",
+                  "-56.65",
+                  "-37.77"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "85.88",
+                  "386.91",
+                  "160.16"
+                ],
+                [
+                  "CAPEX",
+                  "-118.56",
+                  "-8.76",
+                  "-36.76"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "無可用數據。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "濾光片",
+    "窄帶通過濾光片",
+    "藍色玻璃",
+    "3D 感測",
+    "ToF",
+    "ADAS",
+    "DMS",
+    "無人機",
+    "協作機器人",
+    "ADAS",
+    "DMS"
+  ]
+}

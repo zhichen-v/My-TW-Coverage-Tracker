@@ -1,0 +1,949 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/3481_群創.md",
+  "source_path": "Pilot_Reports/Electronic Components/3481_群創.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/3481_群創.json",
+  "ticker": "3481",
+  "company_name": "群創",
+  "title": "# 3481 - [[群創]]",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components"
+      },
+      {
+        "label": "市值:",
+        "value": "204,714 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "180,169 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": "光電 (3481，"
+            },
+            {
+              "type": "wikilink",
+              "text": "群創"
+            },
+            {
+              "type": "text",
+              "text": ") 為全球前三大 "
+            },
+            {
+              "type": "wikilink",
+              "text": "TFT-LCD"
+            },
+            {
+              "type": "text",
+              "text": " 面板製造商之一，"
+            },
+            {
+              "type": "wikilink",
+              "text": "鴻海"
+            },
+            {
+              "type": "text",
+              "text": "集團成員。產品線涵蓋大尺寸 (TV, Monitor, NB) 與中小尺寸 (Mobile, Tablet) 面板。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "近年積極推動「雙軌轉型」(More than Panel)，拓展非顯示器領域：(1) 車用 — 子公司 CarUX 合併日本 "
+            },
+            {
+              "type": "wikilink",
+              "text": "Pioneer"
+            },
+            {
+              "type": "text",
+              "text": "，升級為 Tier 1 車用顯示方案供應商，供應 "
+            },
+            {
+              "type": "wikilink",
+              "text": "BMW"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "GM"
+            },
+            {
+              "type": "text",
+              "text": "、"
+            },
+            {
+              "type": "wikilink",
+              "text": "Tesla"
+            },
+            {
+              "type": "text",
+              "text": " 等車廠；(2) 醫療 — 子公司睿生光電專攻 X-ray 感測器；(3) 半導體 — 投入 "
+            },
+            {
+              "type": "wikilink",
+              "text": "FOPLP"
+            },
+            {
+              "type": "text",
+              "text": " (扇出型面板級封裝)，以業界最大 G3.5 基板開發中高階封裝，已量產出貨，傳獲 "
+            },
+            {
+              "type": "wikilink",
+              "text": "SpaceX"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "wikilink",
+              "text": "低軌衛星"
+            },
+            {
+              "type": "text",
+              "text": "晶片封裝訂單，Chip-first 良率達 90% 以上。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (面板材料與元件)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康寧"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TFT-LCD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "偏光板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 偏光板供應商"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 面板驅動 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "背光模組:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " LED 背光模組供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (面板製造與封裝)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "面板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "[[群創]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TFT-LCD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 面板與模組製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車用:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " CarUX / "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Pioneer"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (Tier 1 車用顯示方案)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 睿生光電 (X-ray 感測器)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "封裝:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "[[群創]]"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ("
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FOPLP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 扇出型面板級封裝)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (消費電子、車廠與半導體)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TV/PC 品牌:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球電視與 PC 品牌 — 大尺寸面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車用顯示 (CarUX)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SpaceX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "晶片 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FOPLP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 封裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團垂直整合"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "TV/PC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 全球電視與 PC 品牌 — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TFT-LCD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 大尺寸面板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "車廠:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "BMW"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "GM"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Tesla"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 車用顯示 (CarUX/"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "Pioneer"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "衛星:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "SpaceX"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "低軌衛星"
+                    },
+                    {
+                      "type": "text",
+                      "text": "晶片 "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "FOPLP"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 封裝"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "醫療:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 國際醫療設備品牌 — X-ray 感測器 (睿生光電)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "玻璃基板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "康寧"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "TFT-LCD"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 玻璃基板"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "驅動 IC:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "聯詠"
+                    },
+                    {
+                      "type": "text",
+                      "text": "、"
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "瑞鼎"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 面板驅動 IC"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "母公司:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "鴻海"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 集團資源整合"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $25.65 as of 2026-03-26 | TTM 截至 2025-12-31 | Forward 預估至 2026-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "855.00",
+                  "50.90",
+                  "0.90",
+                  "0.93",
+                  "7.19"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2024-12-31",
+                "2023-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "226724.26",
+                  "216509.92",
+                  "211740.56"
+                ],
+                [
+                  "Gross Profit",
+                  "18656.92",
+                  "14172.98",
+                  "3109.04"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "8.23",
+                  "6.55",
+                  "1.47"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "3064.55",
+                  "2192.95",
+                  "2519.31"
+                ],
+                [
+                  "R&D Exp",
+                  "11837.98",
+                  "12406.51",
+                  "12011.56"
+                ],
+                [
+                  "General & Admin Exp",
+                  "7914.68",
+                  "7492.43",
+                  "7287.11"
+                ],
+                [
+                  "Operating Income",
+                  "-4160.28",
+                  "-7918.92",
+                  "-18708.93"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-1.83",
+                  "-3.66",
+                  "-8.84"
+                ],
+                [
+                  "Net Income",
+                  "249.76",
+                  "6472.88",
+                  "-18642.54"
+                ],
+                [
+                  "Net Margin (%)",
+                  "0.11",
+                  "2.99",
+                  "-8.80"
+                ],
+                [
+                  "Op Cash Flow",
+                  "20167.80",
+                  "17533.39",
+                  "9555.88"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-34727.30",
+                  "3250.75",
+                  "-24377.40"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "10877.53",
+                  "-17475.57",
+                  "-2959.94"
+                ],
+                [
+                  "CAPEX",
+                  "-11781.58",
+                  "-16055.10",
+                  "-21351.94"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-12-31",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "56742.28",
+                  "57818.31",
+                  "56231.40",
+                  "55932.28"
+                ],
+                [
+                  "Gross Profit",
+                  "5151.01",
+                  "4560.24",
+                  "4712.06",
+                  "4233.62"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "9.08",
+                  "7.89",
+                  "8.38",
+                  "7.57"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "1096.94",
+                  "742.80",
+                  "637.24",
+                  "587.57"
+                ],
+                [
+                  "R&D Exp",
+                  "2773.89",
+                  "2983.61",
+                  "3001.04",
+                  "3079.44"
+                ],
+                [
+                  "General & Admin Exp",
+                  "2448.57",
+                  "1808.50",
+                  "1851.93",
+                  "1805.68"
+                ],
+                [
+                  "Operating Income",
+                  "-1168.38",
+                  "-974.67",
+                  "-778.14",
+                  "-1239.09"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "-2.06",
+                  "-1.69",
+                  "-1.38",
+                  "-2.22"
+                ],
+                [
+                  "Net Income",
+                  "-18.54",
+                  "66.89",
+                  "-760.63",
+                  "962.04"
+                ],
+                [
+                  "Net Margin (%)",
+                  "-0.03",
+                  "0.12",
+                  "-1.35",
+                  "1.72"
+                ],
+                [
+                  "Op Cash Flow",
+                  "7040.03",
+                  "6078.36",
+                  "7410.52",
+                  "-361.11"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-29534.66",
+                  "-3481.25",
+                  "-3500.73",
+                  "1789.34"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "33081.18",
+                  "-4181.03",
+                  "-9169.95",
+                  "-8852.66"
+                ],
+                [
+                  "CAPEX",
+                  "-2595.13",
+                  "-2416.89",
+                  "-3254.25",
+                  "-3515.31"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "群創",
+    "群創",
+    "群創",
+    "TFT-LCD",
+    "鴻海",
+    "Pioneer",
+    "BMW",
+    "GM",
+    "Tesla",
+    "FOPLP",
+    "SpaceX",
+    "低軌衛星",
+    "康寧",
+    "TFT-LCD",
+    "聯詠",
+    "瑞鼎",
+    "群創",
+    "TFT-LCD",
+    "Pioneer",
+    "群創",
+    "FOPLP",
+    "BMW",
+    "GM",
+    "Tesla",
+    "SpaceX",
+    "低軌衛星",
+    "FOPLP",
+    "鴻海",
+    "TFT-LCD",
+    "BMW",
+    "GM",
+    "Tesla",
+    "Pioneer",
+    "SpaceX",
+    "低軌衛星",
+    "FOPLP",
+    "康寧",
+    "TFT-LCD",
+    "聯詠",
+    "瑞鼎",
+    "鴻海"
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "report_id": "Pilot_Reports/Electronic Components/5381_合正.md",
+  "source_path": "Pilot_Reports/Electronic Components/5381_合正.md",
+  "json_path": "Pilot_Reports_JSON/Electronic Components/5381_合正.json",
+  "ticker": "5381",
+  "company_name": "合正",
+  "title": "# 5381 - 合正",
+  "sector_folder": "Electronic Components",
+  "metadata": {
+    "items": [
+      {
+        "label": "板塊:",
+        "value": "Technology"
+      },
+      {
+        "label": "產業:",
+        "value": "Electronic Components -> Utilities"
+      },
+      {
+        "label": "市值:",
+        "value": "5,869 百萬台幣"
+      },
+      {
+        "label": "企業價值:",
+        "value": "7,599 百萬台幣"
+      }
+    ]
+  },
+  "sections": {
+    "overview": {
+      "heading": "業務簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "合正科技 (5381) 隸屬於"
+            },
+            {
+              "type": "wikilink",
+              "text": "大宇資"
+            },
+            {
+              "type": "text",
+              "text": "集團，原為 "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 鑽孔墊板廠，透過併購三江電機成功轉型為重電設備供應商。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "segments": [
+            {
+              "type": "text",
+              "text": "主要業務：(1) 配電變壓器 — 生產亭置式與桿上型變壓器，為"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "強韌電網計畫主要合格供應商，變壓器營收占比逾七成；(2) "
+            },
+            {
+              "type": "wikilink",
+              "text": "PCB"
+            },
+            {
+              "type": "text",
+              "text": " 鑽孔墊板 — 傳統業務，營收占比已大幅降低。三江電機累計取得"
+            },
+            {
+              "type": "wikilink",
+              "text": "台電"
+            },
+            {
+              "type": "text",
+              "text": "標案金額逾 45 億元，公司並取得 UL 認證積極拓展北美電力市場。"
+            }
+          ]
+        }
+      ],
+      "groups": []
+    },
+    "supply_chain": {
+      "heading": "供應鏈位置",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "上游 (原材料)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽鋼片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變壓器鐵芯用矽鋼片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變壓器繞組用銅線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "絕緣油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 變壓器絕緣油供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "中游 (設備製造)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "配電變壓器:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "合正/三江電機"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (亭置式、桿上型變壓器製造)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "[[PCB]] 墊板:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "strong",
+                      "text": "合正"
+                    },
+                    {
+                      "type": "text",
+                      "text": " (鑽孔墊板)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "下游 (電力用戶)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 強韌電網計畫配電變壓器"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國電力公司 — UL 認證配電變壓器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "customer_supplier": {
+      "heading": "主要客戶及供應商",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "主要客戶",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "國內電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "台電"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 配電變壓器 (亭置式、桿上型)"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "北美電力:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 美國電力公司 — UL 認證變壓器"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "主要供應商",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "矽鋼片:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "中鋼"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變壓器鐵芯用矽鋼片"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "銅線:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "wikilink",
+                      "text": "華新麗華"
+                    },
+                    {
+                      "type": "text",
+                      "text": " — 變壓器繞組用銅線"
+                    }
+                  ]
+                },
+                {
+                  "segments": [
+                    {
+                      "type": "strong",
+                      "text": "絕緣油:"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 變壓器絕緣油供應商"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "financials": {
+      "heading": "財務概況 (單位: 百萬台幣, 只有 Margin 為 %)",
+      "blocks": [],
+      "groups": [
+        {
+          "title": "估值指標 (股價 $24.00 as of 2026-03-26 | TTM 截至 2025-09-30 | Forward 預估至 2025-12-31)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "P/E (TTM)",
+                "Forward P/E",
+                "P/S (TTM)",
+                "P/B",
+                "EV/EBITDA"
+              ],
+              "rows": [
+                [
+                  "23.76",
+                  "N/A",
+                  "2.64",
+                  "2.64",
+                  "21.92"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "年度關鍵財務數據 (近 3 年)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2024-12-31",
+                "2023-12-31",
+                "2022-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "2334.45",
+                  "1189.05",
+                  "323.26"
+                ],
+                [
+                  "Gross Profit",
+                  "516.06",
+                  "202.45",
+                  "88.48"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "22.11",
+                  "17.03",
+                  "27.37"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "61.10",
+                  "33.80",
+                  "20.64"
+                ],
+                [
+                  "R&D Exp",
+                  "3.47",
+                  "3.41",
+                  "3.26"
+                ],
+                [
+                  "General & Admin Exp",
+                  "195.01",
+                  "146.12",
+                  "73.24"
+                ],
+                [
+                  "Operating Income",
+                  "256.48",
+                  "19.12",
+                  "-8.65"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "10.99",
+                  "1.61",
+                  "-2.68"
+                ],
+                [
+                  "Net Income",
+                  "199.80",
+                  "9.93",
+                  "17.32"
+                ],
+                [
+                  "Net Margin (%)",
+                  "8.56",
+                  "0.84",
+                  "5.36"
+                ],
+                [
+                  "Op Cash Flow",
+                  "382.33",
+                  "-21.83",
+                  "67.85"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-438.05",
+                  "-723.69",
+                  "-128.84"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "192.87",
+                  "693.95",
+                  "-14.21"
+                ],
+                [
+                  "CAPEX",
+                  "-36.20",
+                  "-10.68",
+                  "-2.36"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "季度關鍵財務數據 (近 4 季)",
+          "blocks": [
+            {
+              "type": "table",
+              "columns": [
+                "",
+                "2025-09-30",
+                "2025-06-30",
+                "2025-03-31",
+                "2024-12-31"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "586.84",
+                  "431.94",
+                  "672.21",
+                  "532.46"
+                ],
+                [
+                  "Gross Profit",
+                  "149.06",
+                  "106.93",
+                  "169.06",
+                  "125.22"
+                ],
+                [
+                  "Gross Margin (%)",
+                  "25.40",
+                  "24.76",
+                  "25.15",
+                  "23.52"
+                ],
+                [
+                  "Selling & Marketing Exp",
+                  "21.30",
+                  "13.39",
+                  "15.88",
+                  "14.17"
+                ],
+                [
+                  "R&D Exp",
+                  "0.79",
+                  "0.77",
+                  "0.79",
+                  "1.18"
+                ],
+                [
+                  "General & Admin Exp",
+                  "42.30",
+                  "39.53",
+                  "39.16",
+                  "47.15"
+                ],
+                [
+                  "Operating Income",
+                  "84.67",
+                  "53.25",
+                  "113.23",
+                  "62.73"
+                ],
+                [
+                  "Operating Margin (%)",
+                  "14.43",
+                  "12.33",
+                  "16.84",
+                  "11.78"
+                ],
+                [
+                  "Net Income",
+                  "45.77",
+                  "29.04",
+                  "81.70",
+                  "77.72"
+                ],
+                [
+                  "Net Margin (%)",
+                  "7.80",
+                  "6.72",
+                  "12.15",
+                  "14.60"
+                ],
+                [
+                  "Op Cash Flow",
+                  "23.73",
+                  "14.82",
+                  "303.83",
+                  "349.44"
+                ],
+                [
+                  "Investing Cash Flow",
+                  "-1186.13",
+                  "-519.54",
+                  "-49.67",
+                  "-425.61"
+                ],
+                [
+                  "Financing Cash Flow",
+                  "984.94",
+                  "283.92",
+                  "120.23",
+                  "82.89"
+                ],
+                [
+                  "CAPEX",
+                  "-1205.65",
+                  "-5.14",
+                  "-18.27",
+                  "-7.97"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikilinks": [
+    "大宇資",
+    "PCB",
+    "台電",
+    "PCB",
+    "台電",
+    "中鋼",
+    "華新麗華",
+    "PCB",
+    "台電",
+    "台電",
+    "中鋼",
+    "華新麗華"
+  ]
+}
