@@ -145,7 +145,15 @@ export async function getCompanies(params?: {
 }
 
 export async function getCompanyByTicker(ticker: string): Promise<CompanyTickerResponse> {
-  return fetchJson<CompanyTickerResponse>(`/api/companies/${encodeURIComponent(ticker)}`);
+  const response = await fetch(`${getApiBase()}/api/companies/${encodeURIComponent(ticker)}`, {
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error(`API request failed: ${response.status} /api/companies/${ticker}`);
+  }
+
+  return response.json() as Promise<CompanyTickerResponse>;
 }
 
 export async function getHealth() {

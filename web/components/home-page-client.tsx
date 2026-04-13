@@ -281,6 +281,7 @@ function HomePageContent({
                 <Link
                   key={company.report_id}
                   href={`/companies/${encodeURIComponent(company.ticker)}`}
+                  prefetch={false}
                   className="company-row"
                 >
                   <div className="company-primary">
