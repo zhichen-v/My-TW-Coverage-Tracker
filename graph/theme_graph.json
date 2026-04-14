@@ -1,0 +1,3297 @@
+{
+  "generated_at": "2026-04-14T16:03:49.550233+00:00",
+  "source_dir": "themes",
+  "graph_kind": "theme_to_wikilink",
+  "node_counts": {
+    "total": 36,
+    "themes": 20,
+    "supplemental_themes": 16,
+    "wikilinks": 0
+  },
+  "nodes": [
+    {
+      "id": "2.5D 封裝",
+      "label": "2.5D 封裝",
+      "type": "supplemental_theme",
+      "title": "2.5D 封裝",
+      "note": "透過中介層整合邏輯晶片與高頻寬記憶體的先進封裝架構，常見於 AI 與 HPC 晶片。",
+      "file_name": "2.5D_封裝.md",
+      "path": "themes/2.5D_封裝.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 3,
+      "degree": 5,
+      "radius_hint": 24
+    },
+    {
+      "id": "3D 封裝",
+      "label": "3D 封裝",
+      "type": "supplemental_theme",
+      "title": "3D 封裝",
+      "note": "以垂直堆疊方式提升頻寬、密度與系統整合度的先進封裝技術，常與高效能運算應用連動。",
+      "file_name": "3D_封裝.md",
+      "path": "themes/3D_封裝.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 3,
+      "degree": 4,
+      "radius_hint": 24
+    },
+    {
+      "id": "5G",
+      "label": "5G",
+      "type": "theme",
+      "title": "5G 通訊供應鏈",
+      "note": "5G 基礎建設與終端應用，涵蓋基站、天線、射頻前端、濾波器",
+      "file_name": "5G.md",
+      "path": "themes/5G.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 4,
+      "outgoing_count": 3,
+      "degree": 7,
+      "radius_hint": 24
+    },
+    {
+      "id": "ABF 載板",
+      "label": "ABF 載板",
+      "type": "theme",
+      "title": "ABF 載板",
+      "note": "Ajinomoto Build-up Film 載板，高階 IC 封裝基板",
+      "file_name": "ABF_載板.md",
+      "path": "themes/ABF_載板.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 3,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "AI 伺服器",
+      "label": "AI 伺服器",
+      "type": "theme",
+      "title": "AI 伺服器供應鏈",
+      "note": "AI 訓練與推論伺服器完整供應鏈，從晶片到系統到散熱",
+      "file_name": "AI_伺服器.md",
+      "path": "themes/AI_伺服器.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 7,
+      "outgoing_count": 5,
+      "degree": 12,
+      "radius_hint": 24
+    },
+    {
+      "id": "ASML",
+      "label": "ASML",
+      "type": "supplemental_theme",
+      "title": "ASML",
+      "note": "全球半導體微影設備龍頭，EUV 與先進 DUV 曝光設備供應的核心公司。",
+      "file_name": "ASML.md",
+      "path": "themes/ASML.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 3,
+      "degree": 5,
+      "radius_hint": 24
+    },
+    {
+      "id": "Apple",
+      "label": "Apple",
+      "type": "theme",
+      "title": "Apple 蘋果供應鏈",
+      "note": "蘋果公司台灣供應鏈成員",
+      "file_name": "Apple.md",
+      "path": "themes/Apple.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 2,
+      "degree": 4,
+      "radius_hint": 24
+    },
+    {
+      "id": "CPO",
+      "label": "CPO",
+      "type": "theme",
+      "title": "CPO 共封裝光學",
+      "note": "Co-Packaged Optics，將光學元件整合於晶片封裝中以突破頻寬瓶頸",
+      "file_name": "CPO.md",
+      "path": "themes/CPO.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 4,
+      "outgoing_count": 4,
+      "degree": 8,
+      "radius_hint": 24
+    },
+    {
+      "id": "CoWoS",
+      "label": "CoWoS",
+      "type": "theme",
+      "title": "CoWoS 先進封裝",
+      "note": "台積電 Chip-on-Wafer-on-Substrate 2.5D 先進封裝技術，AI 晶片關鍵製程",
+      "file_name": "CoWoS.md",
+      "path": "themes/CoWoS.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 7,
+      "outgoing_count": 4,
+      "degree": 11,
+      "radius_hint": 24
+    },
+    {
+      "id": "DRAM",
+      "label": "DRAM",
+      "type": "supplemental_theme",
+      "title": "DRAM",
+      "note": "動態隨機存取記憶體，是 HBM 與一般運算記憶體產品的基礎技術平台。",
+      "file_name": "DRAM.md",
+      "path": "themes/DRAM.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 3,
+      "degree": 4,
+      "radius_hint": 24
+    },
+    {
+      "id": "EML",
+      "label": "EML",
+      "type": "supplemental_theme",
+      "title": "EML",
+      "note": "EML 邊緣發射雷射是高速光通訊常見光源元件，與矽光子與高速光模組密切相關。",
+      "file_name": "EML.md",
+      "path": "themes/EML.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 3,
+      "degree": 5,
+      "radius_hint": 24
+    },
+    {
+      "id": "EUV",
+      "label": "EUV",
+      "type": "theme",
+      "title": "EUV 極紫外光微影",
+      "note": "先進製程關鍵微影技術，7nm 以下節點必備",
+      "file_name": "EUV.md",
+      "path": "themes/EUV.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 4,
+      "outgoing_count": 2,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "HBM",
+      "label": "HBM",
+      "type": "theme",
+      "title": "HBM 高頻寬記憶體",
+      "note": "High Bandwidth Memory，AI 加速器必備的高速堆疊記憶體",
+      "file_name": "HBM.md",
+      "path": "themes/HBM.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 7,
+      "outgoing_count": 3,
+      "degree": 10,
+      "radius_hint": 24
+    },
+    {
+      "id": "IGBT",
+      "label": "IGBT",
+      "type": "supplemental_theme",
+      "title": "IGBT",
+      "note": "IGBT 是高壓高功率場景常見的功率半導體元件，廣泛用於車用逆變器與工業電力控制。",
+      "file_name": "IGBT.md",
+      "path": "themes/IGBT.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 3,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "MOSFET",
+      "label": "MOSFET",
+      "type": "supplemental_theme",
+      "title": "MOSFET",
+      "note": "MOSFET 是最常見的功率與開關元件之一，在電源管理、車用電子與功率模組中廣泛使用。",
+      "file_name": "MOSFET.md",
+      "path": "themes/MOSFET.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 3,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "NVIDIA",
+      "label": "NVIDIA",
+      "type": "theme",
+      "title": "NVIDIA 輝達供應鏈",
+      "note": "NVIDIA GPU 及 AI 平台台灣供應鏈",
+      "file_name": "NVIDIA.md",
+      "path": "themes/NVIDIA.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 4,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "PCB",
+      "label": "PCB",
+      "type": "supplemental_theme",
+      "title": "PCB",
+      "note": "印刷電路板是電子系統的基礎互連平台，高速運算與資料中心需求會推動高階板材與載板升級。",
+      "file_name": "PCB.md",
+      "path": "themes/PCB.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 3,
+      "degree": 5,
+      "radius_hint": 24
+    },
+    {
+      "id": "RF",
+      "label": "RF",
+      "type": "supplemental_theme",
+      "title": "RF",
+      "note": "RF 射頻技術涵蓋高頻傳輸、前端模組與通訊系統設計，是 5G 與衛星通訊的核心環節。",
+      "file_name": "RF.md",
+      "path": "themes/RF.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 3,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "Tesla",
+      "label": "Tesla",
+      "type": "theme",
+      "title": "Tesla 特斯拉供應鏈",
+      "note": "特斯拉電動車台灣供應鏈成員",
+      "file_name": "Tesla.md",
+      "path": "themes/Tesla.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 2,
+      "degree": 3,
+      "radius_hint": 24
+    },
+    {
+      "id": "VCSEL",
+      "label": "VCSEL",
+      "type": "theme",
+      "title": "VCSEL 垂直共振腔面射型雷射",
+      "note": "3D 感測、光通訊及 LiDAR 核心光源元件",
+      "file_name": "VCSEL.md",
+      "path": "themes/VCSEL.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 3,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "低軌衛星",
+      "label": "低軌衛星",
+      "type": "theme",
+      "title": "低軌衛星 LEO Satellite",
+      "note": "低軌道衛星通訊供應鏈，天線、地面站、射頻模組",
+      "file_name": "低軌衛星.md",
+      "path": "themes/低軌衛星.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 3,
+      "degree": 5,
+      "radius_hint": 24
+    },
+    {
+      "id": "光收發模組",
+      "label": "光收發模組",
+      "type": "supplemental_theme",
+      "title": "光收發模組",
+      "note": "光收發模組負責電光訊號轉換，是資料中心、高速交換器與 AI 網路升級的重要元件。",
+      "file_name": "光收發模組.md",
+      "path": "themes/光收發模組.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 5,
+      "outgoing_count": 5,
+      "degree": 10,
+      "radius_hint": 24
+    },
+    {
+      "id": "光阻液",
+      "label": "光阻液",
+      "type": "theme",
+      "title": "光阻液 Photoresist",
+      "note": "半導體微影製程關鍵化學材料",
+      "file_name": "光阻液.md",
+      "path": "themes/光阻液.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 2,
+      "degree": 4,
+      "radius_hint": 24
+    },
+    {
+      "id": "台積電",
+      "label": "台積電",
+      "type": "supplemental_theme",
+      "title": "台積電",
+      "note": "台積電是全球晶圓代工龍頭，先進製程與先進封裝供應鏈的核心節點，對 AI 與高效能運算影響極大。",
+      "file_name": "台積電.md",
+      "path": "themes/台積電.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 5,
+      "outgoing_count": 5,
+      "degree": 10,
+      "radius_hint": 24
+    },
+    {
+      "id": "微影",
+      "label": "微影",
+      "type": "supplemental_theme",
+      "title": "微影",
+      "note": "微影是半導體製程中將電路圖形轉移到晶圓上的關鍵步驟，直接影響先進製程節點的能力上限。",
+      "file_name": "微影.md",
+      "path": "themes/微影.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 2,
+      "outgoing_count": 4,
+      "degree": 6,
+      "radius_hint": 24
+    },
+    {
+      "id": "氮化鎵",
+      "label": "氮化鎵",
+      "type": "theme",
+      "title": "氮化鎵 GaN",
+      "note": "第三代半導體材料，高頻高效，5G 基站、快充及衛星通訊核心",
+      "file_name": "氮化鎵.md",
+      "path": "themes/氮化鎵.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 4,
+      "outgoing_count": 3,
+      "degree": 7,
+      "radius_hint": 24
+    },
+    {
+      "id": "矽光子",
+      "label": "矽光子",
+      "type": "theme",
+      "title": "矽光子 Silicon Photonics",
+      "note": "以矽基製程整合光學元件，實現高速光互連，下一代資料中心核心技術",
+      "file_name": "矽光子.md",
+      "path": "themes/矽光子.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 6,
+      "outgoing_count": 5,
+      "degree": 11,
+      "radius_hint": 24
+    },
+    {
+      "id": "矽晶圓",
+      "label": "矽晶圓",
+      "type": "theme",
+      "title": "矽晶圓",
+      "note": "半導體製造最基礎的原材料",
+      "file_name": "矽晶圓.md",
+      "path": "themes/矽晶圓.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 2,
+      "degree": 3,
+      "radius_hint": 24
+    },
+    {
+      "id": "砷化鎵",
+      "label": "砷化鎵",
+      "type": "supplemental_theme",
+      "title": "砷化鎵",
+      "note": "砷化鎵是重要的 III-V 化合物半導體材料，常見於射頻與光電元件。",
+      "file_name": "砷化鎵.md",
+      "path": "themes/砷化鎵.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 4,
+      "degree": 7,
+      "radius_hint": 24
+    },
+    {
+      "id": "碳化矽",
+      "label": "碳化矽",
+      "type": "theme",
+      "title": "碳化矽 SiC",
+      "note": "第三代半導體材料，耐高壓高溫，電動車逆變器及充電樁關鍵材料",
+      "file_name": "碳化矽.md",
+      "path": "themes/碳化矽.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 7,
+      "outgoing_count": 4,
+      "degree": 11,
+      "radius_hint": 24
+    },
+    {
+      "id": "磊晶",
+      "label": "磊晶",
+      "type": "supplemental_theme",
+      "title": "磊晶",
+      "note": "磊晶是半導體外延生長製程，對化合物半導體、光電元件與高階晶圓材料品質至關重要。",
+      "file_name": "磊晶.md",
+      "path": "themes/磊晶.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 3,
+      "degree": 4,
+      "radius_hint": 24
+    },
+    {
+      "id": "磷化銦",
+      "label": "磷化銦",
+      "type": "theme",
+      "title": "磷化銦 InP",
+      "note": "III-V 族化合物半導體，光通訊雷射及高速光電元件基板材料",
+      "file_name": "磷化銦.md",
+      "path": "themes/磷化銦.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 5,
+      "outgoing_count": 4,
+      "degree": 9,
+      "radius_hint": 24
+    },
+    {
+      "id": "資料中心",
+      "label": "資料中心",
+      "type": "theme",
+      "title": "資料中心供應鏈",
+      "note": "超大規模資料中心基礎設施，涵蓋伺服器、網通、電源、散熱",
+      "file_name": "資料中心.md",
+      "path": "themes/資料中心.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 7,
+      "outgoing_count": 4,
+      "degree": 11,
+      "radius_hint": 24
+    },
+    {
+      "id": "車用電子",
+      "label": "車用電子",
+      "type": "supplemental_theme",
+      "title": "車用電子",
+      "note": "車用電子涵蓋動力、感測、控制與通訊模組，是電動車與智慧車發展的核心電子架構。",
+      "file_name": "車用電子.md",
+      "path": "themes/車用電子.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 3,
+      "outgoing_count": 5,
+      "degree": 8,
+      "radius_hint": 24
+    },
+    {
+      "id": "電動車",
+      "label": "電動車",
+      "type": "theme",
+      "title": "電動車供應鏈",
+      "note": "電動車完整供應鏈，從電池材料到功率元件到車用電子",
+      "file_name": "電動車.md",
+      "path": "themes/電動車.md",
+      "related_themes": [],
+      "group": "theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 6,
+      "outgoing_count": 4,
+      "degree": 10,
+      "radius_hint": 24
+    },
+    {
+      "id": "鴻海",
+      "label": "鴻海",
+      "type": "supplemental_theme",
+      "title": "鴻海",
+      "note": "鴻海是全球大型電子製造服務與組裝集團，與 Apple 供應鏈、伺服器與電動車布局高度相關。",
+      "file_name": "鴻海.md",
+      "path": "themes/鴻海.md",
+      "related_themes": [],
+      "group": "supplemental_theme",
+      "is_theme_page": true,
+      "mentioned_by_count": 1,
+      "outgoing_count": 4,
+      "degree": 5,
+      "radius_hint": 24
+    }
+  ],
+  "links": [
+    {
+      "source": "2.5D 封裝",
+      "target": "ABF 載板",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "2.5D 封裝",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "2.5D 封裝",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "3D 封裝",
+      "target": "2.5D 封裝",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[2.5D 封裝]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "3D 封裝",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[2.5D 封裝]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "3D 封裝",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[2.5D 封裝]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "5G",
+      "target": "RF",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[氮化鎵]] (20) | [[RF]] (3) | [[低軌衛星]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "5G",
+      "target": "低軌衛星",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[氮化鎵]] (20) | [[RF]] (3) | [[低軌衛星]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "5G",
+      "target": "氮化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[氮化鎵]] (20) | [[RF]] (3) | [[低軌衛星]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ABF 載板",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ABF 載板",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ABF 載板",
+      "target": "PCB",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "AI 伺服器",
+      "target": "CPO",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[NVIDIA]] (114) | [[CPO]] (14) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "AI 伺服器",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[NVIDIA]] (114) | [[CPO]] (14) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "AI 伺服器",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[NVIDIA]] (114) | [[CPO]] (14) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "AI 伺服器",
+      "target": "NVIDIA",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[NVIDIA]] (114) | [[CPO]] (14) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "AI 伺服器",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[NVIDIA]] (114) | [[CPO]] (14) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ASML",
+      "target": "EUV",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[微影]] (4) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ASML",
+      "target": "台積電",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[微影]] (4) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "ASML",
+      "target": "微影",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[微影]] (4) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "Apple",
+      "target": "台積電",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[台積電]] (215) | [[鴻海]] (73)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "Apple",
+      "target": "鴻海",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[台積電]] (215) | [[鴻海]] (73)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CPO",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CPO",
+      "target": "光收發模組",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CPO",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CPO",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CoWoS",
+      "target": "2.5D 封裝",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[2.5D 封裝]] (3) | [[3D 封裝]] (3) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CoWoS",
+      "target": "3D 封裝",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[2.5D 封裝]] (3) | [[3D 封裝]] (3) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CoWoS",
+      "target": "ABF 載板",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[2.5D 封裝]] (3) | [[3D 封裝]] (3) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "CoWoS",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[2.5D 封裝]] (3) | [[3D 封裝]] (3) | [[ABF 載板]] (14)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "DRAM",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "DRAM",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "DRAM",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[HBM]] (16) | [[AI 伺服器]] (148) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "EML",
+      "target": "光收發模組",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[磷化銦]] (5) | [[光收發模組]] (9)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "EML",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[磷化銦]] (5) | [[光收發模組]] (9)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "EML",
+      "target": "磷化銦",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[磷化銦]] (5) | [[光收發模組]] (9)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "EUV",
+      "target": "ASML",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[光阻液]] (4) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "EUV",
+      "target": "光阻液",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[光阻液]] (4) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "HBM",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[DRAM]] (34)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "HBM",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[DRAM]] (34)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "HBM",
+      "target": "DRAM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[DRAM]] (34)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "IGBT",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "IGBT",
+      "target": "車用電子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "IGBT",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "MOSFET",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "MOSFET",
+      "target": "車用電子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "MOSFET",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "NVIDIA",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[AI 伺服器]] (148) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "NVIDIA",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[AI 伺服器]] (148) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "NVIDIA",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[AI 伺服器]] (148) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "NVIDIA",
+      "target": "台積電",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[HBM]] (16) | [[AI 伺服器]] (148) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "PCB",
+      "target": "ABF 載板",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[ABF 載板]] (14) | [[資料中心]] (81) | [[AI 伺服器]] (148)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "PCB",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[ABF 載板]] (14) | [[資料中心]] (81) | [[AI 伺服器]] (148)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "PCB",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[ABF 載板]] (14) | [[資料中心]] (81) | [[AI 伺服器]] (148)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "RF",
+      "target": "5G",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[低軌衛星]] (45) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "RF",
+      "target": "低軌衛星",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[低軌衛星]] (45) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "RF",
+      "target": "氮化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[低軌衛星]] (45) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "Tesla",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "Tesla",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "VCSEL",
+      "target": "光收發模組",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "VCSEL",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "VCSEL",
+      "target": "砷化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "低軌衛星",
+      "target": "5G",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[氮化鎵]] (20) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "低軌衛星",
+      "target": "RF",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[氮化鎵]] (20) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "低軌衛星",
+      "target": "氮化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[氮化鎵]] (20) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光收發模組",
+      "target": "CPO",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[CPO]] (14) | [[VCSEL]] (10) | [[磷化銦]] (5) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光收發模組",
+      "target": "VCSEL",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[CPO]] (14) | [[VCSEL]] (10) | [[磷化銦]] (5) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光收發模組",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[CPO]] (14) | [[VCSEL]] (10) | [[磷化銦]] (5) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光收發模組",
+      "target": "磷化銦",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[CPO]] (14) | [[VCSEL]] (10) | [[磷化銦]] (5) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光收發模組",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[CPO]] (14) | [[VCSEL]] (10) | [[磷化銦]] (5) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光阻液",
+      "target": "EUV",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[微影]] (4)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "光阻液",
+      "target": "微影",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[微影]] (4)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "台積電",
+      "target": "Apple",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[EUV]] (10) | [[Apple]] (96) | [[NVIDIA]] (114) | [[HBM]] (16)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "台積電",
+      "target": "CoWoS",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[EUV]] (10) | [[Apple]] (96) | [[NVIDIA]] (114) | [[HBM]] (16)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "台積電",
+      "target": "EUV",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[EUV]] (10) | [[Apple]] (96) | [[NVIDIA]] (114) | [[HBM]] (16)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "台積電",
+      "target": "HBM",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[EUV]] (10) | [[Apple]] (96) | [[NVIDIA]] (114) | [[HBM]] (16)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "台積電",
+      "target": "NVIDIA",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[CoWoS]] (39) | [[EUV]] (10) | [[Apple]] (96) | [[NVIDIA]] (114) | [[HBM]] (16)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "微影",
+      "target": "ASML",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[光阻液]] (4) | [[台積電]] (215) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "微影",
+      "target": "EUV",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[光阻液]] (4) | [[台積電]] (215) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "微影",
+      "target": "光阻液",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[光阻液]] (4) | [[台積電]] (215) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "微影",
+      "target": "台積電",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[EUV]] (10) | [[光阻液]] (4) | [[台積電]] (215) | [[ASML]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "氮化鎵",
+      "target": "5G",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[碳化矽]] (22) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "氮化鎵",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[碳化矽]] (22) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "氮化鎵",
+      "target": "磷化銦",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[5G]] (129) | [[碳化矽]] (22) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽光子",
+      "target": "CPO",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CPO]] (14) | [[EML]] (2) | [[VCSEL]] (10) | [[光收發模組]] (9) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽光子",
+      "target": "EML",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CPO]] (14) | [[EML]] (2) | [[VCSEL]] (10) | [[光收發模組]] (9) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽光子",
+      "target": "VCSEL",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CPO]] (14) | [[EML]] (2) | [[VCSEL]] (10) | [[光收發模組]] (9) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽光子",
+      "target": "光收發模組",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CPO]] (14) | [[EML]] (2) | [[VCSEL]] (10) | [[光收發模組]] (9) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽光子",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[CPO]] (14) | [[EML]] (2) | [[VCSEL]] (10) | [[光收發模組]] (9) | [[資料中心]] (81)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽晶圓",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[磊晶]] (23)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "矽晶圓",
+      "target": "磊晶",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[磊晶]] (23)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "砷化鎵",
+      "target": "5G",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[VCSEL]] (10) | [[5G]] (129) | [[磷化銦]] (5) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "砷化鎵",
+      "target": "RF",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[VCSEL]] (10) | [[5G]] (129) | [[磷化銦]] (5) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "砷化鎵",
+      "target": "VCSEL",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[VCSEL]] (10) | [[5G]] (129) | [[磷化銦]] (5) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "砷化鎵",
+      "target": "磷化銦",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[VCSEL]] (10) | [[5G]] (129) | [[磷化銦]] (5) | [[RF]] (3)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "碳化矽",
+      "target": "IGBT",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[MOSFET]] (45) | [[IGBT]] (23) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "碳化矽",
+      "target": "MOSFET",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[MOSFET]] (45) | [[IGBT]] (23) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "碳化矽",
+      "target": "氮化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[MOSFET]] (45) | [[IGBT]] (23) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "碳化矽",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[MOSFET]] (45) | [[IGBT]] (23) | [[氮化鎵]] (20)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磊晶",
+      "target": "矽晶圓",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽晶圓]] (33) | [[砷化鎵]] (7) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磊晶",
+      "target": "砷化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽晶圓]] (33) | [[砷化鎵]] (7) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磊晶",
+      "target": "磷化銦",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[矽晶圓]] (33) | [[砷化鎵]] (7) | [[磷化銦]] (5)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磷化銦",
+      "target": "EML",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[EML]] (2) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磷化銦",
+      "target": "光收發模組",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[EML]] (2) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磷化銦",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[EML]] (2) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "磷化銦",
+      "target": "砷化鎵",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[矽光子]] (15) | [[EML]] (2) | [[光收發模組]] (9) | [[砷化鎵]] (7)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "資料中心",
+      "target": "AI 伺服器",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[AI 伺服器]] (148) | [[CPO]] (14) | [[矽光子]] (15) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "資料中心",
+      "target": "CPO",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[AI 伺服器]] (148) | [[CPO]] (14) | [[矽光子]] (15) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "資料中心",
+      "target": "PCB",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[AI 伺服器]] (148) | [[CPO]] (14) | [[矽光子]] (15) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "資料中心",
+      "target": "矽光子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[AI 伺服器]] (148) | [[CPO]] (14) | [[矽光子]] (15) | [[PCB]] (129)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "車用電子",
+      "target": "IGBT",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[Tesla]] (55) | [[IGBT]] (23) | [[MOSFET]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "車用電子",
+      "target": "MOSFET",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[Tesla]] (55) | [[IGBT]] (23) | [[MOSFET]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "車用電子",
+      "target": "Tesla",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[Tesla]] (55) | [[IGBT]] (23) | [[MOSFET]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "車用電子",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[Tesla]] (55) | [[IGBT]] (23) | [[MOSFET]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "車用電子",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[電動車]] (132) | [[碳化矽]] (22) | [[Tesla]] (55) | [[IGBT]] (23) | [[MOSFET]] (45)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "電動車",
+      "target": "IGBT",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[IGBT]] (23) | [[MOSFET]] (45) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "電動車",
+      "target": "MOSFET",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[IGBT]] (23) | [[MOSFET]] (45) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "電動車",
+      "target": "碳化矽",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[IGBT]] (23) | [[MOSFET]] (45) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "電動車",
+      "target": "車用電子",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 7,
+          "section": "root",
+          "text": "**相關主題：** [[碳化矽]] (22) | [[IGBT]] (23) | [[MOSFET]] (45) | [[車用電子]] (25)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "鴻海",
+      "target": "Apple",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[Apple]] (96) | [[電動車]] (132) | [[資料中心]] (81) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "鴻海",
+      "target": "台積電",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[Apple]] (96) | [[電動車]] (132) | [[資料中心]] (81) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "supplemental_theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "鴻海",
+      "target": "資料中心",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[Apple]] (96) | [[電動車]] (132) | [[資料中心]] (81) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    },
+    {
+      "source": "鴻海",
+      "target": "電動車",
+      "type": "mentions",
+      "count": 1,
+      "sections": [
+        "root"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "section": "root",
+          "text": "**相關主題：** [[Apple]] (96) | [[電動車]] (132) | [[資料中心]] (81) | [[台積電]] (215)"
+        }
+      ],
+      "value": 1,
+      "weight": 1,
+      "source_type": "supplemental_theme",
+      "target_type": "theme",
+      "target_is_theme": true,
+      "primary_section": "root"
+    }
+  ]
+}

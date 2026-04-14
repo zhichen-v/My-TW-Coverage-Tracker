@@ -2,9 +2,9 @@
 
 > 先進製程關鍵微影技術，7nm 以下節點必備
 
-**涵蓋公司數:** 9
+**相關公司數：** 10
 
-**相關主題:** [[光阻液]] (4) | [[ASML]] (18)
+**相關主題：** [[光阻液]] (4) | [[ASML]] (20)
 
 ---
 
@@ -18,9 +18,10 @@
 - **6517 保勝光學** (Electronic Components)
 - **6823 濾能** (Pollution & Treatment Controls)
 
-## 相關公司 (5)
+## 相關公司 (6)
 
 - **4551 智伸科** (Auto Parts)
+- **1710 東聯** (Chemicals)
 - **6895 宏碩系統** (Electrical Equipment & Parts)
 - **3178 公準** (Semiconductor Equipment & Materials)
 - **3680 家登** (Semiconductors)

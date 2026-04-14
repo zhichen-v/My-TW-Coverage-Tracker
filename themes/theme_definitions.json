@@ -1,0 +1,292 @@
+{
+  "themes": [
+    {
+      "id": "CoWoS",
+      "name": "CoWoS 先進封裝",
+      "desc": "台積電 Chip-on-Wafer-on-Substrate 2.5D 先進封裝技術，AI 晶片關鍵製程",
+      "related": ["HBM", "2.5D 封裝", "3D 封裝", "ABF 載板"],
+      "category": "Advanced Packaging",
+      "supplemental": false
+    },
+    {
+      "id": "HBM",
+      "name": "HBM 高頻寬記憶體",
+      "desc": "High Bandwidth Memory，AI 加速器必備的高速堆疊記憶體",
+      "related": ["CoWoS", "AI 伺服器", "DRAM"],
+      "category": "Advanced Packaging",
+      "supplemental": false
+    },
+    {
+      "id": "CPO",
+      "name": "CPO 共封裝光學",
+      "desc": "Co-Packaged Optics，將光學元件整合於晶片封裝中以突破頻寬瓶頸",
+      "related": ["矽光子", "光收發模組", "AI 伺服器", "資料中心"],
+      "category": "Advanced Packaging",
+      "supplemental": false
+    },
+    {
+      "id": "2.5D 封裝",
+      "name": "2.5D 封裝",
+      "desc": "透過中介層整合邏輯晶片與高頻寬記憶體的先進封裝架構，常見於 AI 與 HPC 晶片。",
+      "related": ["CoWoS", "HBM", "ABF 載板"],
+      "category": "Advanced Packaging",
+      "supplemental": true
+    },
+    {
+      "id": "3D 封裝",
+      "name": "3D 封裝",
+      "desc": "以垂直堆疊方式提升頻寬、密度與系統整合度的先進封裝技術，常與高效能運算應用連動。",
+      "related": ["CoWoS", "HBM", "2.5D 封裝"],
+      "category": "Advanced Packaging",
+      "supplemental": true
+    },
+    {
+      "id": "ABF 載板",
+      "name": "ABF 載板",
+      "desc": "Ajinomoto Build-up Film 載板，高階 IC 封裝基板",
+      "related": ["CoWoS", "AI 伺服器", "PCB"],
+      "category": "Advanced Packaging",
+      "supplemental": false
+    },
+    {
+      "id": "矽光子",
+      "name": "矽光子 Silicon Photonics",
+      "desc": "以矽基製程整合光學元件，實現高速光互連，下一代資料中心核心技術",
+      "related": ["CPO", "EML", "VCSEL", "光收發模組", "資料中心"],
+      "category": "Photonics",
+      "supplemental": false
+    },
+    {
+      "id": "VCSEL",
+      "name": "VCSEL 垂直共振腔面射型雷射",
+      "desc": "3D 感測、光通訊及 LiDAR 核心光源元件",
+      "related": ["矽光子", "光收發模組", "砷化鎵"],
+      "category": "Photonics",
+      "supplemental": false
+    },
+    {
+      "id": "EML",
+      "name": "EML",
+      "desc": "EML 邊緣發射雷射是高速光通訊常見光源元件，與矽光子與高速光模組密切相關。",
+      "related": ["矽光子", "磷化銦", "光收發模組"],
+      "category": "Photonics",
+      "supplemental": true
+    },
+    {
+      "id": "光收發模組",
+      "name": "光收發模組",
+      "desc": "光收發模組負責電光訊號轉換，是資料中心、高速交換器與 AI 網路升級的重要元件。",
+      "related": ["矽光子", "CPO", "VCSEL", "磷化銦", "資料中心"],
+      "category": "Photonics",
+      "supplemental": true
+    },
+    {
+      "id": "氮化鎵",
+      "name": "氮化鎵 GaN",
+      "desc": "第三代半導體材料，高頻高效，5G 基站、快充及衛星通訊核心",
+      "related": ["5G", "碳化矽", "磷化銦"],
+      "category": "Compound Semiconductors",
+      "supplemental": false
+    },
+    {
+      "id": "碳化矽",
+      "name": "碳化矽 SiC",
+      "desc": "第三代半導體材料，耐高壓高溫，電動車逆變器及充電樁關鍵材料",
+      "related": ["電動車", "MOSFET", "IGBT", "氮化鎵"],
+      "category": "Compound Semiconductors",
+      "supplemental": false
+    },
+    {
+      "id": "磷化銦",
+      "name": "磷化銦 InP",
+      "desc": "III-V 族化合物半導體，光通訊雷射及高速光電元件基板材料",
+      "related": ["矽光子", "EML", "光收發模組", "砷化鎵"],
+      "category": "Compound Semiconductors",
+      "supplemental": false
+    },
+    {
+      "id": "砷化鎵",
+      "name": "砷化鎵",
+      "desc": "砷化鎵是重要的 III-V 化合物半導體材料，常見於射頻與光電元件。",
+      "related": ["VCSEL", "5G", "磷化銦", "RF"],
+      "category": "Compound Semiconductors",
+      "supplemental": true
+    },
+    {
+      "id": "磊晶",
+      "name": "磊晶",
+      "desc": "磊晶是半導體外延生長製程，對化合物半導體、光電元件與高階晶圓材料品質至關重要。",
+      "related": ["矽晶圓", "砷化鎵", "磷化銦"],
+      "category": "Compound Semiconductors",
+      "supplemental": true
+    },
+    {
+      "id": "矽晶圓",
+      "name": "矽晶圓",
+      "desc": "半導體製造最基礎的原材料",
+      "related": ["碳化矽", "磊晶"],
+      "category": "Compound Semiconductors",
+      "supplemental": false
+    },
+    {
+      "id": "AI 伺服器",
+      "name": "AI 伺服器供應鏈",
+      "desc": "AI 訓練與推論伺服器完整供應鏈，從晶片到系統到散熱",
+      "related": ["CoWoS", "HBM", "NVIDIA", "CPO", "資料中心"],
+      "category": "AI & Data Center",
+      "supplemental": false
+    },
+    {
+      "id": "資料中心",
+      "name": "資料中心供應鏈",
+      "desc": "超大規模資料中心基礎設施，涵蓋伺服器、網通、電源、散熱",
+      "related": ["AI 伺服器", "CPO", "矽光子", "PCB"],
+      "category": "AI & Data Center",
+      "supplemental": false
+    },
+    {
+      "id": "DRAM",
+      "name": "DRAM",
+      "desc": "動態隨機存取記憶體，是 HBM 與一般運算記憶體產品的基礎技術平台。",
+      "related": ["HBM", "AI 伺服器", "資料中心"],
+      "category": "AI & Data Center",
+      "supplemental": true
+    },
+    {
+      "id": "PCB",
+      "name": "PCB",
+      "desc": "印刷電路板是電子系統的基礎互連平台，高速運算與資料中心需求會推動高階板材與載板升級。",
+      "related": ["ABF 載板", "資料中心", "AI 伺服器"],
+      "category": "AI & Data Center",
+      "supplemental": true
+    },
+    {
+      "id": "電動車",
+      "name": "電動車供應鏈",
+      "desc": "電動車完整供應鏈，從電池材料到功率元件到車用電子",
+      "related": ["碳化矽", "IGBT", "MOSFET", "車用電子"],
+      "category": "Electric Vehicles",
+      "supplemental": false
+    },
+    {
+      "id": "IGBT",
+      "name": "IGBT",
+      "desc": "IGBT 是高壓高功率場景常見的功率半導體元件，廣泛用於車用逆變器與工業電力控制。",
+      "related": ["電動車", "碳化矽", "車用電子"],
+      "category": "Electric Vehicles",
+      "supplemental": true
+    },
+    {
+      "id": "MOSFET",
+      "name": "MOSFET",
+      "desc": "MOSFET 是最常見的功率與開關元件之一，在電源管理、車用電子與功率模組中廣泛使用。",
+      "related": ["電動車", "碳化矽", "車用電子"],
+      "category": "Electric Vehicles",
+      "supplemental": true
+    },
+    {
+      "id": "車用電子",
+      "name": "車用電子",
+      "desc": "車用電子涵蓋動力、感測、控制與通訊模組，是電動車與智慧車發展的核心電子架構。",
+      "related": ["電動車", "碳化矽", "Tesla", "IGBT", "MOSFET"],
+      "category": "Electric Vehicles",
+      "supplemental": true
+    },
+    {
+      "id": "5G",
+      "name": "5G 通訊供應鏈",
+      "desc": "5G 基礎建設與終端應用，涵蓋基站、天線、射頻前端、濾波器",
+      "related": ["氮化鎵", "RF", "低軌衛星"],
+      "category": "Communications",
+      "supplemental": false
+    },
+    {
+      "id": "低軌衛星",
+      "name": "低軌衛星 LEO Satellite",
+      "desc": "低軌道衛星通訊供應鏈，天線、地面站、射頻模組",
+      "related": ["5G", "氮化鎵", "RF"],
+      "category": "Communications",
+      "supplemental": false
+    },
+    {
+      "id": "RF",
+      "name": "RF",
+      "desc": "RF 射頻技術涵蓋高頻傳輸、前端模組與通訊系統設計，是 5G 與衛星通訊的核心環節。",
+      "related": ["5G", "低軌衛星", "氮化鎵"],
+      "category": "Communications",
+      "supplemental": true
+    },
+    {
+      "id": "EUV",
+      "name": "EUV 極紫外光微影",
+      "desc": "先進製程關鍵微影技術，7nm 以下節點必備",
+      "related": ["光阻液", "ASML"],
+      "category": "Process & Materials",
+      "supplemental": false
+    },
+    {
+      "id": "光阻液",
+      "name": "光阻液 Photoresist",
+      "desc": "半導體微影製程關鍵化學材料",
+      "related": ["EUV", "微影"],
+      "category": "Process & Materials",
+      "supplemental": false
+    },
+    {
+      "id": "ASML",
+      "name": "ASML",
+      "desc": "全球半導體微影設備龍頭，EUV 與先進 DUV 曝光設備供應的核心公司。",
+      "related": ["EUV", "微影", "台積電"],
+      "category": "Process & Materials",
+      "supplemental": true
+    },
+    {
+      "id": "微影",
+      "name": "微影",
+      "desc": "微影是半導體製程中將電路圖形轉移到晶圓上的關鍵步驟，直接影響先進製程節點的能力上限。",
+      "related": ["EUV", "光阻液", "台積電", "ASML"],
+      "category": "Process & Materials",
+      "supplemental": true
+    },
+    {
+      "id": "Apple",
+      "name": "Apple 蘋果供應鏈",
+      "desc": "蘋果公司台灣供應鏈成員",
+      "related": ["台積電", "鴻海"],
+      "category": "Customer Ecosystems",
+      "supplemental": false
+    },
+    {
+      "id": "NVIDIA",
+      "name": "NVIDIA 輝達供應鏈",
+      "desc": "NVIDIA GPU 及 AI 平台台灣供應鏈",
+      "related": ["CoWoS", "HBM", "AI 伺服器", "台積電"],
+      "category": "Customer Ecosystems",
+      "supplemental": false
+    },
+    {
+      "id": "Tesla",
+      "name": "Tesla 特斯拉供應鏈",
+      "desc": "特斯拉電動車台灣供應鏈成員",
+      "related": ["電動車", "碳化矽"],
+      "category": "Customer Ecosystems",
+      "supplemental": false
+    },
+    {
+      "id": "台積電",
+      "name": "台積電",
+      "desc": "台積電是全球晶圓代工龍頭，先進製程與先進封裝供應鏈的核心節點，對 AI 與高效能運算影響極大。",
+      "related": ["CoWoS", "EUV", "Apple", "NVIDIA", "HBM"],
+      "category": "Customer Ecosystems",
+      "supplemental": true
+    },
+    {
+      "id": "鴻海",
+      "name": "鴻海",
+      "desc": "鴻海是全球大型電子製造服務與組裝集團，與 Apple 供應鏈、伺服器與電動車布局高度相關。",
+      "related": ["Apple", "電動車", "資料中心", "台積電"],
+      "category": "Customer Ecosystems",
+      "supplemental": true
+    }
+  ]
+}

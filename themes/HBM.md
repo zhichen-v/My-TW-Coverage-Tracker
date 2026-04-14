@@ -2,20 +2,20 @@
 
 > High Bandwidth Memory，AI 加速器必備的高速堆疊記憶體
 
-**涵蓋公司數:** 16
+**相關公司數：** 16
 
-**相關主題:** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[DRAM]] (33)
+**相關主題：** [[CoWoS]] (39) | [[AI 伺服器]] (148) | [[DRAM]] (34)
 
 ---
 
-## 上游 (1)
+## 上游 (2)
 
 - **7711 永擎** (Computer Hardware)
+- **8096 擎亞** (Semiconductors)
 
-## 中游 (2)
+## 中游 (1)
 
 - **6239 力成** (Semiconductors)
-- **8096 擎亞** (Semiconductors)
 
 ## 下游 (3)
 

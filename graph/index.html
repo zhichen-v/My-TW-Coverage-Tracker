@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Theme Graph</title>
+  <style>
+    :root {
+      --bg: #0a0f14;
+      --panel: rgba(13, 20, 28, 0.92);
+      --panel-border: #233244;
+      --text: #e8eef5;
+      --muted: #93a4b8;
+      --theme: #ff8a3d;
+      --supplemental-theme: #4db6ff;
+      --wikilink: #8ad6ff;
+      --edge: #5f738a;
+      --accent: #c7f36b;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at top left, rgba(255, 138, 61, 0.18), transparent 32%),
+        radial-gradient(circle at top right, rgba(77, 182, 255, 0.16), transparent 28%),
+        linear-gradient(180deg, #091019 0%, var(--bg) 100%);
+      color: var(--text);
+      font-family: Consolas, "SFMono-Regular", "Liberation Mono", monospace;
+    }
+
+    #app {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .panel {
+      position: absolute;
+      z-index: 2;
+      background: var(--panel);
+      border: 1px solid var(--panel-border);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 14px 40px rgba(0, 0, 0, 0.28);
+    }
+
+    #header {
+      top: 16px;
+      left: 16px;
+      width: min(360px, calc(100vw - 32px));
+      padding: 14px 16px;
+    }
+
+    #header h1 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      line-height: 1.2;
+    }
+
+    #header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    #legend {
+      top: 16px;
+      right: 16px;
+      padding: 12px 14px;
+      min-width: 180px;
+    }
+
+    #legend h2,
+    #details h2 {
+      margin: 0 0 10px;
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    #legend .row,
+    #stats .row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 7px 0;
+      font-size: 12px;
+    }
+
+    .swatch {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      flex: 0 0 auto;
+    }
+
+    #stats {
+      position: absolute;
+      left: 16px;
+      bottom: 16px;
+      z-index: 2;
+      padding: 12px 14px;
+      min-width: 220px;
+      background: var(--panel);
+      border: 1px solid var(--panel-border);
+    }
+
+    #details {
+      right: 16px;
+      bottom: 16px;
+      width: min(380px, calc(100vw - 32px));
+      max-height: min(52vh, 420px);
+      overflow: auto;
+      padding: 14px 16px;
+    }
+
+    #details .muted {
+      color: var(--muted);
+    }
+
+    #details .title {
+      margin: 0 0 6px;
+      font-size: 16px;
+      line-height: 1.35;
+    }
+
+    #details .meta,
+    #details .occurrence {
+      font-size: 12px;
+      line-height: 1.5;
+      color: var(--muted);
+    }
+
+    #details .note {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-left: 3px solid var(--accent);
+      background: rgba(199, 243, 107, 0.06);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    #details ul {
+      margin: 10px 0 0;
+      padding-left: 18px;
+    }
+
+    #details li {
+      margin: 8px 0;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .related-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .related-chip {
+      border: 1px solid var(--panel-border);
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--text);
+      padding: 6px 10px;
+      font: inherit;
+      font-size: 12px;
+      cursor: pointer;
+    }
+
+    .related-chip:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .node {
+      cursor: grab;
+    }
+
+    .node.theme {
+      stroke: #fff0;
+    }
+
+    .node.supplemental_theme {
+      stroke: #fff0;
+    }
+
+    .node.wikilink {
+      stroke: #fff0;
+    }
+
+    .label {
+      pointer-events: none;
+      fill: #dce7f2;
+      font-size: 11px;
+    }
+
+    .faded {
+      opacity: 0.08;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="header" class="panel">
+      <h1>Theme Graph</h1>
+      <p>Drag nodes, zoom with the wheel, and click a node to inspect source references. Orange nodes are original theme pages, blue nodes are supplemental theme pages, and pale-blue nodes are unresolved wikilinks.</p>
+    </div>
+    <div id="legend" class="panel">
+      <h2>Legend</h2>
+      <div class="row"><span class="swatch" style="background: var(--theme)"></span><span>Theme Page</span></div>
+      <div class="row"><span class="swatch" style="background: var(--supplemental-theme)"></span><span>Supplemental Theme</span></div>
+      <div class="row"><span class="swatch" style="background: var(--wikilink)"></span><span>Referenced Wikilink</span></div>
+    </div>
+    <div id="stats"></div>
+    <div id="details" class="panel">
+      <h2>Details</h2>
+      <div class="muted">Click a node to inspect its attributes and adjacent edges.</div>
+    </div>
+    <svg aria-label="theme graph"></svg>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    const svg = d3.select("svg");
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const root = svg.append("g");
+    const linkLayer = root.append("g");
+    const nodeLayer = root.append("g");
+    const labelLayer = root.append("g");
+    const statsEl = document.getElementById("stats");
+    const detailsEl = document.getElementById("details");
+
+    const colors = {
+      theme: getComputedStyle(document.documentElement).getPropertyValue("--theme").trim(),
+      supplemental_theme: getComputedStyle(document.documentElement).getPropertyValue("--supplemental-theme").trim(),
+      wikilink: getComputedStyle(document.documentElement).getPropertyValue("--wikilink").trim()
+    };
+
+    const zoom = d3.zoom()
+      .scaleExtent([0.2, 3.5])
+      .on("zoom", (event) => root.attr("transform", event.transform));
+
+    svg.call(zoom).on("click", (event) => {
+      if (event.target === svg.node()) {
+        const clearEvent = new CustomEvent("graph-clear-selection");
+        window.dispatchEvent(clearEvent);
+      }
+    });
+
+    fetch("./theme_graph.json")
+      .then((res) => res.json())
+      .then((graph) => render(graph))
+      .catch((err) => {
+        detailsEl.innerHTML = "<h2>Details</h2><div class='muted'>Unable to read theme_graph.json. Run the build script first, then serve this folder with a local static server.</div>";
+        console.error(err);
+      });
+
+    function render(graph) {
+      statsEl.className = "panel";
+      statsEl.innerHTML = [
+        "<h2 style='margin:0 0 10px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em'>Stats</h2>",
+        `<div class="row"><span>Nodes</span><span>${graph.node_counts.total}</span></div>`,
+        `<div class="row"><span>Themes</span><span>${graph.node_counts.themes}</span></div>`,
+        `<div class="row"><span>Supplemental</span><span>${graph.node_counts.supplemental_themes ?? 0}</span></div>`,
+        `<div class="row"><span>Wikilinks</span><span>${graph.node_counts.wikilinks}</span></div>`,
+        `<div class="row"><span>Edges</span><span>${graph.links.length}</span></div>`
+      ].join("");
+
+      const nodes = graph.nodes.map((d) => ({ ...d }));
+      const links = graph.links.map((d) => ({ ...d }));
+      let selectedNodeId = null;
+
+      const neighborMap = new Map();
+      nodes.forEach((node) => neighborMap.set(node.id, new Set([node.id])));
+      links.forEach((link) => {
+        neighborMap.get(link.source)?.add(link.target);
+        neighborMap.get(link.target)?.add(link.source);
+      });
+
+      const radius = d3.scaleSqrt()
+        .domain([0, d3.max(nodes, (d) => d.degree) || 1])
+        .range([7, 34]);
+
+      const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id((d) => d.id).distance((d) => d.target_is_theme ? 82 : 62).strength(0.55))
+        .force("charge", d3.forceManyBody().strength((d) => d.is_theme_page ? -280 : -110))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collision", d3.forceCollide().radius((d) => radius(d.degree) + 3))
+        .force("x", d3.forceX(width / 2).strength(0.06))
+        .force("y", d3.forceY(height / 2).strength(0.06));
+
+      const link = linkLayer
+        .selectAll("line")
+        .data(links)
+        .join("line")
+        .attr("stroke", "var(--edge)")
+        .attr("stroke-opacity", (d) => d.target_type === "wikilink" ? 0.7 : 0.5)
+        .attr("stroke-width", (d) => d.target_type === "wikilink" ? 1.8 + d.weight * 0.85 : 1.2 + d.weight * 0.65);
+
+      const node = nodeLayer
+        .selectAll("circle")
+        .data(nodes)
+        .join("circle")
+        .attr("class", (d) => `node ${d.type}`)
+        .attr("r", (d) => Math.max(d.radius_hint, radius(d.degree)))
+        .attr("fill", (d) => colors[d.type] || "#ccc")
+        .attr("opacity", 0.95)
+        .call(
+          d3.drag()
+            .on("start", dragStarted)
+            .on("drag", dragged)
+            .on("end", dragEnded)
+        )
+        .on("click", (event, d) => {
+          event.stopPropagation();
+          if (selectedNodeId === d.id) {
+            clearSelection();
+            return;
+          }
+          selectNode(d);
+          focusNode(d);
+        });
+
+      const label = labelLayer
+        .selectAll("text")
+        .data(nodes.filter((d) => d.is_theme_page || d.degree >= 2))
+        .join("text")
+        .attr("class", "label")
+        .attr("text-anchor", "middle")
+        .text((d) => d.label);
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", (d) => d.source.x)
+          .attr("y1", (d) => d.source.y)
+          .attr("x2", (d) => d.target.x)
+          .attr("y2", (d) => d.target.y);
+
+        node
+          .attr("cx", (d) => d.x)
+          .attr("cy", (d) => d.y);
+
+        label
+          .attr("x", (d) => d.x)
+          .attr("y", (d) => d.y + radius(d.degree) + 14);
+      });
+
+      function selectNode(selected) {
+        selectedNodeId = selected.id;
+        const neighbors = neighborMap.get(selected.id) || new Set([selected.id]);
+
+        node
+          .classed("faded", (d) => !neighbors.has(d.id))
+          .attr("opacity", (d) => neighbors.has(d.id) ? 0.98 : 0.12);
+
+        label
+          .classed("faded", (d) => !neighbors.has(d.id))
+          .attr("opacity", (d) => neighbors.has(d.id) ? 1 : 0.18);
+
+        link
+          .classed("faded", (d) => d.source.id !== selected.id && d.target.id !== selected.id)
+          .attr("stroke-opacity", (d) => {
+            const isAdjacent = d.source.id === selected.id || d.target.id === selected.id;
+            if (isAdjacent) {
+              return d.target_type === "wikilink" ? 0.88 : 0.68;
+            }
+            return 0.08;
+          });
+
+        const adjacent = links
+          .filter((d) => d.source.id === selected.id || d.target.id === selected.id)
+          .sort((a, b) => b.weight - a.weight);
+
+        const relatedItems = Array.isArray(selected.related_themes)
+          ? selected.related_themes.filter((item) => item.is_theme_page)
+          : [];
+
+        const related = relatedItems.length
+          ? `<div class="related-list">${relatedItems.map((item) =>
+              `<button class="related-chip" data-node-id="${escapeAttr(item.id)}">${escapeHtml(item.label)}</button>`
+            ).join("")}</div>`
+          : "<div class='muted'>No related themes.</div>";
+
+        detailsEl.innerHTML = [
+          "<h2>Details</h2>",
+          `<div class="title">${escapeHtml(selected.label)}</div>`,
+          selected.note ? `<div class="note">&gt; ${escapeHtml(selected.note)}</div>` : "<div class='muted' style='margin-top:10px'>No note.</div>",
+          "<h2 style='margin-top:14px'>Related Themes</h2>",
+          related
+        ].join("");
+
+        detailsEl.querySelectorAll("[data-node-id]").forEach((el) => {
+          el.addEventListener("click", () => {
+            const id = el.getAttribute("data-node-id");
+            const targetNode = nodes.find((node) => node.id === id);
+            if (targetNode) {
+              if (selectedNodeId === targetNode.id) {
+                clearSelection();
+                return;
+              }
+              selectNode(targetNode);
+              focusNode(targetNode);
+            }
+          });
+        });
+      }
+
+      function clearSelection() {
+        selectedNodeId = null;
+
+        node
+          .classed("faded", false)
+          .attr("opacity", 0.95);
+
+        label
+          .classed("faded", false)
+          .attr("opacity", 1);
+
+        link
+          .classed("faded", false)
+          .attr("stroke-opacity", (d) => d.target_type === "wikilink" ? 0.7 : 0.5);
+
+        detailsEl.innerHTML = [
+          "<h2>Details</h2>",
+          "<div class='muted'>Click a node to inspect its attributes and adjacent edges.</div>"
+        ].join("");
+      }
+
+      function dragStarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+
+      function dragEnded(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+
+      function focusNode(targetNode) {
+        if (typeof targetNode.x !== "number" || typeof targetNode.y !== "number") {
+          return;
+        }
+        const scale = 1.55;
+        const tx = width / 2 - targetNode.x * scale;
+        const ty = height / 2 - targetNode.y * scale;
+        svg.transition()
+          .duration(550)
+          .call(
+            zoom.transform,
+            d3.zoomIdentity.translate(tx, ty).scale(scale)
+          );
+      }
+
+      window.addEventListener("graph-clear-selection", clearSelection);
+      clearSelection();
+      svg.call(
+        zoom.transform,
+        d3.zoomIdentity
+          .translate(width / 2, height / 2)
+          .scale(1.22)
+          .translate(-width / 2, -height / 2)
+      );
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value);
+    }
+  </script>
+</body>
+</html>
