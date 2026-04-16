@@ -128,6 +128,7 @@ const financialTerms: FinancialTermEntry[] = [
     zh: "百萬新台幣",
     descriptionEn: "Values are shown in millions of New Taiwan dollars.",
     descriptionZh: "數值單位為百萬新台幣",
+    aliases: ["百萬台幣", "百萬新台幣"],
   },
 ];
 
@@ -140,10 +141,13 @@ const phrasePairs = [
   ["近 4 季", "Last 4 Quarters"],
   ["單位: 百萬新台幣, 僅 Margin 為%", "Unit: TWD mn, only margin rows are shown in %"],
   ["單位：百萬新台幣，僅 Margin 為%", "Unit: TWD mn, only margin rows are shown in %"],
+  ["單位: 百萬台幣, 僅 Margin 為%", "Unit: TWD mn, only margin rows are shown in %"],
+  ["單位：百萬台幣，僅 Margin 為%", "Unit: TWD mn, only margin rows are shown in %"],
   ["股價", "Share price"],
   ["截至", "through"],
   ["預估至", "forecast through"],
   ["百萬新台幣", "Millions TWD"],
+  ["百萬台幣", "Millions TWD"],
 ] as const;
 
 const translationPairs = [
