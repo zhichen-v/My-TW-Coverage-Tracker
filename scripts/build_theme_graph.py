@@ -31,7 +31,7 @@ DEFAULT_GRAPH_OUTPUT = GRAPH_DIR / "theme_graph.json"
 DEFAULT_COMPANY_OUTPUT = GRAPH_DIR / "theme_company_map.json"
 
 WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
-RELATED_THEMES_RE = re.compile(r"^\*\*.+?:\*\*\s*(.+)$")
+RELATED_THEMES_RE = re.compile(r"^\*\*.+?[：:]\*\*\s*(.+)$")
 SUPPLEMENTAL_MARKER = "<!-- graph_role: supplemental -->"
 SECTOR_TRANSLATION_BLOCK_RE = re.compile(
     r"const sectorTranslations: Record<string, string> = \{(.*?)\n\};",
@@ -205,6 +205,8 @@ def build_graph(theme_records: list[dict]) -> dict:
     link_map: dict[tuple[str, str], dict] = {}
     inbound_by_node: dict[str, set[str]] = defaultdict(set)
     outbound_by_node: dict[str, set[str]] = defaultdict(set)
+    unique_wikilink_targets: set[str] = set()
+    total_wikilink_mentions = 0
 
     for record in theme_records:
         theme_id = record["theme_id"]
@@ -230,6 +232,9 @@ def build_graph(theme_records: list[dict]) -> dict:
             wikilinks = WIKILINK_RE.findall(line)
             if not wikilinks:
                 continue
+
+            unique_wikilink_targets.update(wikilinks)
+            total_wikilink_mentions += len(wikilinks)
 
             for wikilink in wikilinks:
                 if wikilink in supplemental_ids:
@@ -309,6 +314,8 @@ def build_graph(theme_records: list[dict]) -> dict:
             "themes": sum(1 for n in serialized_nodes if n["type"] == "theme"),
             "supplemental_themes": sum(1 for n in serialized_nodes if n["type"] == "supplemental_theme"),
             "wikilinks": sum(1 for n in serialized_nodes if n["type"] == "wikilink"),
+            "wikilink_targets": len(unique_wikilink_targets),
+            "wikilink_mentions": total_wikilink_mentions,
         },
         "nodes": serialized_nodes,
         "links": serialized_links,
