@@ -682,11 +682,13 @@ textarea {
 }
 
 .structured-table-wrap {
-  overflow-x: auto;
+  width: 100%;
+  overflow: visible;
 }
 
 .structured-table {
   width: 100%;
+  max-width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
   table-layout: fixed;
@@ -720,7 +722,7 @@ textarea {
   position: relative;
   display: inline-flex;
   max-width: 100%;
-  cursor: help;
+  cursor: default;
   outline: none;
 }
 

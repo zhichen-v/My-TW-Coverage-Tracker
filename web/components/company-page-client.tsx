@@ -73,7 +73,7 @@ function FinancialTerm({
   description: string;
 }) {
   return (
-    <span className="financial-term" tabIndex={0} title={description}>
+    <span className="financial-term" tabIndex={0}>
       <span className="financial-term-label">{label}</span>
       <span className="financial-term-tooltip" role="tooltip">
         {description}
