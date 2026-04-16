@@ -716,6 +716,50 @@ textarea {
   color: var(--muted-strong);
 }
 
+.financial-term {
+  position: relative;
+  display: inline-flex;
+  max-width: 100%;
+  cursor: help;
+  outline: none;
+}
+
+.financial-term-label {
+  border-bottom: 1px dashed rgba(166, 172, 177, 0.72);
+  padding-bottom: 0.08rem;
+}
+
+.financial-term-tooltip {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 10px);
+  z-index: 20;
+  width: min(280px, 72vw);
+  padding: 10px 12px;
+  border: 1px solid rgba(166, 172, 177, 0.26);
+  background: rgba(7, 10, 14, 0.97);
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.42);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 1.5;
+  text-transform: none;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(4px);
+  transition:
+    opacity 140ms ease,
+    transform 140ms ease;
+}
+
+.financial-term:hover .financial-term-tooltip,
+.financial-term:focus-visible .financial-term-tooltip {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 @media (max-width: 1100px) {
   .hero {
     grid-template-columns: 1fr;

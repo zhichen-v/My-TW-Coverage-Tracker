@@ -8,7 +8,10 @@ import type {
   StructuredInlineSegment,
   StructuredContentSection,
 } from "@/lib/api";
-import { translateFinancialText } from "@/lib/financial-markdown";
+import {
+  getFinancialTermDescription,
+  translateFinancialText,
+} from "@/lib/financial-markdown";
 import { translateSectorName, type SupportedLanguage } from "@/lib/i18n";
 import { LanguageProvider, useLanguage } from "@/components/language-provider";
 
@@ -62,6 +65,23 @@ function translateSnapshotValue(
   return translateFinancialText(value, language);
 }
 
+function FinancialTerm({
+  label,
+  description,
+}: {
+  label: string;
+  description: string;
+}) {
+  return (
+    <span className="financial-term" tabIndex={0} title={description}>
+      <span className="financial-term-label">{label}</span>
+      <span className="financial-term-tooltip" role="tooltip">
+        {description}
+      </span>
+    </span>
+  );
+}
+
 function DetailBlock({
   index,
   title,
@@ -84,6 +104,17 @@ function DetailBlock({
 
   function renderSegments(segments: StructuredInlineSegment[]) {
     return renderInlineSegments(segments, translateText);
+  }
+
+  function renderFinancialTerm(value: string) {
+    const text = value.trim();
+    const description = getFinancialTermDescription(text, language);
+
+    if (!description) {
+      return text || "\u00A0";
+    }
+
+    return <FinancialTerm label={text} description={description} />;
   }
 
   function renderBlock(block: StructuredContentBlock, blockIndex: number) {
@@ -119,7 +150,9 @@ function DetailBlock({
             <thead>
               <tr>
                 {columns.map((column, columnIndex) => (
-                  <th key={`column-${columnIndex}`}>{column || "\u00A0"}</th>
+                  <th key={`column-${columnIndex}`}>
+                    {renderFinancialTerm(column)}
+                  </th>
                 ))}
               </tr>
             </thead>
@@ -127,7 +160,9 @@ function DetailBlock({
               {rows.map((row, rowIndex) => (
                 <tr key={`row-${rowIndex}`}>
                   {row.map((cell, cellIndex) => (
-                    <td key={`cell-${rowIndex}-${cellIndex}`}>{cell || "\u00A0"}</td>
+                    <td key={`cell-${rowIndex}-${cellIndex}`}>
+                      {renderFinancialTerm(cell)}
+                    </td>
                   ))}
                 </tr>
               ))}
