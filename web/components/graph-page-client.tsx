@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import {
@@ -386,6 +387,9 @@ export function GraphPageClient() {
     <div className={styles.page}>
       <section className={styles.viewport}>
         <aside className={`${styles.overlayPanel} ${styles.headerPanel}`}>
+          <Link className={`${styles.headerBackLink} back-link`} href="/">
+            Back to Home
+          </Link>
           <h1 className={styles.headerTitle}>Theme Graph</h1>
           <p className={styles.headerDescription}>
             Explore theme relationships and the related-company clusters derived from the existing

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T15:12:54.329272+00:00",
+  "generated_at": "2026-04-17T17:45:26.499430+00:00",
   "source_dir": "Pilot_Reports",
   "payload_kind": "theme_company_map",
   "theme_count": 36,
@@ -10,7 +10,11 @@
       "note": "透過中介層整合邏輯晶片與高頻寬記憶體的先進封裝架構，常見於 AI 與 HPC 晶片。",
       "type": "supplemental_theme",
       "path": "themes/2.5D_封裝.md",
-      "related_themes": ["CoWoS", "HBM", "ABF 載板"],
+      "related_themes": [
+        "CoWoS",
+        "HBM",
+        "ABF 載板"
+      ],
       "company_count": 3,
       "counts_by_role": {
         "upstream": 1,
@@ -91,7 +95,11 @@
       "note": "以垂直堆疊方式提升頻寬、密度與系統整合度的先進封裝技術，常與高效能運算應用連動。",
       "type": "supplemental_theme",
       "path": "themes/3D_封裝.md",
-      "related_themes": ["CoWoS", "HBM", "2.5D 封裝"],
+      "related_themes": [
+        "CoWoS",
+        "HBM",
+        "2.5D 封裝"
+      ],
       "company_count": 3,
       "counts_by_role": {
         "upstream": 0,
@@ -171,7 +179,11 @@
       "note": "5G 基礎建設與終端應用，涵蓋基站、天線、射頻前端、濾波器",
       "type": "theme",
       "path": "themes/5G.md",
-      "related_themes": ["氮化鎵", "RF", "低軌衛星"],
+      "related_themes": [
+        "氮化鎵",
+        "RF",
+        "低軌衛星"
+      ],
       "company_count": 129,
       "counts_by_role": {
         "upstream": 9,
@@ -187,7 +199,7 @@
           "companies": [
             {
               "ticker": "6285",
-              "company_name": "啟碁",
+              "company_name": "啟��",
               "sector_en": "Communication Equipment",
               "sector_zh": "通訊設備"
             },
@@ -1706,7 +1718,7 @@
         },
         {
           "ticker": "6285",
-          "company_name": "啟碁",
+          "company_name": "啟��",
           "sector_en": "Communication Equipment",
           "sector_zh": "通訊設備"
         },
@@ -1766,7 +1778,11 @@
       "note": "Ajinomoto Build-up Film 載板，高階 IC 封裝基板",
       "type": "theme",
       "path": "themes/ABF_載板.md",
-      "related_themes": ["CoWoS", "AI 伺服器", "PCB"],
+      "related_themes": [
+        "CoWoS",
+        "AI 伺服器",
+        "PCB"
+      ],
       "company_count": 14,
       "counts_by_role": {
         "upstream": 3,
@@ -1981,7 +1997,13 @@
       "note": "AI 訓練與推論伺服器完整供應鏈，從晶片到系統到散熱",
       "type": "theme",
       "path": "themes/AI_伺服器.md",
-      "related_themes": ["CoWoS", "HBM", "NVIDIA", "CPO", "資料中心"],
+      "related_themes": [
+        "CoWoS",
+        "HBM",
+        "NVIDIA",
+        "CPO",
+        "資料中心"
+      ],
       "company_count": 148,
       "counts_by_role": {
         "upstream": 6,
@@ -3804,7 +3826,10 @@
       "note": "蘋果公司台灣供應鏈成員",
       "type": "theme",
       "path": "themes/Apple.md",
-      "related_themes": ["台積電", "鴻海"],
+      "related_themes": [
+        "台積電",
+        "鴻海"
+      ],
       "company_count": 96,
       "counts_by_role": {
         "upstream": 24,
@@ -5003,7 +5028,11 @@
       "note": "全球半導體微影設備龍頭，EUV 與先進 DUV 曝光設備供應的核心公司。",
       "type": "supplemental_theme",
       "path": "themes/ASML.md",
-      "related_themes": ["EUV", "微影", "台積電"],
+      "related_themes": [
+        "EUV",
+        "微影",
+        "台積電"
+      ],
       "company_count": 20,
       "counts_by_role": {
         "upstream": 7,
@@ -5290,7 +5319,12 @@
       "note": "台積電 Chip-on-Wafer-on-Substrate 2.5D 先進封裝技術，AI 晶片關鍵製程",
       "type": "theme",
       "path": "themes/CoWoS.md",
-      "related_themes": ["HBM", "2.5D 封裝", "3D 封裝", "ABF 載板"],
+      "related_themes": [
+        "HBM",
+        "2.5D 封裝",
+        "3D 封裝",
+        "ABF 載板"
+      ],
       "company_count": 39,
       "counts_by_role": {
         "upstream": 6,
@@ -5805,7 +5839,12 @@
       "note": "Co-Packaged Optics，將光學元件整合於晶片封裝中以突破頻寬瓶頸",
       "type": "theme",
       "path": "themes/CPO.md",
-      "related_themes": ["矽光子", "光收發模組", "AI 伺服器", "資料中心"],
+      "related_themes": [
+        "矽光子",
+        "光收發模組",
+        "AI 伺服器",
+        "資料中心"
+      ],
       "company_count": 14,
       "counts_by_role": {
         "upstream": 2,
@@ -6020,7 +6059,11 @@
       "note": "動態隨機存取記憶體，是 HBM 與一般運算記憶體產品的基礎技術平台。",
       "type": "supplemental_theme",
       "path": "themes/DRAM.md",
-      "related_themes": ["HBM", "AI 伺服器", "資料中心"],
+      "related_themes": [
+        "HBM",
+        "AI 伺服器",
+        "資料中心"
+      ],
       "company_count": 34,
       "counts_by_role": {
         "upstream": 10,
@@ -6473,7 +6516,11 @@
       "note": "EML 邊緣發射雷射是高速光通訊常見光源元件，與矽光子與高速光模組密切相關。",
       "type": "supplemental_theme",
       "path": "themes/EML.md",
-      "related_themes": ["矽光子", "磷化銦", "光收發模組"],
+      "related_themes": [
+        "矽光子",
+        "磷化銦",
+        "光收發模組"
+      ],
       "company_count": 2,
       "counts_by_role": {
         "upstream": 0,
@@ -6541,7 +6588,10 @@
       "note": "先進製程關鍵微影技術，7nm 以下節點必備",
       "type": "theme",
       "path": "themes/EUV.md",
-      "related_themes": ["光阻液", "ASML"],
+      "related_themes": [
+        "光阻液",
+        "ASML"
+      ],
       "company_count": 10,
       "counts_by_role": {
         "upstream": 2,
@@ -6708,7 +6758,11 @@
       "note": "High Bandwidth Memory，AI 加速器必備的高速堆疊記憶體",
       "type": "theme",
       "path": "themes/HBM.md",
-      "related_themes": ["CoWoS", "AI 伺服器", "DRAM"],
+      "related_themes": [
+        "CoWoS",
+        "AI 伺服器",
+        "DRAM"
+      ],
       "company_count": 16,
       "counts_by_role": {
         "upstream": 2,
@@ -6947,7 +7001,11 @@
       "note": "IGBT 是高壓高功率場景常見的功率半導體元件，廣泛用於車用逆變器與工業電力控制。",
       "type": "supplemental_theme",
       "path": "themes/IGBT.md",
-      "related_themes": ["電動車", "碳化矽", "車用電子"],
+      "related_themes": [
+        "電動車",
+        "碳化矽",
+        "車用電子"
+      ],
       "company_count": 23,
       "counts_by_role": {
         "upstream": 16,
@@ -7269,7 +7327,11 @@
       "note": "MOSFET 是最常見的功率與開關元件之一，在電源管理、車用電子與功率模組中廣泛使用。",
       "type": "supplemental_theme",
       "path": "themes/MOSFET.md",
-      "related_themes": ["電動車", "碳化矽", "車用電子"],
+      "related_themes": [
+        "電動車",
+        "碳化矽",
+        "車用電子"
+      ],
       "company_count": 45,
       "counts_by_role": {
         "upstream": 33,
@@ -7855,7 +7917,12 @@
       "note": "NVIDIA GPU 及 AI 平台台灣供應鏈",
       "type": "theme",
       "path": "themes/NVIDIA.md",
-      "related_themes": ["CoWoS", "HBM", "AI 伺服器", "台積電"],
+      "related_themes": [
+        "CoWoS",
+        "HBM",
+        "AI 伺服器",
+        "台積電"
+      ],
       "company_count": 114,
       "counts_by_role": {
         "upstream": 43,
@@ -8462,7 +8529,7 @@
             },
             {
               "ticker": "6776",
-              "company_name": "展碁國際",
+              "company_name": "展�眥篕�",
               "sector_en": "Electronics & Computer Distribution",
               "sector_zh": "電子與電腦通路"
             },
@@ -8892,7 +8959,7 @@
         },
         {
           "ticker": "6776",
-          "company_name": "展碁國際",
+          "company_name": "展�眥篕�",
           "sector_en": "Electronics & Computer Distribution",
           "sector_zh": "電子與電腦通路"
         },
@@ -9270,7 +9337,11 @@
       "note": "印刷電路板是電子系統的基礎互連平台，高速運算與資料中心需求會推動高階板材與載板升級。",
       "type": "supplemental_theme",
       "path": "themes/PCB.md",
-      "related_themes": ["ABF 載板", "資料中心", "AI 伺服器"],
+      "related_themes": [
+        "ABF 載板",
+        "資料中心",
+        "AI 伺服器"
+      ],
       "company_count": 129,
       "counts_by_role": {
         "upstream": 59,
@@ -10865,7 +10936,11 @@
       "note": "RF 射頻技術涵蓋高頻傳輸、前端模組與通訊系統設計，是 5G 與衛星通訊的核心環節。",
       "type": "supplemental_theme",
       "path": "themes/RF.md",
-      "related_themes": ["5G", "低軌衛星", "氮化鎵"],
+      "related_themes": [
+        "5G",
+        "低軌衛星",
+        "氮化鎵"
+      ],
       "company_count": 3,
       "counts_by_role": {
         "upstream": 2,
@@ -10946,7 +11021,10 @@
       "note": "特斯拉電動車台灣供應鏈成員",
       "type": "theme",
       "path": "themes/Tesla.md",
-      "related_themes": ["電動車", "碳化矽"],
+      "related_themes": [
+        "電動車",
+        "碳化矽"
+      ],
       "company_count": 55,
       "counts_by_role": {
         "upstream": 10,
@@ -11653,7 +11731,11 @@
       "note": "3D 感測、光通訊及 LiDAR 核心光源元件",
       "type": "theme",
       "path": "themes/VCSEL.md",
-      "related_themes": ["矽光子", "光收發模組", "砷化鎵"],
+      "related_themes": [
+        "矽光子",
+        "光收發模組",
+        "砷化鎵"
+      ],
       "company_count": 10,
       "counts_by_role": {
         "upstream": 4,
@@ -11820,7 +11902,11 @@
       "note": "低軌道衛星通訊供應鏈，天線、地面站、射頻模組",
       "type": "theme",
       "path": "themes/低軌衛星.md",
-      "related_themes": ["5G", "氮化鎵", "RF"],
+      "related_themes": [
+        "5G",
+        "氮化鎵",
+        "RF"
+      ],
       "company_count": 45,
       "counts_by_role": {
         "upstream": 3,
@@ -11836,7 +11922,7 @@
           "companies": [
             {
               "ticker": "6285",
-              "company_name": "啟碁",
+              "company_name": "啟��",
               "sector_en": "Communication Equipment",
               "sector_zh": "通訊設備"
             },
@@ -12383,7 +12469,7 @@
         },
         {
           "ticker": "6285",
-          "company_name": "啟碁",
+          "company_name": "啟��",
           "sector_en": "Communication Equipment",
           "sector_zh": "通訊設備"
         },
@@ -12407,7 +12493,13 @@
       "note": "光收發模組負責電光訊號轉換，是資料中心、高速交換器與 AI 網路升級的重要元件。",
       "type": "supplemental_theme",
       "path": "themes/光收發模組.md",
-      "related_themes": ["矽光子", "CPO", "VCSEL", "磷化銦", "資料中心"],
+      "related_themes": [
+        "矽光子",
+        "CPO",
+        "VCSEL",
+        "磷化銦",
+        "資料中心"
+      ],
       "company_count": 9,
       "counts_by_role": {
         "upstream": 3,
@@ -12561,7 +12653,10 @@
       "note": "半導體微影製程關鍵化學材料",
       "type": "theme",
       "path": "themes/光阻液.md",
-      "related_themes": ["EUV", "微影"],
+      "related_themes": [
+        "EUV",
+        "微影"
+      ],
       "company_count": 4,
       "counts_by_role": {
         "upstream": 3,
@@ -12654,7 +12749,13 @@
       "note": "台積電是全球晶圓代工龍頭，先進製程與先進封裝供應鏈的核心節點，對 AI 與高效能運算影響極大。",
       "type": "supplemental_theme",
       "path": "themes/台積電.md",
-      "related_themes": ["CoWoS", "EUV", "Apple", "NVIDIA", "HBM"],
+      "related_themes": [
+        "CoWoS",
+        "EUV",
+        "Apple",
+        "NVIDIA",
+        "HBM"
+      ],
       "company_count": 215,
       "counts_by_role": {
         "upstream": 59,
@@ -15281,7 +15382,12 @@
       "note": "微影是半導體製程中將電路圖形轉移到晶圓上的關鍵步驟，直接影響先進製程節點的能力上限。",
       "type": "supplemental_theme",
       "path": "themes/微影.md",
-      "related_themes": ["EUV", "光阻液", "台積電", "ASML"],
+      "related_themes": [
+        "EUV",
+        "光阻液",
+        "台積電",
+        "ASML"
+      ],
       "company_count": 4,
       "counts_by_role": {
         "upstream": 1,
@@ -15376,7 +15482,11 @@
       "note": "第三代半導體材料，高頻高效，5G 基站、快充及衛星通訊核心",
       "type": "theme",
       "path": "themes/氮化鎵.md",
-      "related_themes": ["5G", "碳化矽", "磷化銦"],
+      "related_themes": [
+        "5G",
+        "碳化矽",
+        "磷化銦"
+      ],
       "company_count": 20,
       "counts_by_role": {
         "upstream": 6,
@@ -15661,7 +15771,13 @@
       "note": "以矽基製程整合光學元件，實現高速光互連，下一代資料中心核心技術",
       "type": "theme",
       "path": "themes/矽光子.md",
-      "related_themes": ["CPO", "EML", "VCSEL", "光收發模組", "資料中心"],
+      "related_themes": [
+        "CPO",
+        "EML",
+        "VCSEL",
+        "光收發模組",
+        "資料中心"
+      ],
       "company_count": 15,
       "counts_by_role": {
         "upstream": 2,
@@ -15888,7 +16004,10 @@
       "note": "半導體製造最基礎的原材料",
       "type": "theme",
       "path": "themes/矽晶圓.md",
-      "related_themes": ["碳化矽", "磊晶"],
+      "related_themes": [
+        "碳化矽",
+        "磊晶"
+      ],
       "company_count": 33,
       "counts_by_role": {
         "upstream": 29,
@@ -16329,7 +16448,12 @@
       "note": "砷化鎵是重要的 III-V 化合物半導體材料，常見於射頻與光電元件。",
       "type": "supplemental_theme",
       "path": "themes/砷化鎵.md",
-      "related_themes": ["VCSEL", "5G", "磷化銦", "RF"],
+      "related_themes": [
+        "VCSEL",
+        "5G",
+        "磷化銦",
+        "RF"
+      ],
       "company_count": 7,
       "counts_by_role": {
         "upstream": 2,
@@ -16458,7 +16582,12 @@
       "note": "第三代半導體材料，耐高壓高溫，電動車逆變器及充電樁關鍵材料",
       "type": "theme",
       "path": "themes/碳化矽.md",
-      "related_themes": ["電動車", "MOSFET", "IGBT", "氮化鎵"],
+      "related_themes": [
+        "電動車",
+        "MOSFET",
+        "IGBT",
+        "氮化鎵"
+      ],
       "company_count": 22,
       "counts_by_role": {
         "upstream": 10,
@@ -16768,7 +16897,11 @@
       "note": "磊晶是半導體外延生長製程，對化合物半導體、光電元件與高階晶圓材料品質至關重要。",
       "type": "supplemental_theme",
       "path": "themes/磊晶.md",
-      "related_themes": ["矽晶圓", "砷化鎵", "磷化銦"],
+      "related_themes": [
+        "矽晶圓",
+        "砷化鎵",
+        "磷化銦"
+      ],
       "company_count": 23,
       "counts_by_role": {
         "upstream": 15,
@@ -17090,7 +17223,12 @@
       "note": "III-V 族化合物半導體，光通訊雷射及高速光電元件基板材料",
       "type": "theme",
       "path": "themes/磷化銦.md",
-      "related_themes": ["矽光子", "EML", "光收發模組", "砷化鎵"],
+      "related_themes": [
+        "矽光子",
+        "EML",
+        "光收發模組",
+        "砷化鎵"
+      ],
       "company_count": 5,
       "counts_by_role": {
         "upstream": 2,
@@ -17195,7 +17333,12 @@
       "note": "超大規模資料中心基礎設施，涵蓋伺服器、網通、電源、散熱",
       "type": "theme",
       "path": "themes/資料中心.md",
-      "related_themes": ["AI 伺服器", "CPO", "矽光子", "PCB"],
+      "related_themes": [
+        "AI 伺服器",
+        "CPO",
+        "矽光子",
+        "PCB"
+      ],
       "company_count": 81,
       "counts_by_role": {
         "upstream": 5,
@@ -18214,7 +18357,13 @@
       "note": "車用電子涵蓋動力、感測、控制與通訊模組，是電動車與智慧車發展的核心電子架構。",
       "type": "supplemental_theme",
       "path": "themes/車用電子.md",
-      "related_themes": ["電動車", "碳化矽", "Tesla", "IGBT", "MOSFET"],
+      "related_themes": [
+        "電動車",
+        "碳化矽",
+        "Tesla",
+        "IGBT",
+        "MOSFET"
+      ],
       "company_count": 25,
       "counts_by_role": {
         "upstream": 1,
@@ -18560,7 +18709,12 @@
       "note": "電動車完整供應鏈，從電池材料到功率元件到車用電子",
       "type": "theme",
       "path": "themes/電動車.md",
-      "related_themes": ["碳化矽", "IGBT", "MOSFET", "車用電子"],
+      "related_themes": [
+        "碳化矽",
+        "IGBT",
+        "MOSFET",
+        "車用電子"
+      ],
       "company_count": 132,
       "counts_by_role": {
         "upstream": 7,
@@ -20191,7 +20345,12 @@
       "note": "鴻海是全球大型電子製造服務與組裝集團，與 Apple 供應鏈、伺服器與電動車布局高度相關。",
       "type": "supplemental_theme",
       "path": "themes/鴻海.md",
-      "related_themes": ["Apple", "電動車", "資料中心", "台積電"],
+      "related_themes": [
+        "Apple",
+        "電動車",
+        "資料中心",
+        "台積電"
+      ],
       "company_count": 73,
       "counts_by_role": {
         "upstream": 9,

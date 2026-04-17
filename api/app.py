@@ -13,11 +13,11 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
 from api.db import get_connection, get_db_path
+from api.graph_db import get_graph_connection, get_graph_db_path
 from scripts.report_parser import json_relpath_from_report_relpath
 
 INLINE_WIKILINK_PATTERN = re.compile(r"\[\[([^\]]+)\]\]")
 INLINE_BOLD_PATTERN = re.compile(r"\*\*([^*]+)\*\*")
-GRAPH_DIR = Path(__file__).resolve().parent.parent / "graph"
 
 app = FastAPI(
     title="My TW Coverage API",
@@ -46,6 +46,18 @@ def fetch_all(query: str, params: tuple[Any, ...] = ()) -> list[dict[str, Any]]:
 
 def fetch_one(query: str, params: tuple[Any, ...] = ()) -> dict[str, Any] | None:
     with closing(get_connection()) as conn:
+        row = conn.execute(query, params).fetchone()
+    return dict(row) if row else None
+
+
+def fetch_graph_all(query: str, params: tuple[Any, ...] = ()) -> list[dict[str, Any]]:
+    with closing(get_graph_connection()) as conn:
+        rows = conn.execute(query, params).fetchall()
+    return rows_to_dicts(rows)
+
+
+def fetch_graph_one(query: str, params: tuple[Any, ...] = ()) -> dict[str, Any] | None:
+    with closing(get_graph_connection()) as conn:
         row = conn.execute(query, params).fetchone()
     return dict(row) if row else None
 
@@ -246,11 +258,199 @@ def attach_structured_summary(item: dict[str, Any]) -> dict[str, Any]:
     return enriched
 
 
-def load_json_artifact(path: Path) -> dict[str, Any]:
-    if not path.exists():
-        raise FileNotFoundError(f"JSON artifact not found: {path}")
-    with path.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
+def build_graph_meta(import_row: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "database_path": str(get_graph_db_path()),
+        "schema_version": import_row["schema_version"],
+        "built_at": import_row["built_at"],
+        "graph_generated_at": import_row["graph_generated_at"],
+        "company_map_generated_at": import_row["company_map_generated_at"],
+        "theme_count": import_row["theme_count"],
+        "node_count": import_row["node_count"],
+        "link_count": import_row["link_count"],
+        "unique_company_count": import_row["unique_company_count"],
+        "company_mapping_count": import_row["company_mapping_count"],
+    }
+
+
+def parse_graph_theme_row(row: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": row["theme_id"],
+        "title": row["title"],
+        "note": row["note"],
+        "type": row["theme_type"],
+        "path": row["path"],
+        "related_themes": json.loads(row["related_themes_json"]),
+        "company_count": row["company_count"],
+        "counts_by_role": json.loads(row["counts_by_role_json"]),
+        "companies_by_role": json.loads(row["companies_by_role_json"]),
+        "all_companies": json.loads(row["all_companies_json"]),
+    }
+
+
+def parse_graph_node_row(row: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": row["node_id"],
+        "label": row["label"],
+        "type": row["node_type"],
+        "title": row["title"],
+        "note": row["note"],
+        "file_name": row["file_name"],
+        "path": row["path"],
+        "related_themes": json.loads(row["related_themes_json"]),
+        "group": row["group_name"],
+        "is_theme_page": bool(row["is_theme_page"]),
+        "mentioned_by_count": row["mentioned_by_count"],
+        "outgoing_count": row["outgoing_count"],
+        "degree": row["degree"],
+        "radius_hint": row["radius_hint"],
+    }
+
+
+def parse_graph_link_row(row: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "source": row["source_id"],
+        "target": row["target_id"],
+        "type": row["edge_type"],
+        "count": row["mention_count"],
+        "sections": json.loads(row["sections_json"]),
+        "occurrences": json.loads(row["occurrences_json"]),
+        "value": row["value"],
+        "weight": row["weight"],
+        "source_type": row["source_type"],
+        "target_type": row["target_type"],
+        "target_is_theme": bool(row["target_is_theme"]),
+        "primary_section": row["primary_section"],
+    }
+
+
+def load_graph_snapshot() -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+    latest_import = fetch_graph_one(
+        """
+        SELECT built_at, schema_version, graph_generated_at, company_map_generated_at,
+               theme_count, node_count, link_count, unique_company_count, company_mapping_count
+        FROM graph_imports
+        ORDER BY id DESC
+        LIMIT 1
+        """
+    )
+    if not latest_import:
+        raise FileNotFoundError("Graph database has no completed imports. Run scripts/build_graph_db.py.")
+
+    payload_rows = fetch_graph_all(
+        """
+        SELECT kind, payload_json
+        FROM graph_payloads
+        """
+    )
+    payload_map = {row["kind"]: row["payload_json"] for row in payload_rows}
+
+    missing_payloads = [kind for kind in ("graph", "company_map") if kind not in payload_map]
+    if missing_payloads:
+        missing = ", ".join(missing_payloads)
+        raise FileNotFoundError(f"Graph database is missing payloads: {missing}")
+
+    try:
+        graph_payload = json.loads(payload_map["graph"])
+        company_map_payload = json.loads(payload_map["company_map"])
+    except json.JSONDecodeError as exc:
+        raise RuntimeError("Graph database payload JSON is invalid.") from exc
+
+    return graph_payload, company_map_payload, build_graph_meta(latest_import)
+
+
+def load_graph_theme_detail(theme_id: str) -> dict[str, Any] | None:
+    theme_row = fetch_graph_one(
+        """
+        SELECT theme_id, title, note, theme_type, path, related_themes_json,
+               company_count, counts_by_role_json, companies_by_role_json, all_companies_json
+        FROM graph_themes
+        WHERE theme_id = ?
+        """,
+        (theme_id,),
+    )
+    if not theme_row:
+        return None
+
+    node_row = fetch_graph_one(
+        """
+        SELECT node_id, label, node_type, title, note, file_name, path, related_themes_json,
+               group_name, is_theme_page, mentioned_by_count, outgoing_count, degree, radius_hint
+        FROM graph_nodes
+        WHERE node_id = ?
+        """,
+        (theme_id,),
+    )
+
+    link_rows = fetch_graph_all(
+        """
+        SELECT source_id, target_id, edge_type, mention_count, value, weight, source_type,
+               target_type, target_is_theme, primary_section, sections_json, occurrences_json
+        FROM graph_links
+        WHERE source_id = ? OR target_id = ?
+        ORDER BY mention_count DESC, target_is_theme DESC, target_id ASC, source_id ASC
+        """,
+        (theme_id, theme_id),
+    )
+    links = [parse_graph_link_row(row) for row in link_rows]
+
+    adjacent_ids = sorted(
+        {
+            link["target"] if link["source"] == theme_id else link["source"]
+            for link in links
+            if (link["target"] if link["source"] == theme_id else link["source"]) != theme_id
+        }
+    )
+
+    adjacent_nodes: list[dict[str, Any]] = []
+    if adjacent_ids:
+        placeholders = ", ".join("?" for _ in adjacent_ids)
+        adjacent_rows = fetch_graph_all(
+            f"""
+            SELECT node_id, label, node_type, title, note, file_name, path, related_themes_json,
+                   group_name, is_theme_page, mentioned_by_count, outgoing_count, degree, radius_hint
+            FROM graph_nodes
+            WHERE node_id IN ({placeholders})
+            ORDER BY degree DESC, node_id ASC
+            """,
+            tuple(adjacent_ids),
+        )
+        adjacent_nodes = [parse_graph_node_row(row) for row in adjacent_rows]
+
+    related_theme_ids = {
+        item["id"]
+        for item in json.loads(theme_row["related_themes_json"])
+        if isinstance(item, dict) and item.get("id")
+    }
+    related_theme_nodes = [node for node in adjacent_nodes if node["id"] in related_theme_ids]
+
+    outgoing_links = [link for link in links if link["source"] == theme_id]
+    incoming_links = [link for link in links if link["target"] == theme_id]
+
+    latest_import = fetch_graph_one(
+        """
+        SELECT built_at, schema_version, graph_generated_at, company_map_generated_at,
+               theme_count, node_count, link_count, unique_company_count, company_mapping_count
+        FROM graph_imports
+        ORDER BY id DESC
+        LIMIT 1
+        """
+    )
+
+    return {
+        "theme": parse_graph_theme_row(theme_row),
+        "node": parse_graph_node_row(node_row) if node_row else None,
+        "links": links,
+        "adjacent_nodes": adjacent_nodes,
+        "related_theme_nodes": related_theme_nodes,
+        "counts": {
+            "company_count": theme_row["company_count"],
+            "adjacent_node_count": len(adjacent_nodes),
+            "outgoing_link_count": len(outgoing_links),
+            "incoming_link_count": len(incoming_links),
+        },
+        "meta": build_graph_meta(latest_import) if latest_import else None,
+    }
 
 
 @app.get("/health")
@@ -481,12 +681,80 @@ def search(
 @app.get("/api/graph")
 def get_graph() -> dict[str, Any]:
     try:
-        graph_payload = load_json_artifact(GRAPH_DIR / "theme_graph.json")
-        company_map_payload = load_json_artifact(GRAPH_DIR / "theme_company_map.json")
-    except FileNotFoundError as exc:
+        graph_payload, company_map_payload, meta = load_graph_snapshot()
+    except (FileNotFoundError, sqlite3.DatabaseError, RuntimeError) as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
 
     return {
         "graph": graph_payload,
         "company_map": company_map_payload,
+        "meta": meta,
+    }
+
+
+@app.get("/api/graph/themes/{theme_id:path}")
+def get_graph_theme(theme_id: str) -> dict[str, Any]:
+    normalized = unquote(theme_id).replace("\\", "/")
+
+    try:
+        detail = load_graph_theme_detail(normalized)
+    except (sqlite3.DatabaseError, RuntimeError, json.JSONDecodeError) as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+
+    if not detail:
+        raise HTTPException(status_code=404, detail=f"Graph theme not found: {normalized}")
+
+    return detail
+
+
+@app.get("/api/graph/health")
+def get_graph_health() -> dict[str, Any]:
+    db_path = get_graph_db_path()
+    db_exists = db_path.exists()
+
+    if not db_exists:
+        return {
+            "status": "missing_graph_db",
+            "database_path": str(db_path),
+            "database_exists": False,
+            "latest_import": None,
+            "payloads": {},
+        }
+
+    try:
+        latest_import = fetch_graph_one(
+            """
+            SELECT built_at, schema_version, graph_generated_at, company_map_generated_at,
+                   theme_count, node_count, link_count, unique_company_count, company_mapping_count
+            FROM graph_imports
+            ORDER BY id DESC
+            LIMIT 1
+            """
+        )
+        payload_rows = fetch_graph_all(
+            """
+            SELECT kind, generated_at
+            FROM graph_payloads
+            ORDER BY kind ASC
+            """
+        )
+    except sqlite3.DatabaseError as exc:
+        return {
+            "status": "invalid_graph_db",
+            "database_path": str(db_path),
+            "database_exists": True,
+            "latest_import": None,
+            "payloads": {},
+            "detail": str(exc),
+        }
+
+    payloads = {row["kind"]: {"generated_at": row["generated_at"]} for row in payload_rows}
+    status = "ok" if latest_import and {"graph", "company_map"} <= set(payloads) else "incomplete_graph_db"
+
+    return {
+        "status": status,
+        "database_path": str(db_path),
+        "database_exists": True,
+        "latest_import": build_graph_meta(latest_import) if latest_import else None,
+        "payloads": payloads,
     }

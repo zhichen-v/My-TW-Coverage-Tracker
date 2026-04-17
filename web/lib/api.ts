@@ -185,9 +185,23 @@ export type GraphCompanyMapPayload = {
   themes: GraphCompanyTheme[];
 };
 
+export type GraphMeta = {
+  database_path: string;
+  schema_version: number;
+  built_at: string;
+  graph_generated_at: string;
+  company_map_generated_at: string;
+  theme_count: number;
+  node_count: number;
+  link_count: number;
+  unique_company_count: number;
+  company_mapping_count: number;
+};
+
 export type GraphResponse = {
   graph: GraphPayload;
   company_map: GraphCompanyMapPayload;
+  meta: GraphMeta;
 };
 
 export type CompaniesResponse = {

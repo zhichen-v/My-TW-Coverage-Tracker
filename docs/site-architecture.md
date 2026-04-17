@@ -12,9 +12,9 @@ Use this pipeline:
 
 `Pilot_Reports/` -> `scripts/build_site_db.py` -> `data/site.db` -> API -> frontend
 
-`themes/` -> `scripts/build_theme_graph.py` -> `graph/*.json` -> API -> `/graph`
+`themes/` + `Pilot_Reports/` -> `scripts/build_graph_db.py` -> `data/graph.db` -> API -> `/graph`
 
-This keeps content authoring in markdown, uses SQLite for query-heavy list/search workloads, and uses the mirrored JSON tree for structured detail rendering.
+This keeps content authoring in markdown, uses SQLite for query-heavy list/search workloads, uses a dedicated SQLite file for graph data, and uses the mirrored JSON tree for structured detail rendering.
 
 The JSON mirror is a derived artifact, not a second source of truth.
 
@@ -36,6 +36,14 @@ The first version of `data/site.db` contains:
 - `site_search`: SQLite FTS index for ticker, name, sector, and main text sections
 - `imports`: snapshot metadata for each rebuild
 
+The first version of `data/graph.db` contains:
+
+- `graph_imports`: graph-build metadata for the latest rebuild
+- `graph_payloads`: stored JSON payloads for `graph` and `company_map`
+- `graph_themes`: one row per theme with company-role groupings
+- `graph_nodes`: graph nodes with D3-oriented metadata
+- `graph_links`: theme-to-wikilink edges with sections and occurrences
+
 ## Current API Surface
 
 The current backend exposes:
@@ -43,6 +51,8 @@ The current backend exposes:
 - `GET /api/companies`
 - `GET /api/companies/{ticker}`
 - `GET /api/graph`
+- `GET /api/graph/themes/{theme_id}`
+- `GET /api/graph/health`
 - `GET /api/reports/{report_id}`
 - `GET /api/sectors`
 - `GET /api/wikilinks`
@@ -60,7 +70,7 @@ The contract is split deliberately:
 - Home: overall coverage stats, featured sectors, featured themes
 - Companies index: search, sort, and sector filters
 - Company detail page: overview, supply chain, customer/supplier section, financial tables rendered from structured JSON blocks/tables
-- Graph page: D3-driven theme graph using the derived `graph/*.json` payloads exposed through the API
+- Graph page: D3-driven theme graph using graph payloads served from `data/graph.db` through the API
 - Wikilink detail page: all companies mentioning a specific entity
 - Sector page: all companies in one sector
 
@@ -94,7 +104,7 @@ This keeps styling and future link behavior in the UI layer without requiring th
 4. Keep summary/search data in SQLite and structured detail payloads in the mirrored JSON output.
 5. Build the frontend against the API, not against filesystem reads.
 6. Render detail prose/lists from inline token `segments` rather than markdown fallbacks.
-7. Keep graph/theme assets as derived JSON until a dedicated graph database is justified.
+7. Keep graph data in its own `data/graph.db` pipeline instead of merging it into `data/site.db`, and treat `graph/*.json` as derived exports from the same builder.
 
 ## Backend Recommendation
 
