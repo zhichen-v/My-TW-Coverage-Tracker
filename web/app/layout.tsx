@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "My TW Coverage",
+  title: "TW Stocks Tracker",
   description: "Public browsing interface for Taiwan-listed company coverage reports.",
   formatDetection: {
     telephone: false,
