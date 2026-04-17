@@ -6,6 +6,12 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "My TW Coverage",
   description: "Public browsing interface for Taiwan-listed company coverage reports.",
+  formatDetection: {
+    telephone: false,
+    email: false,
+    address: false,
+    date: false,
+  },
 };
 
 export default function RootLayout({

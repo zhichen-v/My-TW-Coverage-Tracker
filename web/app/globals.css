@@ -232,6 +232,14 @@ a {
   text-wrap: balance;
 }
 
+.hero-title a,
+.hero-title a[x-apple-data-detectors],
+.hero-title a[href^="x-apple-data-detectors:"] {
+  color: inherit !important;
+  text-decoration: none !important;
+  pointer-events: none;
+}
+
 .hero-desc {
   margin: 18px 0 0;
   max-width: 54ch;
