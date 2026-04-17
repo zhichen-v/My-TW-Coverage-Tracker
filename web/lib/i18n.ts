@@ -41,6 +41,7 @@ export const translations = {
     allSectors: "全部產業",
     applyFilters: "套用篩選",
     noCompaniesMatched: "目前篩選條件下沒有符合的公司。",
+    themesGraph: "科技概念圖譜",
   },
   en: {
     backToList: "Back to company list",
@@ -75,6 +76,7 @@ export const translations = {
     allSectors: "All sectors",
     applyFilters: "Apply filters",
     noCompaniesMatched: "No companies matched the current filters.",
+    themesGraph: "Themes Graph",
   },
 } as const;
 

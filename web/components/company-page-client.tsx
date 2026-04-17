@@ -13,7 +13,7 @@ import {
   translateFinancialText,
 } from "@/lib/financial-markdown";
 import { translateSectorName, type SupportedLanguage } from "@/lib/i18n";
-import { LanguageProvider, useLanguage } from "@/components/language-provider";
+import { useLanguage } from "@/components/language-provider";
 
 type CompanyPageClientProps = {
   primary: CompanyDetail;
@@ -317,9 +317,5 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
 }
 
 export function CompanyPageClient(props: CompanyPageClientProps) {
-  return (
-    <LanguageProvider>
-      <CompanyPageContent {...props} />
-    </LanguageProvider>
-  );
+  return <CompanyPageContent {...props} />;
 }

@@ -81,11 +81,63 @@ a {
 
 .topbar {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 16px;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 44px;
   margin-bottom: 20px;
-  padding: 16px 18px;
+  padding: 16px 0;
+}
+
+.topbar-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  padding-bottom: 2px;
+}
+
+.topbar-link {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  min-height: 28px;
+  padding: 0 0 8px;
+  border: 0;
+  color: var(--muted-strong);
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  transform-origin: left center;
+}
+
+.topbar-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 180ms ease;
+}
+
+.topbar-link:hover {
+  color: var(--accent);
+  transform: scale(1.08);
+}
+
+.topbar-link:hover::after,
+.topbar-link.active::after {
+  transform: scaleX(1);
+}
+
+.topbar-link.active {
+  color: var(--accent-strong);
 }
 
 .brand {
@@ -848,6 +900,12 @@ a {
   .topbar,
   .page-actions {
     flex-direction: column;
+  }
+
+  .topbar-nav {
+    gap: 14px;
+    align-self: stretch;
+    padding-bottom: 0;
   }
 
   .language-switcher {

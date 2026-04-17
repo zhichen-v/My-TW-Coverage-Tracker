@@ -1,6 +1,7 @@
 import { defaultLanguage } from "@/lib/i18n";
+import { LanguageProvider } from "@/components/language-provider";
+import { SiteHeader } from "@/components/site-header";
 import type { Metadata } from "next";
-import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -22,15 +23,12 @@ export default function RootLayout({
   return (
     <html lang={defaultLanguage}>
       <body>
-        <div className="site-shell">
-          <header className="topbar">
-            <Link className="brand" href="/">
-              <span className="brand-mark">Taiwan Equity Coverage</span>
-              <span className="brand-title">Stocks Tracker</span>
-            </Link>
-          </header>
-          {children}
-        </div>
+        <LanguageProvider>
+          <div className="site-shell">
+            <SiteHeader />
+            {children}
+          </div>
+        </LanguageProvider>
       </body>
     </html>
   );

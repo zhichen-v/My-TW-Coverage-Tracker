@@ -88,6 +88,108 @@ export type CompanyTickerResponse = {
   ticker: string;
 };
 
+export type GraphNodeType = "theme" | "supplemental_theme" | "wikilink";
+
+export type GraphRelatedTheme = {
+  id: string;
+  label: string;
+  is_theme_page: boolean;
+};
+
+export type GraphNode = {
+  id: string;
+  label: string;
+  type: GraphNodeType;
+  title?: string;
+  note?: string;
+  file_name?: string;
+  path?: string;
+  related_themes?: GraphRelatedTheme[];
+  group?: string;
+  is_theme_page?: boolean;
+  mentioned_by_count?: number;
+  outgoing_count?: number;
+  degree: number;
+  radius_hint: number;
+};
+
+export type GraphLink = {
+  source: string;
+  target: string;
+  type: string;
+  count: number;
+  sections: string[];
+  occurrences: Array<{
+    line: number;
+    section: string;
+    text: string;
+  }>;
+  value: number;
+  weight: number;
+  source_type: GraphNodeType;
+  target_type: GraphNodeType;
+  target_is_theme: boolean;
+  primary_section: string;
+};
+
+export type GraphPayload = {
+  generated_at: string;
+  source_dir: string;
+  graph_kind: string;
+  node_counts: {
+    total: number;
+    themes: number;
+    supplemental_themes: number;
+    wikilinks: number;
+    wikilink_targets: number;
+    wikilink_mentions: number;
+  };
+  nodes: GraphNode[];
+  links: GraphLink[];
+};
+
+export type GraphCompany = {
+  ticker: string;
+  company_name: string;
+  sector_en: string;
+  sector_zh: string;
+};
+
+export type GraphCompanyRole = "upstream" | "midstream" | "downstream" | "related";
+
+export type GraphCompanyRoleGroup = {
+  label_zh: string;
+  label_en: string;
+  count: number;
+  companies: GraphCompany[];
+};
+
+export type GraphCompanyTheme = {
+  id: string;
+  title: string;
+  note: string;
+  type: GraphNodeType;
+  path: string;
+  related_themes: string[];
+  company_count: number;
+  counts_by_role: Record<GraphCompanyRole, number>;
+  companies_by_role: Record<GraphCompanyRole, GraphCompanyRoleGroup>;
+  all_companies: GraphCompany[];
+};
+
+export type GraphCompanyMapPayload = {
+  generated_at: string;
+  source_dir: string;
+  payload_kind: string;
+  theme_count: number;
+  themes: GraphCompanyTheme[];
+};
+
+export type GraphResponse = {
+  graph: GraphPayload;
+  company_map: GraphCompanyMapPayload;
+};
+
 export type CompaniesResponse = {
   items: CompanyListItem[];
   count: number;
@@ -165,4 +267,19 @@ export async function getHealth() {
       wikilink_count: number;
     } | null;
   }>("/health");
+}
+
+export async function getThemeGraphData(params?: {
+  signal?: AbortSignal;
+}): Promise<GraphResponse> {
+  const response = await fetch(`${getApiBase()}/api/graph`, {
+    cache: "no-store",
+    signal: params?.signal,
+  });
+
+  if (!response.ok) {
+    throw new Error(`API request failed: ${response.status} /api/graph`);
+  }
+
+  return response.json() as Promise<GraphResponse>;
 }

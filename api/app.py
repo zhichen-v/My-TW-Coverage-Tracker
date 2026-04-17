@@ -17,6 +17,7 @@ from scripts.report_parser import json_relpath_from_report_relpath
 
 INLINE_WIKILINK_PATTERN = re.compile(r"\[\[([^\]]+)\]\]")
 INLINE_BOLD_PATTERN = re.compile(r"\*\*([^*]+)\*\*")
+GRAPH_DIR = Path(__file__).resolve().parent.parent / "graph"
 
 app = FastAPI(
     title="My TW Coverage API",
@@ -245,6 +246,13 @@ def attach_structured_summary(item: dict[str, Any]) -> dict[str, Any]:
     return enriched
 
 
+def load_json_artifact(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        raise FileNotFoundError(f"JSON artifact not found: {path}")
+    with path.open("r", encoding="utf-8") as handle:
+        return json.load(handle)
+
+
 @app.get("/health")
 def health() -> dict[str, Any]:
     db_path = get_db_path()
@@ -467,4 +475,18 @@ def search(
         "query": q,
         "companies": company_matches,
         "wikilinks": wikilink_matches,
+    }
+
+
+@app.get("/api/graph")
+def get_graph() -> dict[str, Any]:
+    try:
+        graph_payload = load_json_artifact(GRAPH_DIR / "theme_graph.json")
+        company_map_payload = load_json_artifact(GRAPH_DIR / "theme_company_map.json")
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+
+    return {
+        "graph": graph_payload,
+        "company_map": company_map_payload,
     }

@@ -24,6 +24,12 @@ Re-export the mirrored structured JSON before starting the API if report structu
 .\.venv\Scripts\python.exe scripts\export_reports_json.py
 ```
 
+Rebuild the theme graph JSON before using the `/graph` page if `themes/` or graph-derived company mappings changed:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\build_theme_graph.py
+```
+
 ## Run
 
 ```powershell
@@ -46,6 +52,7 @@ Then open:
 - `GET /api/wikilinks`
 - `GET /api/wikilinks/{name}`
 - `GET /api/search?q=AI`
+- `GET /api/graph`
 
 ## Structured Detail Payloads
 
@@ -68,6 +75,7 @@ Then open:
 
 - `Pilot_Reports/` remains the source of truth.
 - `Pilot_Reports_JSON/` is a derived mirror for structured report output and should be regenerated, not edited by hand.
+- `graph/theme_graph.json` and `graph/theme_company_map.json` are derived artifacts for the `/graph` page and should be regenerated, not edited by hand.
 - `ticker` is not assumed to be globally unique forever, so the API also exposes `report_id`.
 - The API is read-only by design.
 - For public deployment behind `Nginx`, see [deployment-nginx.md](deployment-nginx.md).

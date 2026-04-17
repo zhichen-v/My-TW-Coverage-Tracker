@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState, type FormEvent, type MouseEvent } from "react";
 import Link from "next/link";
 import { getCompanies, type CompaniesResponse, type Sector } from "@/lib/api";
-import { LanguageProvider, useLanguage } from "@/components/language-provider";
+import { useLanguage } from "@/components/language-provider";
 import { translateFinancialText } from "@/lib/financial-markdown";
 import { translateSectorName } from "@/lib/i18n";
 
@@ -364,9 +364,5 @@ function HomePageContent({
 }
 
 export function HomePageClient(props: HomePageClientProps) {
-  return (
-    <LanguageProvider>
-      <HomePageContent {...props} />
-    </LanguageProvider>
-  );
+  return <HomePageContent {...props} />;
 }

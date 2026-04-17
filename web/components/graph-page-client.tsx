@@ -1,0 +1,507 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+import * as d3 from "d3";
+import {
+  getThemeGraphData,
+  type GraphCompany,
+  type GraphCompanyRole,
+  type GraphLink,
+  type GraphNode,
+  type GraphResponse,
+} from "@/lib/api";
+import styles from "./graph-page-client.module.css";
+
+type RenderNode = GraphNode &
+  d3.SimulationNodeDatum & {
+    x?: number;
+    y?: number;
+    fx?: number | null;
+    fy?: number | null;
+  };
+
+type RenderLink = Omit<GraphLink, "source" | "target"> &
+  d3.SimulationLinkDatum<RenderNode> & {
+    source: string | RenderNode;
+    target: string | RenderNode;
+  };
+
+type RendererHandle = {
+  destroy: () => void;
+  clearSelection: () => void;
+  selectNodeById: (nodeId: string) => void;
+};
+
+const ROLE_ORDER: GraphCompanyRole[] = ["upstream", "midstream", "downstream", "related"];
+
+function getNodeId(node: string | RenderNode) {
+  return typeof node === "string" ? node : node.id;
+}
+
+function getRenderedNode(node: string | RenderNode) {
+  return typeof node === "string" ? null : node;
+}
+
+function buildRenderer(args: {
+  graph: GraphResponse["graph"];
+  svgElement: SVGSVGElement;
+  onSelectionChange: (nodeId: string | null) => void;
+}): RendererHandle {
+  const { graph, svgElement, onSelectionChange } = args;
+  const svg = d3.select(svgElement);
+  svg.selectAll("*").remove();
+
+  const width = svgElement.clientWidth || window.innerWidth;
+  const height = svgElement.clientHeight || Math.max(window.innerHeight - 220, 760);
+
+  const root = svg.append("g");
+  const linkLayer = root.append("g");
+  const nodeLayer = root.append("g");
+  const labelLayer = root.append("g");
+
+  const colors: Record<string, string> = {
+    theme: "#faff69",
+    supplemental_theme: "#166534",
+    wikilink: "#d9d9d9",
+  };
+
+  const nodes: RenderNode[] = graph.nodes.map((node) => ({ ...node }));
+  const links: RenderLink[] = graph.links.map((link) => ({ ...link }));
+  const nodeById = new Map(nodes.map((node) => [node.id, node]));
+  let selectedNodeId: string | null = null;
+
+  const neighborMap = new Map<string, Set<string>>();
+  nodes.forEach((node) => neighborMap.set(node.id, new Set([node.id])));
+  links.forEach((link) => {
+    const sourceId = getNodeId(link.source);
+    const targetId = getNodeId(link.target);
+    neighborMap.get(sourceId)?.add(targetId);
+    neighborMap.get(targetId)?.add(sourceId);
+  });
+
+  const radius = d3
+    .scaleSqrt<number, number>()
+    .domain([0, d3.max(nodes, (node) => node.degree) || 1])
+    .range([7, 34]);
+
+  const zoom = d3
+    .zoom<SVGSVGElement, unknown>()
+    .scaleExtent([0.2, 3.5])
+    .on("zoom", (event) => {
+      root.attr("transform", event.transform);
+    });
+
+  svg.call(zoom).on("click", (event) => {
+    if (event.target === svg.node()) {
+      clearSelection();
+    }
+  });
+
+  const simulation = d3
+    .forceSimulation(nodes)
+    .force(
+      "link",
+      d3
+        .forceLink<RenderNode, RenderLink>(links)
+        .id((node) => node.id)
+        .distance((link) => (link.target_is_theme ? 164 : 124))
+        .strength(0.55),
+    )
+    .force(
+      "charge",
+      d3.forceManyBody<RenderNode>().strength((node) => (node.is_theme_page ? -480 : -310)),
+    )
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("collision", d3.forceCollide<RenderNode>().radius((node) => radius(node.degree) + 3))
+    .force("x", d3.forceX(width / 2).strength(0.06))
+    .force("y", d3.forceY(height / 2).strength(0.06));
+
+  const linkSelection = linkLayer
+    .selectAll<SVGLineElement, RenderLink>("line")
+    .data(links)
+    .join("line")
+    .attr("stroke", "rgba(255, 255, 255, 0.38)")
+    .attr("stroke-opacity", (link) => (link.target_type === "wikilink" ? 0.7 : 0.5))
+    .attr("stroke-width", (link) =>
+      link.target_type === "wikilink" ? 1.8 + link.weight * 0.85 : 1.2 + link.weight * 0.65,
+    );
+
+  const nodeSelection = nodeLayer
+    .selectAll<SVGCircleElement, RenderNode>("circle")
+    .data(nodes)
+    .join("circle")
+    .attr("r", (node) => Math.max(node.radius_hint, radius(node.degree)))
+    .attr("fill", (node) => colors[node.type] || "#cccccc")
+    .attr("opacity", 0.95)
+    .attr("stroke", "rgba(0, 0, 0, 0.92)")
+    .attr("stroke-width", 1.5)
+    .style("cursor", "grab")
+    .call(
+      d3
+        .drag<SVGCircleElement, RenderNode>()
+        .on("start", (event, node) => {
+          if (!event.active) {
+            simulation.alphaTarget(0.3).restart();
+          }
+          node.fx = node.x;
+          node.fy = node.y;
+        })
+        .on("drag", (event, node) => {
+          node.fx = event.x;
+          node.fy = event.y;
+        })
+        .on("end", (event, node) => {
+          if (!event.active) {
+            simulation.alphaTarget(0);
+          }
+          node.fx = null;
+          node.fy = null;
+        }),
+    )
+    .on("click", (event, node) => {
+      event.stopPropagation();
+      if (selectedNodeId === node.id) {
+        clearSelection();
+        return;
+      }
+      applySelection(node.id, true);
+    });
+
+  const labelSelection = labelLayer
+    .selectAll<SVGTextElement, RenderNode>("text")
+    .data(nodes.filter((node) => node.is_theme_page || node.degree >= 2))
+    .join("text")
+    .attr("text-anchor", "middle")
+    .attr("fill", "rgba(255, 255, 255, 0.92)")
+    .attr("font-size", 12)
+    .attr("font-weight", 600)
+    .attr("letter-spacing", "0.02em")
+    .style("pointer-events", "none")
+    .text((node) => node.label);
+
+  simulation.on("tick", () => {
+    linkSelection
+      .attr("x1", (link) => getRenderedNode(link.source)?.x ?? 0)
+      .attr("y1", (link) => getRenderedNode(link.source)?.y ?? 0)
+      .attr("x2", (link) => getRenderedNode(link.target)?.x ?? 0)
+      .attr("y2", (link) => getRenderedNode(link.target)?.y ?? 0);
+
+    nodeSelection.attr("cx", (node) => node.x ?? 0).attr("cy", (node) => node.y ?? 0);
+
+    labelSelection
+      .attr("x", (node) => node.x ?? 0)
+      .attr("y", (node) => (node.y ?? 0) + radius(node.degree) + 14);
+  });
+
+  function focusNode(targetNode: RenderNode) {
+    if (typeof targetNode.x !== "number" || typeof targetNode.y !== "number") {
+      return;
+    }
+
+    const scale = 1.78;
+    const viewportWidth = svgElement.clientWidth || window.innerWidth;
+    const viewportHeight = svgElement.clientHeight || window.innerHeight;
+    const transform = d3.zoomIdentity
+      .translate(viewportWidth / 2, viewportHeight / 2)
+      .scale(scale)
+      .translate(-targetNode.x, -targetNode.y);
+
+    svg.interrupt();
+    svg.transition().duration(360).ease(d3.easeCubicOut).call(zoom.transform, transform);
+  }
+
+  function clearSelection() {
+    selectedNodeId = null;
+    nodeSelection.attr("opacity", 0.95);
+    labelSelection.attr("opacity", 1);
+    linkSelection.attr("stroke-opacity", (link) => (link.target_type === "wikilink" ? 0.7 : 0.5));
+    onSelectionChange(null);
+  }
+
+  function applySelection(nodeId: string, focus: boolean) {
+    const selectedNode = nodeById.get(nodeId);
+    if (!selectedNode) {
+      clearSelection();
+      return;
+    }
+
+    selectedNodeId = nodeId;
+    const neighbors = neighborMap.get(nodeId) || new Set([nodeId]);
+
+    nodeSelection.attr("opacity", (node) => (neighbors.has(node.id) ? 0.98 : 0.12));
+    labelSelection.attr("opacity", (node) => (neighbors.has(node.id) ? 1 : 0.18));
+    linkSelection.attr("stroke-opacity", (link) => {
+      const sourceId = getNodeId(link.source);
+      const targetId = getNodeId(link.target);
+      const isAdjacent = sourceId === nodeId || targetId === nodeId;
+      if (isAdjacent) {
+        return link.target_type === "wikilink" ? 0.88 : 0.68;
+      }
+      return 0.08;
+    });
+
+    onSelectionChange(nodeId);
+
+    if (focus) {
+      focusNode(selectedNode);
+    }
+  }
+
+  svg.call(
+    zoom.transform,
+    d3.zoomIdentity.translate(width / 2, height / 2).scale(1.22).translate(-width / 2, -height / 2),
+  );
+
+  clearSelection();
+
+  return {
+    destroy() {
+      simulation.stop();
+      svg.interrupt();
+      svg.on(".zoom", null);
+      svg.selectAll("*").remove();
+    },
+    clearSelection,
+    selectNodeById(nodeId: string) {
+      if (selectedNodeId === nodeId) {
+        clearSelection();
+        return;
+      }
+      applySelection(nodeId, true);
+    },
+  };
+}
+
+function getRelatedThemes(selectedNode: GraphNode, links: GraphLink[], nodeById: Map<string, GraphNode>) {
+  const explicitRelated = Array.isArray(selectedNode.related_themes)
+    ? selectedNode.related_themes.filter((item) => item && item.id && item.is_theme_page)
+    : [];
+
+  if (explicitRelated.length) {
+    return explicitRelated;
+  }
+
+  const relatedItems: Array<{ id: string; label: string; is_theme_page: boolean }> = [];
+  const seen = new Set<string>();
+
+  links.forEach((link) => {
+    if (link.source !== selectedNode.id && link.target !== selectedNode.id) {
+      return;
+    }
+
+    const otherId = link.source === selectedNode.id ? link.target : link.source;
+    if (!otherId || otherId === selectedNode.id || seen.has(otherId)) {
+      return;
+    }
+
+    const otherNode = nodeById.get(otherId);
+    if (!otherNode?.is_theme_page) {
+      return;
+    }
+
+    seen.add(otherId);
+    relatedItems.push({
+      id: otherNode.id,
+      label: otherNode.label,
+      is_theme_page: true,
+    });
+  });
+
+  return relatedItems;
+}
+
+function GraphCompanyCard({ company }: { company: GraphCompany }) {
+  return (
+    <article className={styles.companyCard}>
+      <div className={styles.companyHead}>
+        <span className={styles.tickerPill}>{company.ticker || "-"}</span>
+        <div className={styles.companyName}>{company.company_name || ""}</div>
+        <span className={styles.tailSpace} aria-hidden="true" />
+      </div>
+    </article>
+  );
+}
+
+export function GraphPageClient() {
+  const [graphData, setGraphData] = useState<GraphResponse | null>(null);
+  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const svgRef = useRef<SVGSVGElement | null>(null);
+  const rendererRef = useRef<RendererHandle | null>(null);
+
+  useEffect(() => {
+    const controller = new AbortController();
+
+    async function loadGraph() {
+      setIsLoading(true);
+      setError(null);
+      try {
+        const nextGraphData = await getThemeGraphData({ signal: controller.signal });
+        setGraphData(nextGraphData);
+      } catch (loadError) {
+        if ((loadError as Error).name !== "AbortError") {
+          setError((loadError as Error).message);
+        }
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsLoading(false);
+        }
+      }
+    }
+
+    void loadGraph();
+
+    return () => controller.abort();
+  }, []);
+
+  useEffect(() => {
+    if (!graphData || !svgRef.current) {
+      return;
+    }
+
+    rendererRef.current?.destroy();
+    rendererRef.current = buildRenderer({
+      graph: graphData.graph,
+      svgElement: svgRef.current,
+      onSelectionChange: setSelectedNodeId,
+    });
+
+    return () => {
+      rendererRef.current?.destroy();
+      rendererRef.current = null;
+    };
+  }, [graphData]);
+
+  const nodeById = new Map((graphData?.graph.nodes || []).map((node) => [node.id, node]));
+  const companyThemeById = new Map(
+    (graphData?.company_map.themes || []).map((theme) => [theme.id, theme]),
+  );
+  const selectedNode = selectedNodeId ? nodeById.get(selectedNodeId) || null : null;
+  const selectedCompanyTheme = selectedNodeId ? companyThemeById.get(selectedNodeId) || null : null;
+  const relatedThemes =
+    selectedNode && graphData ? getRelatedThemes(selectedNode, graphData.graph.links, nodeById) : [];
+
+  return (
+    <div className={styles.page}>
+      <section className={styles.viewport}>
+        <aside className={`${styles.overlayPanel} ${styles.headerPanel}`}>
+          <h1 className={styles.headerTitle}>Theme Graph</h1>
+          <p className={styles.headerDescription}>
+            Explore theme relationships and the related-company clusters derived from the existing
+            graph JSON assets.
+          </p>
+        </aside>
+
+        <aside className={`${styles.overlayPanel} ${styles.statsPanel}`}>
+          <h2 className={styles.overlayTitle}>Stats</h2>
+          <div className={styles.statList}>
+            <div className={styles.statRow}>
+              <span className={styles.statLabel}>Nodes</span>
+              <span className={styles.statValue}>{graphData?.graph.node_counts.total ?? "-"}</span>
+            </div>
+            <div className={styles.statRow}>
+              <span className={styles.statLabel}>Themes</span>
+              <span className={styles.statValue}>{graphData?.graph.node_counts.themes ?? "-"}</span>
+            </div>
+            <div className={styles.statRow}>
+              <span className={styles.statLabel}>Supplemental</span>
+              <span className={styles.statValue}>
+                {graphData?.graph.node_counts.supplemental_themes ?? "-"}
+              </span>
+            </div>
+            <div className={styles.statRow}>
+              <span className={styles.statLabel}>Links</span>
+              <span className={styles.statValue}>{graphData?.graph.links.length ?? "-"}</span>
+            </div>
+          </div>
+        </aside>
+
+        {error ? (
+          <aside className={`${styles.overlayPanel} ${styles.errorPanel}`}>
+            Failed to load graph data: {error}
+          </aside>
+        ) : null}
+
+        <svg ref={svgRef} className={styles.canvas} aria-label="theme graph" />
+
+        <aside className={`${styles.overlayPanel} ${styles.companyPanel}`}>
+          <h2 className={styles.overlayTitle}>Related Companies</h2>
+          {isLoading ? (
+            <div className={styles.muted}>Loading graph data...</div>
+          ) : selectedNode ? (
+            <>
+              <h3 className={styles.nodeTitle}>{selectedNode.label}</h3>
+              {selectedCompanyTheme ? (
+                ROLE_ORDER.map((role) => {
+                  const roleGroup = selectedCompanyTheme.companies_by_role[role];
+                  if (!roleGroup?.companies.length) {
+                    return null;
+                  }
+
+                  return (
+                    <section className={styles.section} key={role}>
+                      <h4 className={styles.sectionTitle}>{roleGroup.label_en}</h4>
+                      <div className={styles.companyList}>
+                        {roleGroup.companies.map((company) => (
+                          <GraphCompanyCard
+                            key={`${role}-${company.ticker}-${company.company_name}`}
+                            company={company}
+                          />
+                        ))}
+                      </div>
+                    </section>
+                  );
+                })
+              ) : (
+                <div className={styles.section}>
+                  <div className={styles.muted}>No company mapping is available for this theme.</div>
+                </div>
+              )}
+            </>
+          ) : (
+            <div className={styles.muted}>Select a node to inspect its related companies.</div>
+          )}
+        </aside>
+
+        <aside className={`${styles.overlayPanel} ${styles.detailsPanel}`}>
+          <h2 className={styles.overlayTitle}>Details</h2>
+          {isLoading ? (
+            <div className={styles.muted}>Loading graph data...</div>
+          ) : selectedNode ? (
+            <>
+              <h3 className={styles.detailsHeading}>{selectedNode.label}</h3>
+              {selectedNode.note ? (
+                <div className={styles.note}>{selectedNode.note}</div>
+              ) : (
+                <div className={styles.muted}>No note is available for this node.</div>
+              )}
+
+              <section className={styles.section}>
+                <h4 className={styles.sectionTitle}>Related Themes</h4>
+                {relatedThemes.length ? (
+                  <div className={styles.relatedList}>
+                    {relatedThemes.map((theme) => (
+                      <button
+                        key={theme.id}
+                        type="button"
+                        className={styles.relatedChip}
+                        onClick={() => rendererRef.current?.selectNodeById(theme.id)}
+                      >
+                        {theme.label}
+                      </button>
+                    ))}
+                  </div>
+                ) : (
+                  <div className={styles.muted}>No related themes are available for this node.</div>
+                )}
+              </section>
+            </>
+          ) : (
+            <div className={styles.muted}>Select a node to inspect its note and related themes.</div>
+          )}
+        </aside>
+      </section>
+    </div>
+  );
+}
