@@ -8,7 +8,7 @@ export function SiteHeader() {
   const pathname = usePathname();
   const { language } = useLanguage();
   const themesGraphLabel =
-    language === "zh-Hant" ? "\u79d1\u6280\u6982\u5ff5\u5716\u8b5c" : "Themes Graph";
+    language === "zh-Hant" ? "概念股圖譜" : "Themes Graph";
 
   if (pathname === "/graph") {
     return null;
