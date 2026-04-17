@@ -6,16 +6,20 @@
     <title>Theme Graph</title>
     <style>
       :root {
-        --bg: #0a0f14;
-        --panel: rgba(13, 20, 28, 0.92);
-        --panel-border: #233244;
-        --text: #e8eef5;
-        --muted: #93a4b8;
-        --theme: #ff8a3d;
-        --supplemental-theme: #4db6ff;
-        --wikilink: #8ad6ff;
-        --edge: #5f738a;
-        --accent: #c7f36b;
+        --bg: #000000;
+        --panel: rgba(10, 10, 10, 0.94);
+        --panel-surface: #141414;
+        --panel-border: rgba(65, 65, 65, 0.8);
+        --panel-border-strong: #5a5a5a;
+        --text: #ffffff;
+        --muted: #a0a0a0;
+        --theme: #faff69;
+        --supplemental-theme: #166534;
+        --wikilink: #d9d9d9;
+        --edge: rgba(255, 255, 255, 0.38);
+        --accent: #faff69;
+        --accent-soft: #f4f692;
+        --accent-border: #4f5100;
       }
 
       * {
@@ -30,30 +34,82 @@
         overflow: hidden;
         background:
           radial-gradient(
-            circle at top left,
-            rgba(255, 138, 61, 0.18),
+            circle at 12% 16%,
+            rgba(250, 255, 105, 0.05),
+            transparent 28%
+          ),
+          radial-gradient(
+            circle at 84% 12%,
+            rgba(22, 101, 52, 0.08),
+            transparent 24%
+          ),
+          radial-gradient(
+            circle at 72% 78%,
+            rgba(250, 255, 105, 0.035),
             transparent 32%
           ),
           radial-gradient(
-            circle at top right,
-            rgba(77, 182, 255, 0.16),
-            transparent 28%
+            circle at 24% 82%,
+            rgba(255, 255, 255, 0.025),
+            transparent 26%
           ),
-          linear-gradient(180deg, #091019 0%, var(--bg) 100%);
+          var(--bg);
         color: var(--text);
-        font-family: Consolas, "SFMono-Regular", "Liberation Mono", monospace;
+        font-family:
+          Inter, "Segoe UI", "PingFang TC", "Noto Sans TC",
+          "Microsoft JhengHei", sans-serif;
       }
 
       #app {
+        position: relative;
         width: 100%;
         height: 100%;
-        position: relative;
+        isolation: isolate;
+      }
+
+      #app::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        pointer-events: none;
+        background:
+          radial-gradient(
+            circle at 14% 18%,
+            rgba(250, 255, 105, 0.09),
+            transparent 30%
+          ),
+          radial-gradient(
+            circle at 82% 12%,
+            rgba(22, 101, 52, 0.12),
+            transparent 26%
+          ),
+          radial-gradient(
+            circle at 72% 74%,
+            rgba(250, 255, 105, 0.06),
+            transparent 34%
+          ),
+          radial-gradient(
+            circle at 28% 80%,
+            rgba(255, 255, 255, 0.032),
+            transparent 28%
+          );
       }
 
       svg {
+        position: relative;
+        z-index: 1;
+        display: block;
         width: 100%;
         height: 100%;
-        display: block;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+          linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.025) 1px,
+            transparent 1px
+          );
+        background-size: 48px 48px;
       }
 
       .panel {
@@ -61,63 +117,87 @@
         z-index: 2;
         background: var(--panel);
         border: 1px solid var(--panel-border);
-        backdrop-filter: blur(10px);
-        box-shadow: 0 14px 40px rgba(0, 0, 0, 0.28);
+        border-radius: 8px;
+        backdrop-filter: blur(12px);
+        box-shadow:
+          0 0 0 1px rgba(255, 255, 255, 0.02),
+          0 18px 48px rgba(0, 0, 0, 0.42),
+          inset 0 4px 24px rgba(0, 0, 0, 0.18);
       }
 
       #header {
         top: 16px;
         left: 16px;
-        width: min(360px, calc(100vw - 32px));
-        padding: 14px 16px;
+        width: min(400px, calc(100vw - 32px));
+        padding: 16px 18px 18px;
       }
 
       #header h1 {
-        margin: 0 0 8px;
-        font-size: 18px;
-        line-height: 1.2;
+        margin: 0 0 10px;
+        font-size: 30px;
+        font-weight: 900;
+        line-height: 1;
+        letter-spacing: -0.04em;
       }
 
       #header p {
         margin: 0;
         color: var(--muted);
-        font-size: 12px;
-        line-height: 1.5;
-      }
-
-      #legend {
-        display: none;
-      }
-
-      #stats h2,
-      #details h2 {
-        margin: 0 0 10px;
-        font-size: 12px;
-        color: var(--muted);
-        text-transform: uppercase;
-        letter-spacing: 0.08em;
-      }
-
-      #stats .row {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        margin: 7px 0;
-        font-size: 12px;
-      }
-
-      .swatch {
-        width: 10px;
-        height: 10px;
-        border-radius: 999px;
-        flex: 0 0 auto;
+        font-size: 13px;
+        line-height: 1.65;
       }
 
       #stats {
         top: 16px;
         right: 16px;
-        padding: 12px 14px;
-        min-width: 220px;
+        min-width: 248px;
+        padding: 14px 16px 16px;
+      }
+
+      #stats h2,
+      #details h2,
+      #company-panel h2 {
+        margin: 0 0 10px;
+        font-size: 11px;
+        font-weight: 700;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.18em;
+      }
+
+      #stats .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin: 10px 0;
+        font-size: 12px;
+        line-height: 1.4;
+        color: var(--muted);
+      }
+
+      #stats .row span:last-child {
+        color: var(--accent);
+        font-family:
+          Inconsolata, Consolas, "SFMono-Regular", "Liberation Mono", monospace;
+        font-size: 18px;
+        font-weight: 700;
+      }
+
+      #company-panel {
+        top: auto;
+        left: 16px;
+        bottom: 16px;
+        width: min(560px, calc(100vw - 32px));
+        max-height: min(64vh, 660px);
+        overflow: auto;
+        padding: 14px 14px 18px;
+        display: none;
+        scrollbar-gutter: stable;
+      }
+
+      #company-panel.is-visible {
+        display: block;
       }
 
       #details {
@@ -126,7 +206,8 @@
         width: min(380px, calc(100vw - 32px));
         max-height: min(52vh, 420px);
         overflow: auto;
-        padding: 14px 16px;
+        padding: 14px 16px 16px;
+        scrollbar-gutter: stable;
       }
 
       #details .muted {
@@ -135,36 +216,109 @@
 
       #details .title {
         margin: 0 0 6px;
-        font-size: 16px;
+        font-size: 19px;
+        font-weight: 800;
         line-height: 1.35;
       }
 
-      #details .meta,
-      #details .occurrence {
-        font-size: 12px;
-        line-height: 1.5;
+      #details .note {
+        margin-top: 14px;
+        padding: 12px 14px;
+        border: 1px solid rgba(250, 255, 105, 0.22);
+        border-left: 3px solid var(--accent);
+        background: rgba(20, 20, 20, 0.96);
+        color: var(--text);
+        font-size: 14px;
+        line-height: 1.75;
+        box-shadow: inset 0 4px 18px rgba(0, 0, 0, 0.18);
+      }
+
+      #company-panel .muted {
         color: var(--muted);
       }
 
-      #details .note {
-        margin-top: 12px;
-        padding: 10px 12px;
-        border-left: 3px solid var(--accent);
-        background: rgba(199, 243, 107, 0.06);
-        color: var(--text);
-        font-size: 14px;
-        line-height: 1.7;
+      #company-panel .title {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 1.2;
       }
 
-      #details ul {
-        margin: 10px 0 0;
-        padding-left: 18px;
+      #company-panel .section {
+        margin-top: 18px;
+        padding-top: 16px;
+        border-top: 1px solid var(--panel-border);
       }
 
-      #details li {
-        margin: 8px 0;
+      #company-panel .section-header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 12px;
+        margin: 0 0 12px;
+      }
+
+      #company-panel .section-title {
+        margin: 0;
+        color: var(--accent-soft);
         font-size: 12px;
-        line-height: 1.5;
+        font-weight: 700;
+        line-height: 1.4;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+
+      #company-panel .company-list {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      #company-panel .company-card {
+        border: 1px solid var(--panel-border);
+        border-radius: 8px;
+        background: rgba(20, 20, 20, 0.96);
+        padding: 10px 12px 12px;
+        box-shadow: inset 0 4px 14px rgba(0, 0, 0, 0.16);
+      }
+
+      #company-panel .company-head {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) 54px;
+        align-items: center;
+        gap: 10px;
+        min-width: 0;
+      }
+
+      #company-panel .ticker-pill {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 52px;
+        padding: 4px 8px;
+        border: 1px solid rgba(250, 255, 105, 0.28);
+        border-radius: 999px;
+        background: rgba(250, 255, 105, 0.06);
+        color: var(--accent);
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.2;
+        font-family:
+          Inconsolata, Consolas, "SFMono-Regular", "Liberation Mono", monospace;
+      }
+
+      #company-panel .company-name {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.45;
+        min-width: 0;
+        word-break: break-word;
+      }
+
+      #company-panel .company-tail-space {
+        display: block;
+        width: 54px;
+        min-width: 54px;
       }
 
       .related-list {
@@ -176,48 +330,112 @@
 
       .related-chip {
         border: 1px solid var(--panel-border);
-        background: rgba(255, 255, 255, 0.03);
+        border-radius: 999px;
+        background: rgba(20, 20, 20, 0.96);
         color: var(--text);
-        padding: 6px 10px;
+        padding: 8px 12px;
         font: inherit;
         font-size: 12px;
         cursor: pointer;
+        transition:
+          border-color 140ms ease,
+          color 140ms ease,
+          background-color 140ms ease,
+          transform 140ms ease;
       }
 
       .related-chip:hover {
         border-color: var(--accent);
         color: var(--accent);
-      }
-
-      a {
-        color: var(--accent);
-        text-decoration: none;
+        background: rgba(250, 255, 105, 0.06);
+        transform: translateY(-1px);
       }
 
       .node {
         cursor: grab;
+        stroke-width: 1.5px;
       }
 
-      .node.theme {
-        stroke: #fff0;
-      }
-
-      .node.supplemental_theme {
-        stroke: #fff0;
-      }
-
+      .node.theme,
+      .node.supplemental_theme,
       .node.wikilink {
-        stroke: #fff0;
+        stroke: rgba(0, 0, 0, 0.92);
       }
 
       .label {
         pointer-events: none;
-        fill: #dce7f2;
-        font-size: 11px;
+        fill: rgba(255, 255, 255, 0.92);
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 0.02em;
       }
 
       .faded {
         opacity: 0.08;
+      }
+
+      #company-panel,
+      #details {
+        scrollbar-width: thin;
+        scrollbar-color: rgba(250, 255, 105, 0.36) transparent;
+      }
+
+      #company-panel::-webkit-scrollbar,
+      #details::-webkit-scrollbar {
+        width: 10px;
+      }
+
+      #company-panel::-webkit-scrollbar-track,
+      #details::-webkit-scrollbar-track {
+        background: transparent;
+      }
+
+      #company-panel::-webkit-scrollbar-thumb,
+      #details::-webkit-scrollbar-thumb {
+        border: 2px solid transparent;
+        border-radius: 999px;
+        background: rgba(250, 255, 105, 0.36);
+        background-clip: padding-box;
+      }
+
+      #company-panel::-webkit-scrollbar-thumb:hover,
+      #details::-webkit-scrollbar-thumb:hover {
+        background: rgba(250, 255, 105, 0.52);
+        background-clip: padding-box;
+      }
+
+      @media (max-width: 960px) {
+        #header,
+        #stats {
+          width: min(340px, calc(100vw - 32px));
+        }
+
+        #company-panel {
+          top: auto;
+          bottom: 16px;
+          width: min(500px, calc(100vw - 32px));
+          max-height: min(64vh, 660px);
+        }
+      }
+
+      @media (max-width: 660px) {
+        #company-panel {
+          top: auto;
+          left: 16px;
+          right: 16px;
+          bottom: 16px;
+          width: auto;
+          max-height: min(64vh, 660px);
+        }
+
+        #company-panel .company-list {
+          grid-template-columns: minmax(0, 1fr);
+        }
+
+        #details,
+        #stats {
+          width: calc(100vw - 32px);
+        }
       }
     </style>
   </head>
@@ -226,32 +444,20 @@
       <div id="header" class="panel">
         <h1>Theme Graph</h1>
         <p>
-          可拖曳節點、用滾輪縮放，點擊節點可查看來源引用。橘色節點代表原始主題頁，藍色節點代表補充主題頁，淡藍色節點代表尚未對應主題頁的
-          wikilink。
+          拖曳節點可調整位置，滑鼠滾輪可縮放。點擊節點後，左側會顯示上游、中游、下游與相關公司的
+          ticker 和公司名稱；再次點擊同一個節點即可收合。
         </p>
       </div>
-      <div id="legend" class="panel">
-        <h2>Legend</h2>
-        <div class="row">
-          <span class="swatch" style="background: var(--theme)"></span
-          ><span>主題頁</span>
-        </div>
-        <div class="row">
-          <span
-            class="swatch"
-            style="background: var(--supplemental-theme)"
-          ></span
-          ><span>補充主題</span>
-        </div>
-        <div class="row">
-          <span class="swatch" style="background: var(--wikilink)"></span
-          ><span>引用的 Wikilink</span>
+      <div id="stats" class="panel"></div>
+      <div id="company-panel" class="panel">
+        <h2>相關公司清單</h2>
+        <div class="muted">
+          點擊節點後，左側會顯示對應的公司清單；再次點擊同一個節點即可收合。
         </div>
       </div>
-      <div id="stats"></div>
       <div id="details" class="panel">
         <h2>Details</h2>
-        <div class="muted">點擊節點可查看其屬性與相鄰連結。</div>
+        <div class="muted">點擊節點後，右下角會顯示主題說明與相關主題。</div>
       </div>
       <svg aria-label="theme graph"></svg>
     </div>
@@ -266,7 +472,16 @@
       const nodeLayer = root.append("g");
       const labelLayer = root.append("g");
       const statsEl = document.getElementById("stats");
+      const companyPanelEl = document.getElementById("company-panel");
       const detailsEl = document.getElementById("details");
+      const defaultCompanyPanelHtml = [
+        "<h2>相關公司清單</h2>",
+        "<div class='muted'>點擊節點後，左側會顯示對應的公司清單；再次點擊同一個節點即可收合。</div>",
+      ].join("");
+      const defaultDetailsHtml = [
+        "<h2>Details</h2>",
+        "<div class='muted'>點擊節點後，右下角會顯示主題說明與相關主題。</div>",
+      ].join("");
 
       const colors = {
         theme: getComputedStyle(document.documentElement)
@@ -292,28 +507,44 @@
         }
       });
 
-      fetch(`./theme_graph.json?ts=${Date.now()}`, { cache: "no-store" })
-        .then((res) => res.json())
-        .then((graph) => render(graph))
+      Promise.all([
+        fetch(`./theme_graph.json?ts=${Date.now()}`, {
+          cache: "no-store",
+        }).then((res) => res.json()),
+        fetch(`./theme_company_map.json?ts=${Date.now()}`, {
+          cache: "no-store",
+        })
+          .then((res) => res.json())
+          .catch((err) => {
+            console.error("Failed to load theme_company_map.json", err);
+            return { themes: [] };
+          }),
+      ])
+        .then(([graph, themeCompanyMap]) => render(graph, themeCompanyMap))
         .catch((err) => {
+          companyPanelEl.classList.add("is-visible");
+          companyPanelEl.innerHTML =
+            "<h2>相關公司清單</h2><div class='muted'>無法載入 company map，請確認 `theme_company_map.json` 是否存在。</div>";
           detailsEl.innerHTML =
-            "<h2>Details</h2><div class='muted'>無法讀取 theme_graph.json。請先執行建置腳本，再用本機靜態伺服器開啟這個資料夾。</div>";
+            "<h2>Details</h2><div class='muted'>無法載入 graph 資料，請確認 `theme_graph.json` 與 `theme_company_map.json` 是否存在。</div>";
           console.error(err);
         });
 
-      function render(graph) {
-        statsEl.className = "panel";
+      function render(graph, themeCompanyMap) {
         statsEl.innerHTML = [
-          "<h2 style='margin:0 0 10px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em'>Stats</h2>",
-          `<div class="row"><span>節點數(nodes):</span><span>${graph.node_counts.total}</span></div>`,
-          `<div class="row"><span>主題頁(themes):</span><span>${graph.node_counts.themes}</span></div>`,
-          `<div class="row"><span>補充主題(extend themes):</span><span>${graph.node_counts.supplemental_themes ?? 0}</span></div>`,
-          `<div class="row"><span>總連結數(total links):</span><span>${graph.links.length}</span></div>`,
+          "<h2>Stats</h2>",
+          `<div class="row"><span>節點數:</span><span>${graph.node_counts.total}</span></div>`,
+          `<div class="row"><span>主題數:</span><span>${graph.node_counts.themes}</span></div>`,
+          `<div class="row"><span>補充主題數:</span><span>${graph.node_counts.supplemental_themes ?? 0}</span></div>`,
+          `<div class="row"><span>連線數:</span><span>${graph.links.length}</span></div>`,
         ].join("");
 
         const nodes = graph.nodes.map((d) => ({ ...d }));
         const links = graph.links.map((d) => ({ ...d }));
         const nodeById = new Map(nodes.map((node) => [node.id, node]));
+        const themeCompanyMapById = new Map(
+          (themeCompanyMap?.themes || []).map((item) => [item.id, item]),
+        );
         let selectedNodeId = null;
 
         const neighborMap = new Map();
@@ -413,6 +644,7 @@
 
         function selectNode(selected) {
           selectedNodeId = selected.id;
+          companyPanelEl.classList.add("is-visible");
           const neighbors =
             neighborMap.get(selected.id) || new Set([selected.id]);
 
@@ -444,64 +676,60 @@
             )
             .sort((a, b) => b.weight - a.weight);
 
+          const companyTheme = themeCompanyMapById.get(selected.id);
           const relatedItems = getRelatedThemes(selected, adjacent);
 
-          const related = relatedItems.length
-            ? `<div class="related-list">${relatedItems
-                .map(
-                  (item) =>
-                    `<button class="related-chip" data-node-id="${escapeAttr(item.id)}">${escapeHtml(item.label)}</button>`,
-                )
-                .join("")}</div>`
-            : "<div class='muted'>沒有相關主題。</div>";
+          companyPanelEl.innerHTML = [
+            "<h2>相關公司清單</h2>",
+            `<div class="title">${escapeHtml(selected.label)}</div>`,
+            renderCompanySections(companyTheme),
+          ].join("");
 
           detailsEl.innerHTML = [
             "<h2>Details</h2>",
             `<div class="title">${escapeHtml(selected.label)}</div>`,
             selected.note
               ? `<div class="note">&gt; ${escapeHtml(selected.note)}</div>`
-              : "<div class='muted' style='margin-top:10px'>沒有註記。</div>",
-            "<h2 style='margin-top:14px'>相關主題</h2>",
-            related,
+              : "<div class='muted' style='margin-top:10px'>目前沒有主題說明。</div>",
+            renderRelatedThemesSection(relatedItems),
           ].join("");
 
           detailsEl.querySelectorAll("[data-node-id]").forEach((el) => {
             el.addEventListener("click", () => {
               const id = el.getAttribute("data-node-id");
               const targetNode = nodes.find((node) => node.id === id);
-              if (targetNode) {
-                if (selectedNodeId === targetNode.id) {
-                  clearSelection();
-                  return;
-                }
-                selectNode(targetNode);
-                focusNode(targetNode);
+              if (!targetNode) {
+                return;
               }
+              if (selectedNodeId === targetNode.id) {
+                clearSelection();
+                return;
+              }
+              selectNode(targetNode);
+              focusNode(targetNode);
             });
           });
         }
 
         function clearSelection() {
           selectedNodeId = null;
+          companyPanelEl.classList.remove("is-visible");
+          companyPanelEl.innerHTML = defaultCompanyPanelHtml;
+          detailsEl.innerHTML = defaultDetailsHtml;
 
           node.classed("faded", false).attr("opacity", 0.95);
-
           label.classed("faded", false).attr("opacity", 1);
-
           link
             .classed("faded", false)
             .attr("stroke-opacity", (d) =>
               d.target_type === "wikilink" ? 0.7 : 0.5,
             );
-
-          detailsEl.innerHTML = [
-            "<h2>Details</h2>",
-            "<div class='muted'>點擊節點可查看其屬性與相鄰連結。</div>",
-          ].join("");
         }
 
         function dragStarted(event, d) {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
+          if (!event.active) {
+            simulation.alphaTarget(0.3).restart();
+          }
           d.fx = d.x;
           d.fy = d.y;
         }
@@ -512,7 +740,9 @@
         }
 
         function dragEnded(event, d) {
-          if (!event.active) simulation.alphaTarget(0);
+          if (!event.active) {
+            simulation.alphaTarget(0);
+          }
           d.fx = null;
           d.fy = null;
         }
@@ -524,16 +754,21 @@
           ) {
             return;
           }
-          const scale = 1.55;
-          const tx = width / 2 - targetNode.x * scale;
-          const ty = height / 2 - targetNode.y * scale;
+
+          const scale = 1.78;
+          const viewportWidth = window.innerWidth;
+          const viewportHeight = window.innerHeight;
+          const transform = d3.zoomIdentity
+            .translate(viewportWidth / 2, viewportHeight / 2)
+            .scale(scale)
+            .translate(-targetNode.x, -targetNode.y);
+
+          svg.interrupt();
           svg
             .transition()
-            .duration(550)
-            .call(
-              zoom.transform,
-              d3.zoomIdentity.translate(tx, ty).scale(scale),
-            );
+            .duration(360)
+            .ease(d3.easeCubicOut)
+            .call(zoom.transform, transform);
         }
 
         function getRelatedThemes(selected, adjacentLinks) {
@@ -549,16 +784,19 @@
 
           const derived = [];
           const seen = new Set();
+
           adjacentLinks.forEach((edge) => {
             const otherId =
               edge.source.id === selected.id ? edge.target.id : edge.source.id;
             if (!otherId || otherId === selected.id || seen.has(otherId)) {
               return;
             }
+
             const otherNode = nodeById.get(otherId);
             if (!otherNode?.is_theme_page) {
               return;
             }
+
             seen.add(otherId);
             derived.push({
               id: otherNode.id,
@@ -570,12 +808,88 @@
           return derived;
         }
 
+        function renderCompanySections(companyTheme) {
+          if (!companyTheme?.companies_by_role) {
+            return [
+              "<div class='section'>",
+              "<div class='muted'>這個節點目前沒有對應的公司清單。</div>",
+              "</div>",
+            ].join("");
+          }
+
+          const roleOrder = ["upstream", "midstream", "downstream", "related"];
+          const sections = roleOrder
+            .map((role) => {
+              const roleGroup = companyTheme.companies_by_role?.[role];
+              const companies = Array.isArray(roleGroup?.companies)
+                ? roleGroup.companies
+                : [];
+
+              if (!companies.length) {
+                return "";
+              }
+
+              return [
+                "<div class='section'>",
+                "<div class='section-header'>",
+                `<h3 class='section-title'>${escapeHtml(roleGroup.label_zh || roleGroup.label_en || role)}</h3>`,
+                "</div>",
+                `<div class='company-list'>${companies.map(renderCompanyCard).join("")}</div>`,
+                "</div>",
+              ].join("");
+            })
+            .filter(Boolean)
+            .join("");
+
+          if (sections) {
+            return sections;
+          }
+
+          return [
+            "<div class='section'>",
+            "<div class='muted'>這個節點目前沒有對應的公司清單。</div>",
+            "</div>",
+          ].join("");
+        }
+
+        function renderCompanyCard(company) {
+          return [
+            "<article class='company-card'>",
+            "<div class='company-head'>",
+            `<span class='ticker-pill'>${escapeHtml(company.ticker || "-")}</span>`,
+            `<div class='company-name'>${escapeHtml(company.company_name || "")}</div>`,
+            "<span class='company-tail-space' aria-hidden='true'></span>",
+            "</div>",
+            "</article>",
+          ].join("");
+        }
+
+        function renderRelatedThemesSection(relatedItems) {
+          const related = relatedItems.length
+            ? `<div class="related-list">${relatedItems
+                .map(
+                  (item) =>
+                    `<button class="related-chip" data-node-id="${escapeAttr(item.id)}">${escapeHtml(item.label)}</button>`,
+                )
+                .join("")}</div>`
+            : "<div class='muted'>目前沒有相關主題。</div>";
+
+          return [
+            "<div class='section'>",
+            "<div class='section-header'>",
+            "<h3 class='section-title'>相關主題</h3>",
+            "</div>",
+            related,
+            "</div>",
+          ].join("");
+        }
+
         window.addEventListener("graph-clear-selection", clearSelection);
         clearSelection();
         svg.call(
           zoom.transform,
           d3.zoomIdentity
-            .translate(width / 2, height / 2)
+            .translate(window.innerWidth / 2, window.innerHeight / 2)
             .scale(1.22)
             .translate(-width / 2, -height / 2),
         );
