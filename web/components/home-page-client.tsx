@@ -26,6 +26,8 @@ type HomePageClientProps = {
 };
 
 const PAGE_SIZE = 30;
+const panelStyle = { boxShadow: "var(--shadow-soft)" } as const;
+const rowStyle = { boxShadow: "var(--shadow-soft)" } as const;
 
 function buildPaginationItems(currentPage: number, totalPages: number) {
   const pages = new Set<number>([1, 2, 3, currentPage - 1, currentPage, currentPage + 1, totalPages]);
@@ -64,6 +66,7 @@ function HomePageContent({
   const [currentPage, setCurrentPage] = useState(initialPage);
   const [companyData, setCompanyData] = useState(companies);
   const [isLoadingCompanies, setIsLoadingCompanies] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const initialRequestKey = useRef(`${initialQuery}::${initialSector}::${initialPage}`);
   const featuredSectors = sectors.slice(0, 4);
   const remainingSectorCount = Math.max(sectors.length - featuredSectors.length, 0);
@@ -89,19 +92,14 @@ function HomePageContent({
         : "N/A",
     },
   ];
-
-  function getCompanySubline(company: CompaniesResponse["items"][number]) {
-    const sectorLabel = translateSectorName(language, company.sector_folder);
-    const industryLabel = translateSectorName(language, company.metadata_industry);
-    const normalizedSector = company.sector_folder.trim().toLowerCase();
-    const normalizedIndustry = company.metadata_industry.trim().toLowerCase();
-
-    if (!industryLabel || normalizedSector === normalizedIndustry) {
-      return [sectorLabel];
-    }
-
-    return [sectorLabel, industryLabel];
-  }
+  const menuButtonLabel =
+    language === "zh-Hant"
+      ? isMobileMenuOpen
+        ? "關閉導覽選單"
+        : "開啟導覽選單"
+      : isMobileMenuOpen
+        ? "Close navigation menu"
+        : "Open navigation menu";
 
   useEffect(() => {
     const requestKey = `${appliedQuery}::${appliedSector}::${currentPage}`;
@@ -163,6 +161,10 @@ function HomePageContent({
     toolbarRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
   }, [companyData, isLoadingCompanies]);
 
+  useEffect(() => {
+    setIsMobileMenuOpen(false);
+  }, [language]);
+
   function handleFilterSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const nextQuery = queryInput.trim();
@@ -188,156 +190,388 @@ function HomePageContent({
   }
 
   return (
-    <>
-      <div className="page-actions home-actions">
-        <div className="language-switcher" aria-label={t("language")}>
+    <div className="flex flex-col gap-5 sm:gap-6">
+      <header className="px-1 py-2 sm:px-0 sm:py-3">
+        <div className="flex items-center gap-3 md:hidden">
           <button
             type="button"
-            className={`language-button ${language === "zh-Hant" ? "active" : ""}`}
-            onClick={() => switchLanguage("zh-Hant")}
+            aria-label={menuButtonLabel}
+            aria-expanded={isMobileMenuOpen}
+            onClick={() => setIsMobileMenuOpen((current) => !current)}
+            className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] text-[var(--text-strong)]"
           >
-            {t("chinese")}
+            <span className="sr-only">{menuButtonLabel}</span>
+            <span className="flex flex-col gap-[4px]">
+              <span
+                className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-150 ${
+                  isMobileMenuOpen ? "translate-y-[6px] rotate-45" : ""
+                }`}
+              />
+              <span
+                className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-opacity duration-150 ${
+                  isMobileMenuOpen ? "opacity-0" : ""
+                }`}
+              />
+              <span
+                className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-150 ${
+                  isMobileMenuOpen ? "-translate-y-[6px] -rotate-45" : ""
+                }`}
+              />
+            </span>
           </button>
-          <button
-            type="button"
-            className={`language-button ${language === "en" ? "active" : ""}`}
-            onClick={() => switchLanguage("en")}
-          >
-            {t("english")}
-          </button>
-        </div>
-      </div>
 
-      <section className="hero">
-        <div className="panel hero-copy">
-          <div className="panel-header">
-            <p className="eyebrow">{t("homeEyebrow")}</p>
-          </div>
-          <h1 className="hero-title">{t("homeTitle")}</h1>
-          <p className="hero-desc">{t("homeDescription")}</p>
-          <div className="hero-tags" aria-hidden="true">
-            {featuredSectors.map((sector) => (
-              <span key={sector.name} className="terminal-tag">
-                {translateSectorName(language, sector.name)}
-              </span>
-            ))}
-            {remainingSectorCount > 0 ? (
-              <span className="terminal-tag">{`${remainingSectorCount} more...`}</span>
-            ) : null}
+          <Link href="/" className="min-w-0 flex-1">
+            <span className="block text-[0.62rem] font-semibold uppercase tracking-[0.18em] text-[var(--muted)]">
+              Taiwan Equity Coverage
+            </span>
+            <span
+              className="mt-1 block truncate text-[1.1rem] font-black leading-none tracking-[-0.08em] text-[var(--text-strong)]"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              Stocks Tracker
+            </span>
+          </Link>
+
+          <div
+            className="inline-flex items-center gap-1 rounded-full border border-[var(--line)] bg-[var(--bg-elevated)] p-1"
+            aria-label={t("language")}
+          >
+            <button
+              type="button"
+              onClick={() => switchLanguage("zh-Hant")}
+              className={`min-w-[52px] rounded-full px-3 py-2 text-[0.72rem] font-bold uppercase tracking-[0.1em] ${
+                language === "zh-Hant"
+                  ? "border border-[var(--accent)] bg-[var(--accent)] text-[#151515]"
+                  : "border border-transparent text-[var(--muted)]"
+              }`}
+            >
+              繁中
+            </button>
+            <button
+              type="button"
+              onClick={() => switchLanguage("en")}
+              className={`min-w-[52px] rounded-full px-3 py-2 text-[0.72rem] font-bold uppercase tracking-[0.1em] ${
+                language === "en"
+                  ? "border border-[var(--accent)] bg-[var(--accent)] text-[#151515]"
+                  : "border border-transparent text-[var(--muted)]"
+              }`}
+            >
+              EN
+            </button>
           </div>
         </div>
-        <div className="panel hero-stats">
-          <div className="panel-header">
-            <p className="eyebrow">{t("snapshot")}</p>
+
+        {isMobileMenuOpen ? (
+          <div className="mt-4 border-t border-[var(--line)] pt-4 md:hidden">
+            <nav aria-label="Primary">
+              <Link
+                href="/graph"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
+              >
+                <span>{t("themesGraph")}</span>
+                <span className="font-mono text-[var(--accent)]">&gt;</span>
+              </Link>
+            </nav>
           </div>
-          <div className="stat-list">
+        ) : null}
+
+        <div className="hidden items-end justify-between gap-6 md:flex">
+          <div className="flex min-w-0 items-end gap-8 lg:gap-12">
+            <Link href="/" className="min-w-0">
+            <span className="block text-[0.7rem] font-semibold uppercase tracking-[0.18em] text-[var(--muted)]">
+              Taiwan Equity Coverage
+            </span>
+            <span
+              className="mt-2 block text-[clamp(1.95rem,2.4vw,2.7rem)] font-black leading-[0.94] tracking-[-0.08em] text-[var(--text-strong)]"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              Stocks Tracker
+            </span>
+            </Link>
+
+            <nav aria-label="Primary" className="topbar-nav pb-1">
+              <Link
+                href="/graph"
+                className="topbar-link"
+              >
+                {t("themesGraph")}
+              </Link>
+            </nav>
+          </div>
+
+          <div
+            className="inline-flex items-center gap-1 rounded-full border border-[var(--line)] bg-[var(--bg-elevated)] p-1"
+            aria-label={t("language")}
+          >
+              <button
+                type="button"
+                onClick={() => switchLanguage("zh-Hant")}
+                className={`min-w-[68px] rounded-full px-4 py-2 text-[0.74rem] font-bold uppercase tracking-[0.1em] ${
+                  language === "zh-Hant"
+                    ? "border border-[var(--accent)] bg-[var(--accent)] text-[#151515]"
+                    : "border border-transparent text-[var(--muted)] hover:text-[var(--accent)]"
+                }`}
+              >
+                繁中
+              </button>
+              <button
+                type="button"
+                onClick={() => switchLanguage("en")}
+                className={`min-w-[68px] rounded-full px-4 py-2 text-[0.74rem] font-bold uppercase tracking-[0.1em] ${
+                  language === "en"
+                    ? "border border-[var(--accent)] bg-[var(--accent)] text-[#151515]"
+                    : "border border-transparent text-[var(--muted)] hover:text-[var(--accent)]"
+                }`}
+              >
+                EN
+              </button>
+          </div>
+        </div>
+      </header>
+
+      <section className="grid gap-4 md:grid-cols-[minmax(0,1.35fr)_minmax(18rem,0.85fr)] md:gap-[18px]">
+        <div
+          className="rounded-[28px] border border-[var(--line)] bg-[var(--surface)] px-5 py-6 sm:px-6 sm:py-7"
+          style={panelStyle}
+        >
+          <div className="flex h-full flex-col justify-between gap-6">
+            <div>
+              <p className="mb-4 text-[0.78rem] font-bold uppercase tracking-[0.16em] text-[var(--muted)]">
+                {t("homeEyebrow")}
+              </p>
+              <h1
+                className="max-w-[11ch] text-[2.9rem] font-black leading-[0.92] tracking-[-0.06em] text-[var(--text-strong)] sm:text-[4rem] lg:text-[5.3rem]"
+                style={{ fontFamily: "var(--font-display)" }}
+              >
+                {t("homeTitle")}
+              </h1>
+              <p className="mt-4 max-w-[54ch] text-sm leading-7 text-[var(--muted-strong)] sm:text-base">
+                {t("homeDescription")}
+              </p>
+            </div>
+
+            <div className="flex flex-wrap gap-2.5" aria-hidden="true">
+              {featuredSectors.map((sector) => (
+                <span
+                  key={sector.name}
+                  className="inline-flex items-center rounded-full border border-[var(--line-strong)] bg-[rgba(22,22,0,0.55)] px-3 py-1.5 text-[0.72rem] font-bold uppercase tracking-[0.08em] text-[var(--accent-strong)]"
+                >
+                  {translateSectorName(language, sector.name)}
+                </span>
+              ))}
+              {remainingSectorCount > 0 ? (
+                <span className="inline-flex items-center rounded-full border border-[var(--line)] bg-[var(--bg-elevated)] px-3 py-1.5 text-[0.72rem] font-bold uppercase tracking-[0.08em] text-[var(--muted-strong)]">
+                  + {remainingSectorCount}
+                </span>
+              ) : null}
+            </div>
+          </div>
+        </div>
+
+        <div
+          className="hidden rounded-[28px] border border-[var(--line)] bg-[var(--surface)] p-6 md:block"
+          style={panelStyle}
+        >
+          <p className="mb-4 text-[0.78rem] font-bold uppercase tracking-[0.16em] text-[var(--muted)]">
+            {t("snapshot")}
+          </p>
+          <div className="grid gap-2.5">
             {stats.map((stat) => (
-              <div className="stat-row" key={stat.label}>
-                <span className="stat-label">{stat.label}</span>
-                <span className="stat-value">{stat.value}</span>
+              <div
+                key={stat.label}
+                className="grid grid-cols-[minmax(0,0.88fr)_minmax(0,1.12fr)] gap-3 rounded-xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3"
+              >
+                <span className="text-[0.76rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                  {stat.label}
+                </span>
+                <span className="text-sm font-semibold leading-6 text-[var(--text-strong)]">
+                  {stat.value}
+                </span>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="content-panel">
-        <form ref={toolbarRef} className="toolbar" onSubmit={handleFilterSubmit}>
-          <input
-            className="search-input"
-            type="search"
-            name="q"
-            placeholder={t("searchPlaceholder")}
-            value={queryInput}
-            onChange={(event) => setQueryInput(event.target.value)}
-          />
-          <select
-            className="select-input"
-            name="sector"
-            value={sectorInput}
-            onChange={(event) => setSectorInput(event.target.value)}
-          >
-            <option value="">{t("allSectors")}</option>
-            {sectors.map((sector) => (
-              <option key={sector.name} value={sector.name}>
-                {translateSectorName(language, sector.name)} ({sector.company_count})
-              </option>
-            ))}
-          </select>
-          <button className="action-button" type="submit">
-            {t("applyFilters")}
-          </button>
+      <section className="space-y-4">
+        <form
+          ref={toolbarRef}
+          onSubmit={handleFilterSubmit}
+          className="p-0"
+        >
+          <div className="flex flex-col gap-3 md:grid md:grid-cols-[minmax(0,1.45fr)_minmax(15rem,0.72fr)_auto] md:items-center">
+            <input
+              type="search"
+              name="q"
+              aria-label={t("searchPlaceholder")}
+              placeholder={t("searchPlaceholder")}
+              value={queryInput}
+              onChange={(event) => setQueryInput(event.target.value)}
+              className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none placeholder:text-[var(--muted)] focus:border-[var(--accent)]"
+            />
+
+            <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-3 md:contents">
+              <select
+                name="sector"
+                aria-label={t("allSectors")}
+                value={sectorInput}
+                onChange={(event) => setSectorInput(event.target.value)}
+                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none focus:border-[var(--accent)]"
+              >
+                <option value="">{t("allSectors")}</option>
+                {sectors.map((sector) => (
+                  <option key={sector.name} value={sector.name}>
+                    {translateSectorName(language, sector.name)} ({sector.company_count})
+                  </option>
+                ))}
+              </select>
+
+              <button
+                type="submit"
+                className="min-h-[52px] rounded-2xl border border-[var(--accent)] bg-[var(--accent)] px-5 text-[0.82rem] font-extrabold uppercase tracking-[0.12em] text-[#151515] transition hover:bg-[var(--surface-active)] hover:text-[var(--accent-strong)]"
+              >
+                {t("applyFilters")}
+              </button>
+            </div>
+          </div>
         </form>
 
         {companyData.items.length === 0 ? (
-          <div className="empty-state">{t("noCompaniesMatched")}</div>
+          <div
+            className="rounded-[24px] border border-dashed border-[var(--line)] bg-[var(--surface)] px-5 py-6 text-[var(--muted-strong)]"
+            style={panelStyle}
+          >
+            {t("noCompaniesMatched")}
+          </div>
         ) : (
           <>
             <div
-              className={`company-list ${isLoadingCompanies ? "is-loading" : ""}`}
+              className={`flex flex-col gap-3 ${isLoadingCompanies ? "opacity-70" : ""}`}
               aria-busy={isLoadingCompanies}
             >
-              {companyData.items.map((company) => (
-                <Link
-                  key={company.report_id}
-                  href={`/companies/${encodeURIComponent(company.ticker)}`}
-                  prefetch={false}
-                  className="company-row"
-                >
-                  <div className="company-primary">
-                    <span className="ticker-chip">{company.ticker}</span>
-                    <div className="company-title-stack">
-                      <h2 className="company-name">{company.company_name}</h2>
+              {companyData.items.map((company) => {
+                const marketCap =
+                  translateFinancialText(company.market_cap_text, language) || t("notAvailable");
+                const enterpriseValue =
+                  translateFinancialText(company.enterprise_value_text, language) || t("notAvailable");
+
+                return (
+                  <Link
+                    key={company.report_id}
+                    href={`/companies/${encodeURIComponent(company.ticker)}`}
+                    prefetch={false}
+                    className="group rounded-[24px] border border-[var(--line)] bg-[var(--surface)] px-4 py-4 transition duration-150 hover:translate-x-[6px] hover:border-[var(--accent)] sm:px-5"
+                    style={rowStyle}
+                  >
+                    <div className="grid grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-3 md:hidden">
+                      <span className="inline-flex items-center rounded-full border border-[var(--line-strong)] bg-[rgba(22,22,0,0.55)] px-3 py-1.5 text-[0.7rem] font-bold uppercase tracking-[0.08em] text-[var(--accent-strong)]">
+                        {company.ticker}
+                      </span>
+                      <div className="min-w-0">
+                        <h2
+                          className="text-[0.98rem] font-extrabold leading-5 tracking-[-0.03em] text-[var(--text-strong)]"
+                          style={{ fontFamily: "var(--font-display)" }}
+                        >
+                          {company.company_name}
+                        </h2>
+                      </div>
+                      <div className="min-w-0 text-right">
+                        <span className="block whitespace-nowrap font-mono text-[0.82rem] font-semibold text-[var(--accent-strong)]">
+                          {marketCap}
+                        </span>
+                      </div>
                     </div>
-                  </div>
-                  <div className="metric-cell">
-                    <span className="metric-label">{t("sector")}</span>
-                    <span className="metric-value">
-                      {translateSectorName(language, company.sector_folder)}
-                    </span>
-                  </div>
-                  <div className="metric-cell">
-                    <span className="metric-label">{t("marketCap")}</span>
-                    <span className="metric-value">
-                      {translateFinancialText(company.market_cap_text, language) ||
-                        t("notAvailable")}
-                    </span>
-                  </div>
-                  <div className="metric-cell">
-                    <span className="metric-label">{t("enterpriseValue")}</span>
-                    <span className="metric-value">
-                      {translateFinancialText(company.enterprise_value_text, language) ||
-                        t("notAvailable")}
-                    </span>
-                  </div>
-                  <div className="metric-cell">
-                    <span className="metric-label">{t("wikilinks")}</span>
-                    <span className="metric-value">{company.wikilink_count}</span>
-                  </div>
-                </Link>
-              ))}
+
+                    <div className="hidden grid-cols-[minmax(18rem,1.15fr)_repeat(4,minmax(0,0.8fr))] gap-4 md:grid md:items-center">
+                      <div className="min-w-0">
+                        <div className="flex items-center gap-4">
+                          <span className="inline-flex items-center rounded-full border border-[var(--line-strong)] bg-[rgba(22,22,0,0.55)] px-3 py-1.5 text-[0.72rem] font-bold uppercase tracking-[0.08em] text-[var(--accent-strong)]">
+                            {company.ticker}
+                          </span>
+                          <div className="min-w-0">
+                            <h2
+                              className="text-[1.28rem] font-extrabold leading-[1.1] tracking-[-0.05em] text-[var(--text-strong)]"
+                              style={{ fontFamily: "var(--font-display)" }}
+                            >
+                              {company.company_name}
+                            </h2>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div className="grid gap-2 py-1">
+                        <span className="text-[0.76rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                          {t("sector")}
+                        </span>
+                        <span className="text-sm font-semibold leading-6 text-[var(--text-strong)]">
+                          {translateSectorName(language, company.sector_folder)}
+                        </span>
+                      </div>
+
+                      <div className="grid gap-2 py-1">
+                        <span className="text-[0.76rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                          {t("marketCap")}
+                        </span>
+                        <span className="text-sm font-semibold leading-6 text-[var(--text-strong)]">
+                          {marketCap}
+                        </span>
+                      </div>
+
+                      <div className="grid gap-2 py-1">
+                        <span className="text-[0.76rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                          {t("enterpriseValue")}
+                        </span>
+                        <span className="text-sm font-semibold leading-6 text-[var(--text-strong)]">
+                          {enterpriseValue}
+                        </span>
+                      </div>
+
+                      <div className="grid gap-2 py-1">
+                        <span className="text-[0.76rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                          {t("wikilinks")}
+                        </span>
+                        <span className="text-sm font-semibold leading-6 text-[var(--text-strong)]">
+                          {company.wikilink_count}
+                        </span>
+                      </div>
+                    </div>
+                  </Link>
+                );
+              })}
             </div>
 
             {totalPages > 1 ? (
-              <nav className="pagination-row" aria-label="Company list pages">
+              <nav
+                className="flex flex-wrap items-center justify-center gap-2 pt-1"
+                aria-label="Company list pages"
+              >
                 <button
                   type="button"
-                  className="pagination-button"
+                  className="inline-flex h-11 min-w-11 items-center justify-center rounded-full border border-[var(--line)] bg-[var(--surface)] px-4 font-mono text-[0.95rem] font-bold text-[var(--muted-strong)] transition hover:border-[var(--accent)] hover:bg-[var(--accent)] hover:text-[#151515] disabled:cursor-default disabled:opacity-45"
                   onClick={(event) => handlePaginationClick(event, currentPage - 1)}
                   disabled={currentPage === 1 || isLoadingCompanies}
                 >
                   {"<"}
                 </button>
+
                 {paginationItems.map((item, index) =>
                   item === "ellipsis" ? (
-                    <span key={`ellipsis-${index}`} className="pagination-ellipsis">
+                    <span
+                      key={`ellipsis-${index}`}
+                      className="inline-flex h-11 min-w-11 items-center justify-center px-2 font-mono text-[0.95rem] font-bold text-[var(--muted)]"
+                    >
                       ...
                     </span>
                   ) : (
                     <button
                       key={item}
                       type="button"
-                      className={`pagination-button ${item === currentPage ? "active" : ""}`}
+                      className={`inline-flex h-11 min-w-11 items-center justify-center rounded-full border px-4 font-mono text-[0.95rem] font-bold transition disabled:cursor-default disabled:opacity-45 ${
+                        item === currentPage
+                          ? "border-[var(--accent)] bg-[var(--accent)] text-[#151515]"
+                          : "border-[var(--line)] bg-[var(--surface)] text-[var(--muted-strong)] hover:border-[var(--accent)] hover:bg-[var(--accent)] hover:text-[#151515]"
+                      }`}
                       onClick={(event) => handlePaginationClick(event, item)}
                       disabled={isLoadingCompanies}
                       aria-current={item === currentPage ? "page" : undefined}
@@ -346,9 +580,10 @@ function HomePageContent({
                     </button>
                   ),
                 )}
+
                 <button
                   type="button"
-                  className="pagination-button"
+                  className="inline-flex h-11 min-w-11 items-center justify-center rounded-full border border-[var(--line)] bg-[var(--surface)] px-4 font-mono text-[0.95rem] font-bold text-[var(--muted-strong)] transition hover:border-[var(--accent)] hover:bg-[var(--accent)] hover:text-[#151515] disabled:cursor-default disabled:opacity-45"
                   onClick={(event) => handlePaginationClick(event, currentPage + 1)}
                   disabled={currentPage === totalPages || isLoadingCompanies}
                 >
@@ -359,7 +594,7 @@ function HomePageContent({
           </>
         )}
       </section>
-    </>
+    </div>
   );
 }
 

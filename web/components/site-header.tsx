@@ -6,11 +6,9 @@ import { useLanguage } from "@/components/language-provider";
 
 export function SiteHeader() {
   const pathname = usePathname();
-  const { language } = useLanguage();
-  const themesGraphLabel =
-    language === "zh-Hant" ? "概念股圖譜" : "Themes Graph";
+  const { t } = useLanguage();
 
-  if (pathname === "/graph") {
+  if (pathname === "/" || pathname === "/graph") {
     return null;
   }
 
@@ -26,7 +24,7 @@ export function SiteHeader() {
           className={`topbar-link ${pathname === "/graph" ? "active" : ""}`}
           href="/graph"
         >
-          {themesGraphLabel}
+          {t("themesGraph")}
         </Link>
       </nav>
     </header>

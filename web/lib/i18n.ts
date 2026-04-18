@@ -1,6 +1,6 @@
 "use client";
 
-export const defaultLanguage = "en";
+export const defaultLanguage = "zh-Hant";
 export const supportedLanguages = ["zh-Hant", "en"] as const;
 export type SupportedLanguage = (typeof supportedLanguages)[number];
 
