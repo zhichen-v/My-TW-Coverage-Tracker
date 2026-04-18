@@ -8,7 +8,7 @@ export function SiteHeader() {
   const pathname = usePathname();
   const { t } = useLanguage();
 
-  if (pathname === "/" || pathname === "/graph") {
+  if (pathname === "/" || pathname === "/graph" || pathname.startsWith("/companies/")) {
     return null;
   }
 

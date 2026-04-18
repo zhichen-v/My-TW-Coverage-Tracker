@@ -166,6 +166,7 @@ a {
   width: 30px;
   height: 1px;
   background: var(--accent);
+  flex-shrink: 0;
 }
 
 .brand-title {
@@ -362,7 +363,7 @@ a {
   align-items: flex-start;
   padding: 14px;
   border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
+  border-radius: 12px;
   background: var(--bg-elevated);
 }
 
@@ -651,6 +652,10 @@ a {
   gap: 18px;
 }
 
+.detail-panel-shell {
+  border-radius: 28px;
+}
+
 .sticky-panel {
   align-self: start;
 }
@@ -661,7 +666,26 @@ a {
   margin-bottom: 22px;
 }
 
+.detail-header-inline {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas:
+    "ticker"
+    "title";
+  justify-items: start;
+  row-gap: 12px;
+}
+
 .detail-header > .ticker-chip {
+  justify-self: start;
+}
+
+.detail-header-inline > .ticker-chip {
+  grid-area: ticker;
+  justify-self: start;
+}
+
+.detail-header-inline > .detail-title {
+  grid-area: title;
   justify-self: start;
 }
 
@@ -773,15 +797,37 @@ a {
 
 .structured-table-wrap {
   width: 100%;
-  overflow: visible;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 6px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(79, 81, 0, 0.95) transparent;
+}
+
+.structured-table-wrap::-webkit-scrollbar {
+  height: 8px;
+}
+
+.structured-table-wrap::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.structured-table-wrap::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: rgba(79, 81, 0, 0.95);
+}
+
+.structured-table-wrap::-webkit-scrollbar-thumb:hover {
+  background: rgba(250, 255, 105, 0.72);
 }
 
 .structured-table {
   width: 100%;
   max-width: 100%;
+  min-width: max(100%, 720px);
   border-collapse: collapse;
   border-spacing: 0;
-  table-layout: fixed;
+  table-layout: auto;
   background: var(--bg-elevated);
 }
 
@@ -917,6 +963,49 @@ a {
   .hero-title,
   .detail-title {
     max-width: none;
+  }
+
+  .detail-header-inline {
+    grid-template-columns: max-content max-content;
+    grid-template-rows: auto;
+    column-gap: 14px;
+    row-gap: 0;
+    align-items: end;
+    justify-content: start;
+  }
+
+  .detail-header-inline > .ticker-chip {
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: start;
+    align-self: end;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: var(--text-strong);
+    font-family: var(--font-display);
+    font-size: clamp(2.15rem, 8.8vw, 2.95rem);
+    font-weight: 900;
+    letter-spacing: -0.08em;
+    line-height: 0.88;
+    text-transform: none;
+  }
+
+  .detail-header-inline > .detail-title {
+    grid-column: 1;
+    grid-row: 1;
+    align-self: end;
+    justify-self: start;
+  }
+
+  .detail-title {
+    font-size: clamp(2.7rem, 11vw, 3.45rem);
+    text-align: left;
+  }
+
+  .detail-header-inline > .ticker-chip::before {
+    content: none;
   }
 
   .company-primary {

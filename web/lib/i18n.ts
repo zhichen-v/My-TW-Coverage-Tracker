@@ -6,7 +6,7 @@ export type SupportedLanguage = (typeof supportedLanguages)[number];
 
 export const languageStorageKey = "coverage-language";
 export const languageStorageVersionKey = "coverage-language-version";
-export const languageStorageVersion = "2026-04-12-default-en";
+export const languageStorageVersion = "2026-04-18-default-zh-hant";
 
 export const translations = {
   "zh-Hant": {

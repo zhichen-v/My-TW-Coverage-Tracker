@@ -14,6 +14,7 @@ import {
 } from "@/lib/financial-markdown";
 import { translateSectorName, type SupportedLanguage } from "@/lib/i18n";
 import { useLanguage } from "@/components/language-provider";
+import { ShellHeader } from "@/components/shell-header";
 
 type CompanyPageClientProps = {
   primary: CompanyDetail;
@@ -150,9 +151,7 @@ function DetailBlock({
             <thead>
               <tr>
                 {columns.map((column, columnIndex) => (
-                  <th key={`column-${columnIndex}`}>
-                    {renderFinancialTerm(column)}
-                  </th>
+                  <th key={`column-${columnIndex}`}>{renderFinancialTerm(column)}</th>
                 ))}
               </tr>
             </thead>
@@ -176,7 +175,7 @@ function DetailBlock({
   }
 
   return (
-    <section className="panel detail-block">
+    <section className="panel detail-block detail-panel-shell">
       <div className="section-header">
         <span className="section-index">{String(index).padStart(2, "0")}</span>
         <h2>{title}</h2>
@@ -203,7 +202,7 @@ function DetailBlock({
 }
 
 function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) {
-  const { t, language, switchLanguage } = useLanguage();
+  const { t, language } = useLanguage();
   const snapshotItems = [
     {
       label: t("sector"),
@@ -251,44 +250,29 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
   ];
 
   return (
-    <>
-      <div className="page-actions">
+    <div className="flex flex-col gap-4 sm:gap-5">
+      <ShellHeader />
+
+      <div className="flex items-center justify-start">
         <Link className="back-link" href="/">
           {t("backToList")}
         </Link>
-
-        <div className="language-switcher" aria-label={t("language")}>
-          <button
-            type="button"
-            className={`language-button ${language === "zh-Hant" ? "active" : ""}`}
-            onClick={() => switchLanguage("zh-Hant")}
-          >
-            {t("chinese")}
-          </button>
-          <button
-            type="button"
-            className={`language-button ${language === "en" ? "active" : ""}`}
-            onClick={() => switchLanguage("en")}
-          >
-            {t("english")}
-          </button>
-        </div>
       </div>
 
       {count > 1 ? (
-        <section className="panel content-panel" style={{ marginBottom: 20 }}>
+        <section className="panel content-panel detail-panel-shell" style={{ marginBottom: 20 }}>
           {t("multipleReports")} ({ticker})
         </section>
       ) : null}
 
       <div className="detail-layout">
-        <aside className="panel detail-sidebar sticky-panel">
+        <aside className="panel detail-sidebar sticky-panel detail-panel-shell">
           <div className="panel-header">
             <p className="eyebrow">{t("companySnapshot")}</p>
           </div>
-          <div className="detail-header">
-            <span className="ticker-chip">{primary.ticker}</span>
+          <div className="detail-header detail-header-inline">
             <h1 className="detail-title">{primary.company_name}</h1>
+            <span className="ticker-chip">{primary.ticker}</span>
           </div>
           <div className="detail-meta">
             {snapshotItems.map((item) => (
@@ -312,7 +296,7 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
           ))}
         </main>
       </div>
-    </>
+    </div>
   );
 }
 
