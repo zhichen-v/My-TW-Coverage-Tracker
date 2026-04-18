@@ -34,6 +34,13 @@ type RendererHandle = {
 };
 
 const ROLE_ORDER: GraphCompanyRole[] = ["upstream", "midstream", "downstream", "related"];
+const OVERLAY_PANEL_CLASS =
+  "absolute z-[2] rounded-lg border border-[rgba(65,65,65,0.8)] bg-[rgba(10,10,10,0.94)] backdrop-blur-[12px] shadow-[0_0_0_1px_rgba(255,255,255,0.02),0_18px_48px_rgba(0,0,0,0.42),inset_0_4px_24px_rgba(0,0,0,0.18)]";
+const OVERLAY_TITLE_CLASS =
+  "mb-[10px] text-[11px] font-bold uppercase tracking-[0.18em] text-[var(--muted)]";
+const MUTED_CLASS = "text-[var(--muted)]";
+const SECTION_CLASS = "mt-[18px] border-t border-[rgba(65,65,65,0.8)] pt-4";
+const SECTION_TITLE_CLASS = "mb-3 text-sm font-bold uppercase tracking-[0.16em] text-[#f4f692]";
 
 function getNodeId(node: string | RenderNode) {
   return typeof node === "string" ? node : node.id;
@@ -313,11 +320,15 @@ function getRelatedThemes(selectedNode: GraphNode, links: GraphLink[], nodeById:
 
 function GraphCompanyCard({ company }: { company: GraphCompany }) {
   return (
-    <article className={styles.companyCard}>
-      <div className={styles.companyHead}>
-        <span className={styles.tickerPill}>{company.ticker || "-"}</span>
-        <div className={styles.companyName}>{company.company_name || ""}</div>
-        <span className={styles.tailSpace} aria-hidden="true" />
+    <article className="rounded-lg border border-[rgba(65,65,65,0.8)] bg-[rgba(20,20,20,0.96)] px-3 pb-3 pt-2.5 shadow-[inset_0_4px_14px_rgba(0,0,0,0.16)]">
+      <div className="grid min-w-0 grid-cols-[auto_minmax(0,1fr)_54px] items-center gap-[10px]">
+        <span className="inline-flex min-w-[52px] items-center justify-center rounded-full border border-[rgba(250,255,105,0.28)] bg-[rgba(250,255,105,0.06)] px-2 py-1 font-mono text-sm font-bold leading-[1.2] text-[var(--accent)]">
+          {company.ticker || "-"}
+        </span>
+        <div className="min-w-0 break-words text-base font-semibold leading-[1.45]">
+          {company.company_name || ""}
+        </div>
+        <span className="block w-[54px] min-w-[54px]" aria-hidden="true" />
       </div>
     </article>
   );
@@ -386,56 +397,70 @@ export function GraphPageClient() {
   return (
     <div className={styles.page}>
       <section className={styles.viewport}>
-        <aside className={`${styles.overlayPanel} ${styles.headerPanel}`}>
-          <Link className={`${styles.headerBackLink} back-link`} href="/">
-            Back to Home
+        <aside className="absolute left-4 top-10 z-[2] grid w-[min(400px,calc(100vw-72px))] gap-3 bg-transparent p-0 max-[960px]:w-[min(340px,calc(100vw-48px))] max-[660px]:right-4 max-[660px]:w-auto">
+          <Link className="back-link justify-self-start" href="/">
+            BACK TO HOME
           </Link>
-          <h1 className={styles.headerTitle}>Theme Graph</h1>
-          <p className={styles.headerDescription}>
+          <h1 className="m-0 text-[30px] font-black leading-none tracking-[-0.04em]">
+            Theme Graph
+          </h1>
+          <p className="m-0 text-[13px] leading-[1.65] text-[var(--muted)] max-[660px]:hidden">
             Explore theme relationships and the related-company clusters derived from the existing
             graph JSON assets.
           </p>
         </aside>
 
-        <aside className={`${styles.overlayPanel} ${styles.statsPanel}`}>
-          <h2 className={styles.overlayTitle}>Stats</h2>
-          <div className={styles.statList}>
-            <div className={styles.statRow}>
-              <span className={styles.statLabel}>Nodes</span>
-              <span className={styles.statValue}>{graphData?.graph.node_counts.total ?? "-"}</span>
+        <aside
+          className={`${OVERLAY_PANEL_CLASS} right-4 top-4 min-w-[248px] p-[14px_16px_16px] max-[960px]:w-[min(340px,calc(100vw-48px))] max-[660px]:hidden`}
+        >
+          <h2 className={OVERLAY_TITLE_CLASS}>Stats</h2>
+          <div className="grid gap-[10px]">
+            <div className="flex items-center justify-between gap-3">
+              <span className="text-xs leading-[1.4] text-[var(--muted)]">Nodes</span>
+              <span className="font-mono text-sm font-bold text-[var(--accent)]">
+                {graphData?.graph.node_counts.total ?? "-"}
+              </span>
             </div>
-            <div className={styles.statRow}>
-              <span className={styles.statLabel}>Themes</span>
-              <span className={styles.statValue}>{graphData?.graph.node_counts.themes ?? "-"}</span>
+            <div className="flex items-center justify-between gap-3">
+              <span className="text-xs leading-[1.4] text-[var(--muted)]">Themes</span>
+              <span className="font-mono text-sm font-bold text-[var(--accent)]">
+                {graphData?.graph.node_counts.themes ?? "-"}
+              </span>
             </div>
-            <div className={styles.statRow}>
-              <span className={styles.statLabel}>Supplemental</span>
-              <span className={styles.statValue}>
+            <div className="flex items-center justify-between gap-3">
+              <span className="text-xs leading-[1.4] text-[var(--muted)]">Supplemental</span>
+              <span className="font-mono text-sm font-bold text-[var(--accent)]">
                 {graphData?.graph.node_counts.supplemental_themes ?? "-"}
               </span>
             </div>
-            <div className={styles.statRow}>
-              <span className={styles.statLabel}>Links</span>
-              <span className={styles.statValue}>{graphData?.graph.links.length ?? "-"}</span>
+            <div className="flex items-center justify-between gap-3">
+              <span className="text-xs leading-[1.4] text-[var(--muted)]">Links</span>
+              <span className="font-mono text-sm font-bold text-[var(--accent)]">
+                {graphData?.graph.links.length ?? "-"}
+              </span>
             </div>
           </div>
         </aside>
 
         {error ? (
-          <aside className={`${styles.overlayPanel} ${styles.errorPanel}`}>
+          <aside
+            className={`${OVERLAY_PANEL_CLASS} left-1/2 top-4 w-[min(520px,calc(100vw-72px))] -translate-x-1/2 p-[14px_16px] text-[var(--danger)] max-[660px]:left-4 max-[660px]:right-4 max-[660px]:top-[120px] max-[660px]:w-auto max-[660px]:translate-x-0`}
+          >
             Failed to load graph data: {error}
           </aside>
         ) : null}
 
         <svg ref={svgRef} className={styles.canvas} aria-label="theme graph" />
 
-        <aside className={`${styles.overlayPanel} ${styles.companyPanel}`}>
-          <h2 className={styles.overlayTitle}>Related Companies</h2>
+        <aside
+          className={`${OVERLAY_PANEL_CLASS} ${styles.scrollPanel} bottom-4 left-4 w-[min(560px,calc(100vw-72px))] max-h-[min(64vh,660px)] overflow-auto p-[14px_14px_18px] max-[960px]:w-[min(500px,calc(100vw-48px))] max-[660px]:left-4 max-[660px]:right-4 max-[660px]:w-auto max-[660px]:max-h-[calc(100vh/3)]`}
+        >
+          <h2 className={OVERLAY_TITLE_CLASS}>Related Companies</h2>
           {isLoading ? (
-            <div className={styles.muted}>Loading graph data...</div>
+            <div className={MUTED_CLASS}>Loading graph data...</div>
           ) : selectedNode ? (
             <>
-              <h3 className={styles.nodeTitle}>{selectedNode.label}</h3>
+              <h3 className="m-0 text-[20px] font-extrabold leading-[1.2]">{selectedNode.label}</h3>
               {selectedCompanyTheme ? (
                 ROLE_ORDER.map((role) => {
                   const roleGroup = selectedCompanyTheme.companies_by_role[role];
@@ -444,9 +469,9 @@ export function GraphPageClient() {
                   }
 
                   return (
-                    <section className={styles.section} key={role}>
-                      <h4 className={styles.sectionTitle}>{roleGroup.label_en}</h4>
-                      <div className={styles.companyList}>
+                    <section className={SECTION_CLASS} key={role}>
+                      <h4 className={SECTION_TITLE_CLASS}>{roleGroup.label_en}</h4>
+                      <div className="grid grid-cols-2 gap-[10px] max-[660px]:grid-cols-1">
                         {roleGroup.companies.map((company) => (
                           <GraphCompanyCard
                             key={`${role}-${company.ticker}-${company.company_name}`}
@@ -458,38 +483,44 @@ export function GraphPageClient() {
                   );
                 })
               ) : (
-                <div className={styles.section}>
-                  <div className={styles.muted}>No company mapping is available for this theme.</div>
+                <div className={SECTION_CLASS}>
+                  <div className={MUTED_CLASS}>No company mapping is available for this theme.</div>
                 </div>
               )}
             </>
           ) : (
-            <div className={styles.muted}>Select a node to inspect its related companies.</div>
+            <div className={MUTED_CLASS}>Select a node to inspect its related companies.</div>
           )}
         </aside>
 
-        <aside className={`${styles.overlayPanel} ${styles.detailsPanel}`}>
-          <h2 className={styles.overlayTitle}>Details</h2>
+        <aside
+          className={`${OVERLAY_PANEL_CLASS} ${styles.scrollPanel} bottom-4 right-4 w-[min(380px,calc(100vw-72px))] max-h-[min(52vh,420px)] overflow-auto p-[14px_16px_16px] max-[660px]:hidden`}
+        >
+          <h2 className={OVERLAY_TITLE_CLASS}>Details</h2>
           {isLoading ? (
-            <div className={styles.muted}>Loading graph data...</div>
+            <div className={MUTED_CLASS}>Loading graph data...</div>
           ) : selectedNode ? (
             <>
-              <h3 className={styles.detailsHeading}>{selectedNode.label}</h3>
+              <h3 className="mb-[6px] mt-0 text-[19px] font-extrabold leading-[1.35]">
+                {selectedNode.label}
+              </h3>
               {selectedNode.note ? (
-                <div className={styles.note}>{selectedNode.note}</div>
+                <div className="mt-[14px] border border-[rgba(250,255,105,0.22)] border-l-[3px] border-l-[var(--accent)] bg-[rgba(20,20,20,0.96)] px-[14px] py-3 text-sm leading-[1.75] text-[var(--text)] shadow-[inset_0_4px_18px_rgba(0,0,0,0.18)]">
+                  {selectedNode.note}
+                </div>
               ) : (
-                <div className={styles.muted}>No note is available for this node.</div>
+                <div className={MUTED_CLASS}>No note is available for this node.</div>
               )}
 
-              <section className={styles.section}>
-                <h4 className={styles.sectionTitle}>Related Themes</h4>
+              <section className={SECTION_CLASS}>
+                <h4 className={SECTION_TITLE_CLASS}>Related Themes</h4>
                 {relatedThemes.length ? (
-                  <div className={styles.relatedList}>
+                  <div className="mt-3 flex flex-wrap gap-2">
                     {relatedThemes.map((theme) => (
                       <button
                         key={theme.id}
                         type="button"
-                        className={styles.relatedChip}
+                        className="rounded-full border border-[rgba(65,65,65,0.8)] bg-[rgba(20,20,20,0.96)] px-3 py-2 text-xs text-[var(--text)] transition-[border-color,color,background-color,transform] duration-150 hover:-translate-y-px hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.06)] hover:text-[var(--accent)]"
                         onClick={() => rendererRef.current?.selectNodeById(theme.id)}
                       >
                         {theme.label}
@@ -497,12 +528,12 @@ export function GraphPageClient() {
                     ))}
                   </div>
                 ) : (
-                  <div className={styles.muted}>No related themes are available for this node.</div>
+                  <div className={MUTED_CLASS}>No related themes are available for this node.</div>
                 )}
               </section>
             </>
           ) : (
-            <div className={styles.muted}>Select a node to inspect its note and related themes.</div>
+            <div className={MUTED_CLASS}>Select a node to inspect its note and related themes.</div>
           )}
         </aside>
       </section>
