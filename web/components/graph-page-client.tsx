@@ -360,6 +360,16 @@ export function GraphPageClient() {
   const rendererRef = useRef<RendererHandle | null>(null);
 
   useEffect(() => {
+    document.documentElement.classList.add("graph-route-locked");
+    document.body.classList.add("graph-route-locked");
+
+    return () => {
+      document.documentElement.classList.remove("graph-route-locked");
+      document.body.classList.remove("graph-route-locked");
+    };
+  }, []);
+
+  useEffect(() => {
     const controller = new AbortController();
 
     async function loadGraph() {
