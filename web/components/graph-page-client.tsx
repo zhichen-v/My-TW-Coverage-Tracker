@@ -1,5 +1,6 @@
 "use client";
 
+import type { Route } from "next";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
@@ -319,16 +320,32 @@ function getRelatedThemes(selectedNode: GraphNode, links: GraphLink[], nodeById:
 }
 
 function GraphCompanyCard({ company }: { company: GraphCompany }) {
+  const companyHref = company.ticker
+    ? (`/companies/${encodeURIComponent(company.ticker)}` as Route)
+    : null;
+
   return (
     <article className="rounded-lg border border-[rgba(65,65,65,0.8)] bg-[rgba(20,20,20,0.96)] px-3 pb-3 pt-2.5 shadow-[inset_0_4px_14px_rgba(0,0,0,0.16)]">
-      <div className="grid min-w-0 grid-cols-[auto_minmax(0,1fr)_54px] items-center gap-[10px]">
+      <div className="grid min-w-0 grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-[10px]">
         <span className="inline-flex min-w-[52px] items-center justify-center rounded-full border border-[rgba(250,255,105,0.28)] bg-[rgba(250,255,105,0.06)] px-2 py-1 font-mono text-sm font-bold leading-[1.2] text-[var(--accent)]">
           {company.ticker || "-"}
         </span>
         <div className="min-w-0 break-words text-base font-semibold leading-[1.45]">
           {company.company_name || ""}
         </div>
-        <span className="block w-[54px] min-w-[54px]" aria-hidden="true" />
+        {companyHref ? (
+          <Link
+            href={companyHref}
+            prefetch={false}
+            aria-label={`Open ${company.ticker} ${company.company_name} company page`}
+            className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[rgba(250,255,105,0.24)] bg-[rgba(250,255,105,0.03)] font-mono text-lg font-bold leading-none text-[var(--accent)] transition-[transform,border-color,background-color,color] duration-150 hover:-translate-y-px hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.09)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[rgba(20,20,20,0.96)]"
+            title={`Open ${company.ticker}`}
+          >
+            &gt;
+          </Link>
+        ) : (
+          <span className="block h-9 w-9" aria-hidden="true" />
+        )}
       </div>
     </article>
   );
