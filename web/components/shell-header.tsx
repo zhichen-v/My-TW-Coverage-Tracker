@@ -33,17 +33,17 @@ export function ShellHeader() {
           <span className="sr-only">{menuButtonLabel}</span>
           <span className="flex flex-col gap-[4px]">
             <span
-              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-150 ${
+              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-250 ease-out motion-reduce:transition-none ${
                 isMobileMenuOpen ? "translate-y-[6px] rotate-45" : ""
               }`}
             />
             <span
-              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-opacity duration-150 ${
+              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-opacity duration-200 ease-out motion-reduce:transition-none ${
                 isMobileMenuOpen ? "opacity-0" : ""
               }`}
             />
             <span
-              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-150 ${
+              className={`block h-[2px] w-5 rounded-full bg-[var(--accent)] transition-transform duration-250 ease-out motion-reduce:transition-none ${
                 isMobileMenuOpen ? "-translate-y-[6px] -rotate-45" : ""
               }`}
             />
@@ -91,20 +91,29 @@ export function ShellHeader() {
         </div>
       </div>
 
-      {isMobileMenuOpen ? (
-        <div className="mt-4 border-t border-[var(--line)] pt-4 md:hidden">
-          <nav aria-label="Primary">
-            <Link
-              href="/graph"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
-            >
-              <span>{t("themesGraph")}</span>
-              <span className="font-mono text-[var(--accent)]">&gt;</span>
-            </Link>
-          </nav>
+      <div
+        aria-hidden={!isMobileMenuOpen}
+        className={`grid overflow-hidden transition-[grid-template-rows,opacity,transform,margin] duration-300 ease-out motion-reduce:transition-none md:hidden ${
+          isMobileMenuOpen
+            ? "mt-4 translate-y-0 opacity-100 [grid-template-rows:1fr]"
+            : "mt-0 -translate-y-2 opacity-0 [grid-template-rows:0fr] pointer-events-none"
+        }`}
+      >
+        <div className="min-h-0 overflow-hidden">
+          <div className="border-t border-[var(--line)] pt-4">
+            <nav aria-label="Primary">
+              <Link
+                href="/graph"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
+              >
+                <span>{t("themesGraph")}</span>
+                <span className="font-mono text-[var(--accent)]">&gt;</span>
+              </Link>
+            </nav>
+          </div>
         </div>
-      ) : null}
+      </div>
 
       <div className="hidden items-end justify-between gap-6 md:flex">
         <div className="flex min-w-0 items-end gap-8 lg:gap-12">

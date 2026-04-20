@@ -889,11 +889,10 @@ body.graph-route-locked .site-shell {
 }
 
 .financial-term-tooltip {
-  position: absolute;
-  left: 0;
-  top: calc(100% + 10px);
-  z-index: 20;
-  width: min(280px, 72vw);
+  position: fixed;
+  z-index: 80;
+  inline-size: max-content;
+  max-inline-size: min(32rem, calc(100vw - 32px));
   padding: 10px 12px;
   border: 1px solid var(--accent);
   border-radius: var(--radius-sm);
@@ -908,11 +907,20 @@ body.graph-route-locked .site-shell {
   text-transform: none;
   opacity: 0;
   pointer-events: none;
+  white-space: normal;
+  overflow-wrap: anywhere;
   transform: translateY(4px);
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
 }
 
-.financial-term:hover .financial-term-tooltip,
-.financial-term:focus-visible .financial-term-tooltip {
+.financial-term:focus-visible .financial-term-label,
+.financial-term:hover .financial-term-label {
+  border-bottom-color: var(--accent);
+}
+
+.financial-term-tooltip-visible {
   opacity: 1;
   transform: translateY(0);
 }

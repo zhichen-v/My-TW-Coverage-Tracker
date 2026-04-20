@@ -1,7 +1,16 @@
 "use client";
 
-import { Fragment, type ReactNode } from "react";
+import {
+  Fragment,
+  useEffect,
+  useId,
+  useRef,
+  useState,
+  type CSSProperties,
+  type ReactNode,
+} from "react";
 import Link from "next/link";
+import { createPortal } from "react-dom";
 import type {
   CompanyDetail,
   StructuredContentBlock,
@@ -73,12 +82,90 @@ function FinancialTerm({
   label: string;
   description: string;
 }) {
+  const tooltipId = useId();
+  const triggerRef = useRef<HTMLSpanElement | null>(null);
+  const tooltipRef = useRef<HTMLSpanElement | null>(null);
+  const [isTooltipOpen, setIsTooltipOpen] = useState(false);
+  const [tooltipStyle, setTooltipStyle] = useState<CSSProperties>({
+    left: 0,
+    top: 0,
+    visibility: "hidden",
+  });
+
+  useEffect(() => {
+    if (!isTooltipOpen) {
+      return;
+    }
+
+    function updateTooltipPosition() {
+      const trigger = triggerRef.current;
+      const tooltip = tooltipRef.current;
+
+      if (!trigger || !tooltip) {
+        return;
+      }
+
+      const viewportPadding = 16;
+      const tooltipOffset = 10;
+      const triggerRect = trigger.getBoundingClientRect();
+      const tooltipRect = tooltip.getBoundingClientRect();
+
+      const nextLeft = Math.min(
+        Math.max(triggerRect.left, viewportPadding),
+        Math.max(viewportPadding, window.innerWidth - tooltipRect.width - viewportPadding),
+      );
+
+      const fitsBelow =
+        triggerRect.bottom + tooltipOffset + tooltipRect.height + viewportPadding <=
+        window.innerHeight;
+      const nextTop = fitsBelow
+        ? triggerRect.bottom + tooltipOffset
+        : Math.max(viewportPadding, triggerRect.top - tooltipRect.height - tooltipOffset);
+
+      setTooltipStyle({
+        left: nextLeft,
+        top: nextTop,
+        visibility: "visible",
+      });
+    }
+
+    updateTooltipPosition();
+
+    window.addEventListener("resize", updateTooltipPosition);
+    window.addEventListener("scroll", updateTooltipPosition, true);
+
+    return () => {
+      window.removeEventListener("resize", updateTooltipPosition);
+      window.removeEventListener("scroll", updateTooltipPosition, true);
+    };
+  }, [description, isTooltipOpen]);
+
   return (
-    <span className="financial-term" tabIndex={0}>
+    <span
+      ref={triggerRef}
+      className="financial-term"
+      tabIndex={0}
+      aria-describedby={isTooltipOpen ? tooltipId : undefined}
+      onMouseEnter={() => setIsTooltipOpen(true)}
+      onMouseLeave={() => setIsTooltipOpen(false)}
+      onFocus={() => setIsTooltipOpen(true)}
+      onBlur={() => setIsTooltipOpen(false)}
+    >
       <span className="financial-term-label">{label}</span>
-      <span className="financial-term-tooltip" role="tooltip">
-        {description}
-      </span>
+      {isTooltipOpen && typeof document !== "undefined"
+        ? createPortal(
+            <span
+              id={tooltipId}
+              ref={tooltipRef}
+              className="financial-term-tooltip financial-term-tooltip-visible"
+              role="tooltip"
+              style={tooltipStyle}
+            >
+              {description}
+            </span>,
+            document.body,
+          )
+        : null}
     </span>
   );
 }
