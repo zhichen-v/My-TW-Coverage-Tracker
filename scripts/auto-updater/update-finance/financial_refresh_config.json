@@ -1,0 +1,21 @@
+{
+  "scope": {
+    "mode": "all",
+    "tickers": [],
+    "batch": "",
+    "sector": ""
+  },
+  "smoke_tickers": [
+    "2330",
+    "2317",
+    "2454"
+  ],
+  "update_retries": 2,
+  "retry_delay_seconds": 45,
+  "update_timeout_seconds": 7200,
+  "json_timeout_seconds": 1800,
+  "db_timeout_seconds": 1800,
+  "skip_json_export": false,
+  "skip_db_build": false,
+  "db_path": "data/site.db"
+}

@@ -26,8 +26,13 @@ import yfinance as yf
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from utils import (
-    find_ticker_files, parse_scope_args, setup_stdout,
-    fetch_valuation_data, build_valuation_table, update_metadata,
+    PROJECT_ROOT,
+    build_valuation_table,
+    fetch_valuation_data,
+    find_ticker_files,
+    parse_scope_args,
+    setup_stdout,
+    update_metadata,
 )
 
 # Financial metrics to extract
@@ -44,6 +49,26 @@ METRICS_KEYS = {
     "fcf": ["Financing Cash Flow", "Total Cash From Financing Activities"],
     "capex": ["Capital Expenditure", "Capital Expenditures"],
 }
+
+YFINANCE_CACHE_DIR = os.path.join(PROJECT_ROOT, "data", "yfinance-cache")
+YFINANCE_SUFFIXES = [".TW", ".TWO"]
+YFINANCE_FETCH_ATTEMPTS = 2
+YFINANCE_RETRY_DELAY_SECONDS = 1.5
+
+
+def configure_yfinance_cache():
+    """Keep yfinance cache files inside the repo instead of user-level cache dirs."""
+    os.makedirs(YFINANCE_CACHE_DIR, exist_ok=True)
+    cache_setter = getattr(yf, "set_tz_cache_location", None)
+    if callable(cache_setter):
+        cache_setter(YFINANCE_CACHE_DIR)
+
+
+def format_fetch_error(exc):
+    message = str(exc).strip()
+    if not message:
+        return exc.__class__.__name__
+    return message
 
 
 def get_series(df, keys):
@@ -127,70 +152,94 @@ def extract_metrics(income_stmt, cashflow):
 
 
 def fetch_financials(ticker):
-    """Fetch financial data. Tries .TW then .TWO suffix."""
-    for suffix in [".TW", ".TWO"]:
-        try:
-            stock = yf.Ticker(f"{ticker}{suffix}")
-            income = stock.income_stmt
-            if income is None or income.empty:
-                continue
+    """Fetch financial data. Tries .TW then .TWO suffix, with small retries for transient API issues."""
+    reasons = []
 
-            df_annual = extract_metrics(stock.income_stmt, stock.cashflow)
-            if not df_annual.empty:
-                if "Revenue" in df_annual.index:
-                    valid_cols = df_annual.columns[df_annual.loc["Revenue"].notna()]
-                    df_annual = df_annual[valid_cols]
-                else:
-                    df_annual = df_annual.dropna(axis=1, how="all")
-                # Sort newest-first, take latest 3 years
-                df_annual = df_annual[sorted(df_annual.columns, reverse=True)]
-                non_pct = [r for r in df_annual.index if "%" not in r]
-                df_annual.loc[non_pct] = df_annual.loc[non_pct] / 1_000_000
-                df_annual = df_annual.iloc[:, :3]
+    for suffix in YFINANCE_SUFFIXES:
+        symbol = f"{ticker}{suffix}"
 
-            df_quarterly = extract_metrics(
-                stock.quarterly_income_stmt, stock.quarterly_cashflow
-            )
-            if not df_quarterly.empty:
-                # Drop quarters where Revenue is NaN (unreported)
-                if "Revenue" in df_quarterly.index:
-                    valid_cols = df_quarterly.columns[df_quarterly.loc["Revenue"].notna()]
-                    df_quarterly = df_quarterly[valid_cols]
-                else:
-                    df_quarterly = df_quarterly.dropna(axis=1, how="all")
-                # Sort newest-first, take latest 4 quarters
-                df_quarterly = df_quarterly[sorted(df_quarterly.columns, reverse=True)]
-                non_pct = [r for r in df_quarterly.index if "%" not in r]
-                df_quarterly.loc[non_pct] = df_quarterly.loc[non_pct] / 1_000_000
-                df_quarterly = df_quarterly.iloc[:, :4]
+        for attempt in range(1, YFINANCE_FETCH_ATTEMPTS + 1):
+            try:
+                stock = yf.Ticker(symbol)
 
-            info = stock.info
-            market_cap = (
-                f"{info['marketCap'] / 1_000_000:,.0f}"
-                if info.get("marketCap")
-                else None
-            )
-            enterprise_value = (
-                f"{info['enterpriseValue'] / 1_000_000:,.0f}"
-                if info.get("enterpriseValue")
-                else None
-            )
+                annual_income = stock.income_stmt
+                annual_cashflow = stock.cashflow
+                quarterly_income = stock.quarterly_income_stmt
+                quarterly_cashflow = stock.quarterly_cashflow
 
-            valuation = fetch_valuation_data(info)
+                df_annual = extract_metrics(annual_income, annual_cashflow)
+                if not df_annual.empty:
+                    if "Revenue" in df_annual.index:
+                        valid_cols = df_annual.columns[df_annual.loc["Revenue"].notna()]
+                        df_annual = df_annual[valid_cols]
+                    else:
+                        df_annual = df_annual.dropna(axis=1, how="all")
+                    # Sort newest-first, take latest 3 years
+                    df_annual = df_annual[sorted(df_annual.columns, reverse=True)]
+                    non_pct = [r for r in df_annual.index if "%" not in r]
+                    df_annual.loc[non_pct] = df_annual.loc[non_pct] / 1_000_000
+                    df_annual = df_annual.iloc[:, :3]
 
-            return {
-                "annual": df_annual,
-                "quarterly": df_quarterly,
-                "valuation": valuation,
-                "market_cap": market_cap,
-                "enterprise_value": enterprise_value,
-                "sector": info.get("sector", "N/A"),
-                "industry": info.get("industry", "N/A"),
-                "suffix": suffix,
-            }
-        except Exception:
-            continue
-    return None
+                df_quarterly = extract_metrics(quarterly_income, quarterly_cashflow)
+                if not df_quarterly.empty:
+                    # Drop quarters where Revenue is NaN (unreported)
+                    if "Revenue" in df_quarterly.index:
+                        valid_cols = df_quarterly.columns[df_quarterly.loc["Revenue"].notna()]
+                        df_quarterly = df_quarterly[valid_cols]
+                    else:
+                        df_quarterly = df_quarterly.dropna(axis=1, how="all")
+                    # Sort newest-first, take latest 4 quarters
+                    df_quarterly = df_quarterly[sorted(df_quarterly.columns, reverse=True)]
+                    non_pct = [r for r in df_quarterly.index if "%" not in r]
+                    df_quarterly.loc[non_pct] = df_quarterly.loc[non_pct] / 1_000_000
+                    df_quarterly = df_quarterly.iloc[:, :4]
+
+                if df_annual.empty and df_quarterly.empty:
+                    reasons.append(
+                        f"{symbol} attempt {attempt}: empty annual and quarterly statements"
+                    )
+                    if attempt < YFINANCE_FETCH_ATTEMPTS:
+                        time.sleep(YFINANCE_RETRY_DELAY_SECONDS)
+                    continue
+
+                info = {}
+                info_error = None
+                try:
+                    info = stock.info or {}
+                except Exception as exc:
+                    info_error = format_fetch_error(exc)
+
+                market_cap = (
+                    f"{info['marketCap'] / 1_000_000:,.0f}"
+                    if info.get("marketCap")
+                    else None
+                )
+                enterprise_value = (
+                    f"{info['enterpriseValue'] / 1_000_000:,.0f}"
+                    if info.get("enterpriseValue")
+                    else None
+                )
+                valuation = fetch_valuation_data(info) if info else {}
+
+                return {
+                    "annual": df_annual,
+                    "quarterly": df_quarterly,
+                    "valuation": valuation,
+                    "market_cap": market_cap,
+                    "enterprise_value": enterprise_value,
+                    "sector": info.get("sector", "N/A"),
+                    "industry": info.get("industry", "N/A"),
+                    "suffix": suffix,
+                    "symbol": symbol,
+                    "info_error": info_error,
+                }, None
+            except Exception as exc:
+                reasons.append(f"{symbol} attempt {attempt}: {format_fetch_error(exc)}")
+                if attempt < YFINANCE_FETCH_ATTEMPTS:
+                    time.sleep(YFINANCE_RETRY_DELAY_SECONDS)
+
+    failure_reason = "; ".join(reasons) if reasons else "no data from yfinance"
+    return None, failure_reason
 
 
 def df_to_clean_markdown(df):
@@ -231,9 +280,9 @@ def update_file(filepath, ticker, dry_run=False):
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
-    data = fetch_financials(ticker)
+    data, failure_reason = fetch_financials(ticker)
     if data is None:
-        print(f"  {ticker}: SKIP (no data from yfinance)")
+        print(f"  {ticker}: SKIP ({failure_reason})")
         return False
 
     new_fin = build_financial_section(data)
@@ -248,16 +297,21 @@ def update_file(filepath, ticker, dry_run=False):
 
     if dry_run:
         print(f"  {ticker}: WOULD UPDATE ({data['suffix']})")
+        if data.get("info_error"):
+            print(f"    valuation metadata unavailable: {data['info_error']}")
         return True
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(new_content)
     print(f"  {ticker}: UPDATED ({data['suffix']})")
+    if data.get("info_error"):
+        print(f"    valuation metadata unavailable: {data['info_error']}")
     return True
 
 
 def main():
     setup_stdout()
+    configure_yfinance_cache()
 
     args = list(sys.argv[1:])
     dry_run = "--dry-run" in args
