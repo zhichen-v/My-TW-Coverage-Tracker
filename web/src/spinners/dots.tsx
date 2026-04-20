@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const FRAMES = [".  ", ".. ", "...", "....", " ..", "  .", "   "];
+const FRAMES = [".  ", ".. ", "...", " ..", "  .", "   "];
 const INTERVAL = 80;
 
 type DotsSpinnerProps = {
