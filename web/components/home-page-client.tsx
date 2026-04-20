@@ -7,6 +7,7 @@ import { useLanguage } from "@/components/language-provider";
 import { translateFinancialText } from "@/lib/financial-markdown";
 import { translateSectorName } from "@/lib/i18n";
 import { ShellHeader } from "@/components/shell-header";
+import { DotsSpinner } from "@/src/spinners/dots";
 
 type HealthSnapshot = {
   status: string;
@@ -67,6 +68,10 @@ function HomePageContent({
   const [currentPage, setCurrentPage] = useState(initialPage);
   const [companyData, setCompanyData] = useState(companies);
   const [isLoadingCompanies, setIsLoadingCompanies] = useState(false);
+  const [isFilterLoading, setIsFilterLoading] = useState(false);
+  const [pendingInputReset, setPendingInputReset] = useState(false);
+  const pendingFilterRequestPhase = useRef<"idle" | "awaiting-load" | "loading">("idle");
+  const pendingSpinnerStopTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
   const initialRequestKey = useRef(`${initialQuery}::${initialSector}::${initialPage}`);
   const featuredSectors = sectors.slice(0, 4);
   const remainingSectorCount = Math.max(sectors.length - featuredSectors.length, 0);
@@ -153,12 +158,62 @@ function HomePageContent({
     toolbarRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
   }, [companyData, isLoadingCompanies]);
 
+  useEffect(() => {
+    if (pendingFilterRequestPhase.current === "awaiting-load" && isLoadingCompanies) {
+      if (pendingSpinnerStopTimeout.current) {
+        clearTimeout(pendingSpinnerStopTimeout.current);
+        pendingSpinnerStopTimeout.current = null;
+      }
+      pendingFilterRequestPhase.current = "loading";
+      return;
+    }
+
+    if (pendingFilterRequestPhase.current === "loading" && !isLoadingCompanies) {
+      pendingFilterRequestPhase.current = "idle";
+      pendingSpinnerStopTimeout.current = setTimeout(() => {
+        setIsFilterLoading(false);
+        if (pendingInputReset) {
+          setQueryInput("");
+          setSectorInput("");
+          setPendingInputReset(false);
+        }
+        pendingSpinnerStopTimeout.current = null;
+      }, 1000);
+    }
+  }, [isLoadingCompanies, pendingInputReset]);
+
+  useEffect(() => {
+    return () => {
+      if (pendingSpinnerStopTimeout.current) {
+        clearTimeout(pendingSpinnerStopTimeout.current);
+      }
+    };
+  }, []);
+
   function handleFilterSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const nextQuery = queryInput.trim();
+    const nextSector = sectorInput;
+    const requestChanged =
+      nextQuery !== appliedQuery || nextSector !== appliedSector || currentPage !== 1;
+
     setAppliedQuery(nextQuery);
-    setAppliedSector(sectorInput);
+    setAppliedSector(nextSector);
     setCurrentPage(1);
+
+    if (!requestChanged) {
+      setQueryInput("");
+      setSectorInput("");
+      return;
+    }
+
+    pendingFilterRequestPhase.current = "awaiting-load";
+    if (pendingSpinnerStopTimeout.current) {
+      clearTimeout(pendingSpinnerStopTimeout.current);
+      pendingSpinnerStopTimeout.current = null;
+    }
+    setIsFilterLoading(true);
+    setPendingInputReset(true);
   }
 
   function handlePageChange(nextPage: number) {
@@ -245,23 +300,34 @@ function HomePageContent({
       <section className="space-y-4">
         <form ref={toolbarRef} onSubmit={handleFilterSubmit} className="p-0">
           <div className="flex flex-col gap-3 md:grid md:grid-cols-[minmax(0,1.45fr)_minmax(15rem,0.72fr)_auto] md:items-center">
-            <input
-              type="search"
-              name="q"
-              aria-label={t("searchPlaceholder")}
-              placeholder={t("searchPlaceholder")}
-              value={queryInput}
-              onChange={(event) => setQueryInput(event.target.value)}
-              className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none placeholder:text-[var(--muted)] focus:border-[var(--accent)]"
-            />
+            <div className="relative">
+              <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-4">
+                <DotsSpinner
+                  active={isFilterLoading}
+                  size={20}
+                  className={`search-dots-spinner ${isFilterLoading ? "is-active" : ""}`}
+                />
+              </span>
+              <input
+                type="search"
+                name="q"
+                aria-label={t("searchPlaceholder")}
+                placeholder={t("searchPlaceholder")}
+                value={queryInput}
+                disabled={isFilterLoading}
+                onChange={(event) => setQueryInput(event.target.value)}
+                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] pl-4 pr-12 text-[var(--text)] outline-none placeholder:text-[var(--muted)] focus:border-[var(--accent)] disabled:cursor-wait disabled:opacity-80"
+              />
+            </div>
 
             <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-3 md:contents">
               <select
                 name="sector"
                 aria-label={t("allSectors")}
                 value={sectorInput}
+                disabled={isFilterLoading}
                 onChange={(event) => setSectorInput(event.target.value)}
-                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none focus:border-[var(--accent)]"
+                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none focus:border-[var(--accent)] disabled:cursor-wait disabled:opacity-80"
               >
                 <option value="">{t("allSectors")}</option>
                 {sectors.map((sector) => (
@@ -273,7 +339,8 @@ function HomePageContent({
 
               <button
                 type="submit"
-                className="min-h-[52px] rounded-2xl border border-[var(--accent)] bg-[var(--accent)] px-5 text-[0.82rem] font-extrabold uppercase tracking-[0.12em] text-[#151515] transition hover:bg-[var(--surface-active)] hover:text-[var(--accent-strong)]"
+                disabled={isFilterLoading}
+                className="min-h-[52px] rounded-2xl border border-[var(--accent)] bg-[var(--accent)] px-5 text-[0.82rem] font-extrabold uppercase tracking-[0.12em] text-[#151515] transition hover:bg-[var(--surface-active)] hover:text-[var(--accent-strong)] disabled:cursor-wait disabled:opacity-80"
               >
                 {t("applyFilters")}
               </button>
@@ -291,7 +358,9 @@ function HomePageContent({
         ) : (
           <>
             <div
-              className={`flex flex-col gap-3 ${isLoadingCompanies ? "opacity-70" : ""}`}
+              className={`flex flex-col gap-3 ${
+                isFilterLoading || isLoadingCompanies ? "opacity-80" : ""
+              }`}
               aria-busy={isLoadingCompanies}
             >
               {companyData.items.map((company) => {

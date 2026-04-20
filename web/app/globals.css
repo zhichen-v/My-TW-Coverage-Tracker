@@ -769,6 +769,23 @@ body.graph-route-locked .site-shell {
   color: var(--accent);
 }
 
+.search-dots-spinner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1ch;
+  opacity: 0;
+  transform: scale(0.92);
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.search-dots-spinner.is-active {
+  opacity: 1;
+  transform: scale(1);
+}
+
 .structured-body {
   display: grid;
   gap: 14px;
