@@ -37,7 +37,7 @@ export function DotsSpinner({
       aria-hidden="true"
       className={className}
       style={{
-        color: "#FFF",
+        color,
         display: "inline-flex",
         alignItems: "center",
         justifyContent: "center",

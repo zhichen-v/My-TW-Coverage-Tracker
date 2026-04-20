@@ -300,14 +300,7 @@ function HomePageContent({
       <section className="space-y-4">
         <form ref={toolbarRef} onSubmit={handleFilterSubmit} className="p-0">
           <div className="flex flex-col gap-3 md:grid md:grid-cols-[minmax(0,1.45fr)_minmax(15rem,0.72fr)_auto] md:items-center">
-            <div className="relative">
-              <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-4">
-                <DotsSpinner
-                  active={isFilterLoading}
-                  size={20}
-                  className={`search-dots-spinner ${isFilterLoading ? "is-active" : ""}`}
-                />
-              </span>
+            <div>
               <input
                 type="search"
                 name="q"
@@ -316,7 +309,7 @@ function HomePageContent({
                 value={queryInput}
                 disabled={isFilterLoading}
                 onChange={(event) => setQueryInput(event.target.value)}
-                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] pl-4 pr-12 text-[var(--text)] outline-none placeholder:text-[var(--muted)] focus:border-[var(--accent)] disabled:cursor-wait disabled:opacity-80"
+                className="min-h-[52px] w-full rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 text-[var(--text)] outline-none placeholder:text-[var(--muted)] focus:border-[var(--accent)] disabled:cursor-wait disabled:opacity-80"
               />
             </div>
 
@@ -340,9 +333,18 @@ function HomePageContent({
               <button
                 type="submit"
                 disabled={isFilterLoading}
-                className="min-h-[52px] rounded-2xl border border-[var(--accent)] bg-[var(--accent)] px-5 text-[0.82rem] font-extrabold uppercase tracking-[0.12em] text-[#151515] transition hover:bg-[var(--surface-active)] hover:text-[var(--accent-strong)] disabled:cursor-wait disabled:opacity-80"
+                className="inline-flex min-h-[52px] min-w-[12.5rem] items-center justify-center rounded-2xl border border-[var(--accent)] bg-[var(--accent)] px-5 text-[0.82rem] font-extrabold uppercase tracking-[0.12em] text-[#151515] transition hover:bg-[var(--surface-active)] hover:text-[var(--accent-strong)] disabled:cursor-wait disabled:opacity-80"
               >
-                {t("applyFilters")}
+                {isFilterLoading ? (
+                  <DotsSpinner
+                    active
+                    size={20}
+                    color="#151515"
+                    className="search-dots-spinner is-active"
+                  />
+                ) : (
+                  <span>{t("applyFilters")}</span>
+                )}
               </button>
             </div>
           </div>
