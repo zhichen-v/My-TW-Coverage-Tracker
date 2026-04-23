@@ -210,6 +210,7 @@ export type CompaniesResponse = {
   total_count: number;
   query: string | null;
   sector: string | null;
+  sort?: string | null;
   limit: number;
   offset: number;
 };
@@ -241,6 +242,7 @@ export async function getSectors(): Promise<Sector[]> {
 export async function getCompanies(params?: {
   q?: string;
   sector?: string;
+  sort?: "market_cap_desc";
   limit?: number;
   offset?: number;
   signal?: AbortSignal;
@@ -251,6 +253,9 @@ export async function getCompanies(params?: {
   }
   if (params?.sector) {
     searchParams.set("sector", params.sector);
+  }
+  if (params?.sort) {
+    searchParams.set("sort", params.sort);
   }
   searchParams.set("limit", String(params?.limit ?? 60));
   searchParams.set("offset", String(params?.offset ?? 0));

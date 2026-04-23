@@ -8,7 +8,14 @@ export function SiteHeader() {
   const pathname = usePathname();
   const { t } = useLanguage();
 
-  if (pathname === "/" || pathname === "/graph" || pathname.startsWith("/companies/")) {
+  if (
+    pathname === "/" ||
+    pathname === "/app" ||
+    pathname === "/graph" ||
+    pathname === "/app/graph" ||
+    pathname.startsWith("/companies/") ||
+    pathname.startsWith("/app/companies/")
+  ) {
     return null;
   }
 

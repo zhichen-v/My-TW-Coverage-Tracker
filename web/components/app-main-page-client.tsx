@@ -18,7 +18,7 @@ type HealthSnapshot = {
   } | null;
 };
 
-type HomePageClientProps = {
+type AppMainPageClientProps = {
   health: HealthSnapshot;
   sectors: Sector[];
   companies: CompaniesResponse;
@@ -50,14 +50,14 @@ function buildPaginationItems(currentPage: number, totalPages: number) {
   return items;
 }
 
-function HomePageContent({
+function AppMainPageContent({
   health,
   sectors,
   companies,
   initialQuery,
   initialSector,
   initialPage,
-}: HomePageClientProps) {
+}: AppMainPageClientProps) {
   const { t, language } = useLanguage();
   const toolbarRef = useRef<HTMLFormElement | null>(null);
   const pendingPageScroll = useRef(false);
@@ -146,7 +146,7 @@ function HomePageContent({
       searchParams.set("page", String(currentPage));
     }
     const queryString = searchParams.toString();
-    const nextUrl = queryString ? `/?${queryString}` : "/";
+    const nextUrl = queryString ? `/app?${queryString}` : "/app";
     window.history.replaceState(null, "", nextUrl);
   }, [appliedQuery, appliedSector, currentPage]);
 
@@ -374,7 +374,7 @@ function HomePageContent({
                 return (
                   <Link
                     key={company.report_id}
-                    href={`/companies/${encodeURIComponent(company.ticker)}`}
+                    href={`/app/companies/${encodeURIComponent(company.ticker)}`}
                     prefetch={false}
                     className="group rounded-[24px] border border-[var(--line)] bg-[var(--surface)] px-4 py-4 transition duration-150 hover:translate-x-[6px] hover:border-[var(--accent)] sm:px-5"
                     style={rowStyle}
@@ -513,6 +513,6 @@ function HomePageContent({
   );
 }
 
-export function HomePageClient(props: HomePageClientProps) {
-  return <HomePageContent {...props} />;
+export function AppMainPageClient(props: AppMainPageClientProps) {
+  return <AppMainPageContent {...props} />;
 }

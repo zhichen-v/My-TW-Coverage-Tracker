@@ -49,6 +49,7 @@ Then open:
 - `GET /api/sectors`
 - `GET /api/companies?q=2330`
 - `GET /api/companies?q=2330&limit=30&offset=30`
+- `GET /api/companies?sort=market_cap_desc&limit=5`
 - `GET /api/companies/{ticker}`
 - `GET /api/reports/{report_id}`
 - `GET /api/wikilinks`
@@ -73,6 +74,7 @@ Then open:
 - `structured_summary`: lightweight structured summary derived from the mirrored report JSON for list/homepage rendering
 - `structured_report_path`: relative path to the mirrored JSON file
 - `total_count`, `limit`, and `offset`: pagination metadata for client-side list pagination
+- `sort=market_cap_desc`: optional list ordering by parsed `market_cap_text`, used by the public homepage popular-search chips.
 - The list payload keeps the existing flat company fields so older clients continue to work.
 
 ## Notes

@@ -50,7 +50,7 @@ export function ShellHeader() {
           </span>
         </button>
 
-        <Link href="/" className="min-w-0 flex-1">
+        <Link href="/app" className="min-w-0 flex-1">
           <span className="brand-mark text-[0.62rem]">
             Taiwan Equity Coverage
           </span>
@@ -103,7 +103,7 @@ export function ShellHeader() {
           <div className="border-t border-[var(--line)] pt-4">
             <nav aria-label="Primary">
               <Link
-                href="/graph"
+                href="/app/graph"
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
               >
@@ -117,7 +117,7 @@ export function ShellHeader() {
 
       <div className="hidden items-end justify-between gap-6 md:flex">
         <div className="flex min-w-0 items-end gap-8 lg:gap-12">
-          <Link href="/" className="min-w-0">
+          <Link href="/app" className="min-w-0">
             <span className="brand-mark text-[0.7rem]">
               Taiwan Equity Coverage
             </span>
@@ -130,7 +130,7 @@ export function ShellHeader() {
           </Link>
 
           <nav aria-label="Primary" className="topbar-nav pb-1">
-            <Link href="/graph" className="topbar-link">
+            <Link href="/app/graph" className="topbar-link">
               {t("themesGraph")}
             </Link>
           </nav>

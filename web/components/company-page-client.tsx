@@ -341,7 +341,7 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
       <ShellHeader />
 
       <div className="flex items-center justify-start">
-        <Link className="back-link" href="/">
+        <Link className="back-link" href="/app">
           {t("backToList")}
         </Link>
       </div>

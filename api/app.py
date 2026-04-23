@@ -97,6 +97,13 @@ def get_first_paragraph_text(structured_content: dict[str, Any] | None) -> str:
     return ""
 
 
+def market_cap_sort_expression(column_name: str = "market_cap_text") -> str:
+    return (
+        "CAST(REPLACE(REPLACE(REPLACE("
+        f"{column_name}, ',', ''), ' 百萬台幣', ''), '百萬台幣', '') AS REAL)"
+    )
+
+
 def build_structured_summary(structured_content: dict[str, Any] | None) -> dict[str, Any] | None:
     if not structured_content:
         return None
@@ -489,6 +496,7 @@ def list_sectors() -> dict[str, Any]:
 def list_companies(
     q: str | None = None,
     sector: str | None = None,
+    sort: str | None = Query(default=None, pattern="^(market_cap_desc)$"),
     limit: int = Query(default=50, ge=1, le=200),
     offset: int = Query(default=0, ge=0),
 ) -> dict[str, Any]:
@@ -519,7 +527,13 @@ def list_companies(
             params.append(sector)
             count_query += " AND c.sector_folder = ?"
             count_params.append(sector)
-        query += " ORDER BY rank, c.ticker ASC, c.report_path ASC LIMIT ? OFFSET ?"
+        if sort == "market_cap_desc":
+            query += (
+                f" ORDER BY {market_cap_sort_expression('c.market_cap_text')} DESC, "
+                "rank, c.ticker ASC, c.report_path ASC LIMIT ? OFFSET ?"
+            )
+        else:
+            query += " ORDER BY rank, c.ticker ASC, c.report_path ASC LIMIT ? OFFSET ?"
     else:
         query = """
             SELECT report_id, ticker, company_name, title, sector_folder,
@@ -538,7 +552,13 @@ def list_companies(
             count_query += " AND sector_folder = ?"
             params.append(sector)
             count_params.append(sector)
-        query += " ORDER BY ticker ASC, report_path ASC LIMIT ? OFFSET ?"
+        if sort == "market_cap_desc":
+            query += (
+                f" ORDER BY {market_cap_sort_expression('market_cap_text')} DESC, "
+                "ticker ASC, report_path ASC LIMIT ? OFFSET ?"
+            )
+        else:
+            query += " ORDER BY ticker ASC, report_path ASC LIMIT ? OFFSET ?"
 
     params.extend([limit, offset])
     items = fetch_all(query, tuple(params))
@@ -551,6 +571,7 @@ def list_companies(
         "total_count": total_count,
         "query": q,
         "sector": sector,
+        "sort": sort,
         "limit": limit,
         "offset": offset,
     }

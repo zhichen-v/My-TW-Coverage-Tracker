@@ -1,5 +1,12 @@
 # Web
 
+## Current Routes
+
+- `/` is the public homepage.
+- `/app` reuses the existing coverage app homepage client.
+- `/companies/[ticker]` and `/graph` remain available for the current deployment.
+- `/app/companies/[ticker]` and `/app/graph` are route aliases for the planned app-prefixed host or route split.
+
 `web/` 是本專案的 Next.js App Router 前端，主要讀取根目錄 API 提供的公司列表、公司詳情與主題圖譜資料。
 
 ## 前置條件

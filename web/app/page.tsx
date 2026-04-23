@@ -1,39 +1,22 @@
-import { getCompanies, getHealth, getSectors } from "@/lib/api";
-import { HomePageClient } from "@/components/home-page-client";
+import { PublicHomePageClient } from "@/components/public-home-page-client";
+import { getCompanies, getHealth, getSectors, getThemeGraphData } from "@/lib/api";
 
-type HomeProps = {
-  searchParams?: Promise<{
-    q?: string;
-    sector?: string;
-    page?: string;
-  }>;
-};
+export const dynamic = "force-dynamic";
 
-const PAGE_SIZE = 30;
-
-export default async function Home({ searchParams }: HomeProps) {
-  const resolvedSearchParams = (await searchParams) ?? {};
-  const parsedPage = Number.parseInt(resolvedSearchParams.page ?? "1", 10);
-  const initialPage = Number.isFinite(parsedPage) && parsedPage > 0 ? parsedPage : 1;
-  const [health, sectors, companies] = await Promise.all([
+export default async function Home() {
+  const [health, sectors, popularCompanies, graphData] = await Promise.all([
     getHealth(),
     getSectors(),
-    getCompanies({
-      q: resolvedSearchParams.q,
-      sector: resolvedSearchParams.sector,
-      limit: PAGE_SIZE,
-      offset: (initialPage - 1) * PAGE_SIZE,
-    }),
+    getCompanies({ sort: "market_cap_desc", limit: 5 }),
+    getThemeGraphData(),
   ]);
 
   return (
-    <HomePageClient
+    <PublicHomePageClient
       health={health}
       sectors={sectors}
-      companies={companies}
-      initialQuery={resolvedSearchParams.q ?? ""}
-      initialSector={resolvedSearchParams.sector ?? ""}
-      initialPage={initialPage}
+      popularCompanies={popularCompanies.items}
+      graphData={graphData}
     />
   );
 }
