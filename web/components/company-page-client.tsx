@@ -262,10 +262,14 @@ function DetailBlock({
   }
 
   return (
-    <section className="panel detail-block detail-panel-shell">
-      <div className="section-header">
-        <span className="section-index">{String(index).padStart(2, "0")}</span>
-        <h2>{title}</h2>
+    <section className="relative overflow-hidden rounded-[28px] border border-[var(--line)] bg-[var(--surface)] px-6 py-6 shadow-[var(--shadow-soft)] max-[780px]:px-5 max-[780px]:py-5">
+      <div className="mb-4 flex items-center gap-3">
+        <span className="font-mono text-[0.78rem] font-bold uppercase tracking-[0.14em] text-[var(--accent)]">
+          {String(index).padStart(2, "0")}
+        </span>
+        <h2 className="m-0 font-[var(--font-display)] text-[1.24rem] font-extrabold tracking-[-0.03em] text-[var(--text-strong)]">
+          {title}
+        </h2>
       </div>
       <div className="structured-body">
         {hasStructuredContent ? (
@@ -341,37 +345,54 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
       <ShellHeader />
 
       <div className="flex items-center justify-start">
-        <Link className="back-link" href="/app">
+        <Link
+          className="inline-flex items-center gap-2 font-mono text-[0.88rem] font-bold uppercase tracking-[0.12em] text-[var(--muted-strong)] transition hover:text-[var(--accent)]"
+          href="/app"
+        >
+          <span className="text-[var(--accent)]">&lt;</span>
           BACK TO APP
         </Link>
       </div>
 
       {count > 1 ? (
-        <section className="panel content-panel detail-panel-shell" style={{ marginBottom: 20 }}>
+        <section className="relative mb-5 w-full overflow-hidden rounded-[28px] border border-[var(--line)] bg-[var(--surface)] px-6 py-5 text-[var(--muted-strong)] shadow-[var(--shadow-soft)] max-[780px]:px-5 max-[780px]:py-4">
           {t("multipleReports")} ({ticker})
         </section>
       ) : null}
 
-      <div className="detail-layout">
-        <aside className="panel detail-sidebar sticky-panel detail-panel-shell">
-          <div className="panel-header">
-            <p className="eyebrow">{t("companySnapshot")}</p>
+      <div className="grid gap-[18px]">
+        <aside className="relative self-start overflow-hidden rounded-[28px] border border-[var(--line)] bg-[var(--surface)] px-6 py-6 shadow-[var(--shadow-soft)] max-[780px]:px-5 max-[780px]:py-5">
+          <div className="mb-[18px] flex items-center justify-between gap-3">
+            <p className="m-0 text-[0.82rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+              {t("companySnapshot")}
+            </p>
           </div>
-          <div className="detail-header detail-header-inline">
-            <h1 className="detail-title">{primary.company_name}</h1>
-            <span className="ticker-chip">{primary.ticker}</span>
+          <div className="mb-[22px] grid justify-items-start gap-[14px] [grid-template-areas:'ticker''title'] max-[640px]:grid-cols-[max-content_max-content] max-[640px]:grid-rows-[auto] max-[640px]:items-end max-[640px]:justify-start max-[640px]:gap-x-[14px] max-[640px]:gap-y-0 max-[640px]:[grid-template-areas:'title_ticker']">
+            <h1 className="[grid-area:title] m-0 font-[var(--font-display)] text-[clamp(2.4rem,5vw,4.4rem)] font-black leading-[0.92] tracking-[-0.08em] text-[var(--text-strong)] max-[640px]:text-left max-[640px]:text-[clamp(2.7rem,11vw,3.45rem)]">
+              {primary.company_name}
+            </h1>
+            <span className="[grid-area:ticker] inline-flex min-w-0 items-center gap-2 rounded-full border border-[var(--line-strong)] bg-[rgba(22,22,0,0.55)] px-3 py-[7px] font-mono text-[0.74rem] font-bold uppercase tracking-[0.08em] text-[var(--accent-strong)] before:content-['>'] before:text-[var(--accent)] max-[640px]:justify-self-start max-[640px]:self-end max-[640px]:border-0 max-[640px]:bg-transparent max-[640px]:p-0 max-[640px]:font-[var(--font-display)] max-[640px]:text-[clamp(2.15rem,8.8vw,2.95rem)] max-[640px]:font-black max-[640px]:normal-case max-[640px]:leading-[0.88] max-[640px]:tracking-[-0.08em] max-[640px]:before:content-none">
+              {primary.ticker}
+            </span>
           </div>
-          <div className="detail-meta">
+          <div className="grid grid-cols-[repeat(auto-fit,minmax(180px,1fr))] gap-2.5">
             {snapshotItems.map((item) => (
-              <div className="meta-row" key={item.label}>
-                <span className="meta-label">{item.label}</span>
-                <span className="meta-value">{item.value}</span>
+              <div
+                className="flex flex-col items-start gap-2.5 rounded-xl border border-[var(--line)] bg-[var(--bg-elevated)] p-[14px]"
+                key={item.label}
+              >
+                <span className="text-[0.8rem] font-bold uppercase tracking-[0.14em] text-[var(--muted)]">
+                  {item.label}
+                </span>
+                <span className="break-words text-[0.98rem] font-semibold leading-[1.45] text-[var(--text-strong)]">
+                  {item.value}
+                </span>
               </div>
             ))}
           </div>
         </aside>
 
-        <main className="detail-main">
+        <main className="grid gap-4">
           {sections.map((section, index) => (
             <DetailBlock
               key={section.title}

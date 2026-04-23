@@ -20,10 +20,12 @@ export function SiteHeader() {
   }
 
   return (
-    <header className="topbar">
-      <Link className="brand" href="/">
+    <header className="mb-5 flex items-end justify-start gap-16 py-4 max-[640px]:flex-col max-[640px]:items-stretch">
+      <Link className="inline-flex min-w-0 flex-col gap-1.5" href="/">
         <span className="brand-mark">Taiwan Equity Coverage</span>
-        <span className="brand-title">Stocks Tracker</span>
+        <span className="text-[clamp(1.9rem,2.2vw,2.4rem)] font-black leading-[0.94] tracking-[-0.08em] text-[var(--text-strong)]">
+          Stocks Tracker
+        </span>
       </Link>
 
       <nav className="topbar-nav" aria-label="Primary">
