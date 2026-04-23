@@ -38,7 +38,12 @@
 
 html {
   font-size: 16px;
-  background: var(--bg);
+  background:
+    radial-gradient(circle at 12% 16%, rgba(250, 255, 105, 0.05), transparent 28%),
+    radial-gradient(circle at 84% 12%, rgba(22, 101, 52, 0.08), transparent 24%),
+    radial-gradient(circle at 72% 78%, rgba(250, 255, 105, 0.035), transparent 32%),
+    radial-gradient(circle at 24% 82%, rgba(255, 255, 255, 0.025), transparent 26%),
+    #000000;
 }
 
 html.graph-route-locked {
@@ -48,11 +53,42 @@ html.graph-route-locked {
 }
 
 body {
+  position: relative;
   margin: 0;
   min-height: 100vh;
   color: var(--text);
   font-family: var(--font-sans);
-  background: var(--bg);
+  background:
+    radial-gradient(circle at 12% 16%, rgba(250, 255, 105, 0.05), transparent 28%),
+    radial-gradient(circle at 84% 12%, rgba(22, 101, 52, 0.08), transparent 24%),
+    radial-gradient(circle at 72% 78%, rgba(250, 255, 105, 0.035), transparent 32%),
+    radial-gradient(circle at 24% 82%, rgba(255, 255, 255, 0.025), transparent 26%),
+    #000000;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(250, 255, 105, 0.09), transparent 30%),
+    radial-gradient(circle at 82% 12%, rgba(22, 101, 52, 0.12), transparent 26%),
+    radial-gradient(circle at 72% 74%, rgba(250, 255, 105, 0.06), transparent 34%),
+    radial-gradient(circle at 28% 80%, rgba(255, 255, 255, 0.032), transparent 28%);
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+  background-size: 48px 48px;
 }
 
 body.graph-route-locked {
@@ -88,6 +124,7 @@ a {
 
 .site-shell {
   position: relative;
+  z-index: 1;
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 28px 20px 56px;

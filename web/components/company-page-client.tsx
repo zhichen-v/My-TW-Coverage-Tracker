@@ -342,7 +342,7 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
 
       <div className="flex items-center justify-start">
         <Link className="back-link" href="/app">
-          {t("backToList")}
+          BACK TO APP
         </Link>
       </div>
 

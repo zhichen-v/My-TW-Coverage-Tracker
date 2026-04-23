@@ -3,8 +3,7 @@
 import type { Route } from "next";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useMemo, useRef, useState, type FormEvent } from "react";
-import * as d3 from "d3";
+import { useState, type FormEvent } from "react";
 import { ShellHeader } from "@/components/shell-header";
 import type { CompanyListItem, GraphLink, GraphResponse, Sector } from "@/lib/api";
 import { translateSectorName } from "@/lib/i18n";
@@ -37,17 +36,25 @@ type HeroGraphLink = {
   target: string;
 };
 
-type RenderNode = HeroGraphNode &
-  d3.SimulationNodeDatum & {
-    x?: number;
-    y?: number;
-    fx?: number | null;
-    fy?: number | null;
-  };
-
-type RenderLink = HeroGraphLink & d3.SimulationLinkDatum<RenderNode>;
+type HeroGraphPosition = {
+  x: number;
+  y: number;
+};
 
 const CENTER_NODE_ID = "tsmc";
+const HERO_GRAPH_WIDTH = 720;
+const HERO_GRAPH_HEIGHT = 430;
+const HERO_GRAPH_CENTER: HeroGraphPosition = { x: 432, y: 210 };
+const HERO_GRAPH_THEME_POSITIONS: HeroGraphPosition[] = [
+  { x: 296, y: 112 },
+  { x: 280, y: 260 },
+  { x: 466, y: 84 },
+  { x: 548, y: 128 },
+  { x: 522, y: 228 },
+  { x: 480, y: 318 },
+  { x: 320, y: 346 },
+  { x: 618, y: 190 },
+];
 
 function formatNumber(value?: number | null) {
   if (typeof value !== "number" || !Number.isFinite(value)) {
@@ -113,135 +120,15 @@ function buildTsmcHeroGraph(graphData: GraphResponse) {
 }
 
 function HeroGraph({ graphData }: { graphData: GraphResponse }) {
-  const svgRef = useRef<SVGSVGElement | null>(null);
-  const graph = useMemo(() => buildTsmcHeroGraph(graphData), [graphData]);
-
-  useEffect(() => {
-    const svgElement = svgRef.current;
-    if (!svgElement) {
-      return;
-    }
-
-    const render = () => {
-      const width = svgElement.clientWidth || 720;
-      const height = svgElement.clientHeight || 420;
-      const centerX = width * 0.58;
-      const centerY = height * 0.52;
-      const nodes: RenderNode[] = graph.nodes.map((node) => ({ ...node }));
-      const links: RenderLink[] = graph.links.map((link) => ({ ...link }));
-      const centerNode = nodes.find((node) => node.id === CENTER_NODE_ID);
-
-      if (centerNode) {
-        centerNode.fx = centerX;
-        centerNode.fy = centerY;
-      }
-
-      const svg = d3.select(svgElement);
-      svg.selectAll("*").remove();
-
-      const defs = svg.append("defs");
-      const glow = defs.append("filter").attr("id", "hero-graph-glow");
-      glow.append("feGaussianBlur").attr("stdDeviation", 7).attr("result", "blur");
-      const merge = glow.append("feMerge");
-      merge.append("feMergeNode").attr("in", "blur");
-      merge.append("feMergeNode").attr("in", "SourceGraphic");
-
-      const root = svg.append("g");
-      const linkLayer = root.append("g");
-      const nodeLayer = root.append("g");
-      const labelLayer = root.append("g");
-
-      const simulation = d3
-        .forceSimulation(nodes)
-        .force(
-          "link",
-          d3
-            .forceLink<RenderNode, RenderLink>(links)
-            .id((node) => node.id)
-            .distance((link) =>
-              link.source === CENTER_NODE_ID || link.target === CENTER_NODE_ID ? 125 : 105,
-            )
-            .strength(0.42),
-        )
-        .force("charge", d3.forceManyBody().strength(-420))
-        .force("center", d3.forceCenter(centerX, centerY))
-        .force("collide", d3.forceCollide<RenderNode>().radius((node) => node.radius + 22))
-        .alpha(0.95);
-
-      const linkSelection = linkLayer
-        .selectAll("line")
-        .data(links)
-        .join("line")
-        .attr("stroke", "rgba(255,255,255,0.22)")
-        .attr("stroke-width", 1.2);
-
-      const nodeSelection = nodeLayer
-        .selectAll("circle")
-        .data(nodes)
-        .join("circle")
-        .attr("r", (node) => node.radius)
-        .attr("fill", (node) => (node.type === "company" ? "var(--accent)" : "#166534"))
-        .attr("stroke", (node) => (node.type === "company" ? "#f4f692" : "rgba(250,255,105,0.18)"))
-        .attr("stroke-width", 1.2)
-        .attr("filter", (node) => (node.type === "company" ? "url(#hero-graph-glow)" : null));
-
-      const labelSelection = labelLayer
-        .selectAll("text")
-        .data(nodes)
-        .join("text")
-        .attr("text-anchor", "middle")
-        .attr("fill", "var(--text-strong)")
-        .attr("font-family", "var(--font-sans)")
-        .attr("font-size", (node) => (node.type === "company" ? 14 : 12))
-        .attr("font-weight", 800)
-        .attr("paint-order", "stroke")
-        .attr("stroke", "rgba(0,0,0,0.72)")
-        .attr("stroke-width", 4)
-        .selectAll("tspan")
-        .data((node) =>
-          node.label.split("\n").map((line, index) => ({
-            node,
-            line,
-            index,
-          })),
-        )
-        .join("tspan")
-        .text((item) => item.line)
-        .attr("x", 0)
-        .attr("dy", (item) => (item.index === 0 ? 0 : 18));
-
-      simulation.on("tick", () => {
-        linkSelection
-          .attr("x1", (link) => (link.source as RenderNode).x ?? 0)
-          .attr("y1", (link) => (link.source as RenderNode).y ?? 0)
-          .attr("x2", (link) => (link.target as RenderNode).x ?? 0)
-          .attr("y2", (link) => (link.target as RenderNode).y ?? 0);
-
-        nodeSelection.attr("cx", (node) => node.x ?? 0).attr("cy", (node) => node.y ?? 0);
-
-        labelLayer
-          .selectAll<SVGTextElement, RenderNode>("text")
-          .attr("transform", (node) => `translate(${node.x ?? 0},${(node.y ?? 0) + node.radius + 18})`);
-      });
-
-      return () => {
-        simulation.stop();
-        svg.selectAll("*").remove();
-      };
-    };
-
-    let cleanup = render();
-    const resizeObserver = new ResizeObserver(() => {
-      cleanup?.();
-      cleanup = render();
-    });
-    resizeObserver.observe(svgElement);
-
-    return () => {
-      resizeObserver.disconnect();
-      cleanup?.();
-    };
-  }, [graph]);
+  const graph = buildTsmcHeroGraph(graphData);
+  const positionedNodes = graph.nodes.map((node, index) => ({
+    ...node,
+    position:
+      node.id === CENTER_NODE_ID
+        ? HERO_GRAPH_CENTER
+        : HERO_GRAPH_THEME_POSITIONS[(index - 1) % HERO_GRAPH_THEME_POSITIONS.length],
+  }));
+  const nodePositions = new Map(positionedNodes.map((node) => [node.id, node.position]));
 
   return (
     <div
@@ -249,11 +136,83 @@ function HeroGraph({ graphData }: { graphData: GraphResponse }) {
       aria-label="TSMC related theme graph preview"
     >
       <svg
-        ref={svgRef}
         role="img"
         aria-label="TSMC related theme graph"
+        viewBox={`0 0 ${HERO_GRAPH_WIDTH} ${HERO_GRAPH_HEIGHT}`}
+        preserveAspectRatio="xMidYMid meet"
         className="relative block h-[430px] w-full max-[1100px]:h-[400px] max-[640px]:h-[360px] max-[640px]:min-w-[460px]"
-      />
+      >
+        <defs>
+          <filter id="hero-graph-glow">
+            <feGaussianBlur stdDeviation="7" result="blur" />
+            <feMerge>
+              <feMergeNode in="blur" />
+              <feMergeNode in="SourceGraphic" />
+            </feMerge>
+          </filter>
+        </defs>
+
+        <g>
+          {graph.links.map((link, index) => {
+            const source = nodePositions.get(link.source);
+            const target = nodePositions.get(link.target);
+            if (!source || !target) {
+              return null;
+            }
+
+            return (
+              <line
+                key={`link-${link.source}-${link.target}-${index}`}
+                x1={source.x}
+                y1={source.y}
+                x2={target.x}
+                y2={target.y}
+                stroke="rgba(255,255,255,0.22)"
+                strokeWidth="1.2"
+              />
+            );
+          })}
+        </g>
+
+        <g>
+          {positionedNodes.map((node) => (
+            <circle
+              key={node.id}
+              cx={node.position.x}
+              cy={node.position.y}
+              r={node.radius}
+              fill={node.type === "company" ? "var(--accent)" : "#166534"}
+              stroke={node.type === "company" ? "#f4f692" : "rgba(250,255,105,0.18)"}
+              strokeWidth="1.2"
+              filter={node.type === "company" ? "url(#hero-graph-glow)" : undefined}
+            />
+          ))}
+        </g>
+
+        <g>
+          {positionedNodes.map((node) => (
+            <text
+              key={`label-${node.id}`}
+              x={node.position.x}
+              y={node.position.y + node.radius + 18}
+              textAnchor="middle"
+              fill="var(--text-strong)"
+              fontFamily="var(--font-sans)"
+              fontSize={node.type === "company" ? 14 : 12}
+              fontWeight="800"
+              paintOrder="stroke"
+              stroke="rgba(0,0,0,0.72)"
+              strokeWidth="4"
+            >
+              {node.label.split("\n").map((line, index) => (
+                <tspan key={`${node.id}-${index}`} x={node.position.x} dy={index === 0 ? 0 : 18}>
+                  {line}
+                </tspan>
+              ))}
+            </text>
+          ))}
+        </g>
+      </svg>
     </div>
   );
 }
@@ -361,7 +320,7 @@ export function PublicHomePageClient({
     <div className="flex flex-col gap-5 sm:gap-6">
       <ShellHeader />
 
-      <main className="relative flex flex-col gap-5 before:pointer-events-none before:fixed before:inset-0 before:bg-[linear-gradient(rgba(255,255,255,0.035)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.035)_1px,transparent_1px)] before:bg-[position:center_top] before:bg-[size:32px_32px] before:opacity-70 before:[mask-image:radial-gradient(circle_at_68%_24%,black_0,rgba(0,0,0,0.78)_28%,transparent_62%)] sm:gap-6">
+      <main className="flex flex-col gap-5 sm:gap-6">
         <section
           className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:block"
           aria-label="Homepage introduction"

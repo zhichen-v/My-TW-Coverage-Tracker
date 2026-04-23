@@ -1,7 +1,7 @@
 import { PublicHomePageClient } from "@/components/public-home-page-client";
 import { getCompanies, getHealth, getSectors, getThemeGraphData } from "@/lib/api";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 60;
 
 export default async function Home() {
   const [health, sectors, popularCompanies, graphData] = await Promise.all([

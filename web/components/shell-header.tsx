@@ -50,7 +50,7 @@ export function ShellHeader() {
           </span>
         </button>
 
-        <Link href="/app" className="min-w-0 flex-1">
+        <Link href="/" className="min-w-0 flex-1">
           <span className="brand-mark text-[0.62rem]">
             Taiwan Equity Coverage
           </span>
@@ -117,7 +117,7 @@ export function ShellHeader() {
 
       <div className="hidden items-end justify-between gap-6 md:flex">
         <div className="flex min-w-0 items-end gap-8 lg:gap-12">
-          <Link href="/app" className="min-w-0">
+          <Link href="/" className="min-w-0">
             <span className="brand-mark text-[0.7rem]">
               Taiwan Equity Coverage
             </span>
