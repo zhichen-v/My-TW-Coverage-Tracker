@@ -245,7 +245,7 @@ function HeroGraph({ graphData }: { graphData: GraphResponse }) {
 
   return (
     <div
-      className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:mt-[-70px] max-[1100px]:min-h-[370px] max-[640px]:ml-[28%] max-[640px]:mr-[-14px] max-[640px]:mt-[-36px] max-[640px]:min-h-[360px]"
+      className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:min-h-[370px] max-[640px]:ml-[28%] max-[640px]:mr-[-14px] max-[640px]:mt-[-36px] max-[640px]:min-h-[360px]"
       aria-label="TSMC related theme graph preview"
     >
       <svg
@@ -358,77 +358,83 @@ export function PublicHomePageClient({
   }
 
   return (
-    <div className="relative before:pointer-events-none before:fixed before:inset-0 before:bg-[linear-gradient(rgba(255,255,255,0.035)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.035)_1px,transparent_1px)] before:bg-[position:center_top] before:bg-[size:32px_32px] before:opacity-70 before:[mask-image:radial-gradient(circle_at_68%_24%,black_0,rgba(0,0,0,0.78)_28%,transparent_62%)]">
+    <div className="flex flex-col gap-5 sm:gap-6">
       <ShellHeader />
 
-      <main className="relative grid gap-6 max-[640px]:gap-[26px]">
+      <main className="relative flex flex-col gap-5 before:pointer-events-none before:fixed before:inset-0 before:bg-[linear-gradient(rgba(255,255,255,0.035)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.035)_1px,transparent_1px)] before:bg-[position:center_top] before:bg-[size:32px_32px] before:opacity-70 before:[mask-image:radial-gradient(circle_at_68%_24%,black_0,rgba(0,0,0,0.78)_28%,transparent_62%)] sm:gap-6">
         <section
-          className="relative grid min-h-[475px] grid-cols-[minmax(430px,0.92fr)_minmax(520px,1.08fr)] items-center gap-4 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:block"
+          className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:block"
           aria-label="Homepage introduction"
         >
-          <div className="relative z-[2] max-w-[700px]">
+          <div className="relative z-[2] grid gap-8 pt-6 max-[640px]:gap-7 max-[640px]:pt-4">
+            <div>
             <h1
-              className="m-0 text-[clamp(4.4rem,6.7vw,6.8rem)] font-black leading-[0.96] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[clamp(3.35rem,14.5vw,4.8rem)] max-[640px]:leading-[0.98]"
+              className="m-0 text-[clamp(2.4rem,4.2vw,4.4rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[clamp(2.25rem,9.6vw,3.35rem)] max-[640px]:leading-[1.05]"
               style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
             >
               Discover.
               <br />
               Analyze.
               <br />
-              Track <span className="text-[var(--accent)]">Taiwan Stocks.</span>
+              <span className="whitespace-nowrap">
+                Track <span className="text-[var(--accent)]">Taiwan Stocks.</span>
+              </span>
             </h1>
-            <p className="mt-6 max-w-[620px] text-[clamp(1.05rem,1.45vw,1.34rem)] leading-[1.65] text-[var(--muted-strong)] max-[640px]:mt-[22px] max-[640px]:max-w-[32ch] max-[640px]:text-[1.05rem]">
+            <p className="mt-6 max-w-[700px] text-[clamp(1.05rem,1.45vw,1.34rem)] leading-[1.78] text-[var(--muted-strong)] max-[640px]:mt-[22px] max-[640px]:max-w-[34ch] max-[640px]:text-[1.05rem] max-[640px]:leading-[1.7]">
               Explore Taiwan-listed companies, uncover industry connections, and access key
               financial data — all in one place.
             </p>
+            </div>
+
+            <div className="grid gap-5" aria-label="Company search">
+              <form
+                className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[76px] max-[640px]:grid-cols-[auto_minmax(0,1fr)] max-[640px]:overflow-visible max-[640px]:rounded-2xl"
+                onSubmit={submitSearch}
+              >
+                <span className="inline-flex w-16 items-center justify-center text-[var(--muted-strong)] max-[640px]:w-[58px] [&_svg]:h-[30px] [&_svg]:w-[30px] [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.6]">
+                  <SearchIcon />
+                </span>
+                <input
+                  type="search"
+                  value={query}
+                  onChange={(event) => setQuery(event.target.value)}
+                  placeholder="Search by ticker, company name, sector, or key terms"
+                  aria-label="Search companies"
+                  className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-3.5 max-[640px]:text-[0.98rem]"
+                />
+                <button
+                  className="m-2 min-w-[165px] self-stretch rounded-[var(--radius-lg)] border border-[var(--accent)] bg-[var(--accent)] font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:col-span-full max-[640px]:mt-3 max-[640px]:min-h-16 max-[640px]:rounded-2xl"
+                  type="submit"
+                >
+                  Explore Now
+                </button>
+              </form>
+
+              <div
+                className="flex flex-wrap items-center gap-[18px] max-[640px]:flex-col max-[640px]:items-start max-[640px]:gap-3.5"
+                aria-label="Popular searches"
+              >
+                <span className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.86rem] max-[640px]:tracking-[0.2em]">
+                  Popular Searches
+                </span>
+                <div className="flex flex-wrap gap-3">
+                  {popularSearches.map((company) => (
+                    <Link
+                      key={company.report_id}
+                      href={`/app?q=${encodeURIComponent(company.ticker)}` as Route}
+                      title={company.company_name}
+                      className="inline-flex min-h-[34px] min-w-[76px] items-center justify-center rounded-full border border-[var(--line-strong)] bg-[rgba(16,16,0,0.34)] font-mono text-[0.78rem] font-black uppercase tracking-[0.08em] text-[var(--accent)] hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.1)] max-[640px]:min-h-12 max-[640px]:min-w-[108px] max-[640px]:text-[0.88rem]"
+                    >
+                      {company.ticker}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
 
-          <HeroGraph graphData={graphData} />
-        </section>
-
-        <section className="mt-[-6px] grid gap-5" aria-label="Company search">
-          <form
-            className="grid min-h-[62px] max-w-[760px] grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[76px] max-[640px]:max-w-none max-[640px]:grid-cols-[auto_minmax(0,1fr)] max-[640px]:overflow-visible max-[640px]:rounded-2xl"
-            onSubmit={submitSearch}
-          >
-            <span className="inline-flex w-16 items-center justify-center text-[var(--muted-strong)] max-[640px]:w-[58px] [&_svg]:h-[30px] [&_svg]:w-[30px] [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.6]">
-              <SearchIcon />
-            </span>
-            <input
-              type="search"
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder="Search by ticker, company name, sector, or key terms"
-              aria-label="Search companies"
-              className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-3.5 max-[640px]:text-[0.98rem]"
-            />
-            <button
-              className="m-2 min-w-[165px] self-stretch rounded-[var(--radius-lg)] border border-[var(--accent)] bg-[var(--accent)] font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:col-span-full max-[640px]:mt-3 max-[640px]:min-h-16 max-[640px]:rounded-2xl"
-              type="submit"
-            >
-              Explore Now
-            </button>
-          </form>
-
-          <div
-            className="flex flex-wrap items-center gap-[18px] max-[640px]:flex-col max-[640px]:items-start max-[640px]:gap-3.5"
-            aria-label="Popular searches"
-          >
-            <span className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.86rem] max-[640px]:tracking-[0.2em]">
-              Popular Searches
-            </span>
-            <div className="flex flex-wrap gap-3">
-              {popularSearches.map((company) => (
-                <Link
-                  key={company.report_id}
-                  href={`/app?q=${encodeURIComponent(company.ticker)}` as Route}
-                  title={company.company_name}
-                  className="inline-flex min-h-[34px] min-w-[76px] items-center justify-center rounded-full border border-[var(--line-strong)] bg-[rgba(16,16,0,0.34)] font-mono text-[0.78rem] font-black uppercase tracking-[0.08em] text-[var(--accent)] hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.1)] max-[640px]:min-h-12 max-[640px]:min-w-[108px] max-[640px]:text-[0.88rem]"
-                >
-                  {company.ticker}
-                </Link>
-              ))}
-            </div>
+          <div className="w-full max-w-[620px] justify-self-end max-[1100px]:max-w-none max-[1100px]:justify-self-stretch">
+            <HeroGraph graphData={graphData} />
           </div>
         </section>
 
