@@ -406,7 +406,7 @@ export function PublicHomePageClient({
           <div className="relative z-[2] grid gap-8 pt-6 max-[640px]:gap-7 max-[640px]:pt-4">
             <div>
             <h1
-              className="m-0 text-[clamp(2.4rem,4.2vw,4.4rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[clamp(2.25rem,9.6vw,3.35rem)] max-[640px]:leading-[1.05]"
+              className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[clamp(2.25rem,9.6vw,3.35rem)] max-[640px]:leading-[1.05]"
               style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
             >
               Discover.
@@ -481,21 +481,21 @@ export function PublicHomePageClient({
         >
           {stats.map((stat) => (
             <article
-              className="grid min-h-[140px] grid-cols-[76px_minmax(0,1fr)] items-center gap-[22px] rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-[26px] shadow-[var(--shadow-soft)] max-[640px]:min-h-[182px] max-[640px]:grid-cols-1 max-[640px]:content-start max-[640px]:gap-4 max-[640px]:p-6"
+              className="grid h-[142px] grid-cols-[76px_minmax(0,1fr)] items-center gap-[22px] rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-[26px] shadow-[var(--shadow-soft)] max-[640px]:h-[182px] max-[640px]:grid-cols-1 max-[640px]:content-start max-[640px]:gap-4 max-[640px]:p-6"
               key={stat.label}
             >
               <div className="inline-flex h-[66px] w-[66px] items-center justify-center rounded-[18px] border border-[var(--line-strong)] bg-[rgba(250,255,105,0.04)] text-[var(--accent)] max-[640px]:h-[76px] max-[640px]:w-[76px] [&_svg]:h-9 [&_svg]:w-9 [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.45] [&_svg]:[stroke-linecap:round] [&_svg]:[stroke-linejoin:round]">
                 <StatIcon type={stat.icon} />
               </div>
               <div className="min-w-0">
-                <p className="mb-2.5 mt-0 font-mono text-[0.78rem] font-black uppercase tracking-[0.18em] text-[var(--muted-strong)]">
+                <p className="mb-2.5 mt-0 flex h-4 items-start font-mono text-[0.78rem] font-black uppercase tracking-[0.18em] text-[var(--muted-strong)]">
                   {stat.label}
                 </p>
                 <strong
-                  className={`block leading-[1.08] text-[var(--accent)] ${
+                  className={`block leading-[1.08] ${
                     stat.icon === "sector"
-                      ? "whitespace-nowrap text-[clamp(0.88rem,0.96vw,1.04rem)] leading-none tracking-normal max-[640px]:text-[clamp(1.12rem,4.4vw,1.34rem)]"
-                      : "text-[clamp(1.65rem,2.2vw,2.45rem)] tracking-[0.03em] max-[640px]:text-[clamp(1.8rem,8vw,2.55rem)]"
+                      ? "whitespace-nowrap text-[1.28rem] leading-none tracking-normal text-[var(--accent)] max-[640px]:text-[1.42rem]"
+                      : "text-[clamp(1.65rem,2.2vw,2.45rem)] tracking-[0.03em] text-[var(--accent)] max-[640px]:text-[clamp(1.8rem,8vw,2.55rem)]"
                   }`}
                   style={{
                     fontFamily: stat.icon === "sector" ? "var(--font-sans)" : "var(--font-display)",
@@ -508,7 +508,7 @@ export function PublicHomePageClient({
                     stat.value
                   )}
                 </strong>
-                <span className="mt-2 block text-[0.98rem] leading-[1.45] text-[var(--text-strong)]">
+                <span className="mt-2 flex h-[1.45rem] items-start whitespace-nowrap text-[0.98rem] leading-[1.45] text-[var(--text-strong)] max-[640px]:whitespace-normal">
                   {stat.detail}
                 </span>
               </div>
