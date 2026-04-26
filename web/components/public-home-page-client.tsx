@@ -3,7 +3,7 @@
 import type { Route } from "next";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useState, type FormEvent } from "react";
+import { useEffect, useState, type FormEvent } from "react";
 import { ShellHeader } from "@/components/shell-header";
 import type { CompanyListItem, GraphLink, GraphResponse, Sector } from "@/lib/api";
 import { translateSectorName } from "@/lib/i18n";
@@ -62,6 +62,83 @@ function formatNumber(value?: number | null) {
   }
 
   return new Intl.NumberFormat("en-US").format(value);
+}
+
+function AnimatedStatValue({
+  value,
+  suffix = "",
+}: {
+  value?: number | null;
+  suffix?: string;
+}) {
+  const safeValue = typeof value === "number" && Number.isFinite(value) ? Math.max(0, value) : null;
+  const [displayValue, setDisplayValue] = useState(() => {
+    if (safeValue === null) {
+      return null;
+    }
+
+    return safeValue > 24 ? Math.round(safeValue * 0.08) : 0;
+  });
+
+  useEffect(() => {
+    if (safeValue === null) {
+      setDisplayValue(null);
+      return;
+    }
+
+    if (typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      setDisplayValue(safeValue);
+      return;
+    }
+
+    const durationMs = 2000;
+    const startValue = safeValue > 24 ? Math.round(safeValue * 0.08) : 0;
+    const wobbleAmplitude = Math.max(1, Math.round(safeValue * 0.018));
+    let frameId = 0;
+    let startTime = 0;
+
+    setDisplayValue(startValue);
+
+    const updateValue = (timestamp: number) => {
+      if (!startTime) {
+        startTime = timestamp;
+      }
+
+      const elapsed = timestamp - startTime;
+      const progress = Math.min(elapsed / durationMs, 1);
+      const easedProgress =
+        progress < 0.5
+          ? 4 * progress * progress * progress
+          : 1 - ((-2 * progress + 2) ** 3) / 2;
+      const baseValue = startValue + (safeValue - startValue) * easedProgress;
+      const wobble = Math.sin(progress * Math.PI * 6) * wobbleAmplitude * (1 - progress) * 0.9;
+      const nextValue =
+        progress >= 1
+          ? safeValue
+          : Math.max(0, Math.min(safeValue + wobbleAmplitude, Math.round(baseValue + wobble)));
+
+      setDisplayValue(nextValue);
+
+      if (progress < 1) {
+        frameId = window.requestAnimationFrame(updateValue);
+      }
+    };
+
+    frameId = window.requestAnimationFrame(updateValue);
+
+    return () => window.cancelAnimationFrame(frameId);
+  }, [safeValue]);
+
+  if (safeValue === null || displayValue === null) {
+    return <>N/A</>;
+  }
+
+  return (
+    <>
+      {formatNumber(displayValue)}
+      {suffix}
+    </>
+  );
 }
 
 function buildTsmcHeroGraph(graphData: GraphResponse) {
@@ -286,13 +363,13 @@ export function PublicHomePageClient({
   const stats = [
     {
       label: "Covered Companies",
-      value: formatNumber(health.latest_import?.company_count),
+      numericValue: health.latest_import?.company_count,
       detail: "Taiwan-listed",
       icon: "companies" as const,
     },
     {
       label: "Wikilinks",
-      value: formatNumber(health.latest_import?.wikilink_count),
+      numericValue: health.latest_import?.wikilink_count,
       detail: "Data Points",
       icon: "wikilinks" as const,
     },
@@ -304,7 +381,8 @@ export function PublicHomePageClient({
     },
     {
       label: "Themes",
-      value: `${formatNumber(graphData.meta.theme_count)}+`,
+      numericValue: graphData.meta.theme_count,
+      suffix: "+",
       detail: "Industry Themes",
       icon: "themes" as const,
     },
@@ -409,15 +487,26 @@ export function PublicHomePageClient({
               <div className="inline-flex h-[66px] w-[66px] items-center justify-center rounded-[18px] border border-[var(--line-strong)] bg-[rgba(250,255,105,0.04)] text-[var(--accent)] max-[640px]:h-[76px] max-[640px]:w-[76px] [&_svg]:h-9 [&_svg]:w-9 [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.45] [&_svg]:[stroke-linecap:round] [&_svg]:[stroke-linejoin:round]">
                 <StatIcon type={stat.icon} />
               </div>
-              <div>
+              <div className="min-w-0">
                 <p className="mb-2.5 mt-0 font-mono text-[0.78rem] font-black uppercase tracking-[0.18em] text-[var(--muted-strong)]">
                   {stat.label}
                 </p>
                 <strong
-                  className="block text-[clamp(1.65rem,2.2vw,2.45rem)] leading-[1.08] tracking-[0.03em] text-[var(--accent)] max-[640px]:text-[clamp(1.8rem,8vw,2.55rem)]"
-                  style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
+                  className={`block leading-[1.08] text-[var(--accent)] ${
+                    stat.icon === "sector"
+                      ? "whitespace-nowrap text-[clamp(0.88rem,0.96vw,1.04rem)] leading-none tracking-normal max-[640px]:text-[clamp(1.12rem,4.4vw,1.34rem)]"
+                      : "text-[clamp(1.65rem,2.2vw,2.45rem)] tracking-[0.03em] max-[640px]:text-[clamp(1.8rem,8vw,2.55rem)]"
+                  }`}
+                  style={{
+                    fontFamily: stat.icon === "sector" ? "var(--font-sans)" : "var(--font-display)",
+                    fontWeight: stat.icon === "sector" ? 900 : 950,
+                  }}
                 >
-                  {stat.value}
+                  {"numericValue" in stat ? (
+                    <AnimatedStatValue value={stat.numericValue} suffix={stat.suffix} />
+                  ) : (
+                    stat.value
+                  )}
                 </strong>
                 <span className="mt-2 block text-[0.98rem] leading-[1.45] text-[var(--text-strong)]">
                   {stat.detail}
