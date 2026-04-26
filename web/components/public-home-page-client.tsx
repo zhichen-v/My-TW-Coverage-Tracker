@@ -209,7 +209,7 @@ function HeroGraph({ graphData }: { graphData: GraphResponse }) {
 
   return (
     <div
-      className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:min-h-[370px] max-[640px]:mr-[-28px] max-[640px]:mt-0 max-[640px]:min-h-[300px]"
+      className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:min-h-[370px] max-[640px]:mr-0 max-[640px]:mt-0 max-[640px]:min-h-[260px]"
       aria-label="TSMC related theme graph preview"
     >
       <svg
@@ -217,7 +217,7 @@ function HeroGraph({ graphData }: { graphData: GraphResponse }) {
         aria-label="TSMC related theme graph"
         viewBox={`0 0 ${HERO_GRAPH_WIDTH} ${HERO_GRAPH_HEIGHT}`}
         preserveAspectRatio="xMidYMid meet"
-        className="relative block h-[430px] w-full max-[1100px]:h-[400px] max-[640px]:h-[300px] max-[640px]:min-w-[330px]"
+        className="relative block h-[430px] w-full max-[1100px]:h-[400px] max-[640px]:h-[260px] max-[640px]:min-w-[280px]"
       >
         <defs>
           <filter id="hero-graph-glow">
@@ -440,20 +440,20 @@ export function PublicHomePageClient({
 
       <main className="flex flex-col gap-5 sm:gap-6">
         <section
-          className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:grid-cols-[minmax(0,0.9fr)_minmax(168px,1fr)] max-[640px]:items-start max-[640px]:gap-x-0 max-[640px]:gap-y-5"
+          className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:grid-cols-[minmax(0,0.95fr)_minmax(150px,0.95fr)] max-[640px]:items-start max-[640px]:gap-x-1 max-[640px]:gap-y-5"
           aria-label="Homepage introduction"
         >
           <div className="relative z-[2] grid gap-8 pt-6 max-[640px]:contents">
             <div className="max-[640px]:col-start-1 max-[640px]:row-start-1 max-[640px]:pt-3">
             <h1
-              className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[2.2rem] max-[640px]:leading-[1.08] max-[640px]:tracking-[-0.05em]"
+              className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[2.0rem] max-[640px]:leading-[1.08] max-[640px]:tracking-[-0.05em]"
               style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
             >
               Discover.
               <br />
               Analyze.
               <br />
-              <span className="max-[640px]:whitespace-normal">
+              <span className="whitespace-nowrap max-[640px]:whitespace-normal">
                 Track <span className="text-[var(--accent)]">Taiwan Stocks.</span>
               </span>
             </h1>
@@ -465,10 +465,10 @@ export function PublicHomePageClient({
 
             <div className="grid gap-5 max-[640px]:col-span-2 max-[640px]:row-start-2 max-[640px]:gap-5" aria-label="Company search">
               <form
-                className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[64px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(144px,0.42fr)] max-[640px]:rounded-[16px]"
+                className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[16px] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[56px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(112px,0.34fr)]"
                 onSubmit={submitSearch}
               >
-                <span className="inline-flex w-16 items-center justify-center text-[var(--muted-strong)] max-[640px]:w-[52px] [&_svg]:h-[30px] [&_svg]:w-[30px] [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.6] max-[640px]:[&_svg]:h-6 max-[640px]:[&_svg]:w-6">
+                <span className="inline-flex w-16 items-center justify-center text-[var(--muted-strong)] max-[640px]:w-[44px] [&_svg]:h-[30px] [&_svg]:w-[30px] [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.6] max-[640px]:[&_svg]:h-5 max-[640px]:[&_svg]:w-5">
                   <SearchIcon />
                 </span>
                 <input
@@ -477,13 +477,14 @@ export function PublicHomePageClient({
                   onChange={(event) => setQuery(event.target.value)}
                   placeholder="Search by ticker, company name, sector, or key terms"
                   aria-label="Search companies"
-                  className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-2 max-[640px]:text-[0.78rem] max-[640px]:leading-[1.3]"
+                  className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-1.5 max-[640px]:text-[0.68rem] max-[640px]:leading-[1.25]"
                 />
                 <button
-                  className="m-2 inline-flex min-w-[165px] items-center justify-center self-stretch whitespace-nowrap rounded-[var(--radius-lg)] border border-[var(--accent)] bg-[var(--accent)] px-4 font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:m-1 max-[640px]:min-w-0 max-[640px]:rounded-[14px] max-[640px]:px-2 max-[640px]:text-[0.7rem] max-[640px]:tracking-[0.025em]"
+                  className="m-2 inline-flex min-w-[165px] items-center justify-center self-stretch whitespace-nowrap rounded-[14px] border border-[var(--accent)] bg-[var(--accent)] px-4 font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:m-1 max-[640px]:min-w-0 max-[640px]:px-1.5 max-[640px]:text-[0.62rem] max-[640px]:tracking-[0.04em]"
                   type="submit"
                 >
-                  Explore Now
+                  <span className="max-[640px]:hidden">Explore Now</span>
+                  <span className="hidden max-[640px]:inline">Explore</span>
                 </button>
               </form>
 
@@ -500,7 +501,7 @@ export function PublicHomePageClient({
                       key={company.report_id}
                       href={`/app?q=${encodeURIComponent(company.ticker)}` as Route}
                       title={company.company_name}
-                      className="inline-flex min-h-[34px] min-w-[76px] items-center justify-center rounded-full border border-[var(--line-strong)] bg-[rgba(16,16,0,0.34)] px-5 font-mono text-[0.78rem] font-black uppercase tracking-[0.08em] text-[var(--accent)] hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.1)] max-[640px]:min-h-[42px] max-[640px]:min-w-[88px] max-[640px]:px-5 max-[640px]:text-[0.84rem]"
+                      className="inline-flex min-h-[34px] min-w-[76px] items-center justify-center rounded-full border border-[var(--line-strong)] bg-[rgba(16,16,0,0.34)] px-5 font-mono text-[0.78rem] font-black uppercase tracking-[0.08em] text-[var(--accent)] hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.1)] max-[640px]:min-h-[38px] max-[640px]:min-w-[78px] max-[640px]:px-5 max-[640px]:text-[0.84rem]"
                     >
                       {company.ticker}
                     </Link>
@@ -557,13 +558,13 @@ export function PublicHomePageClient({
         </section>
 
         <section
-          className="grid gap-[22px] rounded-[var(--radius-lg)] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-7 shadow-[var(--shadow-soft)] max-[640px]:gap-5 max-[640px]:border-0 max-[640px]:bg-transparent max-[640px]:p-0 max-[640px]:shadow-none"
+          className="grid gap-[22px] p-0 max-[640px]:gap-5"
           aria-label="Quick access"
         >
           <p className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.86rem] max-[640px]:tracking-[0.2em]">
             Quick Access
           </p>
-          <div className="grid grid-cols-3 gap-5 max-[900px]:grid-cols-1 max-[640px]:gap-2.5">
+          <div className="grid grid-cols-3 gap-2 max-[900px]:grid-cols-1 max-[640px]:gap-2.5">
             {quickAccessItems.map((item) => (
               <Link
                 key={item.title}
