@@ -4,9 +4,13 @@ import type { Route } from "next";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useState, type FormEvent } from "react";
+import {
+  HomepageCompanyCloud,
+  type HomepageCompanyCloudNode,
+} from "@/components/homepage-company-cloud";
 import { useLanguage } from "@/components/language-provider";
 import { ShellHeader } from "@/components/shell-header";
-import type { CompanyListItem, GraphLink, GraphResponse, Sector } from "@/lib/api";
+import type { CompanyListItem, Sector } from "@/lib/api";
 import {
   translateHomepage,
   translateSectorName,
@@ -26,40 +30,8 @@ type PublicHomePageClientProps = {
   health: HealthSnapshot;
   sectors: Sector[];
   popularCompanies: CompanyListItem[];
-  graphData: GraphResponse;
+  cloudCompanies: HomepageCompanyCloudNode[];
 };
-
-type HeroGraphNode = {
-  id: string;
-  label: string;
-  type: "company" | "theme";
-  radius: number;
-};
-
-type HeroGraphLink = {
-  source: string;
-  target: string;
-};
-
-type HeroGraphPosition = {
-  x: number;
-  y: number;
-};
-
-const CENTER_NODE_ID = "tsmc";
-const HERO_GRAPH_WIDTH = 720;
-const HERO_GRAPH_HEIGHT = 430;
-const HERO_GRAPH_CENTER: HeroGraphPosition = { x: 432, y: 210 };
-const HERO_GRAPH_THEME_POSITIONS: HeroGraphPosition[] = [
-  { x: 296, y: 112 },
-  { x: 280, y: 260 },
-  { x: 466, y: 84 },
-  { x: 548, y: 128 },
-  { x: 522, y: 228 },
-  { x: 480, y: 318 },
-  { x: 320, y: 346 },
-  { x: 618, y: 190 },
-];
 
 function formatNumber(value?: number | null) {
   if (typeof value !== "number" || !Number.isFinite(value)) {
@@ -165,163 +137,6 @@ function SectorStatValue({ value }: { value: string }) {
   );
 }
 
-function buildTsmcHeroGraph(graphData: GraphResponse, centerCompanyLabel: string) {
-  const tsmcThemeIds = new Set<string>();
-
-  graphData.company_map.themes.forEach((theme) => {
-    const hasTsmc = theme.all_companies.some(
-      (company) => company.ticker === "2330" || company.company_name.includes("台積電"),
-    );
-    if (hasTsmc) {
-      tsmcThemeIds.add(theme.id);
-    }
-  });
-
-  const graphNodeById = new Map(graphData.graph.nodes.map((node) => [node.id, node]));
-  const weightedThemeIds = Array.from(tsmcThemeIds)
-    .map((id) => {
-      const node = graphNodeById.get(id);
-      return {
-        id,
-        degree: node?.degree ?? 0,
-        label: node?.label ?? id,
-      };
-    })
-    .sort((left, right) => right.degree - left.degree || left.label.localeCompare(right.label))
-    .slice(0, 8);
-
-  const themeIds = new Set(weightedThemeIds.map((theme) => theme.id));
-  const nodes: HeroGraphNode[] = [
-    {
-      id: CENTER_NODE_ID,
-      label: centerCompanyLabel,
-      type: "company",
-      radius: 34,
-    },
-    ...weightedThemeIds.map((theme, index) => ({
-      id: theme.id,
-      label: theme.label,
-      type: "theme" as const,
-      radius: index < 4 ? 22 : 18,
-    })),
-  ];
-
-  const links: HeroGraphLink[] = weightedThemeIds.map((theme) => ({
-    source: CENTER_NODE_ID,
-    target: theme.id,
-  }));
-
-  graphData.graph.links.forEach((link: GraphLink) => {
-    if (themeIds.has(link.source) && themeIds.has(link.target)) {
-      links.push({ source: link.source, target: link.target });
-    }
-  });
-
-  return { nodes, links };
-}
-
-function HeroGraph({ graphData }: { graphData: GraphResponse }) {
-  const { language } = useLanguage();
-  const graph = buildTsmcHeroGraph(
-    graphData,
-    translateHomepage(language, "heroGraphCenterCompany"),
-  );
-  const positionedNodes = graph.nodes.map((node, index) => ({
-    ...node,
-    position:
-      node.id === CENTER_NODE_ID
-        ? HERO_GRAPH_CENTER
-        : HERO_GRAPH_THEME_POSITIONS[(index - 1) % HERO_GRAPH_THEME_POSITIONS.length],
-  }));
-  const nodePositions = new Map(positionedNodes.map((node) => [node.id, node.position]));
-
-  return (
-    <div
-      className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:min-h-[370px] max-[640px]:mr-0 max-[640px]:mt-0 max-[640px]:min-h-[260px]"
-      aria-label={translateHomepage(language, "heroGraphPreviewAria")}
-    >
-      <svg
-        role="img"
-        aria-label={translateHomepage(language, "heroGraphAria")}
-        viewBox={`0 0 ${HERO_GRAPH_WIDTH} ${HERO_GRAPH_HEIGHT}`}
-        preserveAspectRatio="xMidYMid meet"
-        className="relative block h-[430px] w-full max-[1100px]:h-[400px] max-[640px]:h-[260px] max-[640px]:min-w-[280px]"
-      >
-        <defs>
-          <filter id="hero-graph-glow">
-            <feGaussianBlur stdDeviation="7" result="blur" />
-            <feMerge>
-              <feMergeNode in="blur" />
-              <feMergeNode in="SourceGraphic" />
-            </feMerge>
-          </filter>
-        </defs>
-
-        <g>
-          {graph.links.map((link, index) => {
-            const source = nodePositions.get(link.source);
-            const target = nodePositions.get(link.target);
-            if (!source || !target) {
-              return null;
-            }
-
-            return (
-              <line
-                key={`link-${link.source}-${link.target}-${index}`}
-                x1={source.x}
-                y1={source.y}
-                x2={target.x}
-                y2={target.y}
-                stroke="rgba(255,255,255,0.22)"
-                strokeWidth="1.2"
-              />
-            );
-          })}
-        </g>
-
-        <g>
-          {positionedNodes.map((node) => (
-            <circle
-              key={node.id}
-              cx={node.position.x}
-              cy={node.position.y}
-              r={node.radius}
-              fill={node.type === "company" ? "var(--accent)" : "#166534"}
-              stroke={node.type === "company" ? "#f4f692" : "rgba(250,255,105,0.18)"}
-              strokeWidth="1.2"
-              filter={node.type === "company" ? "url(#hero-graph-glow)" : undefined}
-            />
-          ))}
-        </g>
-
-        <g>
-          {positionedNodes.map((node) => (
-            <text
-              key={`label-${node.id}`}
-              x={node.position.x}
-              y={node.position.y + node.radius + 18}
-              textAnchor="middle"
-              fill="var(--text-strong)"
-              fontFamily="var(--font-sans)"
-              fontSize={node.type === "company" ? 14 : 12}
-              fontWeight="800"
-              paintOrder="stroke"
-              stroke="rgba(0,0,0,0.72)"
-              strokeWidth="4"
-            >
-              {node.label.split("\n").map((line, index) => (
-                <tspan key={`${node.id}-${index}`} x={node.position.x} dy={index === 0 ? 0 : 18}>
-                  {line}
-                </tspan>
-              ))}
-            </text>
-          ))}
-        </g>
-      </svg>
-    </div>
-  );
-}
-
 function SearchIcon() {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -397,7 +212,7 @@ export function PublicHomePageClient({
   health,
   sectors,
   popularCompanies,
-  graphData,
+  cloudCompanies,
 }: PublicHomePageClientProps) {
   const router = useRouter();
   const { language } = useLanguage();
@@ -453,10 +268,9 @@ export function PublicHomePageClient({
       icon: "sector" as const,
     },
     {
-      id: "themes",
-      label: homeT("themes"),
-      numericValue: graphData.meta.theme_count,
-      suffix: "+",
+      id: "sector-groups",
+      label: homeT("sectorGroups"),
+      numericValue: sectors.length,
       icon: "themes" as const,
     },
   ];
@@ -473,11 +287,11 @@ export function PublicHomePageClient({
 
       <main className="flex flex-col gap-5 sm:gap-6">
         <section
-          className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:grid-cols-[minmax(0,0.95fr)_minmax(150px,0.95fr)] max-[640px]:items-start max-[640px]:gap-x-1 max-[640px]:gap-y-5"
+          className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-center gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-6"
           aria-label={homeT("heroSectionAria")}
         >
-          <div className="relative z-[2] grid gap-8 pt-6 max-[640px]:contents">
-            <div className="max-[640px]:col-start-1 max-[640px]:row-start-1 max-[640px]:pt-3">
+          <div className="relative z-[2] grid max-w-[760px] gap-8 pt-6 max-[640px]:gap-6 max-[640px]:pt-3">
+            <div>
             <h1
               className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[2.0rem] max-[640px]:leading-[1.08] max-[640px]:tracking-[-0.05em]"
               style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
@@ -495,7 +309,7 @@ export function PublicHomePageClient({
             </p>
             </div>
 
-            <div className="grid gap-5 max-[640px]:col-span-2 max-[640px]:row-start-2 max-[640px]:gap-5" aria-label={homeT("searchSectionAria")}>
+            <div className="grid gap-5 max-[640px]:gap-5" aria-label={homeT("searchSectionAria")}>
               <form
                 className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[16px] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[56px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(112px,0.34fr)]"
                 onSubmit={submitSearch}
@@ -543,8 +357,8 @@ export function PublicHomePageClient({
             </div>
           </div>
 
-          <div className="w-full max-w-[620px] justify-self-end max-[1100px]:max-w-none max-[1100px]:justify-self-stretch max-[640px]:col-start-2 max-[640px]:row-start-1 max-[640px]:mt-0 max-[640px]:justify-self-end">
-            <HeroGraph graphData={graphData} />
+          <div className="relative z-[1] min-w-0">
+            <HomepageCompanyCloud companies={cloudCompanies} />
           </div>
         </section>
 
@@ -579,7 +393,6 @@ export function PublicHomePageClient({
                     {"numericValue" in stat ? (
                       <AnimatedStatValue
                         value={stat.numericValue}
-                        suffix={stat.suffix}
                         fallback={homeT("notAvailable")}
                       />
                     ) : (

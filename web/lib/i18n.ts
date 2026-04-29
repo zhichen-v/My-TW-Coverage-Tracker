@@ -82,9 +82,6 @@ export const translations = {
 
 export const homepageTranslations = {
   "zh-Hant": {
-    heroGraphPreviewAria: "台積電相關主題圖預覽",
-    heroGraphAria: "台積電相關主題圖",
-    heroGraphCenterCompany: "台積電\n2330",
     heroSectionAria: "首頁介紹",
     heroDescription:
       "探索台灣上市櫃公司、供應鏈資訊、相關產業，並快速查看關鍵財報訊息。",
@@ -98,6 +95,7 @@ export const homepageTranslations = {
     coveredCompanies: "已收錄公司",
     wikilinks: "數據節點數量",
     topSector: "最高市值產業",
+    sectorGroups: "產業分類",
     themes: "科技主題",
     quickAccessAria: "快速入口",
     quickAccess: "快速入口",
@@ -110,9 +108,6 @@ export const homepageTranslations = {
     notAvailable: "無資料",
   },
   en: {
-    heroGraphPreviewAria: "TSMC related theme graph preview",
-    heroGraphAria: "TSMC related theme graph",
-    heroGraphCenterCompany: "TSMC\n2330",
     heroSectionAria: "Homepage introduction",
     heroDescription:
       "Explore Taiwan-listed companies, uncover industry connections, and access key financial data in one place.",
@@ -126,6 +121,7 @@ export const homepageTranslations = {
     coveredCompanies: "Covered Companies",
     wikilinks: "Wikilinks",
     topSector: "Top Sector",
+    sectorGroups: "Sectors",
     themes: "Themes",
     quickAccessAria: "Quick access",
     quickAccess: "Quick Access",

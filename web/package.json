@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build:homepage-cloud-data": "node scripts/build-homepage-company-cloud-data.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
