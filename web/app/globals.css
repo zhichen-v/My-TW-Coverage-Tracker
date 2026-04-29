@@ -136,6 +136,46 @@ body.graph-route-locked .site-shell {
   overflow: hidden;
 }
 
+@keyframes homepage-stat-marquee {
+  0%,
+  16% {
+    transform: translateX(0);
+  }
+
+  84%,
+  100% {
+    transform: translateX(calc(-50% - 0.75rem));
+  }
+}
+
+.homepage-stat-marquee {
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.homepage-stat-marquee-track {
+  display: inline-flex;
+  min-width: max-content;
+  gap: 1.5rem;
+  animation: homepage-stat-marquee 8.5s linear infinite;
+}
+
+.homepage-stat-marquee:hover .homepage-stat-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .homepage-stat-marquee-track {
+    animation: none;
+  }
+
+  .homepage-stat-marquee-track span[aria-hidden="true"] {
+    display: none;
+  }
+}
+
 .topbar-nav {
   display: inline-flex;
   flex-wrap: wrap;

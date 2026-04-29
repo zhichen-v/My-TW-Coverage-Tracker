@@ -80,6 +80,65 @@ export const translations = {
   },
 } as const;
 
+export const homepageTranslations = {
+  "zh-Hant": {
+    heroGraphPreviewAria: "台積電相關主題圖預覽",
+    heroGraphAria: "台積電相關主題圖",
+    heroGraphCenterCompany: "台積電\n2330",
+    heroSectionAria: "首頁介紹",
+    heroDescription:
+      "探索台灣上市櫃公司、梳理產業連結，並快速查看關鍵財務資料。",
+    searchSectionAria: "公司搜尋",
+    searchPlaceholder: "搜尋股票代號、公司名稱、產業或關鍵字",
+    searchInputAria: "搜尋公司",
+    exploreNow: "開始探索",
+    exploreShort: "探索",
+    popularSearches: "熱門搜尋",
+    marketSummaryAria: "市場資料摘要",
+    coveredCompanies: "已收錄公司",
+    wikilinks: "維基連結",
+    topSector: "最高市值產業",
+    themes: "主題",
+    quickAccessAria: "快速入口",
+    quickAccess: "快速入口",
+    companyListTitle: "公司清單",
+    companyListDescription: "瀏覽所有台灣上市櫃公司",
+    themesGraphTitle: "主題關係圖",
+    themesGraphDescription: "探索產業之間的關係",
+    marketOverviewTitle: "市場總覽",
+    marketOverviewDescription: "查看整體市場摘要",
+    notAvailable: "無資料",
+  },
+  en: {
+    heroGraphPreviewAria: "TSMC related theme graph preview",
+    heroGraphAria: "TSMC related theme graph",
+    heroGraphCenterCompany: "TSMC\n2330",
+    heroSectionAria: "Homepage introduction",
+    heroDescription:
+      "Explore Taiwan-listed companies, uncover industry connections, and access key financial data in one place.",
+    searchSectionAria: "Company search",
+    searchPlaceholder: "Search by ticker, company name, sector, or key terms",
+    searchInputAria: "Search companies",
+    exploreNow: "Explore Now",
+    exploreShort: "Explore",
+    popularSearches: "Popular Searches",
+    marketSummaryAria: "Market data summary",
+    coveredCompanies: "Covered Companies",
+    wikilinks: "Wikilinks",
+    topSector: "Top Sector",
+    themes: "Themes",
+    quickAccessAria: "Quick access",
+    quickAccess: "Quick Access",
+    companyListTitle: "Company List",
+    companyListDescription: "Browse all Taiwan-listed companies",
+    themesGraphTitle: "Themes Graph",
+    themesGraphDescription: "Explore industry relationships",
+    marketOverviewTitle: "Market Overview",
+    marketOverviewDescription: "View overall market snapshot",
+    notAvailable: "N/A",
+  },
+} as const;
+
 const sectorTranslations: Record<string, string> = {
   "Advertising Agencies": "廣告代理",
   "Aerospace & Defense": "航太與國防",
@@ -182,9 +241,17 @@ const sectorTranslations: Record<string, string> = {
 };
 
 export type TranslationKey = keyof (typeof translations)["zh-Hant"];
+export type HomepageTranslationKey = keyof (typeof homepageTranslations)["zh-Hant"];
 
 export function translate(language: SupportedLanguage, key: TranslationKey) {
   return translations[language][key];
+}
+
+export function translateHomepage(
+  language: SupportedLanguage,
+  key: HomepageTranslationKey,
+) {
+  return homepageTranslations[language][key];
 }
 
 export function translateSectorName(language: SupportedLanguage, sectorName: string) {

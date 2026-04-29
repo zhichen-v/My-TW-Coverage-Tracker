@@ -4,9 +4,14 @@ import type { Route } from "next";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useState, type FormEvent } from "react";
+import { useLanguage } from "@/components/language-provider";
 import { ShellHeader } from "@/components/shell-header";
 import type { CompanyListItem, GraphLink, GraphResponse, Sector } from "@/lib/api";
-import { translateSectorName } from "@/lib/i18n";
+import {
+  translateHomepage,
+  translateSectorName,
+  type HomepageTranslationKey,
+} from "@/lib/i18n";
 
 type HealthSnapshot = {
   status: string;
@@ -67,9 +72,11 @@ function formatNumber(value?: number | null) {
 function AnimatedStatValue({
   value,
   suffix = "",
+  fallback = "N/A",
 }: {
   value?: number | null;
   suffix?: string;
+  fallback?: string;
 }) {
   const safeValue = typeof value === "number" && Number.isFinite(value) ? Math.max(0, value) : null;
   const [displayValue, setDisplayValue] = useState(() => {
@@ -130,7 +137,7 @@ function AnimatedStatValue({
   }, [safeValue]);
 
   if (safeValue === null || displayValue === null) {
-    return <>N/A</>;
+    return <>{fallback}</>;
   }
 
   return (
@@ -141,7 +148,24 @@ function AnimatedStatValue({
   );
 }
 
-function buildTsmcHeroGraph(graphData: GraphResponse) {
+function SectorStatValue({ value }: { value: string }) {
+  const shouldScroll = value.length > 10;
+
+  if (!shouldScroll) {
+    return <span>{value}</span>;
+  }
+
+  return (
+    <span className="homepage-stat-marquee" title={value}>
+      <span className="homepage-stat-marquee-track">
+        <span>{value}</span>
+        <span aria-hidden="true">{value}</span>
+      </span>
+    </span>
+  );
+}
+
+function buildTsmcHeroGraph(graphData: GraphResponse, centerCompanyLabel: string) {
   const tsmcThemeIds = new Set<string>();
 
   graphData.company_map.themes.forEach((theme) => {
@@ -170,7 +194,7 @@ function buildTsmcHeroGraph(graphData: GraphResponse) {
   const nodes: HeroGraphNode[] = [
     {
       id: CENTER_NODE_ID,
-      label: "台積電\n2330",
+      label: centerCompanyLabel,
       type: "company",
       radius: 34,
     },
@@ -197,7 +221,11 @@ function buildTsmcHeroGraph(graphData: GraphResponse) {
 }
 
 function HeroGraph({ graphData }: { graphData: GraphResponse }) {
-  const graph = buildTsmcHeroGraph(graphData);
+  const { language } = useLanguage();
+  const graph = buildTsmcHeroGraph(
+    graphData,
+    translateHomepage(language, "heroGraphCenterCompany"),
+  );
   const positionedNodes = graph.nodes.map((node, index) => ({
     ...node,
     position:
@@ -210,11 +238,11 @@ function HeroGraph({ graphData }: { graphData: GraphResponse }) {
   return (
     <div
       className="relative z-[1] min-h-[430px] overflow-hidden rounded-[var(--radius-lg)] before:absolute before:in-[8%_5%_2%_6%] before:rounded-full before:bg-[radial-gradient(circle,rgba(250,255,105,0.16),transparent_58%)] before:blur-[18px] max-[1100px]:min-h-[370px] max-[640px]:mr-0 max-[640px]:mt-0 max-[640px]:min-h-[260px]"
-      aria-label="TSMC related theme graph preview"
+      aria-label={translateHomepage(language, "heroGraphPreviewAria")}
     >
       <svg
         role="img"
-        aria-label="TSMC related theme graph"
+        aria-label={translateHomepage(language, "heroGraphAria")}
         viewBox={`0 0 ${HERO_GRAPH_WIDTH} ${HERO_GRAPH_HEIGHT}`}
         preserveAspectRatio="xMidYMid meet"
         className="relative block h-[430px] w-full max-[1100px]:h-[400px] max-[640px]:h-[260px] max-[640px]:min-w-[280px]"
@@ -372,58 +400,63 @@ export function PublicHomePageClient({
   graphData,
 }: PublicHomePageClientProps) {
   const router = useRouter();
+  const { language } = useLanguage();
+  const homeT = (key: HomepageTranslationKey) => translateHomepage(language, key);
   const [query, setQuery] = useState("");
   const topCompany = popularCompanies[0] ?? null;
   const topSector = topCompany
-    ? translateSectorName("en", topCompany.sector_folder)
+    ? translateSectorName(language, topCompany.sector_folder)
     : sectors[0]
-      ? translateSectorName("en", sectors[0].name)
-      : "N/A";
+      ? translateSectorName(language, sectors[0].name)
+      : homeT("notAvailable");
   const popularSearches = popularCompanies.slice(0, 5);
   const quickAccessItems = [
     {
-      title: "Company List",
-      description: "Browse all Taiwan-listed companies",
+      id: "company-list",
+      title: homeT("companyListTitle"),
+      description: homeT("companyListDescription"),
       href: "/app" as Route,
       icon: "company" as const,
     },
     {
-      title: "Themes Graph",
-      description: "Explore industry relationships",
+      id: "themes-graph",
+      title: homeT("themesGraphTitle"),
+      description: homeT("themesGraphDescription"),
       href: "/app/graph" as Route,
       icon: "graph" as const,
     },
     {
-      title: "Market Overview",
-      description: "View overall market snapshot",
+      id: "market-overview",
+      title: homeT("marketOverviewTitle"),
+      description: homeT("marketOverviewDescription"),
       href: "/app" as Route,
       icon: "market" as const,
     },
   ];
   const stats = [
     {
-      label: "Covered Companies",
+      id: "covered-companies",
+      label: homeT("coveredCompanies"),
       numericValue: health.latest_import?.company_count,
-      detail: "Taiwan-listed",
       icon: "companies" as const,
     },
     {
-      label: "Wikilinks",
+      id: "wikilinks",
+      label: homeT("wikilinks"),
       numericValue: health.latest_import?.wikilink_count,
-      detail: "Data Points",
       icon: "wikilinks" as const,
     },
     {
-      label: "Top Sector",
+      id: "top-sector",
+      label: homeT("topSector"),
       value: topSector,
-      detail: "Leading by market cap",
       icon: "sector" as const,
     },
     {
-      label: "Themes",
+      id: "themes",
+      label: homeT("themes"),
       numericValue: graphData.meta.theme_count,
       suffix: "+",
-      detail: "Industry Themes",
       icon: "themes" as const,
     },
   ];
@@ -441,7 +474,7 @@ export function PublicHomePageClient({
       <main className="flex flex-col gap-5 sm:gap-6">
         <section
           className="relative grid min-h-[520px] grid-cols-[minmax(0,760px)_minmax(320px,1fr)] items-center gap-6 max-[1100px]:min-h-0 max-[1100px]:grid-cols-1 max-[640px]:grid-cols-[minmax(0,0.95fr)_minmax(150px,0.95fr)] max-[640px]:items-start max-[640px]:gap-x-1 max-[640px]:gap-y-5"
-          aria-label="Homepage introduction"
+          aria-label={homeT("heroSectionAria")}
         >
           <div className="relative z-[2] grid gap-8 pt-6 max-[640px]:contents">
             <div className="max-[640px]:col-start-1 max-[640px]:row-start-1 max-[640px]:pt-3">
@@ -458,12 +491,11 @@ export function PublicHomePageClient({
               </span>
             </h1>
             <p className="mt-6 max-w-[700px] text-[clamp(1.05rem,1.45vw,1.34rem)] leading-[1.78] text-[var(--muted-strong)] max-[640px]:mt-4 max-[640px]:max-w-[27ch] max-[640px]:text-[0.9rem] max-[640px]:leading-[1.45]">
-              Explore Taiwan-listed companies, uncover industry connections, and access key
-              financial data — all in one place.
+              {homeT("heroDescription")}
             </p>
             </div>
 
-            <div className="grid gap-5 max-[640px]:col-span-2 max-[640px]:row-start-2 max-[640px]:gap-5" aria-label="Company search">
+            <div className="grid gap-5 max-[640px]:col-span-2 max-[640px]:row-start-2 max-[640px]:gap-5" aria-label={homeT("searchSectionAria")}>
               <form
                 className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[16px] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[56px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(112px,0.34fr)]"
                 onSubmit={submitSearch}
@@ -475,25 +507,25 @@ export function PublicHomePageClient({
                   type="search"
                   value={query}
                   onChange={(event) => setQuery(event.target.value)}
-                  placeholder="Search by ticker, company name, sector, or key terms"
-                  aria-label="Search companies"
+                  placeholder={homeT("searchPlaceholder")}
+                  aria-label={homeT("searchInputAria")}
                   className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-1.5 max-[640px]:text-[0.68rem] max-[640px]:leading-[1.25]"
                 />
                 <button
                   className="m-2 inline-flex min-w-[165px] items-center justify-center self-stretch whitespace-nowrap rounded-[14px] border border-[var(--accent)] bg-[var(--accent)] px-4 font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:m-1 max-[640px]:min-w-0 max-[640px]:px-1.5 max-[640px]:text-[0.62rem] max-[640px]:tracking-[0.04em]"
                   type="submit"
                 >
-                  <span className="max-[640px]:hidden">Explore Now</span>
-                  <span className="hidden max-[640px]:inline">Explore</span>
+                  <span className="max-[640px]:hidden">{homeT("exploreNow")}</span>
+                  <span className="hidden max-[640px]:inline">{homeT("exploreShort")}</span>
                 </button>
               </form>
 
               <div
                 className="flex flex-wrap items-center gap-[18px] max-[640px]:flex-col max-[640px]:items-start max-[640px]:gap-4"
-                aria-label="Popular searches"
+                aria-label={homeT("popularSearches")}
               >
                 <span className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.78rem] max-[640px]:tracking-[0.2em]">
-                  Popular Searches
+                  {homeT("popularSearches")}
                 </span>
                 <div className="flex flex-wrap gap-3 max-[640px]:gap-2.5">
                   {popularSearches.map((company) => (
@@ -518,40 +550,43 @@ export function PublicHomePageClient({
 
         <section
           className="grid grid-cols-4 gap-2 max-[1100px]:grid-cols-2 max-[640px]:gap-2.5"
-          aria-label="Market data summary"
+          aria-label={homeT("marketSummaryAria")}
         >
           {stats.map((stat) => (
             <article
-              className="grid h-[142px] grid-cols-[76px_minmax(0,1fr)] items-center gap-[22px] rounded-[24px] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-[26px] shadow-[var(--shadow-soft)] max-[640px]:h-[126px] max-[640px]:grid-cols-[46px_minmax(0,1fr)] max-[640px]:gap-2.5 max-[640px]:p-3.5"
-              key={stat.label}
+              className="grid h-[132px] grid-cols-[70px_minmax(0,1fr)] items-center gap-5 rounded-[24px] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-5 shadow-[var(--shadow-soft)] max-[640px]:h-[118px] max-[640px]:grid-cols-[44px_minmax(0,1fr)] max-[640px]:gap-2.5 max-[640px]:p-3.5"
+              key={stat.id}
             >
-              <div className="inline-flex h-[66px] w-[66px] items-center justify-center rounded-[18px] border border-[var(--line-strong)] bg-[rgba(250,255,105,0.04)] text-[var(--accent)] max-[640px]:h-[46px] max-[640px]:w-[46px] max-[640px]:rounded-[14px] [&_svg]:h-9 [&_svg]:w-9 [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.45] [&_svg]:[stroke-linecap:round] [&_svg]:[stroke-linejoin:round] max-[640px]:[&_svg]:h-6 max-[640px]:[&_svg]:w-6">
+              <div className="inline-flex h-[62px] w-[62px] items-center justify-center rounded-[18px] border border-[var(--line-strong)] bg-[rgba(250,255,105,0.04)] text-[var(--accent)] max-[640px]:h-[44px] max-[640px]:w-[44px] max-[640px]:rounded-[14px] [&_svg]:h-8 [&_svg]:w-8 [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.45] [&_svg]:[stroke-linecap:round] [&_svg]:[stroke-linejoin:round] max-[640px]:[&_svg]:h-6 max-[640px]:[&_svg]:w-6">
                 <StatIcon type={stat.icon} />
               </div>
-              <div className="min-w-0">
-                <p className="mb-3 mt-0 flex h-4 items-start font-mono text-[0.78rem] font-black uppercase tracking-[0.18em] text-[var(--muted-strong)] max-[640px]:mb-0.5 max-[640px]:h-[1.45rem] max-[640px]:text-[0.66rem] max-[640px]:leading-[1.12] max-[640px]:tracking-[0.16em]">
-                  {stat.label}
-                </p>
-                <strong
-                  className={`block leading-[1.08] ${
-                    stat.icon === "sector"
-                      ? "whitespace-normal text-[1.28rem] leading-[1.1] tracking-normal text-[var(--accent)] max-[640px]:text-[0.98rem]"
-                      : "text-[clamp(1.65rem,2.2vw,2.45rem)] tracking-[0.03em] text-[var(--accent)] max-[640px]:text-[1.52rem]"
-                  }`}
-                  style={{
-                    fontFamily: stat.icon === "sector" ? "var(--font-sans)" : "var(--font-display)",
-                    fontWeight: stat.icon === "sector" ? 900 : 950,
-                  }}
-                >
-                  {"numericValue" in stat ? (
-                    <AnimatedStatValue value={stat.numericValue} suffix={stat.suffix} />
-                  ) : (
-                    stat.value
-                  )}
-                </strong>
-                <span className="mt-2 flex h-[1.45rem] items-start whitespace-nowrap text-[0.98rem] leading-[1.45] text-[var(--text-strong)] max-[640px]:mt-1.5 max-[640px]:text-[0.82rem] max-[640px]:leading-[1.3] max-[640px]:whitespace-normal">
-                  {stat.detail}
-                </span>
+              <div className="flex min-w-0 items-center">
+                <div className="grid min-w-0 gap-3.5 max-[640px]:gap-2.5">
+                  <p className="m-0 font-mono text-[0.88rem] font-black uppercase leading-[1.12] tracking-[0.13em] text-[var(--muted-strong)] max-[640px]:text-[0.7rem] max-[640px]:leading-[1.12] max-[640px]:tracking-[0.08em]">
+                    {stat.label}
+                  </p>
+                  <strong
+                    className={`block min-w-0 overflow-hidden leading-[1.08] ${
+                      stat.icon === "sector"
+                        ? "whitespace-nowrap text-[clamp(1.65rem,2.05vw,2.3rem)] leading-[1.02] tracking-[0.01em] text-[var(--accent)] max-[640px]:text-[1.42rem]"
+                        : "text-[clamp(1.65rem,2.2vw,2.45rem)] tracking-[0.03em] text-[var(--accent)] max-[640px]:text-[1.52rem]"
+                    }`}
+                    style={{
+                      fontFamily: "var(--font-display)",
+                      fontWeight: 950,
+                    }}
+                  >
+                    {"numericValue" in stat ? (
+                      <AnimatedStatValue
+                        value={stat.numericValue}
+                        suffix={stat.suffix}
+                        fallback={homeT("notAvailable")}
+                      />
+                    ) : (
+                      <SectorStatValue value={stat.value} />
+                    )}
+                  </strong>
+                </div>
               </div>
             </article>
           ))}
@@ -559,15 +594,15 @@ export function PublicHomePageClient({
 
         <section
           className="grid gap-[22px] p-0 max-[640px]:gap-5"
-          aria-label="Quick access"
+          aria-label={homeT("quickAccessAria")}
         >
           <p className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.86rem] max-[640px]:tracking-[0.2em]">
-            Quick Access
+            {homeT("quickAccess")}
           </p>
           <div className="grid grid-cols-3 gap-2 max-[900px]:grid-cols-1 max-[640px]:gap-2.5">
             {quickAccessItems.map((item) => (
               <Link
-                key={item.title}
+                key={item.id}
                 href={item.href}
                 className="grid min-h-[84px] grid-cols-[56px_minmax(0,1fr)_auto] items-center gap-4 rounded-[24px] border border-[var(--line)] bg-[rgba(10,10,10,0.78)] px-5 text-[var(--text-strong)] hover:border-[var(--accent)] max-[640px]:min-h-[84px] max-[640px]:grid-cols-[46px_minmax(0,1fr)_auto] max-[640px]:gap-2.5 max-[640px]:px-3.5"
               >
