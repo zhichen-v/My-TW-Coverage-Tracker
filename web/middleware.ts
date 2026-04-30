@@ -55,12 +55,6 @@ export function middleware(request: NextRequest) {
       return redirectTo(request, APP_HOST, normalizedPath);
     }
 
-    if (pathname === "/") {
-      const url = request.nextUrl.clone();
-      url.pathname = "/app";
-      return NextResponse.rewrite(url);
-    }
-
     return NextResponse.next();
   }
 
