@@ -31,7 +31,7 @@ const TOUR_RANKS = [1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
 const CLOUD_BASE_CLASS =
   "pointer-events-none relative min-w-0 overflow-hidden [mask-image:radial-gradient(black_25%,transparent_100%)]";
 const CLOUD_DEFAULT_CLASS =
-  "h-[520px] w-[580px] justify-self-end rounded-[96px] max-[1180px]:justify-self-center max-[640px]:h-auto max-[640px]:w-full max-[640px]:aspect-[580/480]";
+  "h-[520px] w-[640px] justify-self-end rounded-[96px] max-[1180px]:justify-self-center max-[640px]:h-auto max-[640px]:w-full max-[640px]:aspect-[580/480]";
 
 function getNodeView(node: HomepageCompanyCloudNode): ZoomView {
   return [node.x, node.y, Math.max(80, node.r * 4.8)];
@@ -91,7 +91,7 @@ export function HomepageCompanyCloud({
         index += 1;
         const nextView = index % 7 === 0 ? OVERVIEW : getNodeView(nextNode);
         const interpolator = d3.interpolateZoom(currentViewRef.current, nextView);
-        const duration = Math.max(2500, Math.min(6000, interpolator.duration * 1.5));
+        const duration = Math.max(1000, Math.min(3000, interpolator.duration * 1.0));
 
         selection
           .transition("homepage-company-cloud-zoom")

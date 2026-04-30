@@ -379,7 +379,7 @@ export function PublicHomePageClient({
         >
           {stats.map((stat) => (
             <article
-              className="grid h-[132px] grid-cols-[70px_minmax(0,1fr)] items-center gap-5 rounded-[24px] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-5 shadow-[var(--shadow-soft)] max-[640px]:h-[118px] max-[640px]:grid-cols-[44px_minmax(0,1fr)] max-[640px]:gap-2.5 max-[640px]:p-3.5"
+              className="grid h-[132px] grid-cols-[70px_minmax(0,1fr)] items-center gap-5 rounded-[24px] border border-[var(--line)] bg-[rgba(10,10,10,0.92)] p-5 shadow-[var(--shadow-soft)] max-[640px]:h-[84px] max-[640px]:grid-cols-[44px_minmax(0,1fr)] max-[640px]:gap-2.5 max-[640px]:p-3.5"
               key={stat.id}
             >
               <div className="inline-flex h-[62px] w-[62px] items-center justify-center rounded-[18px] border border-[var(--line-strong)] bg-[rgba(250,255,105,0.04)] text-[var(--accent)] max-[640px]:h-[44px] max-[640px]:w-[44px] max-[640px]:rounded-[14px] [&_svg]:h-8 [&_svg]:w-8 [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.45] [&_svg]:[stroke-linecap:round] [&_svg]:[stroke-linejoin:round] max-[640px]:[&_svg]:h-6 max-[640px]:[&_svg]:w-6">
