@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useLanguage } from "@/components/language-provider";
 import { translateHomepage } from "@/lib/i18n";
+import { getAppHref, getPublicHref } from "@/lib/routes";
 
 export function ShellHeader() {
   const { t, language, switchLanguage } = useLanguage();
@@ -52,7 +53,7 @@ export function ShellHeader() {
           </span>
         </button>
 
-        <Link href="/" className="min-w-0 flex-1">
+        <Link href={getPublicHref("/")} className="min-w-0 flex-1">
           <span className="brand-mark text-[0.62rem]">
             Taiwan Equity Coverage
           </span>
@@ -105,7 +106,7 @@ export function ShellHeader() {
           <div className="border-t border-[var(--line)] pt-4">
             <nav aria-label="Primary" className="grid gap-2">
               <Link
-                href="/app"
+                href={getAppHref("/")}
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
               >
@@ -113,7 +114,7 @@ export function ShellHeader() {
                 <span className="font-mono text-[var(--accent)]">&gt;</span>
               </Link>
               <Link
-                href="/app/graph"
+                href={getAppHref("/graph")}
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
               >
@@ -127,7 +128,7 @@ export function ShellHeader() {
 
       <div className="hidden items-end justify-between gap-6 md:flex">
         <div className="flex min-w-0 items-end gap-8 lg:gap-12">
-          <Link href="/" className="min-w-0">
+          <Link href={getPublicHref("/")} className="min-w-0">
             <span className="brand-mark text-[0.7rem]">
               Taiwan Equity Coverage
             </span>
@@ -140,10 +141,10 @@ export function ShellHeader() {
           </Link>
 
           <nav aria-label="Primary" className="topbar-nav pb-1">
-            <Link href="/app" className="topbar-link">
+            <Link href={getAppHref("/")} className="topbar-link">
               {marketOverviewLabel}
             </Link>
-            <Link href="/app/graph" className="topbar-link">
+            <Link href={getAppHref("/graph")} className="topbar-link">
               {t("themesGraph")}
             </Link>
           </nav>

@@ -22,6 +22,7 @@ import {
   translateFinancialText,
 } from "@/lib/financial-markdown";
 import { translateSectorName, type SupportedLanguage } from "@/lib/i18n";
+import { getAppHref } from "@/lib/routes";
 import { useLanguage } from "@/components/language-provider";
 import { ShellHeader } from "@/components/shell-header";
 
@@ -347,7 +348,7 @@ function CompanyPageContent({ primary, count, ticker }: CompanyPageClientProps) 
       <div className="flex items-center justify-start">
         <Link
           className="inline-flex items-center gap-2 font-mono text-[0.88rem] font-bold uppercase tracking-[0.12em] text-[var(--muted-strong)] transition hover:text-[var(--accent)]"
-          href="/app"
+          href={getAppHref("/")}
         >
           <span className="text-[var(--accent)]">&lt;</span>
           BACK TO APP

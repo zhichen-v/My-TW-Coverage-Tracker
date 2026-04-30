@@ -1,8 +1,6 @@
 "use client";
 
-import type { Route } from "next";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import {
@@ -13,6 +11,7 @@ import {
   type GraphNode,
   type GraphResponse,
 } from "@/lib/api";
+import { getAppHref, getPublicHref } from "@/lib/routes";
 import styles from "./graph-page-client.module.css";
 
 type RenderNode = GraphNode &
@@ -322,13 +321,11 @@ function getRelatedThemes(selectedNode: GraphNode, links: GraphLink[], nodeById:
 
 function GraphCompanyCard({
   company,
-  companyBasePath,
 }: {
   company: GraphCompany;
-  companyBasePath: "/companies" | "/app/companies";
 }) {
   const companyHref = company.ticker
-    ? (`${companyBasePath}/${encodeURIComponent(company.ticker)}` as Route)
+    ? getAppHref(`/companies/${encodeURIComponent(company.ticker)}`)
     : null;
 
   return (
@@ -359,7 +356,6 @@ function GraphCompanyCard({
 }
 
 export function GraphPageClient() {
-  const pathname = usePathname();
   const [graphData, setGraphData] = useState<GraphResponse | null>(null);
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -428,14 +424,11 @@ export function GraphPageClient() {
   const selectedCompanyTheme = selectedNodeId ? companyThemeById.get(selectedNodeId) || null : null;
   const relatedThemes =
     selectedNode && graphData ? getRelatedThemes(selectedNode, graphData.graph.links, nodeById) : [];
-  const isAppRoute = pathname === "/app/graph" || pathname.startsWith("/app/");
-  const companyBasePath = isAppRoute ? "/app/companies" : "/companies";
-
   return (
     <div className={styles.page}>
       <section className={styles.viewport}>
         <aside className="absolute left-4 top-10 z-[2] grid w-[min(400px,calc(100vw-72px))] gap-3 bg-transparent p-0 max-[960px]:w-[min(340px,calc(100vw-48px))] max-[660px]:right-4 max-[660px]:w-auto">
-          <Link className="back-link justify-self-start" href="/">
+          <Link className="back-link justify-self-start" href={getPublicHref("/")}>
             BACK TO HOME
           </Link>
           <h1 className="m-0 text-[30px] font-black leading-none tracking-[-0.04em]">
@@ -513,7 +506,6 @@ export function GraphPageClient() {
                           <GraphCompanyCard
                             key={`${role}-${company.ticker}-${company.company_name}`}
                             company={company}
-                            companyBasePath={companyBasePath}
                           />
                         ))}
                       </div>

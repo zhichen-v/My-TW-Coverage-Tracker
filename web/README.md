@@ -6,6 +6,8 @@
 - `/app` reuses the existing coverage app homepage client.
 - `/companies/[ticker]` and `/graph` remain available for the current deployment.
 - `/app/companies/[ticker]` and `/app/graph` are route aliases for the planned app-prefixed host or route split.
+- In production, `anonky.xyz` is the public homepage host and `app.anonky.xyz` is the canonical app host for `/`, `/companies/[ticker]`, and `/graph`.
+- Set `NEXT_PUBLIC_PUBLIC_ORIGIN=https://anonky.xyz` and `NEXT_PUBLIC_APP_ORIGIN=https://app.anonky.xyz` before production builds so client navigation uses the canonical hosts.
 
 `web/` 是本專案的 Next.js App Router 前端，主要讀取根目錄 API 提供的公司列表、公司詳情與主題圖譜資料。
 

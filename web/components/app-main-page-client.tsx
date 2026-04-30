@@ -6,6 +6,7 @@ import { getCompanies, type CompaniesResponse, type Sector } from "@/lib/api";
 import { useLanguage } from "@/components/language-provider";
 import { translateFinancialText } from "@/lib/financial-markdown";
 import { translateSectorName } from "@/lib/i18n";
+import { getAppHistoryPath, getAppHref } from "@/lib/routes";
 import { ShellHeader } from "@/components/shell-header";
 import { DotsSpinner } from "@/src/spinners/dots";
 
@@ -145,9 +146,7 @@ function AppMainPageContent({
     if (currentPage > 1) {
       searchParams.set("page", String(currentPage));
     }
-    const queryString = searchParams.toString();
-    const nextUrl = queryString ? `/app?${queryString}` : "/app";
-    window.history.replaceState(null, "", nextUrl);
+    window.history.replaceState(null, "", getAppHistoryPath(searchParams.toString()));
   }, [appliedQuery, appliedSector, currentPage]);
 
   useEffect(() => {
@@ -374,7 +373,7 @@ function AppMainPageContent({
                 return (
                   <Link
                     key={company.report_id}
-                    href={`/app/companies/${encodeURIComponent(company.ticker)}`}
+                    href={getAppHref(`/companies/${encodeURIComponent(company.ticker)}`)}
                     prefetch={false}
                     className="group rounded-[24px] border border-[var(--line)] bg-[var(--surface)] px-4 py-4 transition duration-150 hover:translate-x-[6px] hover:border-[var(--accent)] sm:px-5"
                     style={rowStyle}

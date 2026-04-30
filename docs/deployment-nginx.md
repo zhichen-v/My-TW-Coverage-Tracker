@@ -7,13 +7,23 @@ Serve the public site through `Nginx` as the front reverse proxy, while keeping:
 - `FastAPI` on `127.0.0.1:8000`
 - `Next.js` on `127.0.0.1:3000`
 
+Production uses two public hosts:
+
+- `https://anonky.xyz` for the public homepage
+- `https://app.anonky.xyz` for the app, company pages, and themes graph
+
 This means `Nginx` replaces `Apache` only at the edge layer. It does not replace the `uvicorn` process or the `Next.js` server process.
 
 ## Request Flow
 
-`Browser` -> `Nginx` -> `Next.js (3000)`
+`Browser` -> `Nginx` -> `Next.js (3000)` for:
 
-`Browser` -> `Nginx` -> `FastAPI (8000)` for `/api/*`, `/docs`, `/openapi.json`, and `/health`
+- `anonky.xyz/`
+- `app.anonky.xyz/`
+- `app.anonky.xyz/companies/[ticker]`
+- `app.anonky.xyz/graph`
+
+`Browser` -> `Nginx` -> `FastAPI (8000)` for `/api/*`, `/docs`, `/openapi.json`, and `/health`.
 
 ## Prerequisites
 
@@ -52,11 +62,15 @@ npm run build
 NEXT_PUBLIC_API_BASE_URL=https://example.com npm run start -- --hostname 127.0.0.1 --port 3000
 ```
 
-If the public API is served on the same domain under `/api`, set:
+For the current public/app host split, set:
 
 ```bash
-NEXT_PUBLIC_API_BASE_URL=https://example.com
+NEXT_PUBLIC_API_BASE_URL=https://anonky.xyz
+NEXT_PUBLIC_PUBLIC_ORIGIN=https://anonky.xyz
+NEXT_PUBLIC_APP_ORIGIN=https://app.anonky.xyz
 ```
+
+Start or verify the API before building the frontend. The homepage is prerendered from API-backed data, so a stopped API can produce missing build-time data even if the Next.js build command exits successfully.
 
 ## Nginx Config
 
@@ -73,6 +87,7 @@ Then replace:
 
 - `example.com`
 - `www.example.com`
+- `app.example.com`
 - Any port, timeout, or cache values you need to tune
 
 Test and reload:
@@ -87,7 +102,7 @@ sudo systemctl reload nginx
 For HTTPS, add certificates after the HTTP config is working. A common path is `certbot`:
 
 ```bash
-sudo certbot --nginx -d example.com -d www.example.com
+sudo certbot --nginx -d example.com -d www.example.com -d app.example.com
 ```
 
 After TLS is added, keep the same upstream routing:
@@ -95,6 +110,8 @@ After TLS is added, keep the same upstream routing:
 - `/` -> `127.0.0.1:3000`
 - `/api/` -> `127.0.0.1:8000`
 - `/health` -> `127.0.0.1:8000`
+
+For `app.anonky.xyz`, let the Next.js middleware rewrite `/` to the app route internally. Keep `/companies/[ticker]` and `/graph` proxied directly to Next.js.
 
 ## Apache to Nginx Switch Notes
 
@@ -111,14 +128,17 @@ The application code does not need to change for this switch.
 After deployment, verify:
 
 ```bash
-curl -I http://example.com
-curl http://example.com/health
-curl http://example.com/docs
+curl -I https://anonky.xyz
+curl -I https://app.anonky.xyz
+curl -I https://app.anonky.xyz/graph
+curl https://anonky.xyz/health
+curl 'https://anonky.xyz/api/companies?limit=1'
 ```
 
 Also confirm:
 
 - company pages render from the frontend
+- `https://app.anonky.xyz/companies/{ticker}`
 - `/api/companies`
 - `/api/companies/{ticker}`
 - static assets under `/_next/static/` load without 404s
