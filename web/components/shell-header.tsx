@@ -3,10 +3,12 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useLanguage } from "@/components/language-provider";
+import { translateHomepage } from "@/lib/i18n";
 
 export function ShellHeader() {
   const { t, language, switchLanguage } = useLanguage();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const marketOverviewLabel = translateHomepage(language, "marketOverviewTitle");
   const menuButtonLabel =
     language === "zh-Hant"
       ? isMobileMenuOpen
@@ -101,7 +103,15 @@ export function ShellHeader() {
       >
         <div className="min-h-0 overflow-hidden">
           <div className="border-t border-[var(--line)] pt-4">
-            <nav aria-label="Primary">
+            <nav aria-label="Primary" className="grid gap-2">
+              <Link
+                href="/app"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="flex items-center justify-between rounded-2xl border border-[var(--line)] bg-[var(--bg-elevated)] px-4 py-3 text-sm font-semibold text-[var(--text-strong)]"
+              >
+                <span>{marketOverviewLabel}</span>
+                <span className="font-mono text-[var(--accent)]">&gt;</span>
+              </Link>
               <Link
                 href="/app/graph"
                 onClick={() => setIsMobileMenuOpen(false)}
@@ -130,6 +140,9 @@ export function ShellHeader() {
           </Link>
 
           <nav aria-label="Primary" className="topbar-nav pb-1">
+            <Link href="/app" className="topbar-link">
+              {marketOverviewLabel}
+            </Link>
             <Link href="/app/graph" className="topbar-link">
               {t("themesGraph")}
             </Link>

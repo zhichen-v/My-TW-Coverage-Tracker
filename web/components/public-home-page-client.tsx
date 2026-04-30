@@ -256,6 +256,12 @@ export function PublicHomePageClient({
       icon: "companies" as const,
     },
     {
+      id: "sector-groups",
+      label: homeT("sectorGroups"),
+      numericValue: sectors.length,
+      icon: "themes" as const,
+    },
+    {
       id: "wikilinks",
       label: homeT("wikilinks"),
       numericValue: health.latest_import?.wikilink_count,
@@ -266,12 +272,6 @@ export function PublicHomePageClient({
       label: homeT("topSector"),
       value: topSector,
       icon: "sector" as const,
-    },
-    {
-      id: "sector-groups",
-      label: homeT("sectorGroups"),
-      numericValue: sectors.length,
-      icon: "themes" as const,
     },
   ];
 
