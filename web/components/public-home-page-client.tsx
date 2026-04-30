@@ -294,7 +294,7 @@ export function PublicHomePageClient({
             <div className="grid items-stretch gap-5 max-[640px]:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] max-[640px]:gap-2.5">
               <div className="min-w-0">
                 <h1
-                  className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.04] tracking-[0] text-[var(--text-strong)] max-[640px]:text-[1.18rem] max-[640px]:leading-[1.05] min-[390px]:max-[640px]:text-[1.34rem]"
+                  className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.04] tracking-[0] text-[var(--text-strong)] max-[640px]:text-[1.8rem] max-[640px]:leading-[1.6] min-[390px]:max-[640px]:text-[1.8rem]"
                   style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
                 >
                   <span className="block">Discover.</span>
