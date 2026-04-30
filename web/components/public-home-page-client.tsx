@@ -322,20 +322,35 @@ export function PublicHomePageClient({
 
             <div className="grid gap-5 max-[640px]:gap-5" aria-label={homeT("searchSectionAria")}>
               <form
-                className="grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[16px] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[56px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(112px,0.34fr)]"
+                className="homepage-search-form grid min-h-[62px] w-full grid-cols-[auto_minmax(0,1fr)_auto] items-center overflow-hidden rounded-[16px] border border-[var(--line)] bg-[rgba(10,10,10,0.94)] shadow-[var(--shadow-soft)] max-[640px]:min-h-[56px] max-[640px]:grid-cols-[auto_minmax(0,1fr)_minmax(112px,0.34fr)]"
                 onSubmit={submitSearch}
               >
                 <span className="inline-flex w-16 items-center justify-center text-[var(--muted-strong)] max-[640px]:w-[44px] [&_svg]:h-[30px] [&_svg]:w-[30px] [&_svg]:fill-none [&_svg]:stroke-current [&_svg]:stroke-[1.6] max-[640px]:[&_svg]:h-5 max-[640px]:[&_svg]:w-5">
                   <SearchIcon />
                 </span>
-                <input
-                  type="search"
-                  value={query}
-                  onChange={(event) => setQuery(event.target.value)}
-                  placeholder={homeT("searchPlaceholder")}
-                  aria-label={homeT("searchInputAria")}
-                  className="h-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-1.5 max-[640px]:text-[0.68rem] max-[640px]:leading-[1.25]"
-                />
+                <div className="relative h-full min-w-0">
+                  <input
+                    type="search"
+                    value={query}
+                    onChange={(event) => setQuery(event.target.value)}
+                    placeholder={homeT("searchPlaceholder")}
+                    aria-label={homeT("searchInputAria")}
+                    className="h-full w-full min-w-0 border-0 bg-transparent text-base text-[var(--text)] outline-none placeholder:text-[var(--muted)] max-[640px]:pr-1.5 max-[640px]:text-[0.84rem] max-[640px]:leading-[1.25] max-[640px]:placeholder:text-transparent"
+                  />
+                  {!query ? (
+                    <span
+                      className="pointer-events-none absolute inset-y-0 left-0 right-1.5 hidden items-center overflow-hidden text-[0.84rem] leading-[1.25] text-[var(--muted)] max-[640px]:flex"
+                      aria-hidden="true"
+                    >
+                      <span className="homepage-stat-marquee">
+                        <span className="homepage-stat-marquee-track">
+                          <span>{homeT("searchPlaceholder")}</span>
+                          <span aria-hidden="true">{homeT("searchPlaceholder")}</span>
+                        </span>
+                      </span>
+                    </span>
+                  ) : null}
+                </div>
                 <button
                   className="m-2 inline-flex min-w-[165px] items-center justify-center self-stretch whitespace-nowrap rounded-[14px] border border-[var(--accent)] bg-[var(--accent)] px-4 font-mono text-[0.9rem] font-black uppercase tracking-[0.14em] text-[#151515] hover:bg-[var(--surface-active)] hover:text-[var(--accent)] max-[640px]:m-1 max-[640px]:min-w-0 max-[640px]:px-1.5 max-[640px]:text-[0.62rem] max-[640px]:tracking-[0.04em]"
                   type="submit"
@@ -356,7 +371,7 @@ export function PublicHomePageClient({
                   {popularSearches.map((company) => (
                     <Link
                       key={company.report_id}
-                      href={getAppHref("/", `q=${encodeURIComponent(company.ticker)}`)}
+                      href={getAppHref(`/companies/${encodeURIComponent(company.ticker)}`)}
                       title={company.company_name}
                       className="
                         inline-flex min-h-[34px] min-w-[76px] items-center justify-center 
