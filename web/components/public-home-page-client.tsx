@@ -287,26 +287,29 @@ export function PublicHomePageClient({
 
       <main className="flex flex-col gap-5 sm:gap-6">
         <section
-          className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-center gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-6"
+          className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-center gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-5"
           aria-label={homeT("heroSectionAria")}
         >
-          <div className="relative z-[2] grid max-w-[760px] gap-8 pt-6 max-[640px]:gap-6 max-[640px]:pt-3">
-            <div>
-            <h1
-              className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.16] tracking-[-0.07em] text-[var(--text-strong)] max-[640px]:text-[2.0rem] max-[640px]:leading-[1.08] max-[640px]:tracking-[-0.05em]"
-              style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
-            >
-              Discover.
-              <br />
-              Analyze.
-              <br />
-              <span className="whitespace-nowrap max-[640px]:whitespace-normal">
-                Track <span className="text-[var(--accent)]">Taiwan Stocks.</span>
-              </span>
-            </h1>
-            <p className="mt-6 max-w-[700px] text-[clamp(1.05rem,1.45vw,1.34rem)] leading-[1.78] text-[var(--muted-strong)] max-[640px]:mt-4 max-[640px]:max-w-[27ch] max-[640px]:text-[0.9rem] max-[640px]:leading-[1.45]">
-              {homeT("heroDescription")}
-            </p>
+          <div className="relative z-[2] grid max-w-[760px] gap-8 pt-6 max-[640px]:max-w-none max-[640px]:gap-5 max-[640px]:pt-2">
+            <div className="grid items-stretch gap-5 max-[640px]:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] max-[640px]:gap-2.5">
+              <div className="min-w-0">
+                <h1
+                  className="m-0 text-[clamp(2.6rem,4.4vw,4.6rem)] font-black leading-[1.04] tracking-[0] text-[var(--text-strong)] max-[640px]:text-[1.18rem] max-[640px]:leading-[1.05] min-[390px]:max-[640px]:text-[1.34rem]"
+                  style={{ fontFamily: "var(--font-display)", fontWeight: 950 }}
+                >
+                  <span className="block">Discover.</span>
+                  <span className="block">Analyze.</span>
+                  <span className="block">Track.</span>
+                  <span className="block text-[var(--accent)]">Taiwan Stocks.</span>
+                </h1>
+                <p className="mt-6 max-w-[700px] text-[clamp(1.05rem,1.45vw,1.34rem)] leading-[1.78] text-[var(--muted-strong)] max-[640px]:mt-2.5 max-[640px]:max-w-none max-[640px]:text-[0.74rem] max-[640px]:leading-[1.38] min-[390px]:max-[640px]:text-[0.8rem]">
+                  {homeT("heroDescription")}
+                </p>
+              </div>
+              <HomepageCompanyCloud
+                companies={cloudCompanies}
+                className="hidden h-full w-full self-stretch rounded-[32px] [mask-image:radial-gradient(black_22%,transparent_100%)] max-[640px]:block"
+              />
             </div>
 
             <div className="grid gap-5 max-[640px]:gap-5" aria-label={homeT("searchSectionAria")}>
@@ -357,7 +360,7 @@ export function PublicHomePageClient({
             </div>
           </div>
 
-          <div className="relative z-[1] min-w-0">
+          <div className="relative z-[1] min-w-0 max-[640px]:hidden">
             <HomepageCompanyCloud companies={cloudCompanies} />
           </div>
         </section>

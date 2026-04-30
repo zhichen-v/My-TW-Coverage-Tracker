@@ -28,12 +28,26 @@ type ZoomView = [number, number, number];
 const VIEWBOX_SIZE = 1000;
 const OVERVIEW: ZoomView = [500, 500, 1040];
 const TOUR_RANKS = [1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
+const CLOUD_BASE_CLASS =
+  "pointer-events-none relative min-w-0 overflow-hidden [mask-image:radial-gradient(black_25%,transparent_100%)]";
+const CLOUD_DEFAULT_CLASS =
+  "h-[520px] w-[580px] justify-self-end rounded-[96px] max-[1180px]:justify-self-center max-[640px]:h-auto max-[640px]:w-full max-[640px]:aspect-[580/480]";
 
 function getNodeView(node: HomepageCompanyCloudNode): ZoomView {
   return [node.x, node.y, Math.max(80, node.r * 4.8)];
 }
 
-export function HomepageCompanyCloud({ companies }: { companies: HomepageCompanyCloudNode[] }) {
+function cx(...classes: Array<string | undefined>) {
+  return classes.filter(Boolean).join(" ");
+}
+
+export function HomepageCompanyCloud({
+  companies,
+  className,
+}: {
+  companies: HomepageCompanyCloudNode[];
+  className?: string;
+}) {
   const countLabel = companies.length.toLocaleString("en-US");
   const groupRef = useRef<SVGGElement | null>(null);
   const currentViewRef = useRef<ZoomView>(OVERVIEW);
@@ -100,7 +114,7 @@ export function HomepageCompanyCloud({ companies }: { companies: HomepageCompany
   }, [tourNodes]);
 
   return (
-    <div className="pointer-events-none relative w-[580px] h-[480px] justify-self-end overflow-hidden max-[1180px]:justify-self-center max-[640px]:w-full max-[640px]:h-auto max-[640px]:aspect-[580/480] /* 新增內容 */ rounded-[96px] [mask-image:radial-gradient(black_25%,transparent_100%)]">
+    <div className={cx(CLOUD_BASE_CLASS, className ?? CLOUD_DEFAULT_CLASS)}>
       <svg
         viewBox={`0 0 ${VIEWBOX_SIZE} ${VIEWBOX_SIZE}`}
         preserveAspectRatio="xMidYMid meet"
