@@ -295,10 +295,10 @@ export function PublicHomePageClient({
 
       <main className="flex flex-col gap-5 sm:gap-6">
         <section
-          className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-center gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-5"
+          className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-stretch gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-5"
           aria-label={homeT("heroSectionAria")}
         >
-          <div className="relative z-[2] grid max-w-[760px] gap-8 pt-6 max-[640px]:max-w-none max-[640px]:gap-5 max-[640px]:pt-2">
+          <section className="relative z-[2] flex min-h-[560px] max-w-[760px] flex-col justify-center gap-8 py-6 max-[1280px]:min-h-[520px] max-[640px]:min-h-0 max-[640px]:max-w-none max-[640px]:gap-5 max-[640px]:py-2">
             <div className="grid items-stretch gap-5 max-[640px]:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] max-[640px]:gap-2.5">
               <div className="min-w-0">
                 <h1
@@ -391,10 +391,13 @@ export function PublicHomePageClient({
                 </div>
               </div>
             </div>
-          </div>
+          </section>
 
-          <div className="relative z-[1] min-w-0 max-[640px]:hidden">
-            <HomepageCompanyCloud companies={cloudCompanies} />
+          <div className="relative z-[1] flex min-h-[560px] min-w-0 items-center max-[1280px]:min-h-[520px] max-[640px]:hidden">
+            <HomepageCompanyCloud
+              companies={cloudCompanies}
+              className="h-full min-h-[560px] w-full justify-self-end rounded-[96px] max-[1280px]:min-h-[520px] max-[1280px]:justify-self-center"
+            />
           </div>
         </section>
 
