@@ -298,7 +298,7 @@ export function PublicHomePageClient({
           className="relative grid min-h-[560px] grid-cols-[minmax(0,1fr)_minmax(520px,640px)] items-stretch gap-8 max-[1280px]:min-h-0 max-[1280px]:grid-cols-1 max-[640px]:gap-5"
           aria-label={homeT("heroSectionAria")}
         >
-          <section className="relative z-[2] flex min-h-[560px] max-w-[760px] flex-col justify-center gap-8 py-6 max-[1280px]:min-h-[520px] max-[640px]:min-h-0 max-[640px]:max-w-none max-[640px]:gap-5 max-[640px]:py-2">
+          <section className="relative z-[2] flex min-h-[560px] max-w-[760px] flex-col justify-between gap-8 py-6 max-[1280px]:min-h-[520px] max-[640px]:min-h-0 max-[640px]:max-w-none max-[640px]:gap-5 max-[640px]:py-2">
             <div className="grid items-stretch gap-5 max-[640px]:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] max-[640px]:gap-2.5">
               <div className="min-w-0">
                 <h1
