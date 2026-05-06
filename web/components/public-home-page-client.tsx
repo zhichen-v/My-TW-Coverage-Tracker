@@ -361,28 +361,27 @@ export function PublicHomePageClient({
               </form>
 
               <div
-                className="flex flex-wrap items-center gap-[18px] max-[640px]:flex-col max-[640px]:items-start max-[640px]:gap-4"
+                className="grid grid-cols-[auto_minmax(0,1fr)] items-center gap-[18px] max-[640px]:gap-3"
                 aria-label={homeT("popularSearches")}
               >
-                <span className="m-0 font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.78rem] max-[640px]:tracking-[0.2em]">
+                <span className="m-0 whitespace-nowrap font-mono text-[0.88rem] font-extrabold uppercase tracking-[0.14em] text-[var(--text-strong)] max-[640px]:text-[0.78rem] max-[640px]:tracking-[0.12em]">
                   {homeT("popularSearches")}
                 </span>
-                <div className="flex flex-wrap gap-3 w-full max-[640px]:flex-nowrap max-[640px]:gap-1.5">
+                <div className="flex min-w-0 flex-nowrap gap-3 overflow-x-auto max-[640px]:gap-1.5">
                   {popularSearches.map((company) => (
                     <Link
                       key={company.report_id}
                       href={getAppHref(`/companies/${encodeURIComponent(company.ticker)}`)}
                       title={company.company_name}
                       className="
-                        inline-flex min-h-[34px] min-w-[76px] items-center justify-center 
+                        inline-flex min-h-[34px] min-w-[76px] shrink-0 items-center justify-center 
                         rounded-full border border-[var(--line-strong)] bg-[rgba(16,16,0,0.34)] px-5 
                         font-mono text-[0.78rem] font-black uppercase tracking-[0.08em] text-[var(--accent)] 
                         hover:border-[var(--accent)] hover:bg-[rgba(250,255,105,0.1)] 
                         
-                        max-[640px]:flex-1 
                         max-[640px]:min-h-[34px] 
-                        max-[640px]:min-w-0 
-                        max-[640px]:px-0 
+                        max-[640px]:min-w-[58px] 
+                        max-[640px]:px-2 
                         max-[640px]:text-[0.84rem]
                       "
                     >
